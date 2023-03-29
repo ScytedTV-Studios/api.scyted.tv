@@ -31,7 +31,7 @@
 
 <!-- SEASON 01 -->
 
-<!-- Trailer -->
+<!-- Season 01, Trailer -->
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
@@ -39,7 +39,7 @@
       <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/trailer.mp3" type="audio/mp3" length="132" />
       <itunes:duration>02:12</itunes:duration>
-      <guid isPermaLink="false">s01e01-trailer</guid>
+      <guid isPermaLink="false">s01trailer</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode></itunes:episode>
@@ -47,7 +47,7 @@
       <description></description>
     </item>
 
-<!-- Episode 01 -->
+<!-- Season 01, Episode 01 -->
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
@@ -55,7 +55,23 @@
       <pubDate>Mon, 6 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-01.mp3" type="audio/mp3" length="569" />
       <itunes:duration>09:29</itunes:duration>
-      <guid isPermaLink="false">s01e01-trailer</guid>
+      <guid isPermaLink="false">s01e01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description></description>
+    </item>
+
+<!-- Season 01, Episode 02 -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Who is Jacksepticeye's favourite Pokémon?</title>
+      <pubDate>Mon, 13 Feb 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-02.mp3" type="audio/mp3" length="569" />
+      <itunes:duration>06:18</itunes:duration>
+      <guid isPermaLink="false">s01e02</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
