@@ -39,7 +39,7 @@
       <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/trailer.mp3" type="audio/mp3" length="128" />
       <itunes:duration>02:08</itunes:duration>
-      <guid isPermaLink="false">s01trailer</guid>
+      <guid isPermaLink="false">YTGS01TRAILER</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode></itunes:episode>
@@ -48,7 +48,7 @@
       <itunes:image href="https://podcasts.scyted.tv/pod/show/youtube-gameshow/img/youtube-gameshow-s01.jpg" />
     </item>
 
-Season 01, Episode 01
+<!-- Season 01, Episode 01 -->
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
@@ -56,7 +56,7 @@ Season 01, Episode 01
       <pubDate>Mon, 6 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/episode-01.mp3" type="audio/mp3" length="559" />
       <itunes:duration>09:19</itunes:duration>
-      <guid isPermaLink="false">s01e01</guid>
+      <guid isPermaLink="false">YTGS01E01</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -73,7 +73,7 @@ Season 01, Episode 01
       <pubDate>Mon, 13 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/episode-02.mp3" type="audio/mp3" length="370" />
       <itunes:duration>06:10</itunes:duration>
-      <guid isPermaLink="false">s01e02</guid>
+      <guid isPermaLink="false">YTGS01E02</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
@@ -90,7 +90,7 @@ Season 01, Episode 01
       <pubDate>Mon, 20 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/episode-03.mp3" type="audio/mp3" length="507" />
       <itunes:duration>08:27</itunes:duration>
-      <guid isPermaLink="false">s01e03</guid>
+      <guid isPermaLink="false">YTGS01E03</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
@@ -107,7 +107,7 @@ Season 01, Episode 01
       <pubDate>Tue, 28 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/episode-04.mp3" type="audio/mp3" length="468" />
       <itunes:duration>07:48</itunes:duration>
-      <guid isPermaLink="false">s01e04</guid>
+      <guid isPermaLink="false">YTGS01E04</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
@@ -124,7 +124,7 @@ Season 01, Episode 01
       <pubDate>Mon, 13 Mar 2023 11:00:00 MST</pubDate>
       <enclosure url="https://podcasts.scyted.tv/pod/show/youtube-gameshow/audio/season-01/episode-05.mp3" type="audio/mp3" length="529" />
       <itunes:duration>08:49</itunes:duration>
-      <guid isPermaLink="false">s01e05</guid>
+      <guid isPermaLink="false">YTGS01E05</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
