@@ -21,13 +21,14 @@
     </itunes:owner>
     <itunes:keywords>YouTube Gameshow</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <description>YouTube Gameshow is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
     <googleplay:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/youtube-gameshow.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/pod/youtube-gameshow/feed.xml</link>
     <itunes:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/youtube-gameshow.jpg" />
+
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
@@ -37,28 +38,11 @@
       <itunes:duration>02:12</itunes:duration>
       <guid isPermaLink="false">s01e01-trailer</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
-        </description>
+      <itunes:season>1</itues:season>
+      <itunes:episode></itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description></description>
     </item>
+    
   </channel>
 </rss>
