@@ -69,7 +69,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Who is Jacksepticeye's favourite Pokémon?</title>
       <pubDate>Mon, 13 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-02.mp3" type="audio/mp3" length="569" />
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-02.mp3" type="audio/mp3" length="378" />
       <itunes:duration>06:18</itunes:duration>
       <guid isPermaLink="false">s01e02</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -85,12 +85,44 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Who is Jacksepticeye's favourite Pokémon?</title>
       <pubDate>Mon, 20 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-03.mp3" type="audio/mp3" length="569" />
-      <itunes:duration>06:18</itunes:duration>
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-03.mp3" type="audio/mp3" length="518" />
+      <itunes:duration>08:38</itunes:duration>
       <guid isPermaLink="false">s01e03</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description></description>
+    </item>
+
+<!-- Season 01, Episode 04 -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Which of Jacksepticeye's Happy Wheels videos has the title "Human Yo-yo"?</title>
+      <pubDate>Tue, 28 Feb 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-04.mp3" type="audio/mp3" length="478" />
+      <itunes:duration>07:58</itunes:duration>
+      <guid isPermaLink="false">s01e04</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description></description>
+    </item>
+
+<!-- Season 01, Episode 05 -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Jack Daddy Returns?</title>
+      <pubDate>Mon, 13 Mar 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-05.mp3" type="audio/mp3" length="536" />
+      <itunes:duration>08:56</itunes:duration>
+      <guid isPermaLink="false">s01e05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description></description>
     </item>
