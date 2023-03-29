@@ -74,7 +74,23 @@
       <guid isPermaLink="false">s01e02</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description></description>
+    </item>
+
+<!-- Season 01, Episode 03 -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Who is Jacksepticeye's favourite Pokémon?</title>
+      <pubDate>Mon, 20 Feb 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://podcasts.scyted.tv/pod/ytg/audio/season-01/episode-03.mp3" type="audio/mp3" length="569" />
+      <itunes:duration>06:18</itunes:duration>
+      <guid isPermaLink="false">s01e03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description></description>
     </item>
