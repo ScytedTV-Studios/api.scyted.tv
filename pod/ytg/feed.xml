@@ -31,7 +31,7 @@
     <link>https://podcasts.scyted.tv/pod/youtube-gameshow/feed.xml</link>
     <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow.jpg" />
 
-<!-- SEASON 01
+SEASON 01
 
 <!-- Season 01, Trailer -->
     <item>
@@ -51,7 +51,7 @@
       <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
-<!-- Season 01, Episode 01 -->
+<!-- Season 01, Episode 01
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
