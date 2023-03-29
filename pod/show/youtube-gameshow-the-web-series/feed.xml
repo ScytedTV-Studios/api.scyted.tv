@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>YouTube Gameshow</title>
+    <title>YouTube Gameshow: The Web Series</title>
     <copyright>&#xA9; 2023 ScytedTV Studios</copyright>
     <itunes:type>serial</itunes:type>
     <googleplay:author>Rose O'sullivan</googleplay:author>
@@ -14,16 +14,16 @@
     <itunes:category text="Technology" />
     <image>
       <url>https://podcasts.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg</url>
-      <title>YouTube Gameshow</title>
+      <title>YouTube Gameshow: The Web Series</title>
       <link>https://www.scyted.tv/show/youtube-gameshow-the-web-series/</link>
     </image>
     <itunes:owner>
       <itunes:name>ScytedTV Studios</itunes:name>
       <itunes:email>podcasts@scyted.tv</itunes:email>
     </itunes:owner>
-    <itunes:keywords>YouTube Gameshow</itunes:keywords>
+    <itunes:keywords>YouTube Gameshow: The Web Series</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
-    <description>YouTube Gameshow is a web-series focused on the subscriber knowledge of popular YouTubers. Directed and Producted by ScytedTV Studios.</description>
+    <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers. Directed and Producted by ScytedTV Studios.</description>
     <googleplay:image href="https://podcasts.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
@@ -44,7 +44,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode></itunes:episode>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <description>YouTube Gameshow is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
+      <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
       <itunes:image href="https://podcasts.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" />
     </item>
 
