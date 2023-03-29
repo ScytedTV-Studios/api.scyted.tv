@@ -31,7 +31,7 @@
     <link>https://podcasts.scyted.tv/pod/youtube-gameshow/feed.xml</link>
     <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow.jpg" />
 
-<!-- SEASON 01 -->
+<!-- SEASON 01
 
 <!-- Season 01, Trailer -->
     <item>
@@ -139,7 +139,7 @@
       <description>Katie, Lennox, Cheyenne, and Connor have been invited to the finale to fight for the winning spot on YouTube Gameshow Season 1.</description>
       <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
       <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
-    </item>
+    </item> -->
 
   </channel>
 </rss>
