@@ -47,6 +47,8 @@
       <itunes:episode></itunes:episode>
       <itunes:episodeType>trailer</itunes:episodeType>
       <description></description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
 <!-- Season 01, Episode 01 -->
@@ -62,7 +64,9 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description></description>
+      <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
 <!-- Season 01, Episode 02 -->
@@ -78,7 +82,9 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description></description>
+      <description>Corey, Lennox, Fruity, and Rose are the second to compete in YouTube Gameshow.</description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
 <!-- Season 01, Episode 03 -->
@@ -94,7 +100,9 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description></description>
+      <description>Cheyenne, Zay, Niall, and Lily are the third to compete in YouTube Gameshow.</description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
 <!-- Season 01, Episode 04 -->
@@ -110,7 +118,9 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description></description>
+      <description>Annabelle, Jela, Katie, and Connor are the fourth to compete in YouTube Gameshow.</description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
 <!-- Season 01, Episode 05 -->
@@ -126,7 +136,9 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description></description>
+      <description>Katie, Lennox, Cheyenne, and Connor have been invited to the finale to fight for the winning spot on YouTube Gameshow Season 1.</description>
+      <itunes:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
+      <googleplay:image href="https://podcasts.scyted.tv/pod/ytg/img/youtube-gameshow-s01.jpg" />
     </item>
 
   </channel>
