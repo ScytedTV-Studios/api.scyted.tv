@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YouTube Gameshow</title>
+    <googleplay:author>Rose O'sullivan</googleplay:author>
+    <rawvoice:rating>TV-PG</rawvoice:rating>
+    <rawvoice:location>Ireland</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Rose O'sullivan</author>
+    <itunes:author>Rose O'sullivan</itunes:author>
+    <itunes:email>podcasts@scyted.tv</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg</url>
+      <title>YouTube Gameshow</title>
+      <link>https://www.scyted.tv/show/youtube-gameshow/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Rose O'sullivan</itunes:name>
+      <itunes:email>podcasts@scyted.tv</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <copyright>ScytedTV Studios</copyright>
+    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <googleplay:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
+    <link>https://podcasts.scyted.tv/pod/youtube-gameshow/feed.xml</link>
+    <itunes:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg" />
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Norbert Kozsir - @norbertkozsir
+
+https://twitter.com/norbertkozsir
+
+https://github.com/norbert515
+
+
+Rody Davis - @rodydavis
+
+https://twitter.com/rodydavis
+
+https://github.com/rodydavis
+
+https://youtube.com/rodydavis
+
+https://rodydavis.com
+
+Our podcast player: 
+
+https://rodydavis.github.io/podcast-player/
+        </description>
+    </item>
+  </channel>
+</rss>
