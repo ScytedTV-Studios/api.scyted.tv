@@ -11,7 +11,7 @@
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg</url>
+      <url>https://podcasts.scyted.tv/pod/youtube-gameshow/img/youtube-gameshow.jpg</url>
       <title>YouTube Gameshow</title>
       <link>https://www.scyted.tv/show/youtube-gameshow/</link>
     </image>
@@ -22,12 +22,12 @@
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
     <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg" />
+    <googleplay:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/youtube-gameshow.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/pod/youtube-gameshow/feed.xml</link>
-    <itunes:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/icon.jpg" />
+    <itunes:image href="https://podcasts.scyted.tv/pod/youtube-gameshow/img/youtube-gameshow.jpg" />
     <item>
       <author>Rose O'sullivan</author>
       <itunes:author>Rose O'sullivan</itunes:author>
