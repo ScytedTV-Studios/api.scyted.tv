@@ -33,9 +33,9 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Flutter Desktop/Web and VR</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <enclosure url="https://rodydavis.github.io/pod/youtube-gameshow/audio/S01E01-Trailer.mp3" type="audio/mpeg" length="132" />
+      <itunes:duration>02:12</itunes:duration>
+      <guid isPermaLink="false">s01e01-trailer</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 Norbert Kozsir - @norbertkozsir
