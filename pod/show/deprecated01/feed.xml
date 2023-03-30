@@ -13,7 +13,7 @@
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://podcasts.scyted.tv/pod/show/deprecated01/img/deprecated.jpg</url>
+      <url>https://cdn.scyted.tv/pod/show/deprecated01/img/deprecated.jpg</url>
       <title>Deprecated</title>
       <link>https://podcasts.scyted.tv/</link>
     </image>
@@ -24,12 +24,12 @@
     <itunes:keywords>Deprecated</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
     <description>This podcast is currently in the process of getting removed from Spotify.</description>
-    <googleplay:image href="https://podcasts.scyted.tv/pod/show/deprecated01/deprecated.jpg" />
+    <googleplay:image href="https://cdn.scyted.tv/pod/show/deprecated01/deprecated.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/pod/show/deprecated01/feed.xml</link>
-    <itunes:image href="https://podcasts.scyted.tv/pod/show/deprecated01/img/deprecated.jpg" /> 
+    <itunes:image href="https://cdn.scyted.tv/pod/show/deprecated01/img/deprecated.jpg" /> 
 
 <!-- Deprecated Audio -->
     <item>
@@ -37,7 +37,7 @@
       <itunes:author>ScytedTV Studios</itunes:author>
       <title>Deprecation</title>
       <pubDate>Wed, 29 Mar 2023 16:00:00 MST</pubDate>
-      <enclosure url="https://podcasts.scyted.tv/pod/show/deprecated01/audio/deprecated.mp3" type="audio/mp3" length="27" />
+      <enclosure url="https://cdn.scyted.tv/pod/show/deprecated01/audio/deprecated.mp3" type="audio/mp3" length="27" />
       <itunes:duration>00:27</itunes:duration>
       <guid isPermaLink="false">s01trailer</guid>
       <itunes:explicit>no</itunes:explicit>
