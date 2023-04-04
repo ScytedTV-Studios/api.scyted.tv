@@ -56,7 +56,7 @@
       <pubDate>Mon, 6 Feb 2023 11:00:00 MST</pubDate>
       <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
       <itunes:duration>09:38</itunes:duration>
-      <guid isPermaLink="false">YTGS01E01</guid>
+      <guid isPermaLink="false">S01E01</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
@@ -64,7 +64,10 @@
       <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+<!-- SEASON 01 -->
+<div>
 
+<div>
 <!-- Season 01, Episode 02 -->
     <item>
       <author>Rose O'sullivan</author>
@@ -81,7 +84,9 @@
       <description>Corey, Lennox, Fruity, and Rose are the second to compete in YouTube Gameshow.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+</div>
 
+<div>
 <!-- Season 01, Episode 03 -->
     <item>
       <author>Rose O'sullivan</author>
@@ -98,7 +103,9 @@
       <description>Cheyenne, Zay, Niall, and Lily are the third to compete in YouTube Gameshow.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+</div>
 
+<div>
 <!-- Season 01, Episode 04 -->
     <item>
       <author>Rose O'sullivan</author>
@@ -115,7 +122,9 @@
       <description>Annabelle, Jela, Katie, and Connor are the fourth to compete in YouTube Gameshow.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+</div>
 
+<div>
 <!-- Season 01, Episode 05 -->
     <item>
       <author>Rose O'sullivan</author>
@@ -132,6 +141,9 @@
       <description>Katie, Lennox, Cheyenne, and Connor have been invited to the finale to fight for the winning spot on YouTube Gameshow Season 1.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+</div>
+
+</div>
 
   </channel>
 </rss>
