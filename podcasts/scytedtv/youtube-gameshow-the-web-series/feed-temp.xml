@@ -31,6 +31,10 @@
     <link>https://podcasts.scyted.tv/pod/youtube-gameshow-the-web-series/feed.xml</link>
     <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
 
+<!-- SEASON 01 -->
+<div>
+
+<div>
 <!-- Season 01, Trailer -->
     <item>
       <author>Rose O'sullivan</author>
@@ -47,7 +51,9 @@
       <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
+</div>
 
+<div>
 <!-- Season 01, Episode 01 -->
     <item>
       <author>Rose O'sullivan</author>
@@ -64,8 +70,7 @@
       <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
       <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
-<!-- SEASON 01 -->
-<div>
+</div>
 
 <div>
 <!-- Season 01, Episode 02 -->
