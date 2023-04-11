@@ -2,7 +2,11 @@
 	"items": [
 		{
 			"name": "@LoydOsborne",
-			"description": "Founder and CEO of ScytedTV Studios"
+			"link": "Founder and CEO of ScytedTV Studios"
+		},
+		{
+			"name": "",
+			"link": ""
 		}
 	]
 }
