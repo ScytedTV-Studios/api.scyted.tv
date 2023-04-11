@@ -1,1 +1,5 @@
-userinfo = '[{"name" : "Loyd Osborne"}]';
+[
+    {
+        "name": "Loyd Osborne"
+    }
+]
