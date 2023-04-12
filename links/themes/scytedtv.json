@@ -4,7 +4,7 @@
 			"bodybgcolour": "#000000",
 			"pfpbgcolour": "#CCC",
             "googlefont": "Rubik",
-            "googlefontlink": "",
+            "googlefontlink": "https://fonts.googleapis.com/css?family=Rubik&display=swap",
             "boldtextcolour": "#FFEA00",
             "normaltextcolour": "#FFFFFF",
             "boxcolour": "#191919",

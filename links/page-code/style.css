@@ -1,0 +1,94 @@
+/* Reset default browser styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set body background color */
+body {
+    background-color: var(--bodybgcolour);
+}
+
+/* Style header section */
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: var(--pfpbgcolour);
+    margin-bottom: 10px;
+    background-image: var(--profilepic);
+    background-size: cover;
+    background-position: center;
+}
+
+h1,
+h2,
+.link-box {
+    font-family: 'var(--googlefont)', sans-serif;
+    color: var(--boldtextcolour);
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Style links section */
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin: 20px;
+}
+
+.link-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+    background-color: var(--boxcolour);
+    border-radius: 10px;
+    text-align: center;
+    transition: background-color 0.2s ease;
+}
+
+.link-box:hover {
+    background-color: var(--boxhovercolour);
+}
+
+.link-icon {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'var(--googlefont)', sans-serif;
+    color: var(--normaltextcolour);
+}
+
+a {
+    text-decoration: none;
+}
+
+title {
+    display: "test";
+  }
