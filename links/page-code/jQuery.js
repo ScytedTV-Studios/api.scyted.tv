@@ -1,0 +1,1 @@
+$("#DivContent").load("yourFile.html");
