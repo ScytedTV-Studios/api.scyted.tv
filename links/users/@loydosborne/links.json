@@ -1,6 +1,10 @@
 {
 	"items": [
 		{
+			"name": "YouTube",
+			"link": "https://www.youtube.com/channel/UC8rIlEFaGZaD3ra154nTYcg/"
+		},
+		{
 			"name": "Twitter",
 			"link": "https://twitter.com/loydosbornestv"
 		}
