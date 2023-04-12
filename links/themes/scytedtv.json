@@ -1,0 +1,14 @@
+{
+	"items": [
+		{
+			"bodybgcolour": "#000000",
+			"pfpbgcolour": "#CCC",
+            "googlefont": "Rubik",
+            "googlefontlink": "",
+            "boldtextcolour": "#FFEA00",
+            "normaltextcolour": "#FFFFFF",
+            "boxcolour": "#191919",
+            "boxhovercolour": "#2a2a2a"
+		}
+	]
+}
