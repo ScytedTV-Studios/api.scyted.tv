@@ -56,25 +56,6 @@ window.addEventListener('load', () => {
 });
 
 window.addEventListener('load', () => {
-    const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            const items = data.items;
-            const displayDiv = document.getElementById('pagetitle');
-            displayDiv.innerHTML = '';
-            for (let i = 0; i < items.length; i++) {
-                const item = items[i];
-                const name = item.name;
-                const itemDiv = document.createElement('div');
-                itemDiv.innerHTML = `${name}`;
-                displayDiv.appendChild(itemDiv);
-            }
-        })
-        .catch(error => console.error(error));
-});
-
-window.addEventListener('load', () => {
     const url = `https://api.scyted.tv/links/users/${username}/links.json`;
     fetch(url)
         .then(response => response.json())
