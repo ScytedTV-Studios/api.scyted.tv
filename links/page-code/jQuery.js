@@ -1,1 +1,0 @@
-$("#DivContent").load("https://api.scyted.tv/links/page-code/index.html");
