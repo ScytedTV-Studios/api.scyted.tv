@@ -1,39 +1,6 @@
-// Username
+// Important Consts
 const username = "@loydosborne"
-
-// Background Colours
-const bodybgcolour = "#000000"
-const pfpbgcolour = "#CCC"
-
-// Font (Google)
-const googlefont = "Rubik"
-
-// Text Colours
-const boldtextcolour = "#FFEA00"
-const normaltextcolour = "#FFFFFF"
-
-// Box Colours
-const boxcolour = "#191919"
-const boxhovercolour = "#2a2a2a"
-
-function addStyle(styleString) {
-    const style = document.createElement("style");
-    style.textContent = styleString;
-    document.head.append(style);
-}
-
-addStyle(`
-    :root {
-      --profilepic: url("https://api.scyted.tv/links/users/${username}/profile-picture.png");
-      --bodybgcolour: ${bodybgcolour};
-      --pfpbgcolour: ${pfpbgcolour};
-      --googlefont: ${googlefont};
-      --boldtextcolour: ${boldtextcolour};
-      --normaltextcolour: ${normaltextcolour};
-      --boxcolour: ${boxcolour};
-      --boxhovercolour: ${boxhovercolour};
-    }
-  `);
+const theme = "stv/default"
 
 window.addEventListener('load', () => {
     const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
@@ -84,3 +51,89 @@ window.addEventListener('load', () => {
         })
         .catch(error => console.error(error));
 });
+
+window.addEventListener('load', () => {
+    const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const items = data.items;
+            const displayDiv = document.getElementById('pagetitle');
+            displayDiv.innerHTML = '';
+            for (let i = 0; i < items.length; i++) {
+                const item = items[i];
+                const name = item.name;
+                const itemDiv = document.createElement('div');
+                itemDiv.innerHTML = `<title>${name}</title>`;
+                displayDiv.appendChild(itemDiv);
+            }
+        })
+        .catch(error => console.error(error));
+});
+
+////////////////
+//   THEMES   //
+////////////////
+
+window.addEventListener('load', () => {
+    const url = `https://api.scyted.tv/links/themes/${theme}.json`;
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const items = data.items;
+            const displayDiv = document.getElementById('themes');
+            displayDiv.innerHTML = '';
+            for (let i = 0; i < items.length; i++) {
+                const item = items[i];
+
+                const bodybgcolour = item.bodybgcolour;
+                const pfpbgcolour = item.pfpbgcolour;
+                const googlefont = item.googlefont;
+                const googlefontlink = item.googlefontlink;
+                const boldtextcolour = item.boldtextcolour;
+                const normaltextcolour = item.normaltextcolour;
+                const boxcolour = item.boxcolour;
+                const boxhovercolour = item.boxhovercolour;
+
+                function addStyle(styleString) {
+                    const style = document.createElement("style");
+                    style.textContent = styleString;
+                    document.head.append(style);
+                }
+
+                addStyle(`
+                    :root {
+                      --profilepic: url("https://api.scyted.tv/links/users/${username}/profile-picture.png");
+                      --bodybgcolour: ${bodybgcolour};
+                      --pfpbgcolour: ${pfpbgcolour};
+                      --googlefont: ${googlefont};
+                      --boldtextcolour: ${boldtextcolour};
+                      --normaltextcolour: ${normaltextcolour};
+                      --boxcolour: ${boxcolour};
+                      --boxhovercolour: ${boxhovercolour};
+                    }
+                  `);
+
+            }
+        })
+        .catch(error => console.error(error));
+});
+
+function addStyle(styleString) {
+    const style = document.createElement("style");
+    style.textContent = styleString;
+    document.head.append(style);
+}
+
+addStyle(`
+    :root {
+      --profilepic: url("https://api.scyted.tv/links/users/${username}/profile-picture.png");
+      --bodybgcolour: ${bodybgcolour};
+      --pfpbgcolour: ${pfpbgcolour};
+      --googlefont: ${googlefont};
+      --boldtextcolour: ${boldtextcolour};
+      --normaltextcolour: ${normaltextcolour};
+      --boxcolour: ${boxcolour};
+      --boxhovercolour: ${boxhovercolour};
+    }
+  `);
