@@ -144,7 +144,7 @@ window.addEventListener('load', () => {
 ////////////////////////////
 
 const nav = document.querySelector('.navbar')
-fetch('/index.html')
+fetch('https://api.scyted.tv/links/page-code/index.html')
 .then(res=>res.text())
 .then(data=>{
     nav.innerHTML=data
