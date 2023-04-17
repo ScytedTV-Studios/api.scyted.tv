@@ -13,7 +13,7 @@
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg</url>
+      <url>https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg</url>
       <title>YouTube Gameshow: The Web Series</title>
       <link>https://www.scyted.tv/show/youtube-gameshow-the-web-series/</link>
     </image>
@@ -24,12 +24,12 @@
     <itunes:keywords>YouTube Gameshow: The Web Series</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
     <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers. Directed and Producted by ScytedTV Studios.</description>
-    <googleplay:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" />
+    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
-    <link>https://podcasts.scyted.tv/pod/youtube-gameshow-the-web-series/feed.xml</link>
-    <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
+    <link>https://podcasts.scyted.tv/assets/scytedtv/youtube-gameshow-the-web-series/feed.xml</link>
+    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
 
 <!-- SEASON 01 -->
 <div>
@@ -41,7 +41,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>YouTube Gameshow: Season 01 (Trailer)</title>
       <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/trailer.mp3" type="audio/mp3" length="128" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/trailer.mp3" type="audio/mp3" length="128" />
       <itunes:duration>02:08</itunes:duration>
       <guid isPermaLink="false">S01TRAILER</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -49,7 +49,7 @@
       <itunes:episode></itunes:episode>
       <itunes:episodeType>trailer</itunes:episodeType>
       <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
@@ -60,7 +60,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Who is Jacksepticeye's favourite South Park character?</title>
       <pubDate>Mon, 6 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
       <itunes:duration>09:38</itunes:duration>
       <guid isPermaLink="false">S01E01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -68,7 +68,7 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
@@ -79,7 +79,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Who is Jacksepticeye's favourite Pokémon?</title>
       <pubDate>Mon, 13 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-02.mp3" type="audio/mp3" length="370" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-02.mp3" type="audio/mp3" length="370" />
       <itunes:duration>06:10</itunes:duration>
       <guid isPermaLink="false">S01E02</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -87,7 +87,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Corey, Lennox, Fruity, and Rose are the second to compete in YouTube Gameshow.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
@@ -98,7 +98,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>What accent did Jacksepticeye give "Sugar Plumps"?</title>
       <pubDate>Mon, 20 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-03.mp3" type="audio/mp3" length="507" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-03.mp3" type="audio/mp3" length="507" />
       <itunes:duration>08:27</itunes:duration>
       <guid isPermaLink="false">S01E03</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -106,7 +106,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Cheyenne, Zay, Niall, and Lily are the third to compete in YouTube Gameshow.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
@@ -117,7 +117,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Which of Jacksepticeye's Happy Wheels videos has the title "Human Yo-yo"?</title>
       <pubDate>Tue, 28 Feb 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-04.mp3" type="audio/mp3" length="468" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-04.mp3" type="audio/mp3" length="468" />
       <itunes:duration>07:48</itunes:duration>
       <guid isPermaLink="false">S01E04</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -125,7 +125,7 @@
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Annabelle, Jela, Katie, and Connor are the fourth to compete in YouTube Gameshow.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
@@ -136,7 +136,7 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Jack Daddy Returns?</title>
       <pubDate>Mon, 13 Mar 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/audio/season-01/episode-05.mp3" type="audio/mp3" length="529" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-05.mp3" type="audio/mp3" length="529" />
       <itunes:duration>08:49</itunes:duration>
       <guid isPermaLink="false">S01E05</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -144,7 +144,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Katie, Lennox, Cheyenne, and Connor have been invited to the finale to fight for the winning spot on YouTube Gameshow Season 1.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/pod/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 </div>
 
