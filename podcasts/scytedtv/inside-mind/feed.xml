@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Loyd's Notebook</title>
+    <title>Inside Mind</title>
     <copyright>&#xA9; 2023 ScytedTV Studios</copyright>
-    <itunes:type>serial</itunes:type>
+    <itunes:type>episodic</itunes:type>
     <googleplay:author>Loyd Osborne</googleplay:author>
-    <rawvoice:rating>TV-13</rawvoice:rating>
+    <rawvoice:rating>TV-MA</rawvoice:rating>
     <rawvoice:location>Canada</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <rawvoice:frequency>Infrequent</rawvoice:frequency>
+    <rawvoice:poster url=”https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg” />
     <author>Loyd Osborne</author>
     <itunes:author>Loyd Osborne</itunes:author>
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Documentary" />
     <image>
-      <url>https://cdn.scyted.tv/assets/scytedtv/show/loyds-notebook/img/logo.jpg</url>
-      <title>Loyd's Notebook</title>
-      <link>https://www.scyted.tv/show/loyds-notebook/</link>
+      <url>https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg</url>
+      <title>Inside Mind</title>
+      <link>https://www.scyted.tv/show/inside-mind/</link>
     </image>
     <itunes:owner>
       <itunes:name>ScytedTV Studios</itunes:name>
       <itunes:email>podcasts@scyted.tv</itunes:email>
     </itunes:owner>
-    <itunes:keywords>Loyd's Notebook</itunes:keywords>
+    <itunes:keywords>Inside Mind</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
-    <description>Loyd's Notebook is an infrequent podcast where Loyd Osborne shares his troubles with the world in an often-times sad story.</description>
-    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/loyds-notebook/img/logo.jpg" />
-    <language>en-us</language>
+    <description>Inside Mind is an infrequent podcast where Loyd Osborne shares his troubles with the world in an often-times sad story.</description>
+    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg" />
+    <language>en-ca</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
-    <link>https://podcasts.scyted.tv/assets/scytedtv/youtube-gameshow-the-web-series/feed.xml</link>
-    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/loyds-notebook/img/logo.jpg" /> 
+    <link>https://podcasts.scyted.tv/assets/scytedtv/inside-mind/feed.xml</link>
+    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg" /> 
 
 <!-- SEASON 01 -->
 <div>
@@ -41,15 +42,15 @@
       <itunes:author>Loyd Osborne</itunes:author>
       <title>I need a break.</title>
       <pubDate>Tue, 25 Apr 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/loyds-notebook/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
       <itunes:duration>09:38</itunes:duration>
       <guid isPermaLink="false">S01E01</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
-      <description>Recently, Loyd has been struggling a lot with his mental health. In this pilot episode of Loyd's Notebook, Loyd shares the sad story of losing a friend due to his own repeated mistakes.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+      <description>Recently, Loyd has been struggling a lot with his mental health. In this pilot episode of Inside Mind, Loyd shares the sad story of losing a friend due to his own repeated mistakes.</description>
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-01.jpg" />
     </item>
 </div>
 
