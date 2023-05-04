@@ -1,6 +1,6 @@
 // Important Consts
 // const username = "@loydosborne"
-const theme = "stv/default"
+// const theme = "stv/mono"
 
 window.addEventListener('load', () => {
     const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
@@ -65,6 +65,7 @@ window.addEventListener('load', () => {
             for (let i = 0; i < items.length; i++) {
                 const item = items[i];
                 const name = item.name;
+                const theme = item.theme;
                 const itemDiv = document.createElement('div');
                 itemDiv.innerHTML = `<title>${name}</title>`;
                 displayDiv.appendChild(itemDiv);
@@ -138,14 +139,3 @@ window.addEventListener('load', () => {
         })
         .catch(error => console.error(error));
 });
-
-////////////////////////////
-//   CALL HTML FROM API   //
-////////////////////////////
-
-const nav = document.querySelector('.navbar')
-fetch('https://api.scyted.tv/links/page-code/index.html')
-.then(res=>res.text())
-.then(data=>{
-    nav.innerHTML=data
-})
