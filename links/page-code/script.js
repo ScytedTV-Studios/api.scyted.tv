@@ -1,6 +1,6 @@
 // Important Consts
 // const username = "@loydosborne"
-// const theme = "stv/mono"
+const theme = "stv/default"
 
 window.addEventListener('load', () => {
     const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
