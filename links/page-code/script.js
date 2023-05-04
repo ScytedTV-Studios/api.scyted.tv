@@ -79,52 +79,109 @@ window.addEventListener('load', () => {
 ////////////////
 
 window.addEventListener('load', () => {
-
-    const themefetch = `https://api.scyted.tv/links/users/${username}/user-info.json`
-    fetch(themefetch)
-        .then(response => response.json())
-
-    const url = `https://api.scyted.tv/links/themes/${theme}.json`;
+    const url = `https://api.scyted.tv/links/users/${username}/user-info.json`;
     fetch(url)
         .then(response => response.json())
         .then(data => {
             const items = data.items;
+            const displayDiv = document.getElementById('pagetitle');
+            displayDiv.innerHTML = '';
             for (let i = 0; i < items.length; i++) {
                 const item = items[i];
+                const theme = item.theme;
 
-                const bodybgcolour = item.bodybgcolour;
-                const pfpbgcolour = item.pfpbgcolour;
-                const googlefont = item.googlefont;
-                const googlefontlink = item.googlefontlink;
-                const boldtextcolour = item.boldtextcolour;
-                const normaltextcolour = item.normaltextcolour;
-                const boxcolour = item.boxcolour;
-                const boxhovercolour = item.boxhovercolour;
+                window.addEventListener('load', () => {
 
-                function addStyle(styleString) {
-                    const style = document.createElement("style");
-                    style.textContent = styleString;
-                    document.head.append(style);
-                }
+                    const url = `https://api.scyted.tv/links/themes/${theme}.json`;
+                    fetch(url)
+                        .then(response => response.json())
+                        .then(data => {
+                            const items = data.items;
+                            for (let i = 0; i < items.length; i++) {
+                                const item = items[i];
 
-                addStyle(`
-                    :root {
-                      --profilepic: url("https://cdn.scyted.tv/links/profile-picture/${username}.png");
-                      --bodybgcolour: ${bodybgcolour};
-                      --pfpbgcolour: ${pfpbgcolour};
-                      --googlefont: ${googlefont};
-                      --googlefontlink: ${googlefontlink};
-                      --boldtextcolour: ${boldtextcolour};
-                      --normaltextcolour: ${normaltextcolour};
-                      --boxcolour: ${boxcolour};
-                      --boxhovercolour: ${boxhovercolour};
-                    }
-                  `);
+                                const bodybgcolour = item.bodybgcolour;
+                                const pfpbgcolour = item.pfpbgcolour;
+                                const googlefont = item.googlefont;
+                                const googlefontlink = item.googlefontlink;
+                                const boldtextcolour = item.boldtextcolour;
+                                const normaltextcolour = item.normaltextcolour;
+                                const boxcolour = item.boxcolour;
+                                const boxhovercolour = item.boxhovercolour;
+
+                                function addStyle(styleString) {
+                                    const style = document.createElement("style");
+                                    style.textContent = styleString;
+                                    document.head.append(style);
+                                }
+
+                                addStyle(`
+                                    :root {
+                                      --profilepic: url("https://cdn.scyted.tv/links/profile-picture/${username}.png");
+                                      --bodybgcolour: ${bodybgcolour};
+                                      --pfpbgcolour: ${pfpbgcolour};
+                                      --googlefont: ${googlefont};
+                                      --googlefontlink: ${googlefontlink};
+                                      --boldtextcolour: ${boldtextcolour};
+                                      --normaltextcolour: ${normaltextcolour};
+                                      --boxcolour: ${boxcolour};
+                                      --boxhovercolour: ${boxhovercolour};
+                                    }
+                                  `);
+
+                            }
+                        })
+                        .catch(error => console.error(error));
+                });
 
             }
         })
         .catch(error => console.error(error));
 });
+
+// window.addEventListener('load', () => {
+
+//     const url = `https://api.scyted.tv/links/themes/${theme}.json`;
+//     fetch(url)
+//         .then(response => response.json())
+//         .then(data => {
+//             const items = data.items;
+//             for (let i = 0; i < items.length; i++) {
+//                 const item = items[i];
+
+//                 const bodybgcolour = item.bodybgcolour;
+//                 const pfpbgcolour = item.pfpbgcolour;
+//                 const googlefont = item.googlefont;
+//                 const googlefontlink = item.googlefontlink;
+//                 const boldtextcolour = item.boldtextcolour;
+//                 const normaltextcolour = item.normaltextcolour;
+//                 const boxcolour = item.boxcolour;
+//                 const boxhovercolour = item.boxhovercolour;
+
+//                 function addStyle(styleString) {
+//                     const style = document.createElement("style");
+//                     style.textContent = styleString;
+//                     document.head.append(style);
+//                 }
+
+//                 addStyle(`
+//                     :root {
+//                       --profilepic: url("https://cdn.scyted.tv/links/profile-picture/${username}.png");
+//                       --bodybgcolour: ${bodybgcolour};
+//                       --pfpbgcolour: ${pfpbgcolour};
+//                       --googlefont: ${googlefont};
+//                       --googlefontlink: ${googlefontlink};
+//                       --boldtextcolour: ${boldtextcolour};
+//                       --normaltextcolour: ${normaltextcolour};
+//                       --boxcolour: ${boxcolour};
+//                       --boxhovercolour: ${boxhovercolour};
+//                     }
+//                   `);
+
+//             }
+//         })
+//         .catch(error => console.error(error));
+// });
 
 window.addEventListener('load', () => {
     const url = `https://api.scyted.tv/links/themes/${theme}.json`;
