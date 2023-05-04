@@ -109,7 +109,7 @@ window.addEventListener('load', () => {
 
                 addStyle(`
                     :root {
-                      --profilepic: url("https://api.scyted.tv/links/users/${username}/profile-picture.png");
+                      --profilepic: url("https://cdn.scyted.tv/links/profile-picture/${username}.png");
                       --bodybgcolour: ${bodybgcolour};
                       --pfpbgcolour: ${pfpbgcolour};
                       --googlefont: ${googlefont};
