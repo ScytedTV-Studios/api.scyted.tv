@@ -79,6 +79,11 @@ window.addEventListener('load', () => {
 ////////////////
 
 window.addEventListener('load', () => {
+
+    const themefetch = `https://api.scyted.tv/links/users/${username}/user-info.json`
+    fetch(themefetch)
+        .then(response => response.json())
+
     const url = `https://api.scyted.tv/links/themes/${theme}.json`;
     fetch(url)
         .then(response => response.json())
