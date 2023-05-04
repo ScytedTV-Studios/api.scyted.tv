@@ -88,7 +88,8 @@ window.addEventListener('load', () => {
             displayDiv.innerHTML = '';
             for (let i = 0; i < items.length; i++) {
                 const item = items[i];
-                const theme = item.theme;
+                // const theme = item.theme;
+                const theme = "stv/mono"
 
                 window.addEventListener('load', () => {
 
