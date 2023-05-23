@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: black;
+      color: #FFEA00;
+      font-family: 'Rubik', sans-serif;
+      text-align: center;
+    }
+    
+    #redirect-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    
+    #redirect-text p:first-child {
+      font-weight: bold;
+      font-size: 24px;
+    }
+    
+    #redirect-text a {
+      color: #FFEA00;
+      text-decoration: none;
+      border-bottom: 1px solid #FFEA00;
+    }
+  </style>
+  <script>
+    // Replace 'YOUR_TARGET_URL' with the URL you want to redirect users to.
+    var targetUrl = 'https://www.scyted.tv/';
+    
+    // Redirect to the target URL after 3 seconds (3000 milliseconds)
+    setTimeout(function() {
+      window.location.href = targetUrl;
+    }, 3000);
+  </script>
+</head>
+<body>
+  <div id="redirect-text">
+    <p><strong>Redirecting to target URL...</strong></p>
+    <p>Click <a href="https://www.scyted.tv/">here</a> if you are not redirected.</p>
+  </div>
+</body>
+</html>
