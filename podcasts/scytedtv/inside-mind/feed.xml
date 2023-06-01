@@ -24,12 +24,12 @@
     </itunes:owner>
     <itunes:keywords>Inside Mind</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
-    <description>Inside Mind is an infrequent podcast where Loyd Osborne shares his troubles with the world in an often-times sad story.</description>
+    <description>Inside Mind is a bi-weekly podcast where Loyd Osborne invites a guest to discuss topics related to mental health.</description>
     <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg" />
     <language>en-ca</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Thu, 1 Jun 2023 00:00:00 MST</pubDate>
-    <link>https://podcasts.scyted.tv/assets/scytedtv/inside-mind/feed.xml</link>
+    <link>https://api.scyted.tv/assets/scytedtv/inside-mind/feed.xml</link>
     <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg" /> 
 
 <!-- SEASON 01 -->
