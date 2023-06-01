@@ -33,9 +33,7 @@
     <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon.jpg" /> 
 
 <!-- SEASON 01 -->
-<div>
 
-<div>
 <!-- Season 01, Episode 01 -->
     <item>
       <author>Loyd Osborne</author>
@@ -52,9 +50,6 @@
       <description>Jonathon Reed joins me in talking about Men's Mental Health with topics such as the difference between Toxic and Precarious Masculinity, how societal norms have shaped the way men feel about mental health, and how you shouldn't feel bad about being vulnerable with others.</description>
       <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-01.jpg" />
     </item>
-</div>
-
-</div>
 
   </channel>
 </rss>
