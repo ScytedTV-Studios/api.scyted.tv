@@ -1,0 +1,24 @@
+{
+	"items": [
+		{
+			"name": "Spotify",
+			"link": "https://www.youtube.com/channel/UC8rIlEFaGZaD3ra154nTYcg/"
+		},
+		{
+			"name": "YouTube",
+			"link": "https://www.youtube.com/playlist?list=PLpkTTXdMJd_xAh0ll6IC0IheUh5FteHbp"
+		},
+		{
+			"name": "Apple Podcasts",
+			"link": "https://podcasts.apple.com/us/podcast/inside-mind/id1690528168"
+		},
+		{
+			"name": "Google Podcasts",
+			"link": "https://scytedtv.link/@insidemindstv"
+		},
+		{
+			"name": "Amazon Podcasts",
+			"link": "https://scytedtv.link/@insidemindstv"
+		}
+	]
+}
