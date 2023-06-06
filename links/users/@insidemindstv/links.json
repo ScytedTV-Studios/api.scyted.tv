@@ -2,7 +2,7 @@
 	"items": [
 		{
 			"name": "Spotify",
-			"link": "https://www.youtube.com/channel/UC8rIlEFaGZaD3ra154nTYcg/"
+			"link": "https://open.spotify.com/show/4uMfZdVMayR5XJUmQQNC7f?si=c820b0d48faa48fa"
 		},
 		{
 			"name": "YouTube",
@@ -17,7 +17,7 @@
 			"link": "https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkuc2N5dGVkLnR2L3BvZGNhc3RzL3NjeXRlZHR2L2luc2lkZS1taW5kL2ZlZWQueG1s"
 		},
 		{
-			"name": "Amazon Podcasts",
+			"name": "Amazon Music",
 			"link": "https://music.amazon.ca/podcasts/44d70bc7-713e-41ef-8eaa-187bb27befaa/inside-mind"
 		}
 	]
