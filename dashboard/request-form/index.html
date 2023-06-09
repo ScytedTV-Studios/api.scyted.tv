@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Creator Dashboard</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 
     <!-- do not cache this page -->
     <meta http-equiv="cache-control" content="max-age=0" />
@@ -24,9 +24,9 @@
         }
 
         .staticrypt-page {
-            width: 50%;
-            padding: 8% 0 0;
-            margin: auto;
+            width: 100%;
+            padding: 8% 5% 0;
+            /* Adjust the padding as needed */
             box-sizing: border-box;
         }
 
@@ -81,7 +81,6 @@
         }
 
         .staticrypt-content {
-            height: 170%;
             margin-bottom: 1em;
             background: #FFEA00;
             font-family: 'Rubik', sans-serif;
@@ -163,636 +162,419 @@
                 <form id="staticrypt-form" action="#" method="post">
                     <iframe src="https://www.cognitoforms.com/f/usF43oe4y0W-fWacm1jjnA/1" style="border:0;width:100%;"
                         height="886"></iframe>
+                    height="886"></iframe>
                     <script src="https://www.cognitoforms.com/f/iframe.js"></script>
                 </form>
             </div>
         </div>
     </div>
+</body>
 
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
-    <script type="text/javascript">
-        "use strict"
-        var button = document.querySelectorAll('[data-id="button"]')
-        var username = document.querySelectorAll('[data-id="username"]')
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
+<script type="text/javascript">
+    "use strict"
+    var button = document.querySelectorAll('[data-id="button"]')
+    var username = document.querySelectorAll('[data-id="username"]')
 
-        function login(secret) {
-            var hash = sha1(secret)
-            var url = hash + "/index.html"
-            var alert = document.querySelectorAll('[data-id="alert"]')
+    function login(secret) {
+        var hash = sha1(secret)
+        var url = hash + "/index.html"
+        var alert = document.querySelectorAll('[data-id="alert"]')
 
-            var request = new XMLHttpRequest()
-            request.open('GET', url, true)
+        var request = new XMLHttpRequest()
+        request.open('GET', url, true)
 
-            request.onload = function () {
-                if (request.status >= 200 && request.status < 400) {
-                    window.location = url
-                } else {
-                    parent.location.hash = hash
-                    alert[0].style.display = 'block'
-                    username[0].setAttribute('placeholder', 'This username does not exist')
-                    username[0].value = ''
-                }
-            }
-            request.onerror = function () {
+        request.onload = function () {
+            if (request.status >= 200 && request.status < 400) {
+                window.location = url
+            } else {
                 parent.location.hash = hash
                 alert[0].style.display = 'block'
                 username[0].setAttribute('placeholder', 'This username does not exist')
                 username[0].value = ''
             }
-            request.send()
         }
+        request.onerror = function () {
+            parent.location.hash = hash
+            alert[0].style.display = 'block'
+            username[0].setAttribute('placeholder', 'This username does not exist')
+            username[0].value = ''
+        }
+        request.send()
+    }
 
-        button[0].addEventListener("click", function () {
+    button[0].addEventListener("click", function () {
+        login(username[0].value)
+    })
+
+    document.onkeydown = function (e) {
+        e = e || window.event
+        if (e.keyCode == 13) {
             login(username[0].value)
-        })
-
-        document.onkeydown = function (e) {
-            e = e || window.event
-            if (e.keyCode == 13) {
-                login(username[0].value)
-            }
         }
-    </script>
+    }
+</script>
 
-    <script>
-        // these variables will be filled when generating the file - the template format is 'variable_name'
-        const staticryptInitiator = ((function () {
+<script>
+    // these variables will be filled when generating the file - the template format is 'variable_name'
+    const staticryptInitiator = ((function () {
+        const exports = {};
+        const cryptoEngine = ((function () {
             const exports = {};
-            const cryptoEngine = ((function () {
-                const exports = {};
-                const { subtle } = crypto;
+            const { subtle } = crypto;
 
-                const IV_BITS = 16 * 8;
-                const HEX_BITS = 4;
-                const ENCRYPTION_ALGO = "AES-CBC";
-
-                /**
-                 * Translates between utf8 encoded hexadecimal strings
-                 * and Uint8Array bytes.
-                 */
-                const HexEncoder = {
-                    /**
-                     * hex string -> bytes
-                     * @param {string} hexString
-                     * @returns {Uint8Array}
-                     */
-                    parse: function (hexString) {
-                        if (hexString.length % 2 !== 0) throw "Invalid hexString";
-                        const arrayBuffer = new Uint8Array(hexString.length / 2);
-
-                        for (let i = 0; i < hexString.length; i += 2) {
-                            const byteValue = parseInt(hexString.substring(i, i + 2), 16);
-                            if (isNaN(byteValue)) {
-                                throw "Invalid hexString";
-                            }
-                            arrayBuffer[i / 2] = byteValue;
-                        }
-                        return arrayBuffer;
-                    },
-
-                    /**
-                     * bytes -> hex string
-                     * @param {Uint8Array} bytes
-                     * @returns {string}
-                     */
-                    stringify: function (bytes) {
-                        const hexBytes = [];
-
-                        for (let i = 0; i < bytes.length; ++i) {
-                            let byteString = bytes[i].toString(16);
-                            if (byteString.length < 2) {
-                                byteString = "0" + byteString;
-                            }
-                            hexBytes.push(byteString);
-                        }
-                        return hexBytes.join("");
-                    },
-                };
-
-                /**
-                 * Translates between utf8 strings and Uint8Array bytes.
-                 */
-                const UTF8Encoder = {
-                    parse: function (str) {
-                        return new TextEncoder().encode(str);
-                    },
-
-                    stringify: function (bytes) {
-                        return new TextDecoder().decode(bytes);
-                    },
-                };
-
-                /**
-                 * Salt and encrypt a msg with a username.
-                 */
-                async function encrypt(msg, hashedusername) {
-                    // Must be 16 bytes, unpredictable, and preferably cryptographically random. However, it need not be secret.
-                    // https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/encrypt#parameters
-                    const iv = crypto.getRandomValues(new Uint8Array(IV_BITS / 8));
-
-                    const key = await subtle.importKey("raw", HexEncoder.parse(hashedusername), ENCRYPTION_ALGO, false, ["encrypt"]);
-
-                    const encrypted = await subtle.encrypt(
-                        {
-                            name: ENCRYPTION_ALGO,
-                            iv: iv,
-                        },
-                        key,
-                        UTF8Encoder.parse(msg)
-                    );
-
-                    // iv will be 32 hex characters, we prepend it to the ciphertext for use in decryption
-                    return HexEncoder.stringify(iv) + HexEncoder.stringify(new Uint8Array(encrypted));
-                }
-                exports.encrypt = encrypt;
-
-                /**
-                 * Decrypt a salted msg using a username.
-                 *
-                 * @param {string} encryptedMsg
-                 * @param {string} hashedusername
-                 * @returns {Promise<string>}
-                 */
-                async function decrypt(encryptedMsg, hashedusername) {
-                    const ivLength = IV_BITS / HEX_BITS;
-                    const iv = HexEncoder.parse(encryptedMsg.substring(0, ivLength));
-                    const encrypted = encryptedMsg.substring(ivLength);
-
-                    const key = await subtle.importKey("raw", HexEncoder.parse(hashedusername), ENCRYPTION_ALGO, false, ["decrypt"]);
-
-                    const outBuffer = await subtle.decrypt(
-                        {
-                            name: ENCRYPTION_ALGO,
-                            iv: iv,
-                        },
-                        key,
-                        HexEncoder.parse(encrypted)
-                    );
-
-                    return UTF8Encoder.stringify(new Uint8Array(outBuffer));
-                }
-                exports.decrypt = decrypt;
-
-                /**
-                 * Salt and hash the username so it can be stored in localStorage without opening a username reuse vulnerability.
-                 *
-                 * @param {string} username
-                 * @param {string} salt
-                 * @returns {Promise<string>}
-                 */
-                async function hashusername(username, salt) {
-                    // we hash the username in multiple steps, each adding more iterations. This is because we used to allow less
-                    // iterations, so for backward compatibility reasons, we need to support going from that to more iterations.
-                    let hashedusername = await hashLegacyRound(username, salt);
-
-                    hashedusername = await hashSecondRound(hashedusername, salt);
-
-                    return hashThirdRound(hashedusername, salt);
-                }
-                exports.hashusername = hashusername;
-
-                /**
-                 * This hashes the username with 1k iterations. This is a low number, we need this function to support backwards
-                 * compatibility.
-                 *
-                 * @param {string} username
-                 * @param {string} salt
-                 * @returns {Promise<string>}
-                 */
-                function hashLegacyRound(username, salt) {
-                    return pbkdf2(username, salt, 1000, "SHA-1");
-                }
-                exports.hashLegacyRound = hashLegacyRound;
-
-                /**
-                 * Add a second round of iterations. This is because we used to use 1k, so for backwards compatibility with
-                 * remember-me/autodecrypt links, we need to support going from that to more iterations.
-                 *
-                 * @param hashedusername
-                 * @param salt
-                 * @returns {Promise<string>}
-                 */
-                function hashSecondRound(hashedusername, salt) {
-                    return pbkdf2(hashedusername, salt, 14000, "SHA-256");
-                }
-                exports.hashSecondRound = hashSecondRound;
-
-                /**
-                 * Add a third round of iterations to bring total number to 600k. This is because we used to use 1k, then 15k, so for
-                 * backwards compatibility with remember-me/autodecrypt links, we need to support going from that to more iterations.
-                 *
-                 * @param hashedusername
-                 * @param salt
-                 * @returns {Promise<string>}
-                 */
-                function hashThirdRound(hashedusername, salt) {
-                    return pbkdf2(hashedusername, salt, 585000, "SHA-256");
-                }
-                exports.hashThirdRound = hashThirdRound;
-
-                /**
-                 * Salt and hash the username so it can be stored in localStorage without opening a username reuse vulnerability.
-                 *
-                 * @param {string} username
-                 * @param {string} salt
-                 * @param {int} iterations
-                 * @param {string} hashAlgorithm
-                 * @returns {Promise<string>}
-                 */
-                async function pbkdf2(username, salt, iterations, hashAlgorithm) {
-                    const key = await subtle.importKey("raw", UTF8Encoder.parse(username), "PBKDF2", false, ["deriveBits"]);
-
-                    const keyBytes = await subtle.deriveBits(
-                        {
-                            name: "PBKDF2",
-                            hash: hashAlgorithm,
-                            iterations,
-                            salt: UTF8Encoder.parse(salt),
-                        },
-                        key,
-                        256
-                    );
-
-                    return HexEncoder.stringify(new Uint8Array(keyBytes));
-                }
-
-                function generateRandomSalt() {
-                    const bytes = crypto.getRandomValues(new Uint8Array(128 / 8));
-
-                    return HexEncoder.stringify(new Uint8Array(bytes));
-                }
-                exports.generateRandomSalt = generateRandomSalt;
-
-                async function signMessage(hashedusername, message) {
-                    const key = await subtle.importKey(
-                        "raw",
-                        HexEncoder.parse(hashedusername),
-                        {
-                            name: "HMAC",
-                            hash: "SHA-256",
-                        },
-                        false,
-                        ["sign"]
-                    );
-                    const signature = await subtle.sign("HMAC", key, UTF8Encoder.parse(message));
-
-                    return HexEncoder.stringify(new Uint8Array(signature));
-                }
-                exports.signMessage = signMessage;
-
-                function getRandomAlphanum() {
-                    const possibleCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-
-                    let byteArray;
-                    let parsedInt;
-
-                    // Keep generating new random bytes until we get a value that falls
-                    // within a range that can be evenly divided by possibleCharacters.length
-                    do {
-                        byteArray = crypto.getRandomValues(new Uint8Array(1));
-                        // extract the lowest byte to get an int from 0 to 255 (probably unnecessary, since we're only generating 1 byte)
-                        parsedInt = byteArray[0] & 0xff;
-                    } while (parsedInt >= 256 - (256 % possibleCharacters.length));
-
-                    // Take the modulo of the parsed integer to get a random number between 0 and totalLength - 1
-                    const randomIndex = parsedInt % possibleCharacters.length;
-
-                    return possibleCharacters[randomIndex];
-                }
-
-                /**
-                 * Generate a random string of a given length.
-                 *
-                 * @param {int} length
-                 * @returns {string}
-                 */
-                function generateRandomString(length) {
-                    let randomString = "";
-
-                    for (let i = 0; i < length; i++) {
-                        randomString += getRandomAlphanum();
-                    }
-
-                    return randomString;
-                }
-                exports.generateRandomString = generateRandomString;
-
-                return exports;
-            })());
-            const codec = ((function () {
-                const exports = {};
-                /**
-               * Initialize the codec with the provided cryptoEngine - this return functions to encode and decode messages.
-               *
-               * @param cryptoEngine - the engine to use for encryption / decryption
-               */
-                function init(cryptoEngine) {
-                    const exports = {};
-
-                    /**
-                     * Top-level function for encoding a message.
-                     * Includes username hashing, encryption, and signing.
-                     *
-                     * @param {string} msg
-                     * @param {string} username
-                     * @param {string} salt
-                     *
-                     * @returns {string} The encoded text
-                     */
-                    async function encode(msg, username, salt) {
-                        const hashedusername = await cryptoEngine.hashusername(username, salt);
-
-                        const encrypted = await cryptoEngine.encrypt(msg, hashedusername);
-
-                        // we use the hashed username in the HMAC because this is effectively what will be used a username (so we can store
-                        // it in localStorage safely, we don't use the clear text username)
-                        const hmac = await cryptoEngine.signMessage(hashedusername, encrypted);
-
-                        return hmac + encrypted;
-                    }
-                    exports.encode = encode;
-
-                    /**
-                     * Encode using a username that has already been hashed. This is useful to encode multiple messages in a row, that way
-                     * we don't need to hash the username multiple times.
-                     *
-                     * @param {string} msg
-                     * @param {string} hashedusername
-                     *
-                     * @returns {string} The encoded text
-                     */
-                    async function encodeWithHashedusername(msg, hashedusername) {
-                        const encrypted = await cryptoEngine.encrypt(msg, hashedusername);
-
-                        // we use the hashed username in the HMAC because this is effectively what will be used a username (so we can store
-                        // it in localStorage safely, we don't use the clear text username)
-                        const hmac = await cryptoEngine.signMessage(hashedusername, encrypted);
-
-                        return hmac + encrypted;
-                    }
-                    exports.encodeWithHashedusername = encodeWithHashedusername;
-
-                    /**
-                     * Top-level function for decoding a message.
-                     * Includes signature check and decryption.
-                     *
-                     * @param {string} signedMsg
-                     * @param {string} hashedusername
-                     * @param {string} salt
-                     * @param {int} backwardCompatibleAttempt
-                     * @param {string} originalusername
-                     *
-                     * @returns {Object} {success: true, decoded: string} | {success: false, message: string}
-                     */
-                    async function decode(signedMsg, hashedusername, salt, backwardCompatibleAttempt = 0, originalusername = "") {
-                        const encryptedHMAC = signedMsg.substring(0, 64);
-                        const encryptedMsg = signedMsg.substring(64);
-                        const decryptedHMAC = await cryptoEngine.signMessage(hashedusername, encryptedMsg);
-
-                        if (decryptedHMAC !== encryptedHMAC) {
-                            // we have been raising the number of iterations in the hashing algorithm multiple times, so to support the old
-                            // remember-me/autodecrypt links we need to try bringing the old hashes up to speed.
-                            originalusername = originalusername || hashedusername;
-                            if (backwardCompatibleAttempt === 0) {
-                                const updatedHashedusername = await cryptoEngine.hashThirdRound(originalusername, salt);
-
-                                return decode(signedMsg, updatedHashedusername, salt, backwardCompatibleAttempt + 1, originalusername);
-                            }
-                            if (backwardCompatibleAttempt === 1) {
-                                let updatedHashedusername = await cryptoEngine.hashSecondRound(originalusername, salt);
-                                updatedHashedusername = await cryptoEngine.hashThirdRound(updatedHashedusername, salt);
-
-                                return decode(signedMsg, updatedHashedusername, salt, backwardCompatibleAttempt + 1, originalusername);
-                            }
-
-                            return { success: false, message: "Signature mismatch" };
-                        }
-
-                        return {
-                            success: true,
-                            decoded: await cryptoEngine.decrypt(encryptedMsg, hashedusername),
-                        };
-                    }
-                    exports.decode = decode;
-
-                    return exports;
-                }
-                exports.init = init;
-
-                return exports;
-            })());
-            const decode = codec.init(cryptoEngine).decode;
+            const IV_BITS = 16 * 8;
+            const HEX_BITS = 4;
+            const ENCRYPTION_ALGO = "AES-CBC";
 
             /**
-             * Initialize the staticrypt module, that exposes functions callbable by the username_template.
-             *
-             * @param {{
-             *  staticryptEncryptedMsgUniqueVariableName: string,
-             *  isRememberEnabled: boolean,
-             *  rememberDurationInDays: number,
-             *  staticryptSaltUniqueVariableName: string,
-             * }} staticryptConfig - object of data that is stored on the username_template at encryption time.
-             *
-             * @param {{
-             *  rememberExpirationKey: string,
-             *  rememberPassphraseKey: string,
-             *  replaceHtmlCallback: function,
-             *  clearLocalStorageCallback: function,
-             * }} templateConfig - object of data that can be configured by a custom username_template.
+             * Translates between utf8 encoded hexadecimal strings
+             * and Uint8Array bytes.
              */
-            function init(staticryptConfig, templateConfig) {
+            const HexEncoder = {
+                /**
+                 * hex string -> bytes
+                 * @param {string} hexString
+                 * @returns {Uint8Array}
+                 */
+                parse: function (hexString) {
+                    if (hexString.length % 2 !== 0) throw "Invalid hexString";
+                    const arrayBuffer = new Uint8Array(hexString.length / 2);
+
+                    for (let i = 0; i < hexString.length; i += 2) {
+                        const byteValue = parseInt(hexString.substring(i, i + 2), 16);
+                        if (isNaN(byteValue)) {
+                            throw "Invalid hexString";
+                        }
+                        arrayBuffer[i / 2] = byteValue;
+                    }
+                    return arrayBuffer;
+                },
+
+                /**
+                 * bytes -> hex string
+                 * @param {Uint8Array} bytes
+                 * @returns {string}
+                 */
+                stringify: function (bytes) {
+                    const hexBytes = [];
+
+                    for (let i = 0; i < bytes.length; ++i) {
+                        let byteString = bytes[i].toString(16);
+                        if (byteString.length < 2) {
+                            byteString = "0" + byteString;
+                        }
+                        hexBytes.push(byteString);
+                    }
+                    return hexBytes.join("");
+                },
+            };
+
+            /**
+             * Translates between utf8 strings and Uint8Array bytes.
+             */
+            const UTF8Encoder = {
+                parse: function (str) {
+                    return new TextEncoder().encode(str);
+                },
+
+                stringify: function (bytes) {
+                    return new TextDecoder().decode(bytes);
+                },
+            };
+
+            /**
+             * Salt and encrypt a msg with a username.
+             */
+            async function encrypt(msg, hashedusername) {
+                // Must be 16 bytes, unpredictable, and preferably cryptographically random. However, it need not be secret.
+                // https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto/encrypt#parameters
+                const iv = crypto.getRandomValues(new Uint8Array(IV_BITS / 8));
+
+                const key = await subtle.importKey("raw", HexEncoder.parse(hashedusername), ENCRYPTION_ALGO, false, ["encrypt"]);
+
+                const encrypted = await subtle.encrypt(
+                    {
+                        name: ENCRYPTION_ALGO,
+                        iv: iv,
+                    },
+                    key,
+                    UTF8Encoder.parse(msg)
+                );
+
+                // iv will be 32 hex characters, we prepend it to the ciphertext for use in decryption
+                return HexEncoder.stringify(iv) + HexEncoder.stringify(new Uint8Array(encrypted));
+            }
+            exports.encrypt = encrypt;
+
+            /**
+             * Decrypt a salted msg using a username.
+             *
+             * @param {string} encryptedMsg
+             * @param {string} hashedusername
+             * @returns {Promise<string>}
+             */
+            async function decrypt(encryptedMsg, hashedusername) {
+                const ivLength = IV_BITS / HEX_BITS;
+                const iv = HexEncoder.parse(encryptedMsg.substring(0, ivLength));
+                const encrypted = encryptedMsg.substring(ivLength);
+
+                const key = await subtle.importKey("raw", HexEncoder.parse(hashedusername), ENCRYPTION_ALGO, false, ["decrypt"]);
+
+                const outBuffer = await subtle.decrypt(
+                    {
+                        name: ENCRYPTION_ALGO,
+                        iv: iv,
+                    },
+                    key,
+                    HexEncoder.parse(encrypted)
+                );
+
+                return UTF8Encoder.stringify(new Uint8Array(outBuffer));
+            }
+            exports.decrypt = decrypt;
+
+            /**
+             * Salt and hash the username so it can be stored in localStorage without opening a username reuse vulnerability.
+             *
+             * @param {string} username
+             * @param {string} salt
+             * @returns {Promise<string>}
+             */
+            async function hashusername(username, salt) {
+                // we hash the username in multiple steps, each adding more iterations. This is because we used to allow less
+                // iterations, so for backward compatibility reasons, we need to support going from that to more iterations.
+                let hashedusername = await hashLegacyRound(username, salt);
+
+                hashedusername = await hashSecondRound(hashedusername, salt);
+
+                return hashThirdRound(hashedusername, salt);
+            }
+            exports.hashusername = hashusername;
+
+            /**
+             * This hashes the username with 1k iterations. This is a low number, we need this function to support backwards
+             * compatibility.
+             *
+             * @param {string} username
+             * @param {string} salt
+             * @returns {Promise<string>}
+             */
+            function hashLegacyRound(username, salt) {
+                return pbkdf2(username, salt, 1000, "SHA-1");
+            }
+            exports.hashLegacyRound = hashLegacyRound;
+
+            /**
+             * Add a second round of iterations. This is because we used to use 1k, so for backwards compatibility with
+             * remember-me/autodecrypt links, we need to support going from that to more iterations.
+             *
+             * @param hashedusername
+             * @param salt
+             * @returns {Promise<string>}
+             */
+            function hashSecondRound(hashedusername, salt) {
+                return pbkdf2(hashedusername, salt, 14000, "SHA-256");
+            }
+            exports.hashSecondRound = hashSecondRound;
+
+            /**
+             * Add a third round of iterations to bring total number to 600k. This is because we used to use 1k, then 15k, so for
+             * backwards compatibility with remember-me/autodecrypt links, we need to support going from that to more iterations.
+             *
+             * @param hashedusername
+             * @param salt
+             * @returns {Promise<string>}
+             */
+            function hashThirdRound(hashedusername, salt) {
+                return pbkdf2(hashedusername, salt, 585000, "SHA-256");
+            }
+            exports.hashThirdRound = hashThirdRound;
+
+            /**
+             * Salt and hash the username so it can be stored in localStorage without opening a username reuse vulnerability.
+             *
+             * @param {string} username
+             * @param {string} salt
+             * @param {int} iterations
+             * @param {string} hashAlgorithm
+             * @returns {Promise<string>}
+             */
+            async function pbkdf2(username, salt, iterations, hashAlgorithm) {
+                const key = await subtle.importKey("raw", UTF8Encoder.parse(username), "PBKDF2", false, ["deriveBits"]);
+
+                const keyBytes = await subtle.deriveBits(
+                    {
+                        name: "PBKDF2",
+                        hash: hashAlgorithm,
+                        iterations,
+                        salt: UTF8Encoder.parse(salt),
+                    },
+                    key,
+                    256
+                );
+
+                return HexEncoder.stringify(new Uint8Array(keyBytes));
+            }
+
+            function generateRandomSalt() {
+                const bytes = crypto.getRandomValues(new Uint8Array(128 / 8));
+
+                return HexEncoder.stringify(new Uint8Array(bytes));
+            }
+            exports.generateRandomSalt = generateRandomSalt;
+
+            async function signMessage(hashedusername, message) {
+                const key = await subtle.importKey(
+                    "raw",
+                    HexEncoder.parse(hashedusername),
+                    {
+                        name: "HMAC",
+                        hash: "SHA-256",
+                    },
+                    false,
+                    ["sign"]
+                );
+                const signature = await subtle.sign("HMAC", key, UTF8Encoder.parse(message));
+
+                return HexEncoder.stringify(new Uint8Array(signature));
+            }
+            exports.signMessage = signMessage;
+
+            function getRandomAlphanum() {
+                const possibleCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+
+                let byteArray;
+                let parsedInt;
+
+                // Keep generating new random bytes until we get a value that falls
+                // within a range that can be evenly divided by possibleCharacters.length
+                do {
+                    byteArray = crypto.getRandomValues(new Uint8Array(1));
+                    // extract the lowest byte to get an int from 0 to 255 (probably unnecessary, since we're only generating 1 byte)
+                    parsedInt = byteArray[0] & 0xff;
+                } while (parsedInt >= 256 - (256 % possibleCharacters.length));
+
+                // Take the modulo of the parsed integer to get a random number between 0 and totalLength - 1
+                const randomIndex = parsedInt % possibleCharacters.length;
+
+                return possibleCharacters[randomIndex];
+            }
+
+            /**
+             * Generate a random string of a given length.
+             *
+             * @param {int} length
+             * @returns {string}
+             */
+            function generateRandomString(length) {
+                let randomString = "";
+
+                for (let i = 0; i < length; i++) {
+                    randomString += getRandomAlphanum();
+                }
+
+                return randomString;
+            }
+            exports.generateRandomString = generateRandomString;
+
+            return exports;
+        })());
+        const codec = ((function () {
+            const exports = {};
+            /**
+           * Initialize the codec with the provided cryptoEngine - this return functions to encode and decode messages.
+           *
+           * @param cryptoEngine - the engine to use for encryption / decryption
+           */
+            function init(cryptoEngine) {
                 const exports = {};
 
                 /**
-                 * Decrypt our encrypted page, replace the whole HTML.
+                 * Top-level function for encoding a message.
+                 * Includes username hashing, encryption, and signing.
                  *
-                 * @param {string} hashedusername
-                 * @returns {Promise<boolean>}
+                 * @param {string} msg
+                 * @param {string} username
+                 * @param {string} salt
+                 *
+                 * @returns {string} The encoded text
                  */
-                async function decryptAndReplaceHtml(hashedusername) {
-                    const { staticryptEncryptedMsgUniqueVariableName, staticryptSaltUniqueVariableName } = staticryptConfig;
-                    const { replaceHtmlCallback } = templateConfig;
+                async function encode(msg, username, salt) {
+                    const hashedusername = await cryptoEngine.hashusername(username, salt);
 
-                    const result = await decode(
-                        staticryptEncryptedMsgUniqueVariableName,
-                        hashedusername,
-                        staticryptSaltUniqueVariableName
-                    );
-                    if (!result.success) {
-                        return false;
-                    }
-                    const plainHTML = result.decoded;
+                    const encrypted = await cryptoEngine.encrypt(msg, hashedusername);
 
-                    // if the user configured a callback call it, otherwise just replace the whole HTML
-                    if (typeof replaceHtmlCallback === "function") {
-                        replaceHtmlCallback(plainHTML);
-                    } else {
-                        document.write(plainHTML);
-                        document.close();
-                    }
+                    // we use the hashed username in the HMAC because this is effectively what will be used a username (so we can store
+                    // it in localStorage safely, we don't use the clear text username)
+                    const hmac = await cryptoEngine.signMessage(hashedusername, encrypted);
 
-                    return true;
+                    return hmac + encrypted;
                 }
+                exports.encode = encode;
 
                 /**
-                 * Attempt to decrypt the page and replace the whole HTML.
+                 * Encode using a username that has already been hashed. This is useful to encode multiple messages in a row, that way
+                 * we don't need to hash the username multiple times.
                  *
-                 * @param {string} username
-                 * @param {boolean} isRememberChecked
+                 * @param {string} msg
+                 * @param {string} hashedusername
                  *
-                 * @returns {Promise<{isSuccessful: boolean, hashedusername?: string}>} - we return an object, so that if we want to
-                 *   expose more information in the future we can do it without breaking the username_template
+                 * @returns {string} The encoded text
                  */
-                async function handleDecryptionOfPage(username, isRememberChecked) {
-                    const { isRememberEnabled, rememberDurationInDays, staticryptSaltUniqueVariableName } = staticryptConfig;
-                    const { rememberExpirationKey, rememberPassphraseKey } = templateConfig;
+                async function encodeWithHashedusername(msg, hashedusername) {
+                    const encrypted = await cryptoEngine.encrypt(msg, hashedusername);
 
-                    // decrypt and replace the whole page
-                    const hashedusername = await cryptoEngine.hashusername(username, staticryptSaltUniqueVariableName);
+                    // we use the hashed username in the HMAC because this is effectively what will be used a username (so we can store
+                    // it in localStorage safely, we don't use the clear text username)
+                    const hmac = await cryptoEngine.signMessage(hashedusername, encrypted);
 
-                    const isDecryptionSuccessful = await decryptAndReplaceHtml(hashedusername);
+                    return hmac + encrypted;
+                }
+                exports.encodeWithHashedusername = encodeWithHashedusername;
 
-                    if (!isDecryptionSuccessful) {
-                        return {
-                            isSuccessful: false,
-                            hashedusername,
-                        };
-                    }
+                /**
+                 * Top-level function for decoding a message.
+                 * Includes signature check and decryption.
+                 *
+                 * @param {string} signedMsg
+                 * @param {string} hashedusername
+                 * @param {string} salt
+                 * @param {int} backwardCompatibleAttempt
+                 * @param {string} originalusername
+                 *
+                 * @returns {Object} {success: true, decoded: string} | {success: false, message: string}
+                 */
+                async function decode(signedMsg, hashedusername, salt, backwardCompatibleAttempt = 0, originalusername = "") {
+                    const encryptedHMAC = signedMsg.substring(0, 64);
+                    const encryptedMsg = signedMsg.substring(64);
+                    const decryptedHMAC = await cryptoEngine.signMessage(hashedusername, encryptedMsg);
 
-                    // remember the hashedusername and set its expiration if necessary
-                    if (isRememberEnabled && isRememberChecked) {
-                        window.localStorage.setItem(rememberPassphraseKey, hashedusername);
+                    if (decryptedHMAC !== encryptedHMAC) {
+                        // we have been raising the number of iterations in the hashing algorithm multiple times, so to support the old
+                        // remember-me/autodecrypt links we need to try bringing the old hashes up to speed.
+                        originalusername = originalusername || hashedusername;
+                        if (backwardCompatibleAttempt === 0) {
+                            const updatedHashedusername = await cryptoEngine.hashThirdRound(originalusername, salt);
 
-                        // set the expiration if the duration isn't 0 (meaning no expiration)
-                        if (rememberDurationInDays > 0) {
-                            window.localStorage.setItem(
-                                rememberExpirationKey,
-                                (new Date().getTime() + rememberDurationInDays * 24 * 60 * 60 * 1000).toString()
-                            );
+                            return decode(signedMsg, updatedHashedusername, salt, backwardCompatibleAttempt + 1, originalusername);
                         }
+                        if (backwardCompatibleAttempt === 1) {
+                            let updatedHashedusername = await cryptoEngine.hashSecondRound(originalusername, salt);
+                            updatedHashedusername = await cryptoEngine.hashThirdRound(updatedHashedusername, salt);
+
+                            return decode(signedMsg, updatedHashedusername, salt, backwardCompatibleAttempt + 1, originalusername);
+                        }
+
+                        return { success: false, message: "Signature mismatch" };
                     }
 
                     return {
-                        isSuccessful: true,
-                        hashedusername,
+                        success: true,
+                        decoded: await cryptoEngine.decrypt(encryptedMsg, hashedusername),
                     };
                 }
-                exports.handleDecryptionOfPage = handleDecryptionOfPage;
-
-                /**
-                 * Clear localstorage from staticrypt related values
-                 */
-                function clearLocalStorage() {
-                    const { clearLocalStorageCallback, rememberExpirationKey, rememberPassphraseKey } = templateConfig;
-
-                    if (typeof clearLocalStorageCallback === "function") {
-                        clearLocalStorageCallback();
-                    } else {
-                        localStorage.removeItem(rememberPassphraseKey);
-                        localStorage.removeItem(rememberExpirationKey);
-                    }
-                }
-
-                async function handleDecryptOnLoad() {
-                    let isSuccessful = await decryptOnLoadFromUrl();
-
-                    if (!isSuccessful) {
-                        isSuccessful = await decryptOnLoadFromRememberMe();
-                    }
-
-                    return { isSuccessful };
-                }
-                exports.handleDecryptOnLoad = handleDecryptOnLoad;
-
-                /**
-                 * Clear storage if we are logging out
-                 *
-                 * @returns {boolean} - whether we logged out
-                 */
-                function logoutIfNeeded() {
-                    const logoutKey = "staticrypt_logout";
-
-                    // handle logout through query param
-                    const queryParams = new URLSearchParams(window.location.search);
-                    if (queryParams.has(logoutKey)) {
-                        clearLocalStorage();
-                        return true;
-                    }
-
-                    // handle logout through URL fragment
-                    const hash = window.location.hash.substring(1);
-                    if (hash.includes(logoutKey)) {
-                        clearLocalStorage();
-                        return true;
-                    }
-
-                    return false;
-                }
-
-                /**
-                 * To be called on load: check if we want to try to decrypt and replace the HTML with the decrypted content, and
-                 * try to do it if needed.
-                 *
-                 * @returns {Promise<boolean>} true if we derypted and replaced the whole page, false otherwise
-                 */
-                async function decryptOnLoadFromRememberMe() {
-                    const { rememberDurationInDays } = staticryptConfig;
-                    const { rememberExpirationKey, rememberPassphraseKey } = templateConfig;
-
-                    // if we are login out, terminate
-                    if (logoutIfNeeded()) {
-                        return false;
-                    }
-
-                    // if there is expiration configured, check if we're not beyond the expiration
-                    if (rememberDurationInDays && rememberDurationInDays > 0) {
-                        const expiration = localStorage.getItem(rememberExpirationKey),
-                            isExpired = expiration && new Date().getTime() > parseInt(expiration);
-
-                        if (isExpired) {
-                            clearLocalStorage();
-                            return false;
-                        }
-                    }
-
-                    const hashedusername = localStorage.getItem(rememberPassphraseKey);
-
-                    if (hashedusername) {
-                        // try to decrypt
-                        const isDecryptionSuccessful = await decryptAndReplaceHtml(hashedusername);
-
-                        // if the decryption is unsuccessful the username might be wrong - silently clear the saved data and let
-                        // the user fill the username form again
-                        if (!isDecryptionSuccessful) {
-                            clearLocalStorage();
-                            return false;
-                        }
-
-                        return true;
-                    }
-
-                    return false;
-                }
-
-                function decryptOnLoadFromUrl() {
-                    const usernameKey = "staticrypt_pwd";
-
-                    // get the username from the query param
-                    const queryParams = new URLSearchParams(window.location.search);
-                    const hashedusernameQuery = queryParams.get(usernameKey);
-
-                    // get the username from the url fragment
-                    const hashRegexMatch = window.location.hash.substring(1).match(new RegExp(usernameKey + "=(.*)"));
-                    const hashedusernameFragment = hashRegexMatch ? hashRegexMatch[1] : null;
-
-                    const hashedusername = hashedusernameFragment || hashedusernameQuery;
-
-                    if (hashedusername) {
-                        return decryptAndReplaceHtml(hashedusername);
-                    }
-
-                    return false;
-                }
+                exports.decode = decode;
 
                 return exports;
             }
@@ -800,54 +582,273 @@
 
             return exports;
         })());
-        const templateError = "Bad username!",
-            isRememberEnabled = true,
-            staticryptConfig = { "staticryptEncryptedMsgUniqueVariableName": "a57051db59954f4d0af8386dd778e9193ef8fd88e634785915dd7f4fd8bcf3c51b4de133da844cd8e319d2095ae3bad2aacaf8b7b7395b5098b257ead21cdc912badd54513f4d3c30168ff79de55a8840ce4dc46e626a8e68f85ab349df3f7a65e559731cb82b4908a8aa8df03b41471c216b462dc12a7e19f2b9ddc248f56c65a71bc54e1978898749d98558af665e8274bb390e98229265d8f0424331ed6d29b925d484e87ffb3a3d77d3522b3c8f19be336c5b94692255223b2e151069e38ea9edb92e3bc0737b1a4ceee018f19de2f3ae7067c7910be921cb70bb6dbe02d85c41dfbc789f0134e1f5324208bf759894a329fd9a3fe865c30c4fd2e433aee3a82632b5660db96ba0f67ec8c07aadadce830734a93c2337791ba44f0856dbffb3821c0ab0beb43c459406eb6d6c68846723f531b7ed44c3c5b42291f29d3c99a9fa2f114bf7e397a30f30697abbc03f32040cc8be6c604aaf5de202541ee7827c08cb44319e1148a616e3ddf5c5bcae5f623c6d94d30372aa5250266e2a2fa86b221998ae778c48c3937c6a6d88bf3887fc2a4f3f0ac086bad7ae80ac140e1eea640603003a96dab2e78b4092555830f3cba3fc0c5436f6a1f4bccd63079318ac933239b31c9d4c64e8a5638a1dc9a2b369429abfc106a3f23269c5ff2873c8da6b47c156d3684968b8bdaf06209e2b4f116573aa597b033c8bbca46956fcfdc2d6308b451830096938bb174be4967b4eb2016a24b006f760f001f4ac5ce0d47ca7b8915dbd441ae0c6b83e85e6c8df5df195aeb04c4e1f7d7dfb1bdd339dc5e0bdc4f4beb89c08ccf4f84de6f0191b81dac5f02088a3c0f9984204461113b728db4f07fd8593ecc07cb70aaf01dc6a995e3588495affbe9574b168dd1a04f420bd8a6fc1a7b9fe64a1f2494234e857a30053eb20f18dc05ea7afbd97aba0652ca059b9b928a5680c13cc25893e58f469df0465fd0991049d9a0e95acbb77abd7bc6a9d995e4382b89c35b743e0a62fc0a6c6f52b852de16fa56c81de3225404a0d9559cdc9a692cf74e652e83fa4e76d64cc194bd6f291262c8e75dbdf3c5caa92a3592733ee20cdf25b7fdb3c0df0fc28d7e3e7451602c25cf19fd96db9272eb45bedd2729a7ca12daad8f2a407916184165a86cccf8001399213e9d163b25ca99a0438917232263cd460d57ea659926fbfd6c751ab833410755da7e809011abb7ba3b938627b7720edc91dcdfab74c9d08f52525334077d5369e0f05b9f1663e68da1dc19d3ac5b4e2e86b9b7bb8cf0ef9bc2353f6871eaaa71905e33075e12d1a66d949ed74bafca39f589e53a69030d41246ba320c256a5dd27bb2015b219a7ec1ffa7dd5cf01a8f5927f0d9750db1dee235e8f5443796e1b84f93b207df962d43db4b953d0f43dc990e15edf52a8ee566ae46a84aa4b2dcde8cb13a029e982435aeb8eaaae825c356d17ede35f076d3e456c3ff927173bc5a7ddc840216facd3942f7ef1560f93d9400e8da660ae24a082fb202b4baf984cb20655b509c0961cfbbfb480e9a0c04700be4c146a478dcbc1791449d74df2106a624c862d755026938591b85c796a7857805393e6b291ea9e55715653a243486344b763ba0f9f1b54c9570bc9c433e88f895458a9ea5973c2471b4977bec0ae1c70d3a089cc0a2a89abf8414b15d5a92ae4b7e390123c1230076e8e07384045257d2120c776988474e148914e11529d0b40173d76811b401d0db2cba0f362367f528d063094750230f38c063f864fbb5404cfa3bfde9a2817a1e4aff99749f993474c6e5c09a8308617aba12e9021ed2edd8c908a9d653c473bfeae664ceec320bd51b2f99dc30ca362c42ee981cb67e3d548c849ae90a20053ec87c0dc0a2bb7837aa30c9f126a700f1d49975c519ca4f501d733fc329eb7583943c2d1a9c3e1414c2fac4cd6adf36197c71f79949b0426fdd85f7d3f52dce6f2bcaa849271a2c4e415", "isRememberEnabled": true, "rememberDurationInDays": 0, "staticryptSaltUniqueVariableName": "f4842741abdfeeff38be7695f1fc7973" };
+        const decode = codec.init(cryptoEngine).decode;
 
-        // you can edit these values to customize some of the behavior of StatiCrypt
-        const templateConfig = {
-            rememberExpirationKey: "staticrypt_expiration",
-            rememberPassphraseKey: "staticrypt_passphrase",
-            replaceHtmlCallback: null,
-            clearLocalStorageCallback: null,
-        };
+        /**
+         * Initialize the staticrypt module, that exposes functions callbable by the username_template.
+         *
+         * @param {{
+         *  staticryptEncryptedMsgUniqueVariableName: string,
+         *  isRememberEnabled: boolean,
+         *  rememberDurationInDays: number,
+         *  staticryptSaltUniqueVariableName: string,
+         * }} staticryptConfig - object of data that is stored on the username_template at encryption time.
+         *
+         * @param {{
+         *  rememberExpirationKey: string,
+         *  rememberPassphraseKey: string,
+         *  replaceHtmlCallback: function,
+         *  clearLocalStorageCallback: function,
+         * }} templateConfig - object of data that can be configured by a custom username_template.
+         */
+        function init(staticryptConfig, templateConfig) {
+            const exports = {};
 
-        // init the staticrypt engine
-        const staticrypt = staticryptInitiator.init(staticryptConfig, templateConfig);
+            /**
+             * Decrypt our encrypted page, replace the whole HTML.
+             *
+             * @param {string} hashedusername
+             * @returns {Promise<boolean>}
+             */
+            async function decryptAndReplaceHtml(hashedusername) {
+                const { staticryptEncryptedMsgUniqueVariableName, staticryptSaltUniqueVariableName } = staticryptConfig;
+                const { replaceHtmlCallback } = templateConfig;
 
-        // try to automatically decrypt on load if there is a saved username
-        window.onload = async function () {
-            const { isSuccessful } = await staticrypt.handleDecryptOnLoad();
+                const result = await decode(
+                    staticryptEncryptedMsgUniqueVariableName,
+                    hashedusername,
+                    staticryptSaltUniqueVariableName
+                );
+                if (!result.success) {
+                    return false;
+                }
+                const plainHTML = result.decoded;
 
-            // if we didn't decrypt anything on load, show the username prompt. Otherwise the content has already been
-            // replaced, no need to do anything
-            if (!isSuccessful) {
-                // hide loading screen
-                document.getElementById("staticrypt_loading").classList.add("hidden");
-                document.getElementById("staticrypt_content").classList.remove("hidden");
-                document.getElementById("staticrypt-username").focus();
+                // if the user configured a callback call it, otherwise just replace the whole HTML
+                if (typeof replaceHtmlCallback === "function") {
+                    replaceHtmlCallback(plainHTML);
+                } else {
+                    document.write(plainHTML);
+                    document.close();
+                }
 
-                // show the remember me checkbox
-                if (isRememberEnabled) {
-                    document.getElementById("staticrypt-remember-label").classList.remove("hidden");
+                return true;
+            }
+
+            /**
+             * Attempt to decrypt the page and replace the whole HTML.
+             *
+             * @param {string} username
+             * @param {boolean} isRememberChecked
+             *
+             * @returns {Promise<{isSuccessful: boolean, hashedusername?: string}>} - we return an object, so that if we want to
+             *   expose more information in the future we can do it without breaking the username_template
+             */
+            async function handleDecryptionOfPage(username, isRememberChecked) {
+                const { isRememberEnabled, rememberDurationInDays, staticryptSaltUniqueVariableName } = staticryptConfig;
+                const { rememberExpirationKey, rememberPassphraseKey } = templateConfig;
+
+                // decrypt and replace the whole page
+                const hashedusername = await cryptoEngine.hashusername(username, staticryptSaltUniqueVariableName);
+
+                const isDecryptionSuccessful = await decryptAndReplaceHtml(hashedusername);
+
+                if (!isDecryptionSuccessful) {
+                    return {
+                        isSuccessful: false,
+                        hashedusername,
+                    };
+                }
+
+                // remember the hashedusername and set its expiration if necessary
+                if (isRememberEnabled && isRememberChecked) {
+                    window.localStorage.setItem(rememberPassphraseKey, hashedusername);
+
+                    // set the expiration if the duration isn't 0 (meaning no expiration)
+                    if (rememberDurationInDays > 0) {
+                        window.localStorage.setItem(
+                            rememberExpirationKey,
+                            (new Date().getTime() + rememberDurationInDays * 24 * 60 * 60 * 1000).toString()
+                        );
+                    }
+                }
+
+                return {
+                    isSuccessful: true,
+                    hashedusername,
+                };
+            }
+            exports.handleDecryptionOfPage = handleDecryptionOfPage;
+
+            /**
+             * Clear localstorage from staticrypt related values
+             */
+            function clearLocalStorage() {
+                const { clearLocalStorageCallback, rememberExpirationKey, rememberPassphraseKey } = templateConfig;
+
+                if (typeof clearLocalStorageCallback === "function") {
+                    clearLocalStorageCallback();
+                } else {
+                    localStorage.removeItem(rememberPassphraseKey);
+                    localStorage.removeItem(rememberExpirationKey);
                 }
             }
-        };
 
-        // handle username form submission
-        document.getElementById("staticrypt-form").addEventListener("submit", async function (e) {
-            e.preventDefault();
+            async function handleDecryptOnLoad() {
+                let isSuccessful = await decryptOnLoadFromUrl();
 
-            const username = document.getElementById("staticrypt-username").value,
-                isRememberChecked = document.getElementById("staticrypt-remember").checked;
+                if (!isSuccessful) {
+                    isSuccessful = await decryptOnLoadFromRememberMe();
+                }
 
-            const { isSuccessful } = await staticrypt.handleDecryptionOfPage(username, isRememberChecked);
-
-            if (!isSuccessful) {
-                alert(templateError);
+                return { isSuccessful };
             }
-        });
-    </script>
+            exports.handleDecryptOnLoad = handleDecryptOnLoad;
+
+            /**
+             * Clear storage if we are logging out
+             *
+             * @returns {boolean} - whether we logged out
+             */
+            function logoutIfNeeded() {
+                const logoutKey = "staticrypt_logout";
+
+                // handle logout through query param
+                const queryParams = new URLSearchParams(window.location.search);
+                if (queryParams.has(logoutKey)) {
+                    clearLocalStorage();
+                    return true;
+                }
+
+                // handle logout through URL fragment
+                const hash = window.location.hash.substring(1);
+                if (hash.includes(logoutKey)) {
+                    clearLocalStorage();
+                    return true;
+                }
+
+                return false;
+            }
+
+            /**
+             * To be called on load: check if we want to try to decrypt and replace the HTML with the decrypted content, and
+             * try to do it if needed.
+             *
+             * @returns {Promise<boolean>} true if we derypted and replaced the whole page, false otherwise
+             */
+            async function decryptOnLoadFromRememberMe() {
+                const { rememberDurationInDays } = staticryptConfig;
+                const { rememberExpirationKey, rememberPassphraseKey } = templateConfig;
+
+                // if we are login out, terminate
+                if (logoutIfNeeded()) {
+                    return false;
+                }
+
+                // if there is expiration configured, check if we're not beyond the expiration
+                if (rememberDurationInDays && rememberDurationInDays > 0) {
+                    const expiration = localStorage.getItem(rememberExpirationKey),
+                        isExpired = expiration && new Date().getTime() > parseInt(expiration);
+
+                    if (isExpired) {
+                        clearLocalStorage();
+                        return false;
+                    }
+                }
+
+                const hashedusername = localStorage.getItem(rememberPassphraseKey);
+
+                if (hashedusername) {
+                    // try to decrypt
+                    const isDecryptionSuccessful = await decryptAndReplaceHtml(hashedusername);
+
+                    // if the decryption is unsuccessful the username might be wrong - silently clear the saved data and let
+                    // the user fill the username form again
+                    if (!isDecryptionSuccessful) {
+                        clearLocalStorage();
+                        return false;
+                    }
+
+                    return true;
+                }
+
+                return false;
+            }
+
+            function decryptOnLoadFromUrl() {
+                const usernameKey = "staticrypt_pwd";
+
+                // get the username from the query param
+                const queryParams = new URLSearchParams(window.location.search);
+                const hashedusernameQuery = queryParams.get(usernameKey);
+
+                // get the username from the url fragment
+                const hashRegexMatch = window.location.hash.substring(1).match(new RegExp(usernameKey + "=(.*)"));
+                const hashedusernameFragment = hashRegexMatch ? hashRegexMatch[1] : null;
+
+                const hashedusername = hashedusernameFragment || hashedusernameQuery;
+
+                if (hashedusername) {
+                    return decryptAndReplaceHtml(hashedusername);
+                }
+
+                return false;
+            }
+
+            return exports;
+        }
+        exports.init = init;
+
+        return exports;
+    })());
+    const templateError = "Bad username!",
+        isRememberEnabled = true,
+        staticryptConfig = { "staticryptEncryptedMsgUniqueVariableName": "a57051db59954f4d0af8386dd778e9193ef8fd88e634785915dd7f4fd8bcf3c51b4de133da844cd8e319d2095ae3bad2aacaf8b7b7395b5098b257ead21cdc912badd54513f4d3c30168ff79de55a8840ce4dc46e626a8e68f85ab349df3f7a65e559731cb82b4908a8aa8df03b41471c216b462dc12a7e19f2b9ddc248f56c65a71bc54e1978898749d98558af665e8274bb390e98229265d8f0424331ed6d29b925d484e87ffb3a3d77d3522b3c8f19be336c5b94692255223b2e151069e38ea9edb92e3bc0737b1a4ceee018f19de2f3ae7067c7910be921cb70bb6dbe02d85c41dfbc789f0134e1f5324208bf759894a329fd9a3fe865c30c4fd2e433aee3a82632b5660db96ba0f67ec8c07aadadce830734a93c2337791ba44f0856dbffb3821c0ab0beb43c459406eb6d6c68846723f531b7ed44c3c5b42291f29d3c99a9fa2f114bf7e397a30f30697abbc03f32040cc8be6c604aaf5de202541ee7827c08cb44319e1148a616e3ddf5c5bcae5f623c6d94d30372aa5250266e2a2fa86b221998ae778c48c3937c6a6d88bf3887fc2a4f3f0ac086bad7ae80ac140e1eea640603003a96dab2e78b4092555830f3cba3fc0c5436f6a1f4bccd63079318ac933239b31c9d4c64e8a5638a1dc9a2b369429abfc106a3f23269c5ff2873c8da6b47c156d3684968b8bdaf06209e2b4f116573aa597b033c8bbca46956fcfdc2d6308b451830096938bb174be4967b4eb2016a24b006f760f001f4ac5ce0d47ca7b8915dbd441ae0c6b83e85e6c8df5df195aeb04c4e1f7d7dfb1bdd339dc5e0bdc4f4beb89c08ccf4f84de6f0191b81dac5f02088a3c0f9984204461113b728db4f07fd8593ecc07cb70aaf01dc6a995e3588495affbe9574b168dd1a04f420bd8a6fc1a7b9fe64a1f2494234e857a30053eb20f18dc05ea7afbd97aba0652ca059b9b928a5680c13cc25893e58f469df0465fd0991049d9a0e95acbb77abd7bc6a9d995e4382b89c35b743e0a62fc0a6c6f52b852de16fa56c81de3225404a0d9559cdc9a692cf74e652e83fa4e76d64cc194bd6f291262c8e75dbdf3c5caa92a3592733ee20cdf25b7fdb3c0df0fc28d7e3e7451602c25cf19fd96db9272eb45bedd2729a7ca12daad8f2a407916184165a86cccf8001399213e9d163b25ca99a0438917232263cd460d57ea659926fbfd6c751ab833410755da7e809011abb7ba3b938627b7720edc91dcdfab74c9d08f52525334077d5369e0f05b9f1663e68da1dc19d3ac5b4e2e86b9b7bb8cf0ef9bc2353f6871eaaa71905e33075e12d1a66d949ed74bafca39f589e53a69030d41246ba320c256a5dd27bb2015b219a7ec1ffa7dd5cf01a8f5927f0d9750db1dee235e8f5443796e1b84f93b207df962d43db4b953d0f43dc990e15edf52a8ee566ae46a84aa4b2dcde8cb13a029e982435aeb8eaaae825c356d17ede35f076d3e456c3ff927173bc5a7ddc840216facd3942f7ef1560f93d9400e8da660ae24a082fb202b4baf984cb20655b509c0961cfbbfb480e9a0c04700be4c146a478dcbc1791449d74df2106a624c862d755026938591b85c796a7857805393e6b291ea9e55715653a243486344b763ba0f9f1b54c9570bc9c433e88f895458a9ea5973c2471b4977bec0ae1c70d3a089cc0a2a89abf8414b15d5a92ae4b7e390123c1230076e8e07384045257d2120c776988474e148914e11529d0b40173d76811b401d0db2cba0f362367f528d063094750230f38c063f864fbb5404cfa3bfde9a2817a1e4aff99749f993474c6e5c09a8308617aba12e9021ed2edd8c908a9d653c473bfeae664ceec320bd51b2f99dc30ca362c42ee981cb67e3d548c849ae90a20053ec87c0dc0a2bb7837aa30c9f126a700f1d49975c519ca4f501d733fc329eb7583943c2d1a9c3e1414c2fac4cd6adf36197c71f79949b0426fdd85f7d3f52dce6f2bcaa849271a2c4e415", "isRememberEnabled": true, "rememberDurationInDays": 0, "staticryptSaltUniqueVariableName": "f4842741abdfeeff38be7695f1fc7973" };
+
+    // you can edit these values to customize some of the behavior of StatiCrypt
+    const templateConfig = {
+        rememberExpirationKey: "staticrypt_expiration",
+        rememberPassphraseKey: "staticrypt_passphrase",
+        replaceHtmlCallback: null,
+        clearLocalStorageCallback: null,
+    };
+
+    // init the staticrypt engine
+    const staticrypt = staticryptInitiator.init(staticryptConfig, templateConfig);
+
+    // try to automatically decrypt on load if there is a saved username
+    window.onload = async function () {
+        const { isSuccessful } = await staticrypt.handleDecryptOnLoad();
+
+        // if we didn't decrypt anything on load, show the username prompt. Otherwise the content has already been
+        // replaced, no need to do anything
+        if (!isSuccessful) {
+            // hide loading screen
+            document.getElementById("staticrypt_loading").classList.add("hidden");
+            document.getElementById("staticrypt_content").classList.remove("hidden");
+            document.getElementById("staticrypt-username").focus();
+
+            // show the remember me checkbox
+            if (isRememberEnabled) {
+                document.getElementById("staticrypt-remember-label").classList.remove("hidden");
+            }
+        }
+    };
+
+    // handle username form submission
+    document.getElementById("staticrypt-form").addEventListener("submit", async function (e) {
+        e.preventDefault();
+
+        const username = document.getElementById("staticrypt-username").value,
+            isRememberChecked = document.getElementById("staticrypt-remember").checked;
+
+        const { isSuccessful } = await staticrypt.handleDecryptionOfPage(username, isRememberChecked);
+
+        if (!isSuccessful) {
+            alert(templateError);
+        }
+    });
+</script>
 </body>
 
 </html>
