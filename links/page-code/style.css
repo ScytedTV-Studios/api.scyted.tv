@@ -34,6 +34,7 @@ h2,
 .link-box {
     font-family: 'var(--googlefont)', sans-serif;
     color: var(--boldtextcolour);
+    text-align: center;
 }
 
 h1 {
@@ -77,12 +78,14 @@ h2 {
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
+    text-align: center;
 }
 
 p {
     font-size: 15px;
     font-family: 'var(--googlefont)', sans-serif;
     color: var(--normaltextcolour);
+    text-align: center;
 }
 
 a {
