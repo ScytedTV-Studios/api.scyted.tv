@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Content Creator Dashboard</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik">
+  <style>
+    body {
+      font-family: "Rubik", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #FFEA00;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .container {
+      background-color: #FFFFFF;
+      padding: 20px;
+      border-radius: 5px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .menu {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    .menu a {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 0 10px;
+      background-color: #f1f1f1;
+      color: #333;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .menu a:hover {
+      background-color: #ddd;
+    }
+
+    .content {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Content Creator Dashboard</h1>
+
+    <div class="menu">
+      <a id="checkEmail" style="display: none;" href="#">Check Creator Email</a>
+      <a id="customizeLinks" style="display: none;" href="#">Customize Links Page</a>
+    </div>
+
+    <div class="content">
+      <div id="emailContent" style="display: none;">
+        <!-- Email content will be displayed here -->
+      </div>
+
+      <div id="linksContent" style="display: none;">
+        <!-- Links customization content will be displayed here -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Sample JSON data for access permissions
+    const accessPermissions = {
+      "creator1": {
+        "checkEmail": true,
+        "customizeLinks": true
+      },
+      "creator2": {
+        "checkEmail": false,
+        "customizeLinks": true
+      },
+      "creator3": {
+        "checkEmail": true,
+        "customizeLinks": true
+      }
+    };
+
+    // Function to check access permissions and show/hide menu options
+    function checkAccessPermissions(creator) {
+      const permissions = accessPermissions[creator];
+
+      if (permissions && permissions.checkEmail) {
+        document.getElementById("checkEmail").style.display = "inline-block";
+      }
+
+      if (permissions && permissions.customizeLinks) {
+        document.getElementById("customizeLinks").style.display = "inline-block";
+      }
+    }
+
+    // Example usage for a specific creator (replace with actual creator ID)
+    const currentCreator = "creator1";
+    checkAccessPermissions(currentCreator);
+
+    // Example event listener for menu option clicks
+    document.getElementById("checkEmail").addEventListener("click", function(event) {
+      event.preventDefault();
+      // TODO: Add functionality to check creator's email
+      document.getElementById("emailContent").style.display = "block";
+      document.getElementById("linksContent").style.display = "none";
+    });
+
+    document.getElementById("customizeLinks").addEventListener("click", function(event) {
+      event.preventDefault();
+      // TODO: Add functionality to customize links page
+      document.getElementById("emailContent").style.display = "none";
+      document.getElementById("linksContent").style.display = "block";
+    });
+  </script>
+</body>
+</html>
