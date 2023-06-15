@@ -48,7 +48,24 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Jonathon Reed joins me in talking about Men's Mental Health with topics such as the difference between Toxic and Precarious Masculinity, how societal norms have shaped the way men feel about mental health, and how you shouldn't feel bad about being vulnerable with others.</description>
-      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-01-1.jpg" />
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-01-2.jpg" />
+    </item>
+
+<!-- Season 01, Episode 02 -->
+    <item>
+      <author>Loyd Osborne</author>
+      <itunes:author>Loyd Osborne</itunes:author>
+      <title>Cults in Relation to Religion (w/ Bea Cifra)</title>
+      <pubDate>Thu, 1 Jun 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/audio/season-01/episode-02.mp3" type="audio/mp3" length="5279" />
+      <itunes:duration>1:27:59</itunes:duration>
+      <guid isPermaLink="true">S01E02</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description>Bea Cifra joins me to discuss the very intricate nature of religion and the cults that stem from it. Listen as we discuss the manipulation and personal experiences of our guest.</description>
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-02.jpg" />
     </item>
 
   </channel>
