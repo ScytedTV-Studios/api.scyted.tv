@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Show Page</title>
+  <style>
+    body {
+      background-color: black;
+      font-family: 'Rubik', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    #show-image {
+      text-align: center;
+      margin-top: 50px; /* Adjust the margin value as needed */
+    }
+
+    #show-image img {
+      border-radius: 20px;
+      max-width: 20%; /* Adjust the max-width value to make the image smaller */
+      height: auto;
+    }
+
+    #show-title {
+      text-align: center;
+      color: #FFEA00;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+
+    #show-description {
+      text-align: center;
+      color: white;
+    }
+
+    #season-info {
+      text-align: left;
+      color: #FFEA00;
+      font-weight: bold;
+      margin-top: 20px;
+      margin-left: 20px;
+    }
+
+    #carousel-container {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    .video-title {
+      color: #FFEA00;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="show-image">
+    <!-- Replace 'image-link.jpg' with the actual image link for your show -->
+    <img src="image-link.jpg" alt="Show Image">
+  </div>
+
+  <div id="show-title">
+    <h1>TITLE</h1>
+  </div>
+
+  <div id="show-description">
+    <p>This is a short description of the show.</p>
+  </div>
+
+  <div id="season-info">
+    <h2>Season 01</h2>
+  </div>
+
+  <div id="carousel-container">
+    <!-- Replace 'carousel-image1.jpg', 'carousel-image2.jpg', etc. with the actual image links for your carousel -->
+    <div id="carousel">
+      <img src="carousel-image1.jpg" alt="Carousel Image 1">
+      <img src="carousel-image2.jpg" alt="Carousel Image 2">
+      <img src="carousel-image3.jpg" alt="Carousel Image 3">
+      <!-- Add more carousel images as needed -->
+    </div>
+  </div>
+
+  <script>
+    // JavaScript code for the carousel functionality (assumes you're using a library like jQuery or a carousel plugin)
+    // Add your own JavaScript code or use a carousel library of your choice
+
+    // Example using Slick carousel library (https://kenwheeler.github.io/slick/)
+    $(document).ready(function() {
+      $('#carousel').slick({
+        // Configure your carousel options here
+      });
+    });
+  </script>
+</body>
+</html>
