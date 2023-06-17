@@ -1,135 +1,167 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Show Page</title>
-  <style>
-    body {
-      background-color: black;
-      font-family: 'Rubik', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
+    <title>Show Page</title>
+    <style>
+        body {
+            background-color: black;
+            font-family: 'Rubik', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
-    #show-image {
-      text-align: center;
-      margin-top: 50px; /* Adjust the margin value as needed */
-    }
+        #show-image {
+            text-align: center;
+            margin-top: 50px;
+            /* Adjust the margin value as needed */
+        }
 
-    #show-image img {
-      border-radius: 10px; /* Adjust the border-radius value to change the curvature */
-      max-width: 20%; /* Adjust the max-width value to make the image smaller */
-      height: auto;
-    }
+        #show-image img {
+            border-radius: 10px;
+            /* Adjust the border-radius value to change the curvature */
+            max-width: 20%;
+            /* Adjust the max-width value to make the image smaller */
+            height: auto;
+        }
 
-    #show-title {
-      text-align: center;
-      color: #FFEA00;
-      font-weight: bold;
-      text-transform: uppercase;
-    }
+        #show-title {
+            text-align: center;
+            color: #FFEA00;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
 
-    #show-description {
-      text-align: center;
-      color: white;
-    }
+        #show-description {
+            text-align: center;
+            color: white;
+        }
 
-    #season-info {
-      text-align: left;
-      color: #FFEA00;
-      font-weight: bold;
-      margin-top: 20px;
-      margin-left: 20px;
-    }
+        #season-info {
+            text-align: left;
+            color: #FFEA00;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-left: 20px;
+        }
 
-    #carousel-container {
-      margin-top: 20px;
-      text-align: center;
-      padding: 0 20px; /* Add a buffer of 20 pixels on the left and right sides */
-    }
+        #carousel-container {
+            margin-top: 20px;
+            text-align: center;
+            padding: 0 20px;
+            /* Add a buffer of 20 pixels on the left and right sides */
+        }
 
-    #carousel {
-      display: flex;
-      justify-content: center; /* Center the carousel within the container */
-      overflow: hidden;
-      width: 100%; /* Adjust the width value to match the width of the page */
-      margin: 0 auto;
-    }
+        #carousel {
+            display: flex;
+            justify-content: center;
+            /* Center the carousel within the container */
+            overflow: hidden;
+            width: 100%;
+            /* Adjust the width value to match the width of the page */
+            margin: 0 auto;
+        }
 
-    #carousel .carousel-item {
-      flex: 0 0 calc((100% - 40px) / 3); /* Adjust the calculation to create equal spacing between images and account for margins */
-      margin: 0 5px; /* Adjust the margin value to create equal spacing between images */
-      border-radius: 10px; /* Add rounded corners */
-    }
+        #carousel .carousel-item {
+            flex: 0 0 calc((100% - 40px) / 3);
+            /* Adjust the calculation to create equal spacing between images and account for margins */
+            margin: 0 5px;
+            /* Adjust the margin value to create equal spacing between images */
+            border-radius: 10px;
+            /* Add rounded corners */
+        }
 
-    #carousel img {
-      width: 100%;
-      height: auto;
-      border-radius: 10px; /* Add rounded corners */
-    }
+        #carousel img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            /* Add rounded corners */
+        }
 
-    .carousel-text {
-      color: #FFEA00;
-      text-align: center;
-      margin-top: 5px;
-    }
+        .carousel-text {
+            color: #FFEA00;
+            text-align: center;
+            margin-top: 5px;
+        }
 
-    .carousel-text {
-    color: #FFEA00;
-    text-align: center;
-    margin-top: 5px;
-    font-weight: bold; /* Add font-weight property to make the text bold */
+        .carousel-text {
+            color: #FFEA00;
+            text-align: center;
+            margin-top: 5px;
+            font-weight: bold;
+            /* Add font-weight property to make the text bold */
+        }
+
+        /* Customize the scrollbar */
+  body::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
   }
-  </style>
+
+  body::-webkit-scrollbar-track {
+    background: #222; /* Background color of the scrollbar track */
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background: #555; /* Color of the scrollbar handle */
+    border-radius: 4px; /* Rounded corners of the scrollbar handle */
+  }
+
+  body::-webkit-scrollbar-thumb:hover {
+    background: #888; /* Color of the scrollbar handle when hovered */
+  }
+    </style>
 </head>
+
 <body>
-  <div id="show-image">
-    <!-- Replace 'image-link.jpg' with the actual image link for your show -->
-    <img src="image-link.jpg" alt="Show Image">
-  </div>
-
-  <div id="show-title">
-    <h1>TITLE</h1>
-  </div>
-
-  <div id="show-description">
-    <p>This is a short description of the show.</p>
-  </div>
-
-  <div id="season-info">
-    <h2>Season 01</h2>
-  </div>
-
-  <div id="carousel-container">
-    <!-- Replace 'carousel-image1.jpg', 'carousel-image2.jpg', etc. with the actual image links for your carousel -->
-    <div id="carousel">
-      <div class="carousel-item">
-        <img src="carousel-image1.jpg" alt="Carousel Image 1">
-        <p class="carousel-text">Image 1 Title</p>
-      </div>
-      <div class="carousel-item">
-        <img src="carousel-image2.jpg" alt="Carousel Image 2">
-        <p class="carousel-text">Image 2 Title</p>
-      </div>
-      <div class="carousel-item">
-        <img src="carousel-image3.jpg" alt="Carousel Image 3">
-        <p class="carousel-text">Image 3 Title</p>
-      </div>
-      <!-- Add more carousel items as needed -->
+    <div id="show-image">
+        <!-- Replace 'image-link.jpg' with the actual image link for your show -->
+        <img src="image-link.jpg" alt="Show Image">
     </div>
-  </div>
 
-  <script>
-    // JavaScript code for the carousel functionality (assumes you're using a library like jQuery or a carousel plugin)
-    // Add your own JavaScript code or use a carousel library of your choice
+    <div id="show-title">
+        <h1>INSIDE MIND</h1>
+    </div>
 
-    // Example using Slick carousel library (https://kenwheeler.github.io/slick/)
-    $(document).ready(function() {
-      $('#carousel').slick({
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        // Configure your carousel options here
-      });
-    });
-  </script>
+    <div id="show-description">
+        <p>Welcome to "Inside Mind" hosted by Loyd Osborne, the podcast where we fearlessly dive into mental health and those tough existential topics that are hard to navigate.</p>
+    </div>
+
+    <div id="season-info">
+        <h2>Season 01</h2>
+    </div>
+
+    <div id="carousel-container">
+        <!-- Replace 'carousel-image1.jpg', 'carousel-image2.jpg', etc. with the actual image links for your carousel -->
+        <div id="carousel">
+            <div class="carousel-item">
+                <img src="carousel-image1.jpg" alt="Carousel Image 1">
+                <p class="carousel-text">Image 1 Title</p>
+            </div>
+            <div class="carousel-item">
+                <img src="carousel-image2.jpg" alt="Carousel Image 2">
+                <p class="carousel-text">Image 2 Title</p>
+            </div>
+            <div class="carousel-item">
+                <img src="carousel-image3.jpg" alt="Carousel Image 3">
+                <p class="carousel-text">Image 3 Title</p>
+            </div>
+            <!-- Add more carousel items as needed -->
+        </div>
+    </div>
+
+    <script>
+        // JavaScript code for the carousel functionality (assumes you're using a library like jQuery or a carousel plugin)
+        // Add your own JavaScript code or use a carousel library of your choice
+
+        // Example using Slick carousel library (https://kenwheeler.github.io/slick/)
+        $(document).ready(function () {
+            $('#carousel').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                // Configure your carousel options here
+            });
+        });
+    </script>
 </body>
+
 </html>
