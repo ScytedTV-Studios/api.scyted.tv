@@ -13,7 +13,7 @@
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg</url>
+      <url>https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon.jpg</url>
       <title>YouTube Gameshow: The Web Series</title>
       <link>https://www.scyted.tv/show/youtube-gameshow-the-web-series/</link>
     </image>
@@ -30,6 +30,22 @@
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/assets/scytedtv/youtube-gameshow-the-web-series/feed.xml</link>
     <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
+
+<!-- Season 01, Trailer -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Welcome to YouTube Gameshow!</title>
+      <pubDate>Thu, 22 Jun 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/trailer.mp3" type="audio/mp3" length="128" />
+      <itunes:duration>02:08</itunes:duration>
+      <guid isPermaLink="true">S01TRAILER</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode></itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
+    </item>
 
   </channel>
 </rss>
