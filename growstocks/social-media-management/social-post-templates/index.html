@@ -18,7 +18,7 @@
       top: 0;
       left: 50%;
       transform: translateX(-50%);
-      margin-top: 50px;
+      margin-top: 20px;
       max-width: 400px;
       width: 100%;
       height: auto;
@@ -27,10 +27,9 @@
     .dashboard-container {
       display: flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
+      justify-content: center;
       height: 100vh;
-      text-align: center;
     }
 
     .table-container {
@@ -53,6 +52,59 @@
     th {
       background-color: #496AA1;
       text-transform: uppercase;
+    }
+
+    td {
+      position: relative;
+      padding-left: 20px;
+    }
+
+    td .preview {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+      border-radius: 50%;
+    }
+
+    td .preview:hover {
+      transform: scale(1.2);
+    }
+
+    td .lightbox {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.8);
+      z-index: 999;
+    }
+
+    td .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 10px;
+    }
+
+    td .close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 24px;
+      color: white;
+      cursor: pointer;
+      background-color: rgba(0, 0, 0, 0.5);
+      width: 30px;
+      height: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 50%;
     }
 
     td button {
@@ -83,33 +135,41 @@
         <thead>
           <tr>
             <th>Template Title</th>
+            <th>Image Preview</th>
             <th>Link</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Template 1</td>
-            <td><a href="#" download><button>Download</button></a></td>
-          </tr>
-          <tr>
-            <td>Template 2</td>
-            <td><a href="#" download><button>Download</button></a></td>
-          </tr>
-          <tr>
-            <td>Template 3</td>
-            <td><a href="#" download><button>Download</button></a></td>
-          </tr>
-          <tr>
-            <td>Template 4</td>
-            <td><a href="#" download><button>Download</button></a></td>
-          </tr>
-          <tr>
-            <td>Template 5</td>
-            <td><a href="#" download><button>Download</button></a></td>
+            <td>Default</td>
+            <td>
+              <div class="preview-container">
+                <img class="preview" src="default-template.jpg" alt="Default" onclick="openLightbox(this.src)">
+                <div class="lightbox" onclick="closeLightbox()">
+                  <img class="preview-large" src="default-template.jpg" alt="Default">
+                  <span class="close">&times;</span>
+                </div>
+              </div>
+            </td>
+            <td><a href="https://github.com/CVXSL/GrowStocks-Templates/releases/download/social-post.default/Default.zip" download><button>Download</button></a></td>
           </tr>
         </tbody>
       </table>
     </div>
   </div>
+
+  <script>
+    function openLightbox(src) {
+      const lightbox = document.querySelector('.lightbox');
+      const image = lightbox.querySelector('.preview-large');
+      image.src = src;
+      lightbox.style.display = 'flex';
+    }
+
+    function closeLightbox() {
+      const lightbox = document.querySelector('.lightbox');
+      lightbox.style.display = 'none';
+    }
+  </script>
 </body>
 </html>
