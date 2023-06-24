@@ -33,34 +33,43 @@
       text-align: center;
     }
 
-    .button-container {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
+    .table-container {
       margin-top: 50px;
-      align-items: center;
+      width: 100%;
+      max-width: 600px;
     }
 
-    .button {
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 12px;
+      color: white;
+      border-bottom: 1px solid #496AA1;
+    }
+
+    th {
+      background-color: #496AA1;
+      text-transform: uppercase;
+    }
+
+    td button {
       background-color: #496AA1;
       color: white;
-      padding: 12px 28px;
+      padding: 8px 16px;
       border: none;
       border-radius: 30px;
       text-decoration: none;
-      display: inline-block;
-      width: 100%;
-      max-width: 260px;
-      box-sizing: border-box;
-      text-align: center;
       transition: background-color 0.3s ease;
       font-weight: 700;
       letter-spacing: 1px;
       text-transform: uppercase;
-      font-size: 14px;
+      font-size: 12px;
     }
 
-    .button:hover {
+    td button:hover {
       background-color: #345E8C;
       cursor: pointer;
     }
@@ -69,8 +78,37 @@
 <body>
   <img class="logo" src="growstocks-logo.png" alt="GrowStocks Logo">
   <div class="dashboard-container">
-    <div class="button-container">
-      <a class="button" href="https://api.scyted.tv/growstocks/social-media-management/social-post-templates/">Social Post Templates</a>
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Template Title</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Template 1</td>
+            <td><a href="#" download><button>Download</button></a></td>
+          </tr>
+          <tr>
+            <td>Template 2</td>
+            <td><a href="#" download><button>Download</button></a></td>
+          </tr>
+          <tr>
+            <td>Template 3</td>
+            <td><a href="#" download><button>Download</button></a></td>
+          </tr>
+          <tr>
+            <td>Template 4</td>
+            <td><a href="#" download><button>Download</button></a></td>
+          </tr>
+          <tr>
+            <td>Template 5</td>
+            <td><a href="#" download><button>Download</button></a></td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </body>
