@@ -69,7 +69,7 @@
     </item>
 
 <!-- Season 01, Episode 03 -->
-    <!-- <item>
+    <item>
       <author>Loyd Osborne</author>
       <itunes:author>Loyd Osborne</itunes:author>
       <title>Life, Death, and The Afterlife (w/ Emmalee Phair)</title>
@@ -83,7 +83,7 @@
       <itunes:episodeType>episode</itunes:episodeType>
       <description>I am joined by Emmalee Phair to discuss the unnerving truths and lack of understanding related to the afterlife. Join us on this journey as we talk about life, death, and our interpretations of life after death.</description>
       <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-03.jpg" />
-    </item> -->
+    </item>
 
   </channel>
 </rss>
