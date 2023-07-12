@@ -13,7 +13,7 @@
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg</url>
+      <url>https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon-1.jpg</url>
       <title>YouTube Gameshow: The Web Series</title>
       <link>https://www.scyted.tv/show/youtube-gameshow-the-web-series/</link>
     </image>
@@ -24,12 +24,12 @@
     <itunes:keywords>YouTube Gameshow: The Web Series</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
     <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers. Directed and Producted by ScytedTV Studios.</description>
-    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" />
+    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon-1.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/assets/scytedtv/youtube-gameshow-the-web-series/feed.xml</link>
-    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
+    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon-1.jpg" /> 
 
 <!-- SEASON 01 -->
 <div>

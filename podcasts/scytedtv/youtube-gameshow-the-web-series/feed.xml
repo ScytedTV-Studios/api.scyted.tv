@@ -24,12 +24,12 @@
     <itunes:keywords>YouTube Gameshow: The Web Series</itunes:keywords>
     <copyright>ScytedTV Studios</copyright>
     <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers. Directed and Producted by ScytedTV Studios.</description>
-    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" />
+    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon-1.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 30 Jan 2023 11:00:00 MST</pubDate>
+    <pubDate>Thu, 06 Jul 2023 11:00:00 MST</pubDate>
     <link>https://podcasts.scyted.tv/assets/scytedtv/youtube-gameshow-the-web-series/feed.xml</link>
-    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-the-web-series.jpg" /> 
+    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/icons/icon-1.jpg" /> 
 
 <!-- Season 01, Trailer -->
     <item>
@@ -53,15 +53,14 @@
       <itunes:author>Rose O'sullivan</itunes:author>
       <title>Who is Jacksepticeye's favourite South Park character?</title>
       <pubDate>Thu, 6 Jul 2023 11:00:00 MST</pubDate>
-      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
-      <itunes:duration>09:38</itunes:duration>
-      <guid isPermaLink="false">S01E01</guid>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.1.mp3" type="audio/mp3" length="587" />
+      <itunes:duration>09:47</itunes:duration>
+      <guid isPermaLink="false">S01E01-1</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>episode</itunes:episodeType>
       <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
-      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
     </item>
 
   </channel>
