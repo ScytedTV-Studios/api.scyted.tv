@@ -47,5 +47,22 @@
       <description>YouTube Gameshow: The Web Series is a web-series focused on the subscriber knowledge of popular YouTubers.</description>
     </item>
 
+<!-- Season 01, Episode 01 -->
+    <item>
+      <author>Rose O'sullivan</author>
+      <itunes:author>Rose O'sullivan</itunes:author>
+      <title>Who is Jacksepticeye's favourite South Park character?</title>
+      <pubDate>Thu, 6 Jul 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/audio/season-01/episode-01.mp3" type="audio/mp3" length="578" />
+      <itunes:duration>09:38</itunes:duration>
+      <guid isPermaLink="false">S01E01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description>Nia, Katie, Dylan and Hollie are the first to compete in YouTube Gameshow.</description>
+      <!-- <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/youtube-gameshow-the-web-series/img/youtube-gameshow-s01.jpg" /> -->
+    </item>
+
   </channel>
 </rss>
