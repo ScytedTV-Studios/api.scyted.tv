@@ -1,0 +1,146 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Basic styles */
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: black; /* Main background color */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #FFEA00; /* Navigation bar background color */
+    color: #333;
+    padding: 10px 0;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    list-style: none;
+  }
+  
+  .nav-links li {
+    display: inline;
+    margin-left: 20px;
+  }
+  
+  .nav-links li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Hero section styles */
+  .hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #FFEA00; /* Color of "Welcome to ScytedTV" */
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #FFEA00; /* Button background color */
+    color: #333; /* Button text color */
+    padding: 15px 30px;
+    border: 2px solid #333; /* Button border color */
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 24px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .btn:hover {
+    background-color: #ffcf00; /* Button background color on hover */
+  }
+  
+  /* Featured shows section styles */
+  .featured-shows {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .featured-shows h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+  }
+  
+  .show-card {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .show-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .show-card h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .show-card p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .show-card a {
+    display: inline-block;
+    background-color: #FFEA00; /* Button background color */
+    color: #333; /* Button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .show-card a:hover {
+    background-color: #ffcf00; /* Button background color on hover */
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }  

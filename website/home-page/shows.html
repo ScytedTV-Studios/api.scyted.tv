@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScytedTV | Shows</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="container">
+        <a href="index.html" class="logo">ScytedTV</a>
+        <ul class="nav-links">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Shows</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="shows-list">
+      <div class="container">
+        <h2>Featured Shows</h2>
+        <div class="show-card-container" id="showContainer"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 ScytedTV. All rights reserved.</p>
+  </footer>
+
+  <script>
+    // Fetch data from the JSON file and display the shows
+    fetch('shows.json')
+      .then(response => response.json())
+      .then(data => {
+        // Sort the shows based on the date in descending order (newest to oldest)
+        data.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        // Create and display the show cards
+        const showContainer = document.getElementById('showContainer');
+        data.forEach(show => {
+          const showCard = `
+            <div class="show-card">
+              <img src="show-placeholder.jpg" alt="${show.title}">
+              <h3>${show.title}</h3>
+              <p>${show.description}</p>
+              <a href="${show.learnMoreUrl}" target="_blank">Learn More</a>
+            </div>
+          `;
+          showContainer.insertAdjacentHTML('beforeend', showCard);
+        });
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  </script>
+</body>
+
+</html>
