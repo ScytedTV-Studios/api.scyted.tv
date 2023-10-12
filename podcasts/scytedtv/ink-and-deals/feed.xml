@@ -4,13 +4,13 @@
     <title>Ink & Ideals</title>
     <copyright>&#xA9; 2023 ScytedTV Studios</copyright>
     <itunes:type>episodic</itunes:type>
-    <googleplay:author>Loyd Osborne</googleplay:author>
+    <googleplay:author>ScytedTV Studios</googleplay:author>
     <rawvoice:rating>TV-MA</rawvoice:rating>
     <rawvoice:location>Canada</rawvoice:location>
-    <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
     <!-- <rawvoice:poster url=”https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon1.jpg” /> -->
-    <author>Loyd Osborne</author>
-    <itunes:author>Loyd Osborne</itunes:author>
+    <author>ScytedTV Studios</author>
+    <itunes:author>ScytedTV Studios</itunes:author>
     <itunes:email>podcasts@scyted.tv</itunes:email>
     <itunes:category text="Documentary" />
     <image>
