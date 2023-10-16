@@ -2,11 +2,15 @@
 	"items": [
 		{
 			"name": "Spotify",
-			"link": "https://open.spotify.com/show/4uMfZdVMayR5XJUmQQNC7f?si=c820b0d48faa48fa"
+			"link": "https://open.spotify.com/show/4uMfZdVMayR5XJUmQQNC7f"
 		},
 		{
 			"name": "YouTube",
-			"link": "https://www.youtube.com/playlist?list=PLpkTTXdMJd_xAh0ll6IC0IheUh5FteHbp"
+			"link": "https://www.youtube.com/playlist?list=PL5irix3qFbXPtqBIvatO-m4RWqANi0xVV"
+		},
+		{
+			"name": "YouTube Shorts",
+			"link": "https://www.youtube.com/@InsideMindShortsSTV"
 		},
 		{
 			"name": "Apple Podcasts",
