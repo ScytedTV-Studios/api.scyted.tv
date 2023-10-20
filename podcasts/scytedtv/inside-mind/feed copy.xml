@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Inside Mind</title>
+    <copyright>&#xA9; 2023 ScytedTV Studios</copyright>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>Loyd Osborne</googleplay:author>
+    <rawvoice:rating>TV-MA</rawvoice:rating>
+    <rawvoice:location>Canada</rawvoice:location>
+    <rawvoice:frequency>Bi-Weekly</rawvoice:frequency>
+    <!-- <rawvoice:poster url=”https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon1.jpg” /> -->
+    <author>Loyd Osborne</author>
+    <itunes:author>Loyd Osborne</itunes:author>
+    <itunes:email>podcasts@scyted.tv</itunes:email>
+    <itunes:category text="Documentary" />
+    <image>
+      <url>https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon1.jpg</url>
+      <title>Inside Mind</title>
+      <link>https://www.scyted.tv/show/inside-mind/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>ScytedTV Studios</itunes:name>
+      <itunes:email>podcasts@scyted.tv</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Inside Mind</itunes:keywords>
+    <copyright>ScytedTV Studios</copyright>
+    <description>Welcome to "Inside Mind" hosted by Loyd Osborne, the podcast where we fearlessly dive into mental health and those tough existential topics that are hard to navigate. Join Loyd as he has honest and raw conversations with experts and real people who have faced their inner demons, creating a safe space to be open and vulnerable. Get ready to explore the deep corners of the human mind, confront uncomfortable truths, and discover practical insights for self-discovery and growth. So, hop on board this transformative journey where we challenge norms, expand our understanding, and embrace the beautiful messiness of being human, one episode at a time.</description>
+    <googleplay:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon1.jpg" />
+    <language>en-ca</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Thu, 1 Jun 2023 00:00:00 MST</pubDate>
+    <link>https://www.scyted.tv/show/inside-mind/</link>
+    <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/icons/icon1.jpg" /> 
+
+<!-- SEASON 01 -->
+
+<!-- Season 01, Episode 01 -->
+    <item>
+      <author>Loyd Osborne</author>
+      <itunes:author>Loyd Osborne</itunes:author>
+      <title>Toxic vs. Precarious Masculinity (w/ Jonathon Reed)</title>
+      <pubDate>Thu, 1 Jun 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/audio/season-01/episode-01.mp3" type="audio/mp3" length="3581" />
+      <itunes:duration>59:41</itunes:duration>
+      <guid isPermaLink="true">S01E01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description>Jonathon Reed joins me in talking about Men's Mental Health with topics such as the difference between Toxic and Precarious Masculinity, how societal norms have shaped the way men feel about mental health, and how you shouldn't feel bad about being vulnerable with others.</description>
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-01-2.jpg" />
+    </item>
+
+<!-- Season 01, Episode 02 -->
+    <item>
+      <author>Loyd Osborne</author>
+      <itunes:author>Loyd Osborne</itunes:author>
+      <title>Cults in Relation to Religion (w/ Bea Cifra)</title>
+      <pubDate>Thu, 15 Jun 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/audio/season-01/episode-02.mp3" type="audio/mp3" length="5279" />
+      <itunes:duration>1:27:59</itunes:duration>
+      <guid isPermaLink="true">S01E02</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description>Bea Cifra joins me to discuss the very intricate nature of religion and the cults that stem from it. Listen as we discuss the manipulation cults use to recruit people like you and me, and personal experiences of our guest's past.</description>
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-02.jpg" />
+    </item>
+
+<!-- Season 01, Episode 03 -->
+    <item>
+      <author>Loyd Osborne</author>
+      <itunes:author>Loyd Osborne</itunes:author>
+      <title>Life, Death, and The Afterlife (w/ Emmalee Phair)</title>
+      <pubDate>Thu, 29 Jun 2023 11:00:00 MST</pubDate>
+      <enclosure url="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/audio/season-01/episode-03.mp3" type="audio/mp3" length="2715" />
+      <itunes:duration>45:15</itunes:duration>
+      <guid isPermaLink="true">S01E03</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>episode</itunes:episodeType>
+      <description>I am joined by Emmalee Phair to discuss the unnerving truths and lack of understanding related to the afterlife. Join us on this journey as we talk about life, death, and our interpretations of life after death.</description>
+      <itunes:image href="https://cdn.scyted.tv/assets/scytedtv/show/inside-mind/img/episode-03.jpg" />
+    </item>
+
+  </channel>
+</rss>
