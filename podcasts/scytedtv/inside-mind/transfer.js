@@ -1,0 +1,1 @@
+<script>window.location.replace('https://anchor.fm/s/eb8579b0/podcast/rss');</script>
