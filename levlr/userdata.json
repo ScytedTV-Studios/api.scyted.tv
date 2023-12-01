@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 4506,
+    "xp": 4516,
     "level": "25"
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 9117,
+    "xp": 9137,
     "level": "26"
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 249,
+    "xp": 259,
     "level": 21
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 127,
+    "xp": 157,
     "level": 14
   },
   {
@@ -6753,6 +6753,12 @@
     "userId": "1019506040414412860",
     "username": "_ignore__",
     "xp": 60,
+    "level": 1
+  },
+  {
+    "userId": "233528677286019072",
+    "username": "virtualburn",
+    "xp": 10,
     "level": 1
   }
 ]
