@@ -1002,12 +1002,6 @@
     "level": "1"
   },
   {
-    "userId": "undefined",
-    "username": "undefined",
-    "xp": "undefined",
-    "level": "undefined"
-  },
-  {
     "userId": "1147267897723461783",
     "username": "aareysood1washere",
     "xp": "76",
@@ -1172,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": "7817",
+    "xp": 7827,
     "level": "26"
   },
   {
@@ -1202,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": "516",
+    "xp": 536,
     "level": "17"
   },
   {
@@ -1388,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": "147",
+    "xp": 177,
     "level": "14"
   },
   {
@@ -3873,7 +3867,7 @@
     "userId": "onewrong",
     "username": "10",
     "xp": "1",
-    "level": "undefined"
+    "level": "1"
   },
   {
     "userId": "1173802913332744363",
@@ -3970,12 +3964,6 @@
     "username": ".user.dice",
     "xp": "0",
     "level": "2"
-  },
-  {
-    "userId": "1",
-    "username": "undefined",
-    "xp": "undefined",
-    "level": "undefined"
   },
   {
     "userId": "422497556476723200",
@@ -4178,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": "67",
+    "xp": 77,
     "level": "12"
   },
   {
@@ -4202,13 +4190,13 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": "44",
+    "xp": 54,
     "level": "15"
   },
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": "484",
+    "xp": 494,
     "level": "9"
   },
   {
@@ -6712,11 +6700,5 @@
     "username": "Levlr Dev",
     "xp": "50",
     "level": "1"
-  },
-  {
-    "userId": "undefined",
-    "username": "undefined",
-    "xp": "undefined",
-    "level": "undefined"
   }
- ]
+]
