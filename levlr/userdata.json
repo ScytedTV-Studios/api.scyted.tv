@@ -2,7 +2,7 @@
   {
     "userId": "437808476106784770",
     "username": "Arcane",
-    "xp": "36",
+    "xp": "46",
     "level": "3"
   },
   {
@@ -272,7 +272,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": "337",
+    "xp": "377",
     "level": "14"
   },
   {
@@ -284,7 +284,7 @@
   {
     "userId": "1153134189688934470",
     "username": "Levlr",
-    "xp": 60,
+    "xp": "60",
     "level": "1"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": "3656",
+    "xp": "3666",
     "level": "25"
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": "7797",
+    "xp": "7817",
     "level": "26"
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": "1154",
+    "xp": "1164",
     "level": "15"
   },
   {
@@ -4154,7 +4154,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": "1046",
+    "xp": "1056",
     "level": "13"
   },
   {
@@ -4178,8 +4178,8 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": "670",
-    "level": "11"
+    "xp": 77,
+    "level": "12"
   },
   {
     "userId": "400460072649621524",
@@ -4202,13 +4202,13 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": "1147",
-    "level": "14"
+    "xp": "44",
+    "level": "15"
   },
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 484,
+    "xp": "484",
     "level": "9"
   },
   {
@@ -4340,8 +4340,8 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": "237",
-    "level": "5"
+    "xp": "69",
+    "level": "6"
   },
   {
     "userId": "839952893482369044",
@@ -4352,8 +4352,8 @@
   {
     "userId": "404468475516420096",
     "username": "firefly707",
-    "xp": "237",
-    "level": "5"
+    "xp": "9",
+    "level": "6"
   },
   {
     "userId": "955371879412142090",
@@ -6704,13 +6704,19 @@
   {
     "userId": "537451505041539083",
     "username": "kweebie",
-    "xp": "50",
-    "level": "2"
+    "xp": "36",
+    "level": "3"
   },
   {
     "userId": "1153408955465355455",
     "username": "Levlr Dev",
-    "xp": 50,
-    "level": 1
+    "xp": "50",
+    "level": "1"
+  },
+  {
+    "userId": "undefined",
+    "username": "undefined",
+    "xp": "undefined",
+    "level": "undefined"
   }
 ]
