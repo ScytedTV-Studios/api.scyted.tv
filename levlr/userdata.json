@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 4526,
+    "xp": 4556,
     "level": "25"
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 134,
+    "xp": 144,
     "level": 16
   },
   {
@@ -4172,7 +4172,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 74,
+    "xp": 84,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 277,
+    "xp": 307,
     "level": 14
   },
   {
@@ -4880,7 +4880,7 @@
   {
     "userId": "828100639866486795",
     "username": "Don't Panic!",
-    "xp": 626,
+    "xp": 716,
     "level": "13"
   },
   {
@@ -6758,6 +6758,12 @@
   {
     "userId": "233528677286019072",
     "username": "virtualburn",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1137060569359319083",
+    "username": "haxmc",
     "xp": 10,
     "level": 1
   }
