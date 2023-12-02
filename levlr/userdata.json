@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 9767,
+    "xp": 9777,
     "level": "26"
   },
   {
@@ -1304,7 +1304,7 @@
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 70,
+    "xp": 80,
     "level": "11"
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1154,
+    "xp": 1174,
     "level": "16"
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 677,
+    "xp": 697,
     "level": 14
   },
   {
@@ -4166,13 +4166,13 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 197,
+    "xp": 207,
     "level": "12"
   },
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 1124,
+    "xp": 1134,
     "level": 16
   },
   {
@@ -4328,8 +4328,8 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1514,
-    "level": 15
+    "xp": 4,
+    "level": 16
   },
   {
     "userId": "839952893482369044",
@@ -6770,7 +6770,7 @@
   {
     "userId": "859498339439345687",
     "username": "pancake",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -6788,6 +6788,12 @@
   {
     "userId": "1105746460580007986",
     "username": ".kryptx",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "199417447424458762",
+    "username": "bulletmemes",
     "xp": 10,
     "level": 1
   }
