@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5826,
+    "xp": 5846,
     "level": "25"
   },
   {
@@ -1166,19 +1166,19 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 10957,
+    "xp": 10967,
     "level": "26"
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 989,
+    "xp": 999,
     "level": 21
   },
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 788,
+    "xp": 798,
     "level": "18"
   },
   {
@@ -4040,7 +4040,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 57,
+    "xp": 67,
     "level": 12
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 24,
+    "xp": 34,
     "level": 15
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1638,
+    "xp": 1668,
     "level": 18
   },
   {
@@ -6812,6 +6812,12 @@
   {
     "userId": "852629364104757288",
     "username": "goldchest2",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "987203608732905512",
+    "username": "pilot2800",
     "xp": 10,
     "level": 1
   }
