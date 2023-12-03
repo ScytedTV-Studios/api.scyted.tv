@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 870,
+    "xp": 880,
     "level": 27
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1459,
+    "xp": 1469,
     "level": 21
   },
   {
@@ -2996,8 +2996,8 @@
   {
     "userId": "1161036029583691856",
     "username": "Piggy #community",
-    "xp": "110",
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "980951711013277746",
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1502,
+    "xp": 1532,
     "level": 20
   },
   {
