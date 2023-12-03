@@ -4022,7 +4022,7 @@
   {
     "userId": "1159629471737974906",
     "username": "shane_20",
-    "xp": 234,
+    "xp": 244,
     "level": 9
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 654,
+    "xp": 664,
     "level": 15
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3582,
+    "xp": 3612,
     "level": 20
   },
   {
@@ -6914,6 +6914,12 @@
   {
     "userId": "174035616273530880",
     "username": ".ashphalt",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "850116929812430898",
+    "username": "armstrong_19",
     "xp": 10,
     "level": 1
   }
