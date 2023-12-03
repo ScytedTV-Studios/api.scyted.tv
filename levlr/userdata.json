@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 924,
+    "xp": 944,
     "level": 16
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 199,
+    "xp": 209,
     "level": "6"
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "userId": "949342410150924319",
     "username": "Majo.exe",
-    "xp": 77,
+    "xp": 87,
     "level": "5"
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 4,
+    "xp": 14,
     "level": 4
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 564,
+    "xp": 614,
     "level": 15
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 617,
+    "xp": 687,
     "level": "12"
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 634,
+    "xp": 764,
     "level": "15"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3262,
+    "xp": 3292,
     "level": 20
   },
   {
@@ -6482,7 +6482,7 @@
   {
     "userId": "1002295868428386434",
     "username": "_xeyo",
-    "xp": 50,
+    "xp": 60,
     "level": 2
   },
   {
@@ -6668,8 +6668,8 @@
   {
     "userId": "519903611120123924",
     "username": "god_of_the_dragons",
-    "xp": 70,
-    "level": "1"
+    "xp": 10,
+    "level": 2
   },
   {
     "userId": "778697286950715413",
@@ -6902,6 +6902,12 @@
   {
     "userId": "486359285140553731",
     "username": "zetxine",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "555525566137237510",
+    "username": "1e100.net",
     "xp": 10,
     "level": 1
   }
