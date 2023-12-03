@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 0,
+    "xp": 20,
     "level": 27
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1059,
+    "xp": 1069,
     "level": 21
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 644,
+    "xp": 664,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1076,
+    "xp": 1106,
     "level": 19
   },
   {
@@ -6848,6 +6848,12 @@
   {
     "userId": "757808409943867443",
     "username": "trigerxx",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "525300190521851917",
+    "username": "himmaster",
     "xp": 20,
     "level": 1
   }
