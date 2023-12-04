@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1348,
+    "xp": 1368,
     "level": "18"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3329,
+    "xp": 3359,
     "level": 21
   },
   {
@@ -6945,6 +6945,12 @@
     "userId": "811238600095301703",
     "username": "_ceiling.",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "727154675496779826",
+    "username": "cps_gaming",
+    "xp": 10,
     "level": 1
   }
 ]
