@@ -1,0 +1,143 @@
+/* Add your existing styles or any additional styles here */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    padding: 15px;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for the file preview */
+.preview {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.download-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.download-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Styles for the file preview */
+.preview {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Additional styles for specific media types */
+.preview img {
+    max-width: 100%;
+    height: auto;
+}
+
+.preview video,
+.preview audio {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styles for the file preview */
+.preview {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Additional styles for specific media types */
+.preview img {
+    max-width: 100%;
+    height: auto;
+}
+
+.preview video,
+.preview audio {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* New styles for file details */
+.file-details {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Ensure 2 files per line */
+@media (min-width: 768px) {
+    #catalogSection > div {
+        width: 50%;
+        box-sizing: border-box;
+        float: left;
+        padding: 0 10px;
+    }
+}
+
+/* New styles for vertical space and extending white background */
+.file-details .download-btn {
+    margin-bottom: 20px; /* Adjust as needed */
+}
+
+main {
+    overflow: hidden; /* Clear floated elements */
+}
+
+#catalogSection {
+    background-color: #fff; /* White background */
+    padding: 20px; /* Add padding around catalog items */
+}
