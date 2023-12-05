@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 8526,
+    "xp": 8536,
     "level": "25"
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 2579,
+    "xp": 2589,
     "level": 21
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 347,
+    "xp": 357,
     "level": "14"
   },
   {
@@ -4040,7 +4040,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 637,
+    "xp": 657,
     "level": 12
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4669,
+    "xp": 4699,
     "level": 22
   },
   {
@@ -6999,6 +6999,12 @@
     "userId": "991091593316548650",
     "username": "roseburrito",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "282101610052583425",
+    "username": "junkynioy",
+    "xp": 30,
     "level": 1
   }
 ]
