@@ -1,7 +1,47 @@
 {
     "items": [
         {
-            "fileName": "COMING SOON",
+            "fileName": "scytedtv.jpg",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-inverted.jpg",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-icon.png",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-logo.png",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-logo-black.png",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-creators.jpg",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-gaming.jpg",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "scytedtv-podcasts.jpg",
+            "fileDownloadLink": "",
+            "fileLink": ""
+        },
+        {
+            "fileName": "a-scytedtv-original.png",
             "fileDownloadLink": "",
             "fileLink": ""
         }
