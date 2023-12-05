@@ -242,7 +242,7 @@
   {
     "userId": "515614459549581342",
     "username": "noaho325",
-    "xp": 814,
+    "xp": 834,
     "level": "15"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 9046,
+    "xp": 9056,
     "level": "25"
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1474,
+    "xp": 1504,
     "level": 16
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 624,
+    "xp": 664,
     "level": 16
   },
   {
@@ -4238,7 +4238,7 @@
   {
     "userId": "715898328973574185",
     "username": "robelo06",
-    "xp": 50,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4049,
+    "xp": 4129,
     "level": 23
   },
   {
@@ -7047,6 +7047,12 @@
     "userId": "306810730055729152",
     "username": "owoer",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1181610479282561055",
+    "username": "Patreon: ScytedTV Studios",
+    "xp": 20,
     "level": 1
   }
 ]
