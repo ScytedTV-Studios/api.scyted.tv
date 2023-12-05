@@ -1,4 +1,3 @@
-/* Add your existing styles or any additional styles here */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -50,7 +49,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Styles for the file preview */
 .preview {
     width: 100%;
     max-width: 400px;
@@ -72,14 +70,12 @@ a:hover {
     background-color: #0056b3;
 }
 
-/* Styles for the file preview */
 .preview {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
 }
 
-/* Additional styles for specific media types */
 .preview img {
     max-width: 100%;
     height: auto;
@@ -92,14 +88,12 @@ a:hover {
     height: auto;
 }
 
-/* Styles for the file preview */
 .preview {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
 }
 
-/* Additional styles for specific media types */
 .preview img {
     max-width: 100%;
     height: auto;
@@ -112,13 +106,11 @@ a:hover {
     height: auto;
 }
 
-/* New styles for file details */
 .file-details {
     text-align: center;
     margin-top: 10px;
 }
 
-/* Ensure 2 files per line */
 @media (min-width: 768px) {
     #catalogSection > div {
         width: 50%;
@@ -128,16 +120,15 @@ a:hover {
     }
 }
 
-/* New styles for vertical space and extending white background */
 .file-details .download-btn {
-    margin-bottom: 20px; /* Adjust as needed */
+    margin-bottom: 20px;
 }
 
 main {
-    overflow: hidden; /* Clear floated elements */
+    overflow: hidden;
 }
 
 #catalogSection {
-    background-color: #fff; /* White background */
-    padding: 20px; /* Add padding around catalog items */
+    background-color: #fff;
+    padding: 20px;
 }

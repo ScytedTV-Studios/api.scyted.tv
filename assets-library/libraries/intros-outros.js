@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('catalogItems.json')
+    fetch('intros-outros.json')
         .then(response => response.json())
         .then(data => generateCatalog(data.items))
         .catch(error => console.error('Error fetching JSON:', error));

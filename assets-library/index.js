@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Fetch the JSON file
     fetch('folders.json')
         .then(response => response.json())
         .then(data => generateFolders(data.folders))
