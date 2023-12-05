@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 4120,
+    "xp": 4130,
     "level": 27
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 2709,
+    "xp": 2719,
     "level": 21
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 549,
+    "xp": 579,
     "level": 23
   },
   {
@@ -7028,6 +7028,18 @@
   {
     "userId": "1136174690159824956",
     "username": "MINECRAFT #english",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1171679319408521236",
+    "username": "Light Bot - Public",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1166449901949964439",
+    "username": "BibleBot",
     "xp": 10,
     "level": 1
   }
