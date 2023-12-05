@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 5070,
+    "xp": 5080,
     "level": 27
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 3219,
+    "xp": 3229,
     "level": 21
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 844,
+    "xp": 854,
     "level": 16
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 266,
+    "xp": 276,
     "level": 13
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5309,
+    "xp": 5339,
     "level": 23
   },
   {
@@ -6656,7 +6656,7 @@
   {
     "userId": "869789372969537556",
     "username": "Discord Developers #discord-api-announcements",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
@@ -7053,6 +7053,12 @@
     "userId": "1181610479282561055",
     "username": "Patreon: ScytedTV Studios",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1010849506297909348",
+    "username": "stealthkodibuilds",
+    "xp": 10,
     "level": 1
   }
 ]
