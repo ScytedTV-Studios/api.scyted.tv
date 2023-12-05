@@ -2,7 +2,7 @@
   {
     "userId": "437808476106784770",
     "username": "Arcane",
-    "xp": 7,
+    "xp": 17,
     "level": 5
   },
   {
@@ -866,7 +866,7 @@
   {
     "userId": "235148962103951360",
     "username": "Carl-bot",
-    "xp": 319,
+    "xp": 329,
     "level": 10
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 241,
+    "xp": 251,
     "level": "7"
   },
   {
@@ -4076,7 +4076,7 @@
   {
     "userId": "669228505128501258",
     "username": "Pokémon",
-    "xp": 79,
+    "xp": 89,
     "level": 6
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5339,
+    "xp": 5369,
     "level": 23
   },
   {
@@ -5498,7 +5498,7 @@
   {
     "userId": "736720144390160436",
     "username": "ocean2675",
-    "xp": 96,
+    "xp": 106,
     "level": "3"
   },
   {
@@ -7059,6 +7059,12 @@
     "userId": "1010849506297909348",
     "username": "stealthkodibuilds",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "417391562767597578",
+    "username": "intellectualslime",
+    "xp": 20,
     "level": 1
   }
 ]
