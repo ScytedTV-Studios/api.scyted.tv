@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "name": "Logos",
+            "location": "logos/"
+        },
+        {
             "name": "Intros & Outros",
             "location": "intros-outros/"
         }
