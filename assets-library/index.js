@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('folders.json')
+    fetch('https://api.scyted.tv/assets-library/folders.json')
         .then(response => response.json())
         .then(data => generateFolders(data.folders))
         .catch(error => console.error('Error fetching JSON:', error));
