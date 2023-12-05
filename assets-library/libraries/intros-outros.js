@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    fetch('intros-outros.json')
+    fetch('https://api.scyted.tv/assets-library/libraries/intros-outros.json')
         .then(response => response.json())
         .then(data => generateCatalog(data.items))
         .catch(error => console.error('Error fetching JSON:', error));
