@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 367,
+    "xp": 377,
     "level": 26
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 5970,
+    "xp": 6000,
     "level": 27
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 3539,
+    "xp": 3549,
     "level": 21
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 324,
+    "xp": 344,
     "level": 15
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1136,
+    "xp": 1166,
     "level": 17
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 1564,
+    "xp": 1594,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1515,
+    "xp": 1545,
     "level": 24
   },
   {
@@ -7077,6 +7077,12 @@
     "userId": "135424796061204480",
     "username": "nothacked",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "996546116210405427",
+    "username": "tea_toastlol",
+    "xp": 10,
     "level": 1
   }
 ]
