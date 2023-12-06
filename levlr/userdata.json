@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4285,
+    "xp": 4315,
     "level": 24
   },
   {
@@ -7094,6 +7094,12 @@
   {
     "userId": "984015688807100419",
     "username": "sampathgujarathi",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "718551938316238983",
+    "username": "ay",
     "xp": 10,
     "level": 1
   }
