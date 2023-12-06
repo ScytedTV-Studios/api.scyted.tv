@@ -4232,7 +4232,7 @@
   {
     "userId": "1136174616516239402",
     "username": "MINECRAFT #bedrock-changelogs",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7155,
+    "xp": 7185,
     "level": 24
   },
   {
@@ -7118,7 +7118,7 @@
   {
     "userId": "1181975576785997994",
     "username": "Wave DEV",
-    "xp": 26,
+    "xp": 66,
     "level": 3
   }
 ]
