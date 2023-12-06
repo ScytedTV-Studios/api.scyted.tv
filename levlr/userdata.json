@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1744,
+    "xp": 1754,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5195,
+    "xp": 5225,
     "level": 24
   },
   {
@@ -7100,6 +7100,12 @@
   {
     "userId": "718551938316238983",
     "username": "ay",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1121747852918521937",
+    "username": "mallusrgreat",
     "xp": 10,
     "level": 1
   }
