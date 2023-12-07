@@ -332,7 +332,7 @@
   {
     "userId": "782053704227487754",
     "username": "Botomir",
-    "xp": "40",
+    "xp": 50,
     "level": "2"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 2027,
+    "xp": 2037,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 8490,
+    "xp": 8500,
     "level": 27
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 2558,
+    "xp": 2578,
     "level": "18"
   },
   {
@@ -1496,19 +1496,19 @@
   {
     "userId": "791971458372730881",
     "username": "Elysium",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "1085616825494155284",
     "username": "poxi bot",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "160677293252018177",
     "username": "Harmonbot",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
@@ -1520,13 +1520,13 @@
   {
     "userId": "356831787445387285",
     "username": "GiselleBot",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "896250399584051240",
     "username": "Pixel",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
@@ -1538,19 +1538,19 @@
   {
     "userId": "456492080781328384",
     "username": "DAS",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "928966154817523723",
     "username": "L u c y ♡",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
     "userId": "1048837687777431602",
     "username": "Void-bot",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
@@ -1568,19 +1568,19 @@
   {
     "userId": "570171110742556673",
     "username": "RBXBolt",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "968250211224932372",
     "username": "Warrior Bot",
-    "xp": "10",
+    "xp": 20,
     "level": "2"
   },
   {
     "userId": "1016379490953330720",
     "username": "Micro",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "userId": "429656936435286016",
     "username": "RinBot",
-    "xp": "70",
+    "xp": 80,
     "level": "1"
   },
   {
@@ -1610,19 +1610,19 @@
   {
     "userId": "945411538985046167",
     "username": "Muse",
-    "xp": "110",
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "544207672623235073",
     "username": "Emerald",
-    "xp": 20,
+    "xp": 30,
     "level": "2"
   },
   {
     "userId": "603541055530598400",
     "username": "Support System",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "userId": "431837317246877698",
     "username": "Amazing",
-    "xp": "100",
+    "xp": 110,
     "level": "1"
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "userId": "454564411596865537",
     "username": "Dragon Ball OV",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
@@ -1670,7 +1670,7 @@
   {
     "userId": "990765258186571817",
     "username": "Lightning",
-    "xp": "100",
+    "xp": 110,
     "level": "1"
   },
   {
@@ -1682,13 +1682,13 @@
   {
     "userId": "802267523058761759",
     "username": "Pixel",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "428634701771702282",
     "username": "CharizardBot",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
@@ -1700,43 +1700,43 @@
   {
     "userId": "219401942781132800",
     "username": "i-Tool",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
     "userId": "407929486206566400",
     "username": "Atsuko",
-    "xp": "100",
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "564160684540166174",
     "username": "Rocket League Crate Simulator",
-    "xp": "100",
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "722913076344782858",
     "username": "Sarnento",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "893158413402505299",
     "username": "Akko",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "846770591231246336",
     "username": "Manbo",
-    "xp": "100",
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "626327927050600448",
     "username": "Pal-bot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1748,25 +1748,25 @@
   {
     "userId": "602158699900829706",
     "username": "MK Bot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "310848622642069504",
     "username": "JuniperBot",
-    "xp": "50",
+    "xp": 60,
     "level": "1"
   },
   {
     "userId": "1001168331996409856",
     "username": "In House Queue",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "990263875708551218",
     "username": "Teams",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1778,13 +1778,13 @@
   {
     "userId": "720656641002962995",
     "username": "Clanbutler",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "405724335525855232",
     "username": "UnitCorrector",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1796,25 +1796,25 @@
   {
     "userId": "947487125627088937",
     "username": "Anti Link",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "804132401453465640",
     "username": "VoidBot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "107256979105267712",
     "username": "Kupo Bot",
-    "xp": "40",
+    "xp": 50,
     "level": "1"
   },
   {
     "userId": "822981583832612904",
     "username": "DisGo",
-    "xp": "40",
+    "xp": 50,
     "level": "1"
   },
   {
@@ -1826,13 +1826,13 @@
   {
     "userId": "748256867662299137",
     "username": "EmojiBot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "928323512135974922",
     "username": "Atom",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "userId": "979219206300106787",
     "username": "Lidraughts Statbot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1862,25 +1862,25 @@
   {
     "userId": "288641089668120587",
     "username": "wadbot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "742468030994448567",
     "username": "JummyBot",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "718493970652594217",
     "username": "Tickety",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "796646075321679912",
     "username": "Aborea by The_Bow_Hunter",
-    "xp": "30",
+    "xp": 50,
     "level": "1"
   },
   {
@@ -2426,7 +2426,7 @@
   {
     "userId": "755588579262201886",
     "username": "AFK Bot",
-    "xp": 30,
+    "xp": 40,
     "level": "2"
   },
   {
@@ -2654,7 +2654,7 @@
   {
     "userId": "1030248474937131018",
     "username": "LevelUp",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "userId": "939986359697956874",
     "username": "ESP CUSTOMS",
-    "xp": "50",
+    "xp": 60,
     "level": "1"
   },
   {
@@ -2696,13 +2696,13 @@
   {
     "userId": "1055196262896500776",
     "username": "ChatGPT",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
     "userId": "1071317814847225906",
     "username": "Tuck Yo Homies In Bot",
-    "xp": "10",
+    "xp": 20,
     "level": "1"
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 104,
+    "xp": 114,
     "level": 4
   },
   {
@@ -3860,7 +3860,7 @@
   {
     "userId": "1089931393733251132",
     "username": "Okaa",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -4124,7 +4124,7 @@
   {
     "userId": "892454292924014592",
     "username": "Thor",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 276,
+    "xp": 286,
     "level": 17
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 57,
+    "xp": 87,
     "level": 12
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3636,
+    "xp": 3666,
     "level": 25
   },
   {
@@ -4418,13 +4418,13 @@
   {
     "userId": "890247030507704330",
     "username": "SwearJar",
-    "xp": "40",
+    "xp": 50,
     "level": "1"
   },
   {
     "userId": "954695799411974165",
     "username": "GiveawayBot™",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -4634,7 +4634,7 @@
   {
     "userId": "989440183428599849",
     "username": "Isekaid",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -4646,8 +4646,8 @@
   {
     "userId": "550786131336232961",
     "username": "Persephone",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "868832984172724285",
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 124,
+    "xp": 154,
     "level": 4
   },
   {
@@ -4766,7 +4766,7 @@
   {
     "userId": "862189630992547911",
     "username": "Pokéarena",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -4778,7 +4778,7 @@
   {
     "userId": "1121744755936739388",
     "username": "Anime Update",
-    "xp": "70",
+    "xp": 80,
     "level": "1"
   },
   {
@@ -4916,8 +4916,8 @@
   {
     "userId": "1157787472600768583",
     "username": "Nazuna Music",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1050387073875595267",
@@ -5168,7 +5168,7 @@
   {
     "userId": "995152223245975632",
     "username": "веселый прикол",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -5186,7 +5186,7 @@
   {
     "userId": "451379187031343104",
     "username": "LunaBot 🌙",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -6170,7 +6170,7 @@
   {
     "userId": "1156134562418663585",
     "username": "UniBot",
-    "xp": "10",
+    "xp": 20,
     "level": "1"
   },
   {
@@ -7155,6 +7155,24 @@
     "userId": "344282497103691777",
     "username": "coolcat467",
     "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "842651454694096898",
+    "username": "somewhatoriginal",
+    "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "1023810715250860105",
+    "username": "Expert",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "844757192313536522",
+    "username": "annoybot",
+    "xp": 10,
     "level": 1
   }
 ]
