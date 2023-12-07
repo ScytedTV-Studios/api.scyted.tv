@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 2458,
+    "xp": 2468,
     "level": "18"
   },
   {
@@ -1190,13 +1190,13 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 86,
+    "xp": 116,
     "level": 17
   },
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 1008,
+    "xp": 1038,
     "level": 18
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 474,
+    "xp": 494,
     "level": 15
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 103,
+    "xp": 153,
     "level": 8
   },
   {
@@ -4184,7 +4184,7 @@
   {
     "userId": "214463059601784833",
     "username": "stupid cat",
-    "xp": 60,
+    "xp": 70,
     "level": "2"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 2626,
+    "xp": 2656,
     "level": 25
   },
   {
@@ -7136,13 +7136,19 @@
   {
     "userId": "411887008160415766",
     "username": "init2",
-    "xp": 76,
+    "xp": 106,
     "level": 3
   },
   {
     "userId": "1133391313119760434",
     "username": "Milo",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "688863176850145424",
+    "username": "klshasan47",
+    "xp": 20,
     "level": 1
   }
 ]
