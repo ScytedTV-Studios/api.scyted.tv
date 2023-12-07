@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 126,
+    "xp": 136,
     "level": 19
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 1678,
+    "xp": 1688,
     "level": 18
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 984,
+    "xp": 994,
     "level": 15
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 418,
+    "xp": 428,
     "level": 18
   },
   {
@@ -2744,7 +2744,7 @@
   {
     "userId": "508391840525975553",
     "username": "Tickets",
-    "xp": 37,
+    "xp": 47,
     "level": 5
   },
   {
@@ -4040,7 +4040,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 26,
+    "xp": 36,
     "level": 13
   },
   {
@@ -4070,13 +4070,13 @@
   {
     "userId": "999736048596816014",
     "username": "Ballsdex",
-    "xp": 154,
+    "xp": 164,
     "level": 9
   },
   {
     "userId": "669228505128501258",
     "username": "Pokémon",
-    "xp": 149,
+    "xp": 159,
     "level": 6
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 516,
+    "xp": 526,
     "level": 17
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 1614,
+    "xp": 1634,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 297,
+    "xp": 317,
     "level": 26
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 30,
+    "xp": 40,
     "level": 11
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 231,
+    "xp": 241,
     "level": 7
   },
   {
@@ -6686,7 +6686,7 @@
   {
     "userId": "1147308835808235581",
     "username": "ScytedTV",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -7064,7 +7064,7 @@
   {
     "userId": "417391562767597578",
     "username": "intellectualslime",
-    "xp": 50,
+    "xp": 60,
     "level": 1
   },
   {
@@ -7190,6 +7190,18 @@
   {
     "userId": "1121554168662999051",
     "username": "smokes12",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1175632511133560872",
+    "username": "tom7625",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "1008776202191634432",
+    "username": "automod",
     "xp": 10,
     "level": 1
   }
