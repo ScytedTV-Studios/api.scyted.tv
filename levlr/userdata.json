@@ -1190,13 +1190,13 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 126,
+    "xp": 136,
     "level": 17
   },
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 1348,
+    "xp": 1358,
     "level": 18
   },
   {
@@ -3824,13 +3824,13 @@
   {
     "userId": "302050872383242240",
     "username": "DISBOARD",
-    "xp": 83,
+    "xp": 93,
     "level": 8
   },
   {
     "userId": "735147814878969968",
     "username": "Fibo",
-    "xp": 100,
+    "xp": 120,
     "level": 11
   },
   {
@@ -4172,7 +4172,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 2206,
+    "xp": 2216,
     "level": 17
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 380,
+    "xp": 400,
     "level": 11
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3046,
+    "xp": 3076,
     "level": 25
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 30,
+    "xp": 60,
     "level": 2
   },
   {
@@ -7136,7 +7136,7 @@
   {
     "userId": "411887008160415766",
     "username": "init2",
-    "xp": 44,
+    "xp": 64,
     "level": 4
   },
   {
@@ -7154,7 +7154,7 @@
   {
     "userId": "344282497103691777",
     "username": "coolcat467",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   }
 ]
