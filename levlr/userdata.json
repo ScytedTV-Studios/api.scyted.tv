@@ -518,7 +518,7 @@
   {
     "userId": "388964061397778432",
     "username": "lenofag2000",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 669,
+    "xp": 679,
     "level": 22
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 536,
+    "xp": 546,
     "level": 17
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 154,
+    "xp": 164,
     "level": 4
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 6687,
+    "xp": 6717,
     "level": 26
   },
   {
@@ -7287,6 +7287,12 @@
     "userId": "617745713828331542",
     "username": "supervip9979",
     "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "427846479567126528",
+    "username": "ProKameron Bot",
+    "xp": 10,
     "level": 1
   }
 ]
