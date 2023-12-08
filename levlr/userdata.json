@@ -764,37 +764,37 @@
   {
     "userId": "628400349979344919",
     "username": "StickyBot",
-    "xp": "90",
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "878253816531812412",
     "username": "JamJar",
-    "xp": "10",
+    "xp": 20,
     "level": "2"
   },
   {
     "userId": "438959507389808641",
     "username": "Aiura",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
     "userId": "845746467641753600",
     "username": "S-Bot",
-    "xp": "36",
+    "xp": 46,
     "level": "3"
   },
   {
     "userId": "960101593238347856",
     "username": "DChaoFileVisualizerBot",
-    "xp": "80",
+    "xp": 90,
     "level": "1"
   },
   {
     "userId": "916347998794043454",
     "username": "Xu Music",
-    "xp": "0",
+    "xp": 10,
     "level": "2"
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 11210,
+    "xp": 11220,
     "level": 27
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 486,
+    "xp": 496,
     "level": 17
   },
   {
@@ -2240,7 +2240,7 @@
   {
     "userId": "825617171589759006",
     "username": "Flantic",
-    "xp": "36",
+    "xp": 46,
     "level": "3"
   },
   {
@@ -2252,7 +2252,7 @@
   {
     "userId": "711141521587568661",
     "username": "GrandCoinMaster",
-    "xp": "70",
+    "xp": 80,
     "level": "1"
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 134,
+    "xp": 144,
     "level": 4
   },
   {
@@ -3860,8 +3860,8 @@
   {
     "userId": "1089931393733251132",
     "username": "Okaa",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "onewrong",
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5367,
+    "xp": 5397,
     "level": 26
   },
   {
@@ -4514,7 +4514,7 @@
   {
     "userId": "80528701850124288",
     "username": "R. Danny",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4766,7 +4766,7 @@
   {
     "userId": "862189630992547911",
     "username": "Pokéarena",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
@@ -4778,7 +4778,7 @@
   {
     "userId": "1121744755936739388",
     "username": "Anime Update",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -4916,7 +4916,7 @@
   {
     "userId": "1157787472600768583",
     "username": "Nazuna Music",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -6026,7 +6026,7 @@
   {
     "userId": "1071376465318379520",
     "username": "Pinned Messages",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -6194,7 +6194,7 @@
   {
     "userId": "1117912749146656790",
     "username": "douxx.py",
-    "xp": 6,
+    "xp": 26,
     "level": 3
   },
   {
