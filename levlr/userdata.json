@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 3537,
+    "xp": 3547,
     "level": 26
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 426,
+    "xp": 446,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3457,
+    "xp": 3487,
     "level": 26
   },
   {
@@ -7202,6 +7202,12 @@
   {
     "userId": "1008776202191634432",
     "username": "automod",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "620226249448488981",
+    "username": "sohunn",
     "xp": 10,
     "level": 1
   }
