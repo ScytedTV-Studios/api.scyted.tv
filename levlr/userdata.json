@@ -1172,7 +1172,7 @@
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 759,
+    "xp": 769,
     "level": 22
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 996,
+    "xp": 1006,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7477,
+    "xp": 7507,
     "level": 26
   },
   {
@@ -4880,7 +4880,7 @@
   {
     "userId": "828100639866486795",
     "username": "Don't Panic!",
-    "xp": 694,
+    "xp": 794,
     "level": 15
   },
   {
@@ -7118,8 +7118,8 @@
   {
     "userId": "1181975576785997994",
     "username": "Wave DEV",
-    "xp": 291,
-    "level": 7
+    "xp": 33,
+    "level": 8
   },
   {
     "userId": "814184806333415474",
@@ -7292,6 +7292,12 @@
   {
     "userId": "427846479567126528",
     "username": "ProKameron Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1014546394482221146",
+    "username": "golfmanhack",
     "xp": 10,
     "level": 1
   }
