@@ -1172,7 +1172,7 @@
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 799,
+    "xp": 809,
     "level": 22
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 40,
+    "xp": 190,
     "level": 11
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 183,
+    "xp": 253,
     "level": 8
   },
   {
@@ -1946,7 +1946,7 @@
   {
     "userId": "747997152248070225",
     "username": "sita",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "userId": "949342410150924319",
     "username": "Majo.exe",
-    "xp": 177,
+    "xp": 187,
     "level": "5"
   },
   {
@@ -2816,13 +2816,13 @@
   {
     "userId": "1068408126698696774",
     "username": "he",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "726116310773137418",
     "username": "Ptarmigan",
-    "xp": "30",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -3410,7 +3410,7 @@
   {
     "userId": "1068627569760550994",
     "username": "Threaded",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -3446,7 +3446,7 @@
   {
     "userId": "1001808611577692195",
     "username": "Ocean's Mod",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -3500,7 +3500,7 @@
   {
     "userId": "982003572126400613",
     "username": "foxtrot",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7837,
+    "xp": 7867,
     "level": 26
   },
   {
@@ -4514,7 +4514,7 @@
   {
     "userId": "80528701850124288",
     "username": "R. Danny",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -4940,8 +4940,8 @@
   {
     "userId": "492131441375838210",
     "username": "cake",
-    "xp": 50,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1093655510126952538",
@@ -7244,7 +7244,7 @@
   {
     "userId": "967752155136163850",
     "username": "Wiki-dle",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7370,6 +7370,30 @@
   {
     "userId": "1137052528790491228",
     "username": "thrivebot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1132895633460690994",
+    "username": "Astoria",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1155964875848298536",
+    "username": "CFT Coin- & Levelsystem",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "980484259829645332",
+    "username": "MasterGame-Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1125817651009179738",
+    "username": "Cricbot",
     "xp": 10,
     "level": 1
   }
