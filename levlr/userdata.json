@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 4587,
+    "xp": 4657,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 12220,
+    "xp": 12300,
     "level": 27
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 796,
+    "xp": 826,
     "level": 17
   },
   {
@@ -1268,8 +1268,8 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 599,
-    "level": "10"
+    "xp": 40,
+    "level": 11
   },
   {
     "userId": "660210517671018525",
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 173,
+    "xp": 183,
     "level": 8
   },
   {
@@ -3860,7 +3860,7 @@
   {
     "userId": "1089931393733251132",
     "username": "Okaa",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7807,
+    "xp": 7837,
     "level": 26
   },
   {
@@ -4766,8 +4766,8 @@
   {
     "userId": "862189630992547911",
     "username": "Pokéarena",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "854128971125620736",
@@ -4778,7 +4778,7 @@
   {
     "userId": "1121744755936739388",
     "username": "Anime Update",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
@@ -4916,7 +4916,7 @@
   {
     "userId": "1157787472600768583",
     "username": "Nazuna Music",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -4940,7 +4940,7 @@
   {
     "userId": "492131441375838210",
     "username": "cake",
-    "xp": 40,
+    "xp": 50,
     "level": "1"
   },
   {
@@ -5936,7 +5936,7 @@
   {
     "userId": "1143861352453124149",
     "username": "StarBot",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -5966,13 +5966,13 @@
   {
     "userId": "1069983815310778421",
     "username": "Noisy",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "948637316145102868",
     "username": "Orator",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -6026,7 +6026,7 @@
   {
     "userId": "1071376465318379520",
     "username": "Pinned Messages",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -6998,8 +6998,8 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 166,
-    "level": 3
+    "xp": 14,
+    "level": 4
   },
   {
     "userId": "282101610052583425",
@@ -7322,7 +7322,7 @@
   {
     "userId": "1132079788140531872",
     "username": "萬能寶可機器",
-    "xp": 30,
+    "xp": 50,
     "level": 1
   },
   {
@@ -7340,6 +7340,36 @@
   {
     "userId": "1162908048436777000",
     "username": "Mediocre",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "714416218756350012",
+    "username": "charge_dev",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "1045381555817824356",
+    "username": "UltraBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1109509077094117386",
+    "username": "🅻-🅼🆄🆂🅸🅲",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "796120497468866630",
+    "username": "Ghost Ping Detector",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1137052528790491228",
+    "username": "thrivebot",
     "xp": 10,
     "level": 1
   }
