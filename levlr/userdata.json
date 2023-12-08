@@ -1196,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 2018,
+    "xp": 2028,
     "level": 18
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 284,
+    "xp": 304,
     "level": 15
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 718,
+    "xp": 748,
     "level": 18
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 24,
+    "xp": 34,
     "level": 9
   },
   {
@@ -3584,7 +3584,7 @@
   {
     "userId": "158049329150427136",
     "username": "snazzah",
-    "xp": 26,
+    "xp": 36,
     "level": 3
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 8997,
+    "xp": 9027,
     "level": 26
   },
   {
@@ -7136,7 +7136,7 @@
   {
     "userId": "411887008160415766",
     "username": "init2",
-    "xp": 164,
+    "xp": 174,
     "level": 4
   },
   {
@@ -7436,6 +7436,12 @@
   {
     "userId": "955565378904416257",
     "username": "targetonbreak",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1182350364809384061",
+    "username": "numixdev",
     "xp": 10,
     "level": 1
   }
