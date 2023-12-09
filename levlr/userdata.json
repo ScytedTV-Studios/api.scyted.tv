@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5097,
+    "xp": 5107,
     "level": 26
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 9507,
+    "xp": 9537,
     "level": 26
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 293,
+    "xp": 303,
     "level": 8
   },
   {
@@ -7444,5 +7444,11 @@
     "username": "numixdev",
     "xp": 144,
     "level": 4
+  },
+  {
+    "userId": "1162448812959355042",
+    "username": "cesssj",
+    "xp": 10,
+    "level": 1
   }
 ]
