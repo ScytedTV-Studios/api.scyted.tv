@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5327,
+    "xp": 5347,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 13250,
+    "xp": 13270,
     "level": 27
   },
   {
@@ -4022,7 +4022,7 @@
   {
     "userId": "1159629471737974906",
     "username": "shane_20",
-    "xp": 39,
+    "xp": 49,
     "level": 10
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10827,
+    "xp": 10857,
     "level": 26
   },
   {
@@ -7454,6 +7454,12 @@
   {
     "userId": "669627189624307712",
     "username": "Community Updates",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "874245614316175360",
+    "username": "markthebeast_",
     "xp": 10,
     "level": 1
   }
