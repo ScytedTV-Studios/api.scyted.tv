@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 1244,
+    "xp": 1254,
     "level": 15
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5380,
+    "xp": 5410,
     "level": 27
   },
   {
@@ -6812,7 +6812,7 @@
   {
     "userId": "852629364104757288",
     "username": "goldchest2",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -7502,6 +7502,12 @@
   {
     "userId": "171250038465495040",
     "username": "Geekbot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "533990725524783121",
+    "username": "kopeyo",
     "xp": 10,
     "level": 1
   }
