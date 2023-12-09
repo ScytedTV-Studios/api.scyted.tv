@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 73,
+    "xp": 83,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1249,
+    "xp": 1259,
     "level": 22
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 466,
+    "xp": 476,
     "level": 17
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 29,
+    "xp": 39,
     "level": 10
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 2750,
+    "xp": 2780,
     "level": 27
   },
   {
@@ -7472,6 +7472,12 @@
   {
     "userId": "438214383169044481",
     "username": "chomponthis",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "750936760871026779",
+    "username": "Fun Fact Bot",
     "xp": 10,
     "level": 1
   }
