@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5947,
+    "xp": 5967,
     "level": 26
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 593,
+    "xp": 623,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1429,
+    "xp": 1439,
     "level": 22
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1166,
+    "xp": 1176,
     "level": 17
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 2116,
+    "xp": 2126,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4370,
+    "xp": 4400,
     "level": 27
   },
   {
@@ -4880,7 +4880,7 @@
   {
     "userId": "828100639866486795",
     "username": "Don't Panic!",
-    "xp": 1364,
+    "xp": 1464,
     "level": 15
   },
   {
@@ -6680,7 +6680,7 @@
   {
     "userId": "938931317981204510",
     "username": "brotato2113",
-    "xp": 120,
+    "xp": 130,
     "level": "2"
   },
   {
@@ -7484,6 +7484,12 @@
   {
     "userId": "1183113484221820958",
     "username": "Wave Events",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1122630803810156675",
+    "username": "plisfy",
     "xp": 10,
     "level": 1
   }
