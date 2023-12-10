@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 6667,
+    "xp": 6677,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 1863,
+    "xp": 1873,
     "level": 28
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 353,
+    "xp": 363,
     "level": 8
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10000,
+    "xp": 10030,
     "level": 27
   },
   {
@@ -7545,6 +7545,12 @@
     "userId": "1158496652487831646",
     "username": "wild_world0",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "832149994714169385",
+    "username": "longdedashort",
+    "xp": 10,
     "level": 1
   }
 ]
