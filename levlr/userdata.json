@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1046,
+    "xp": 1056,
     "level": 19
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1306,
+    "xp": 1316,
     "level": 17
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 756,
+    "xp": 766,
     "level": 17
   },
   {
@@ -4070,7 +4070,7 @@
   {
     "userId": "999736048596816014",
     "username": "Ballsdex",
-    "xp": 354,
+    "xp": 374,
     "level": 9
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 276,
+    "xp": 306,
     "level": 13
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7570,
+    "xp": 7600,
     "level": 27
   },
   {
@@ -5306,7 +5306,7 @@
   {
     "userId": "613545019663712261",
     "username": "amightytank",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -7533,6 +7533,12 @@
     "userId": "983166598858805319",
     "username": "latioskuanhoopa",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "966073575507382362",
+    "username": "dunejonesentertainment",
+    "xp": 10,
     "level": 1
   }
 ]
