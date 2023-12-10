@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 6767,
+    "xp": 6777,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 2063,
+    "xp": 2073,
     "level": 28
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "userId": "190590364871032834",
     "username": "builderb",
-    "xp": 253,
+    "xp": 273,
     "level": 8
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10930,
+    "xp": 10960,
     "level": 27
   },
   {
@@ -4364,7 +4364,7 @@
   {
     "userId": "312145496179474434",
     "username": "solelychloe",
-    "xp": 413,
+    "xp": 423,
     "level": "8"
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 40,
+    "xp": 60,
     "level": 1
   },
   {
@@ -7562,13 +7562,67 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 93,
+    "xp": 323,
     "level": 8
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "957885295251034112",
+    "username": "otoneko.",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1108178870429036686",
+    "username": "Useful Calculation Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "847472000124583997",
+    "username": "Gamer's Cafe",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1061808757622984844",
+    "username": "♪ohhhhhん★",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "652560148983709739",
+    "username": "SecRaid [Anti-Raid]",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1179455094429855821",
+    "username": "Datt-Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "841682378686201907",
+    "username": "Pokédoof",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "864802145487814656",
+    "username": "chisei",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "899225748819308585",
+    "username": "Social Credit System of The PRC",
+    "xp": 20,
     "level": 1
   }
 ]
