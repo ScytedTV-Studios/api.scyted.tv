@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1496,
+    "xp": 1506,
     "level": 17
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 986,
+    "xp": 996,
     "level": 17
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 1364,
+    "xp": 1374,
     "level": 15
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 1374,
+    "xp": 1394,
     "level": 15
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "userId": "190590364871032834",
     "username": "builderb",
-    "xp": 273,
+    "xp": 283,
     "level": 8
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 289,
+    "xp": 309,
     "level": 10
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 358,
+    "xp": 368,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 13410,
+    "xp": 13440,
     "level": 27
   },
   {
@@ -6950,7 +6950,7 @@
   {
     "userId": "727154675496779826",
     "username": "cps_gaming",
-    "xp": 50,
+    "xp": 70,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 2302,
+    "xp": 2522,
     "level": 20
   },
   {
@@ -7647,6 +7647,12 @@
     "userId": "969903970275430461",
     "username": "rafilevrai",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1043542610842751057",
+    "username": "bloominwick",
+    "xp": 30,
     "level": 1
   }
 ]
