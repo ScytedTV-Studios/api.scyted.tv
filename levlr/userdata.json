@@ -1166,19 +1166,19 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 2903,
+    "xp": 2913,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 2109,
+    "xp": 2119,
     "level": 22
   },
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1396,
+    "xp": 1406,
     "level": 19
   },
   {
@@ -4076,7 +4076,7 @@
   {
     "userId": "669228505128501258",
     "username": "Pokémon",
-    "xp": 269,
+    "xp": 279,
     "level": 6
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 273,
+    "xp": 303,
     "level": 28
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 167,
+    "xp": 177,
     "level": 5
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 100,
+    "xp": 130,
     "level": 2
   },
   {
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 3079,
+    "xp": 3309,
     "level": 21
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 90,
+    "xp": 100,
     "level": 1
   },
   {
@@ -7592,13 +7592,13 @@
   {
     "userId": "1061808757622984844",
     "username": "♪ohhhhhん★",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
     "userId": "652560148983709739",
     "username": "SecRaid [Anti-Raid]",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7616,13 +7616,13 @@
   {
     "userId": "864802145487814656",
     "username": "chisei",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
     "userId": "899225748819308585",
     "username": "Social Credit System of The PRC",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -7652,13 +7652,109 @@
   {
     "userId": "1043542610842751057",
     "username": "bloominwick",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
     "userId": "719960886806315030",
     "username": "itzhenry_",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "922776570597376012",
+    "username": "x._n_n_.x",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1096138573788491887",
+    "username": "Lucie",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1053744760705269801",
+    "username": "Infinity Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "973249156242079744",
+    "username": "RimaBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1142860518080655450",
+    "username": "雪乃 香奈",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "710425933391200276",
+    "username": "Hyper Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1025861611971412019",
+    "username": "Goathy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1171372298998136933",
+    "username": "検討Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "903686039435108382",
+    "username": "鄧不利超多西瓜",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "916252640235630612",
+    "username": "Hungry bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "766704091777728533",
+    "username": "CTB",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1169277711592718379",
+    "username": "Bee Guy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "789396082564005938",
+    "username": "KevinBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1050824366813876427",
+    "username": "Grammar Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "922829502537695324",
+    "username": "Cheems' Utilities",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "802409754307067914",
+    "username": "Aika",
+    "xp": 10,
     "level": 1
   }
 ]
