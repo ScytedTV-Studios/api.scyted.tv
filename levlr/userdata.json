@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4543,
+    "xp": 4573,
     "level": 28
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 76,
+    "xp": 86,
     "level": 3
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 2467,
+    "xp": 2677,
     "level": 26
   },
   {
@@ -7574,7 +7574,7 @@
   {
     "userId": "957885295251034112",
     "username": "otoneko.",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7616,7 +7616,7 @@
   {
     "userId": "864802145487814656",
     "username": "chisei",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -7682,7 +7682,7 @@
   {
     "userId": "973249156242079744",
     "username": "RimaBot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7712,13 +7712,13 @@
   {
     "userId": "903686039435108382",
     "username": "鄧不利超多西瓜",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
     "userId": "916252640235630612",
     "username": "Hungry bot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7868,6 +7868,18 @@
   {
     "userId": "185476724627210241",
     "username": "Ayana",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1148906753161957446",
+    "username": "GBC Supporter",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1048201296462741589",
+    "username": "TimeLeap",
     "xp": 10,
     "level": 1
   }
