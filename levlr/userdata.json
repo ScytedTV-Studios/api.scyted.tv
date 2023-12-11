@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 3203,
+    "xp": 3213,
     "level": 28
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 657,
+    "xp": 717,
     "level": 12
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 383,
+    "xp": 393,
     "level": 8
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "userId": "241930933962407936",
     "username": "Discord Bots Verification",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 379,
+    "xp": 459,
     "level": 10
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1233,
+    "xp": 1263,
     "level": 28
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 969,
+    "xp": 1209,
     "level": 23
   },
   {
@@ -7766,6 +7766,12 @@
   {
     "userId": "533222079735136266",
     "username": "mouze",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1100203264957497427",
+    "username": "ShuttleAI",
     "xp": 10,
     "level": 1
   }
