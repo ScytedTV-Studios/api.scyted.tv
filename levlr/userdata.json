@@ -38,7 +38,7 @@
   {
     "userId": "1066057160125059112",
     "username": "Reedroux",
-    "xp": "20",
+    "xp": 30,
     "level": "2"
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 4243,
+    "xp": 4253,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 2479,
+    "xp": 2489,
     "level": 22
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 196,
+    "xp": 236,
     "level": 13
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 104,
+    "xp": 124,
     "level": 9
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3613,
+    "xp": 3643,
     "level": 28
   },
   {
@@ -4940,7 +4940,7 @@
   {
     "userId": "492131441375838210",
     "username": "cake",
-    "xp": 50,
+    "xp": 70,
     "level": 2
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 4856,
+    "xp": 5066,
     "level": 25
   },
   {
@@ -7820,6 +7820,54 @@
   {
     "userId": "1167286626112786563",
     "username": "Shard AI",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1127390852218630214",
+    "username": "ShinesBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1124688116268138547",
+    "username": "Preo",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1154280647951650877",
+    "username": "Violet",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1157354209759465624",
+    "username": "PLUS+",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1147999772293202081",
+    "username": "EricBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1125585825560809503",
+    "username": "dockbot.io",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1163725744397107200",
+    "username": "Aco Music",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "185476724627210241",
+    "username": "Ayana",
     "xp": 10,
     "level": 1
   }
