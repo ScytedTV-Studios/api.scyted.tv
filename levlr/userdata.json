@@ -866,7 +866,7 @@
   {
     "userId": "235148962103951360",
     "username": "Carl-bot",
-    "xp": 110,
+    "xp": 120,
     "level": 11
   },
   {
@@ -3824,13 +3824,13 @@
   {
     "userId": "302050872383242240",
     "username": "DISBOARD",
-    "xp": 413,
+    "xp": 423,
     "level": 8
   },
   {
     "userId": "735147814878969968",
     "username": "Fibo",
-    "xp": 17,
+    "xp": 27,
     "level": 12
   },
   {
@@ -4046,7 +4046,7 @@
   {
     "userId": "1174137218181369878",
     "username": "Wave 24/7",
-    "xp": 49,
+    "xp": 59,
     "level": 6
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 618,
+    "xp": 638,
     "level": 18
   },
   {
@@ -4304,7 +4304,7 @@
   {
     "userId": "568225077355610126",
     "username": "aeif",
-    "xp": 353,
+    "xp": 393,
     "level": 8
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1653,
+    "xp": 1683,
     "level": 28
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 310,
+    "xp": 350,
     "level": 11
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 4449,
+    "xp": 4699,
     "level": 23
   },
   {
@@ -7778,7 +7778,7 @@
   {
     "userId": "901273925361729597",
     "username": "ectoobiologistt",
-    "xp": 110,
-    "level": 1
+    "xp": 30,
+    "level": 2
   }
 ]
