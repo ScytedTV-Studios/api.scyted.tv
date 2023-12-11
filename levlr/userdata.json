@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 3273,
+    "xp": 3293,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 2249,
+    "xp": 2259,
     "level": 22
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 36,
+    "xp": 46,
     "level": 13
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 947,
+    "xp": 967,
     "level": 14
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1533,
+    "xp": 1563,
     "level": 28
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 160,
+    "xp": 200,
     "level": 11
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 3409,
+    "xp": 3689,
     "level": 23
   },
   {
@@ -7773,6 +7773,12 @@
     "userId": "1100203264957497427",
     "username": "ShuttleAI",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "901273925361729597",
+    "username": "ectoobiologistt",
+    "xp": 30,
     "level": 1
   }
 ]
