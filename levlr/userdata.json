@@ -242,7 +242,7 @@
   {
     "userId": "515614459549581342",
     "username": "noaho325",
-    "xp": 54,
+    "xp": 64,
     "level": 16
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 9537,
+    "xp": 9577,
     "level": 26
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 5883,
+    "xp": 5933,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 3069,
+    "xp": 3079,
     "level": 22
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2016,
+    "xp": 2026,
     "level": 17
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 586,
+    "xp": 606,
     "level": 13
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 184,
+    "xp": 204,
     "level": 9
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 286,
+    "xp": 306,
     "level": 19
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 466,
+    "xp": 476,
     "level": 13
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 9003,
+    "xp": 9033,
     "level": 28
   },
   {
@@ -4940,7 +4940,7 @@
   {
     "userId": "492131441375838210",
     "username": "cake",
-    "xp": 80,
+    "xp": 90,
     "level": 2
   },
   {
@@ -5000,7 +5000,7 @@
   {
     "userId": "806214678627483651",
     "username": "unitednationsoffical",
-    "xp": 70,
+    "xp": 80,
     "level": 2
   },
   {
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 11183,
+    "xp": 11413,
     "level": 28
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 66,
+    "xp": 76,
     "level": 3
   },
   {
@@ -7946,6 +7946,24 @@
   {
     "userId": "1082063162033053716",
     "username": "Presidential AI",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1157779657467379823",
+    "username": "Dark",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1173176469082603620",
+    "username": "GDasher",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1146753396901167198",
+    "username": "Freetim",
     "xp": 10,
     "level": 1
   }
