@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6443,
+    "xp": 6453,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 3209,
+    "xp": 3219,
     "level": 22
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 866,
+    "xp": 876,
     "level": 19
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 766,
+    "xp": 806,
     "level": 13
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 616,
+    "xp": 626,
     "level": 19
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 180,
+    "xp": 190,
     "level": 11
   },
   {
@@ -3362,7 +3362,7 @@
   {
     "userId": "102528327251656704",
     "username": "solararray",
-    "xp": 134,
+    "xp": 144,
     "level": 4
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10293,
+    "xp": 10323,
     "level": 28
   },
   {
@@ -4352,7 +4352,7 @@
   {
     "userId": "472911936951156740",
     "username": "VoiceMaster",
-    "xp": 130,
+    "xp": 140,
     "level": "2"
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 4249,
+    "xp": 4479,
     "level": 29
   },
   {
@@ -7971,6 +7971,12 @@
     "userId": "978455203248484382",
     "username": "taeyong_bubu",
     "xp": 80,
+    "level": 1
+  },
+  {
+    "userId": "710297818291634239",
+    "username": "jujubeanyt",
+    "xp": 10,
     "level": 1
   }
 ]
