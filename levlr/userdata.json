@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1926,
+    "xp": 1936,
     "level": 19
   },
   {
@@ -2372,13 +2372,13 @@
   {
     "userId": "427857409206386688",
     "username": "lulu5239",
-    "xp": 154,
+    "xp": 164,
     "level": 4
   },
   {
     "userId": "760184483659251753",
     "username": "Grand robot",
-    "xp": 94,
+    "xp": 174,
     "level": 4
   },
   {
@@ -2606,7 +2606,7 @@
   {
     "userId": "812347275698634762",
     "username": "Bogsy's Dice Bot",
-    "xp": "40",
+    "xp": 50,
     "level": "1"
   },
   {
@@ -2642,7 +2642,7 @@
   {
     "userId": "691738788875075675",
     "username": "EmeraldBot",
-    "xp": "10",
+    "xp": 20,
     "level": "1"
   },
   {
@@ -2702,7 +2702,7 @@
   {
     "userId": "1071317814847225906",
     "username": "Tuck Yo Homies In Bot",
-    "xp": 50,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 12413,
+    "xp": 12443,
     "level": 28
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 2408,
+    "xp": 2668,
     "level": 30
   },
   {
@@ -8007,6 +8007,12 @@
     "userId": "1158449083757895690",
     "username": "FiveM Bot Master",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "650691698409734151",
+    "username": "Ayako",
+    "xp": 30,
     "level": 1
   }
 ]
