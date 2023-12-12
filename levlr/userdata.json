@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10217,
+    "xp": 10227,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6923,
+    "xp": 6943,
     "level": 28
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 234,
+    "xp": 244,
     "level": 9
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 184,
+    "xp": 194,
     "level": 16
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 11933,
+    "xp": 11963,
     "level": 28
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 18169,
+    "xp": 18429,
     "level": 29
   },
   {
@@ -7995,6 +7995,18 @@
     "userId": "798192992125059113",
     "username": "Neue Ordnung 2.0",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "747793170519162932",
+    "username": "Wilpred",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1158449083757895690",
+    "username": "FiveM Bot Master",
+    "xp": 10,
     "level": 1
   }
 ]
