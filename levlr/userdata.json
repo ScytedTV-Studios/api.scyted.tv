@@ -1790,7 +1790,7 @@
   {
     "userId": "1130278529423114271",
     "username": "CoreGPT",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1509,
+    "xp": 1539,
     "level": 29
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 171,
+    "xp": 191,
     "level": 7
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 25651,
+    "xp": 25921,
     "level": 31
   },
   {
@@ -8096,6 +8096,18 @@
   {
     "userId": "722141347603284001",
     "username": "Mr. Translate",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "410488336344547338",
+    "username": "Amathy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "346353957029019648",
+    "username": "SlotBot",
     "xp": 10,
     "level": 1
   }
