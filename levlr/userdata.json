@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10897,
+    "xp": 10907,
     "level": 26
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 228,
+    "xp": 238,
     "level": 18
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 254,
+    "xp": 264,
     "level": 16
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "userId": "190590364871032834",
     "username": "builderb",
-    "xp": 413,
+    "xp": 423,
     "level": 8
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 23,
+    "xp": 43,
     "level": 8
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 766,
+    "xp": 776,
     "level": 19
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 87,
+    "xp": 97,
     "level": 5
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 1908,
+    "xp": 1948,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 14543,
+    "xp": 14573,
     "level": 28
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 20308,
+    "xp": 20568,
     "level": 30
   },
   {
@@ -8042,6 +8042,18 @@
   {
     "userId": "1038326517345820712",
     "username": "ScalableVC",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1111847981575053332",
+    "username": "gosbunny",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "608821189179342871",
+    "username": "therealstarless",
     "xp": 10,
     "level": 1
   }
