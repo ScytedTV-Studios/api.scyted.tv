@@ -494,7 +494,7 @@
   {
     "userId": "706935674800177193",
     "username": "XP",
-    "xp": 60,
+    "xp": 70,
     "level": "2"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 11367,
+    "xp": 11387,
     "level": 26
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 8423,
+    "xp": 8433,
     "level": 28
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 43,
+    "xp": 53,
     "level": 8
   },
   {
@@ -1790,7 +1790,7 @@
   {
     "userId": "1130278529423114271",
     "username": "CoreGPT",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -2306,7 +2306,7 @@
   {
     "userId": "949342410150924319",
     "username": "Majo.exe",
-    "xp": 207,
+    "xp": 217,
     "level": "5"
   },
   {
@@ -2426,7 +2426,7 @@
   {
     "userId": "755588579262201886",
     "username": "AFK Bot",
-    "xp": 60,
+    "xp": 70,
     "level": "2"
   },
   {
@@ -3242,7 +3242,7 @@
   {
     "userId": "349573743343042560",
     "username": "Axel",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1449,
+    "xp": 1479,
     "level": 29
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "userId": "550786131336232961",
     "username": "Persephone",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 161,
+    "xp": 171,
     "level": 7
   },
   {
@@ -5810,7 +5810,7 @@
   {
     "userId": "706865701373345813",
     "username": "Noodles",
-    "xp": 40,
+    "xp": 50,
     "level": "1"
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 25151,
+    "xp": 25401,
     "level": 31
   },
   {
@@ -8078,6 +8078,24 @@
   {
     "userId": "799204260109090847",
     "username": "yasser4176",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "938418381126778910",
+    "username": "Toffy Translator",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1142685240318505010",
+    "username": "Translate Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "722141347603284001",
+    "username": "Mr. Translate",
     "xp": 10,
     "level": 1
   }
