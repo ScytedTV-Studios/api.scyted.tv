@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 280,
+    "xp": 310,
     "level": 27
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 2266,
+    "xp": 2276,
     "level": 19
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 728,
+    "xp": 738,
     "level": 18
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 1496,
+    "xp": 1506,
     "level": 17
   },
   {
@@ -2012,7 +2012,7 @@
   {
     "userId": "808706062013825036",
     "username": "MELON",
-    "xp": 20,
+    "xp": 40,
     "level": 2
   },
   {
@@ -2372,13 +2372,13 @@
   {
     "userId": "427857409206386688",
     "username": "lulu5239",
-    "xp": 17,
+    "xp": 67,
     "level": 5
   },
   {
     "userId": "760184483659251753",
     "username": "Grand robot",
-    "xp": 7,
+    "xp": 37,
     "level": 5
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "userId": "962093056910323743",
     "username": "AIAS",
-    "xp": "50",
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4034,7 +4034,7 @@
   {
     "userId": "160105994217586689",
     "username": "Miki",
-    "xp": 187,
+    "xp": 197,
     "level": 5
   },
   {
@@ -4232,7 +4232,7 @@
   {
     "userId": "1136174616516239402",
     "username": "MINECRAFT #bedrock-changelogs",
-    "xp": 40,
+    "xp": 50,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 3799,
+    "xp": 3829,
     "level": 29
   },
   {
@@ -4424,7 +4424,7 @@
   {
     "userId": "954695799411974165",
     "username": "GiveawayBot™",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "userId": "550786131336232961",
     "username": "Persephone",
-    "xp": 60,
+    "xp": 70,
     "level": 2
   },
   {
@@ -6074,13 +6074,13 @@
   {
     "userId": "1006756422782029876",
     "username": "TearBot",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
     "userId": "172002275412279296",
     "username": "Tatsu",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
@@ -6368,7 +6368,7 @@
   {
     "userId": "801742991185936384",
     "username": "Ami",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -6428,7 +6428,7 @@
   {
     "userId": "849376795966570517",
     "username": "leveling",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -7112,7 +7112,7 @@
   {
     "userId": "276060004262477825",
     "username": "Koya",
-    "xp": 30,
+    "xp": 40,
     "level": 1
   },
   {
@@ -7364,13 +7364,13 @@
   {
     "userId": "796120497468866630",
     "username": "Ghost Ping Detector",
-    "xp": 30,
+    "xp": 50,
     "level": 1
   },
   {
     "userId": "1137052528790491228",
     "username": "thrivebot",
-    "xp": 10,
+    "xp": 30,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 16776,
+    "xp": 17006,
     "level": 32
   },
   {
@@ -8145,6 +8145,12 @@
     "userId": "981472417992036422",
     "username": "ayeh____",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "933068045415485460",
+    "username": "NEO",
+    "xp": 10,
     "level": 1
   }
 ]
