@@ -236,7 +236,7 @@
   {
     "userId": "345288889633734657",
     "username": "tiddylovr",
-    "xp": 59,
+    "xp": 69,
     "level": 6
   },
   {
@@ -272,7 +272,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 634,
+    "xp": 644,
     "level": 15
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "userId": "691061795086925854",
     "username": "aidenlook",
-    "xp": 257,
+    "xp": 267,
     "level": 12
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 11863,
+    "xp": 11903,
     "level": 28
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 64,
+    "xp": 94,
     "level": 15
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 79,
+    "xp": 89,
     "level": 10
   },
   {
@@ -1418,7 +1418,7 @@
   {
     "userId": "190590364871032834",
     "username": "builderb",
-    "xp": 154,
+    "xp": 174,
     "level": 9
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1966,
+    "xp": 1976,
     "level": 19
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 2318,
+    "xp": 2328,
     "level": 18
   },
   {
@@ -4160,7 +4160,7 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 467,
+    "xp": 477,
     "level": 14
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 1598,
+    "xp": 1608,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 12429,
+    "xp": 12449,
     "level": 29
   },
   {
@@ -4940,8 +4940,8 @@
   {
     "userId": "492131441375838210",
     "username": "cake",
-    "xp": 140,
-    "level": 2
+    "xp": 6,
+    "level": 3
   },
   {
     "userId": "1093655510126952538",
@@ -5036,7 +5036,7 @@
   {
     "userId": "466547527613939722",
     "username": "Rosalina",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 94,
+    "xp": 114,
     "level": 9
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 17926,
+    "xp": 18176,
     "level": 34
   },
   {
@@ -8330,6 +8330,12 @@
   {
     "userId": "1064395884399431720",
     "username": "ferreirinha_00",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1155030809951084698",
+    "username": "CoinsBot®",
     "xp": 10,
     "level": 1
   }
