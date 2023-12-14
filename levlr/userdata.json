@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7319,
+    "xp": 7349,
     "level": 29
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 109,
+    "xp": 119,
     "level": 6
   },
   {
@@ -7556,13 +7556,13 @@
   {
     "userId": "823474974664687657",
     "username": "Stewie",
-    "xp": 111,
+    "xp": 121,
     "level": 7
   },
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 14024,
+    "xp": 14284,
     "level": 33
   },
   {
@@ -7622,7 +7622,7 @@
   {
     "userId": "899225748819308585",
     "username": "Social Credit System of The PRC",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -8240,6 +8240,12 @@
   {
     "userId": "995288368206331944",
     "username": "Soya Music",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "903325928296443934",
+    "username": "Twittos",
     "xp": 10,
     "level": 1
   }
