@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 6719,
+    "xp": 6749,
     "level": 29
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 29,
+    "xp": 39,
     "level": 6
   },
   {
@@ -7556,13 +7556,13 @@
   {
     "userId": "823474974664687657",
     "username": "Stewie",
-    "xp": 31,
+    "xp": 41,
     "level": 7
   },
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 8834,
+    "xp": 9094,
     "level": 33
   },
   {
@@ -8228,6 +8228,12 @@
   {
     "userId": "841368898146402355",
     "username": "dorikyh",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "642103923456475142",
+    "username": "LGBTQI+",
     "xp": 10,
     "level": 1
   }
