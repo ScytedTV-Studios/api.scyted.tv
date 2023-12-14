@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 1790,
+    "xp": 1810,
     "level": 27
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 11033,
+    "xp": 11063,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 4899,
+    "xp": 4909,
     "level": 22
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 123,
+    "xp": 133,
     "level": 8
   },
   {
@@ -2564,7 +2564,7 @@
   {
     "userId": "1103724496130683113",
     "username": "Jackalope",
-    "xp": "10",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -2588,7 +2588,7 @@
   {
     "userId": "894322783172046859",
     "username": "Kyuri",
-    "xp": "10",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -2606,7 +2606,7 @@
   {
     "userId": "812347275698634762",
     "username": "Bogsy's Dice Bot",
-    "xp": 60,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -2624,7 +2624,7 @@
   {
     "userId": "907812589306773524",
     "username": "ReeF",
-    "xp": "40",
+    "xp": 60,
     "level": "1"
   },
   {
@@ -2636,19 +2636,19 @@
   {
     "userId": "439205512425504771",
     "username": "NotSoBot",
-    "xp": "10",
+    "xp": 30,
     "level": "1"
   },
   {
     "userId": "691738788875075675",
     "username": "EmeraldBot",
-    "xp": 30,
+    "xp": 50,
     "level": "1"
   },
   {
     "userId": "831791433731145759",
     "username": "corion",
-    "xp": 60,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10209,
+    "xp": 10239,
     "level": 29
   },
   {
@@ -4442,7 +4442,7 @@
   {
     "userId": "624955196040282123",
     "username": "Hanni 🐰",
-    "xp": 70,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -4718,7 +4718,7 @@
   {
     "userId": "701185178214596652",
     "username": "Wummyツ",
-    "xp": 20,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -5180,7 +5180,7 @@
   {
     "userId": "745758762115137657",
     "username": "Caneria",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -5348,7 +5348,7 @@
   {
     "userId": "801027359087001631",
     "username": "Shibe",
-    "xp": 50,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -5360,13 +5360,13 @@
   {
     "userId": "728332591790293044",
     "username": "OFFlimits",
-    "xp": 70,
+    "xp": 90,
     "level": "1"
   },
   {
     "userId": "683053587215024213",
     "username": "Gradient",
-    "xp": 90,
+    "xp": 110,
     "level": "1"
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 123,
+    "xp": 163,
     "level": 8
   },
   {
@@ -5894,7 +5894,7 @@
   {
     "userId": "298827078013288450",
     "username": "Accord",
-    "xp": 70,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -5942,7 +5942,7 @@
   {
     "userId": "883474362416635975",
     "username": "BD Security remake",
-    "xp": 50,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -5966,7 +5966,7 @@
   {
     "userId": "1069983815310778421",
     "username": "Noisy",
-    "xp": 40,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -7250,7 +7250,7 @@
   {
     "userId": "571027211407196161",
     "username": "AniGame",
-    "xp": 30,
+    "xp": 50,
     "level": 1
   },
   {
@@ -7262,7 +7262,7 @@
   {
     "userId": "600834965571371037",
     "username": "Sambabe",
-    "xp": 10,
+    "xp": 30,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 38894,
+    "xp": 39124,
     "level": 33
   },
   {
@@ -8306,6 +8306,12 @@
   {
     "userId": "497523744949010433",
     "username": "dudutak26",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "510212771741171727",
+    "username": "Turtle Bot",
     "xp": 10,
     "level": 1
   }
