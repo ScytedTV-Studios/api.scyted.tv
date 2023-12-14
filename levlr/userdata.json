@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 10233,
+    "xp": 10243,
     "level": 28
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 858,
+    "xp": 868,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 6249,
+    "xp": 6279,
     "level": 29
   },
   {
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 4644,
+    "xp": 4904,
     "level": 33
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 67,
+    "xp": 77,
     "level": 5
   },
   {
@@ -8223,6 +8223,12 @@
     "userId": "1062277011013369997",
     "username": "stolen_nightmare",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "841368898146402355",
+    "username": "dorikyh",
+    "xp": 10,
     "level": 1
   }
 ]
