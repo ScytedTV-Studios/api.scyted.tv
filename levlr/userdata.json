@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 11233,
+    "xp": 11263,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 4979,
+    "xp": 4989,
     "level": 22
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1188,
+    "xp": 1208,
     "level": 18
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 787,
+    "xp": 797,
     "level": 14
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 824,
+    "xp": 834,
     "level": 16
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 664,
+    "xp": 674,
     "level": 16
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "userId": "280158289667555328",
     "username": "auguwu",
-    "xp": 263,
+    "xp": 283,
     "level": 8
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 10879,
+    "xp": 10909,
     "level": 29
   },
   {
@@ -4442,8 +4442,8 @@
   {
     "userId": "624955196040282123",
     "username": "Hanni 🐰",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "942674412178653184",
@@ -4880,7 +4880,7 @@
   {
     "userId": "828100639866486795",
     "username": "Don't Panic!",
-    "xp": 684,
+    "xp": 764,
     "level": 16
   },
   {
@@ -5348,7 +5348,7 @@
   {
     "userId": "801027359087001631",
     "username": "Shibe",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -5360,13 +5360,13 @@
   {
     "userId": "728332591790293044",
     "username": "OFFlimits",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "683053587215024213",
     "username": "Gradient",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 223,
+    "xp": 243,
     "level": 8
   },
   {
@@ -5888,25 +5888,25 @@
   {
     "userId": "564426594144354315",
     "username": "Suggester",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
     "userId": "298827078013288450",
     "username": "Accord",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "526543913788637204",
     "username": "Bowling Ball",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "613694998524985354",
     "username": "Edward",
-    "xp": "40",
+    "xp": 50,
     "level": "1"
   },
   {
@@ -5918,61 +5918,61 @@
   {
     "userId": "356268235697553409",
     "username": ".fmbot",
-    "xp": 40,
+    "xp": 50,
     "level": "1"
   },
   {
     "userId": "681137419663441933",
     "username": "Nors",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
     "userId": "847972974786248704",
     "username": "LabyCheck",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
     "userId": "1143861352453124149",
     "username": "StarBot",
-    "xp": 40,
+    "xp": 50,
     "level": "1"
   },
   {
     "userId": "883474362416635975",
     "username": "BD Security remake",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "740158040615157791",
     "username": "ClanButlerLegend",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "831231000507318312",
     "username": "GlobalX",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
     "userId": "805150455378345994",
     "username": "Ducky",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "1069983815310778421",
     "username": "Noisy",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
     "userId": "948637316145102868",
     "username": "Orator",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -5984,7 +5984,7 @@
   {
     "userId": "804118603397726260",
     "username": "aSoc Chat",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 3976,
+    "xp": 4236,
     "level": 34
   },
   {
@@ -7808,7 +7808,7 @@
   {
     "userId": "1157589891287367730",
     "username": "Mesuic Bot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -8228,7 +8228,7 @@
   {
     "userId": "841368898146402355",
     "username": "dorikyh",
-    "xp": 70,
+    "xp": 100,
     "level": 1
   },
   {
@@ -8313,6 +8313,12 @@
     "userId": "510212771741171727",
     "username": "Turtle Bot",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "810540985032900648",
+    "username": "Musico",
+    "xp": 10,
     "level": 1
   }
 ]
