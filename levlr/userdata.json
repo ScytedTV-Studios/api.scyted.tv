@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 1240,
+    "xp": 1250,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 10123,
+    "xp": 10133,
     "level": 28
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 257,
+    "xp": 337,
     "level": 14
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "userId": "87175509309419520",
     "username": "benjaminzehowlt",
-    "xp": 154,
+    "xp": 174,
     "level": 9
   },
   {
@@ -1352,8 +1352,8 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 514,
-    "level": 9
+    "xp": 9,
+    "level": 10
   },
   {
     "userId": "127981791402393600",
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1456,
+    "xp": 1466,
     "level": 19
   },
   {
@@ -2258,8 +2258,8 @@
   {
     "userId": "241930933962407936",
     "username": "Discord Bots Verification",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1129116402033369099",
@@ -2312,7 +2312,7 @@
   {
     "userId": "844411348573880330",
     "username": "liefgrief",
-    "xp": 344,
+    "xp": 394,
     "level": 9
   },
   {
@@ -2360,7 +2360,7 @@
   {
     "userId": "903380664336928798",
     "username": "ChronicleBot",
-    "xp": 34,
+    "xp": 44,
     "level": 4
   },
   {
@@ -2468,7 +2468,7 @@
   {
     "userId": "301379068941828096",
     "username": "faithie",
-    "xp": 620,
+    "xp": 680,
     "level": 11
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 2158,
+    "xp": 2168,
     "level": 18
   },
   {
@@ -4352,8 +4352,8 @@
   {
     "userId": "472911936951156740",
     "username": "VoiceMaster",
-    "xp": 140,
-    "level": "2"
+    "xp": 16,
+    "level": 3
   },
   {
     "userId": "968233504947191919",
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 1444,
+    "xp": 1774,
     "level": 33
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 57,
+    "xp": 67,
     "level": 5
   },
   {
@@ -8205,6 +8205,12 @@
     "userId": "1103427996532097054",
     "username": "Hyperion",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1104108658574512228",
+    "username": "Noctra",
+    "xp": 10,
     "level": 1
   }
 ]
