@@ -332,7 +332,7 @@
   {
     "userId": "782053704227487754",
     "username": "Botomir",
-    "xp": 90,
+    "xp": 100,
     "level": "2"
   },
   {
@@ -1544,13 +1544,13 @@
   {
     "userId": "928966154817523723",
     "username": "L u c y ♡",
-    "xp": 40,
+    "xp": 50,
     "level": "2"
   },
   {
     "userId": "1048837687777431602",
     "username": "Void-bot",
-    "xp": 40,
+    "xp": 50,
     "level": "2"
   },
   {
@@ -1568,19 +1568,19 @@
   {
     "userId": "570171110742556673",
     "username": "RBXBolt",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "968250211224932372",
     "username": "Warrior Bot",
-    "xp": 40,
+    "xp": 50,
     "level": "2"
   },
   {
     "userId": "1016379490953330720",
     "username": "Micro",
-    "xp": 40,
+    "xp": 50,
     "level": "2"
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "userId": "544207672623235073",
     "username": "Emerald",
-    "xp": 70,
+    "xp": 80,
     "level": "2"
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "userId": "431837317246877698",
     "username": "Amazing",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "userId": "454564411596865537",
     "username": "Dragon Ball OV",
-    "xp": 20,
+    "xp": 30,
     "level": "2"
   },
   {
@@ -1670,13 +1670,13 @@
   {
     "userId": "990765258186571817",
     "username": "Lightning",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
     "userId": "708428058822180874",
     "username": "Fishy.py",
-    "xp": "70",
+    "xp": 80,
     "level": "1"
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "userId": "564160684540166174",
     "username": "Rocket League Crate Simulator",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "userId": "846770591231246336",
     "username": "Manbo",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -1754,7 +1754,7 @@
   {
     "userId": "310848622642069504",
     "username": "JuniperBot",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -2684,7 +2684,7 @@
   {
     "userId": "939986359697956874",
     "username": "ESP CUSTOMS",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7759,
+    "xp": 7799,
     "level": 29
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 3,
+    "xp": 13,
     "level": 8
   },
   {
@@ -7502,7 +7502,7 @@
   {
     "userId": "171250038465495040",
     "username": "Geekbot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 17934,
+    "xp": 18204,
     "level": 33
   },
   {
