@@ -1070,7 +1070,7 @@
   {
     "userId": "691061795086925854",
     "username": "aidenlook",
-    "xp": 297,
+    "xp": 317,
     "level": 12
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 13113,
+    "xp": 13123,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 229,
+    "xp": 239,
     "level": 23
   },
   {
@@ -3296,7 +3296,7 @@
   {
     "userId": "884808453103702087",
     "username": "matrinalow.",
-    "xp": 600,
+    "xp": 630,
     "level": "11"
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 404,
+    "xp": 484,
     "level": 16
   },
   {
@@ -4190,7 +4190,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 1688,
+    "xp": 1778,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 17739,
+    "xp": 17769,
     "level": 29
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 23,
+    "xp": 83,
     "level": 8
   },
   {
@@ -7556,13 +7556,13 @@
   {
     "userId": "823474974664687657",
     "username": "Stewie",
-    "xp": 303,
+    "xp": 343,
     "level": 8
   },
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 11414,
+    "xp": 11664,
     "level": 35
   },
   {
@@ -8373,6 +8373,12 @@
     "userId": "493081244792520714",
     "username": "itssmax",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "800519694754644029",
+    "username": "unusual_whales_crier",
+    "xp": 10,
     "level": 1
   }
 ]
