@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 3280,
+    "xp": 3310,
     "level": 27
   },
   {
@@ -866,7 +866,7 @@
   {
     "userId": "235148962103951360",
     "username": "Carl-bot",
-    "xp": 360,
+    "xp": 370,
     "level": 11
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 13503,
+    "xp": 13543,
     "level": 28
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1688,
+    "xp": 1698,
     "level": 18
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 209,
+    "xp": 219,
     "level": 10
   },
   {
@@ -4172,7 +4172,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 1978,
+    "xp": 2018,
     "level": 18
   },
   {
@@ -4196,7 +4196,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 886,
+    "xp": 896,
     "level": 13
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 19089,
+    "xp": 19119,
     "level": 29
   },
   {
@@ -4880,7 +4880,7 @@
   {
     "userId": "828100639866486795",
     "username": "Don't Panic!",
-    "xp": 764,
+    "xp": 1234,
     "level": 16
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 23694,
+    "xp": 25014,
     "level": 35
   },
   {
@@ -8396,6 +8396,12 @@
   {
     "userId": "249266593836564482",
     "username": "onik.",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1154575973778473031",
+    "username": "Discord Developers #developer-news",
     "xp": 10,
     "level": 1
   }
