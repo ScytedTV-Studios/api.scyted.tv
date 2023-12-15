@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 13773,
+    "xp": 13793,
     "level": 28
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1798,
+    "xp": 1808,
     "level": 18
   },
   {
@@ -1298,13 +1298,13 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 1614,
+    "xp": 1644,
     "level": 16
   },
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 567,
+    "xp": 627,
     "level": 12
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 318,
+    "xp": 348,
     "level": 30
   },
   {
@@ -5558,7 +5558,7 @@
   {
     "userId": "863874799255814164",
     "username": "pirgu_",
-    "xp": 50,
+    "xp": 60,
     "level": 2
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "userId": "445171211127881750",
     "username": "plavorseol",
-    "xp": 354,
+    "xp": 424,
     "level": 9
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 33224,
+    "xp": 33464,
     "level": 35
   },
   {
@@ -8402,6 +8402,12 @@
   {
     "userId": "1154575973778473031",
     "username": "Discord Developers #developer-news",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "312062488566956042",
+    "username": "zynix.",
     "xp": 10,
     "level": 1
   }
