@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 92,
+    "xp": 102,
     "level": 20
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1938,
+    "xp": 1958,
     "level": 18
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 19,
+    "xp": 29,
     "level": 6
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 2478,
+    "xp": 2508,
     "level": 30
   },
   {
@@ -5522,19 +5522,19 @@
   {
     "userId": "1063619913593405521",
     "username": "HentaiBot2",
-    "xp": 20,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "912812466377998396",
     "username": "Rune",
-    "xp": "10",
+    "xp": 20,
     "level": "1"
   },
   {
     "userId": "673994042450903089",
     "username": "Emojifier",
-    "xp": "10",
+    "xp": 20,
     "level": "1"
   },
   {
@@ -6248,7 +6248,7 @@
   {
     "userId": "619460266962452480",
     "username": "sayouri01",
-    "xp": 30,
+    "xp": 70,
     "level": 2
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 52534,
+    "xp": 52774,
     "level": 35
   },
   {
@@ -8433,6 +8433,12 @@
     "userId": "703975903700582431",
     "username": "itsjayydeen",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "1019954630551158934",
+    "username": "Lunox",
+    "xp": 10,
     "level": 1
   }
 ]
