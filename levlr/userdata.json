@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 15053,
+    "xp": 15063,
     "level": 28
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 399,
+    "xp": 409,
     "level": 23
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2038,
+    "xp": 2048,
     "level": 18
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 2126,
+    "xp": 2136,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 5068,
+    "xp": 5098,
     "level": 30
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 89,
+    "xp": 119,
     "level": 10
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 13308,
+    "xp": 13538,
     "level": 36
   },
   {
@@ -7592,7 +7592,7 @@
   {
     "userId": "1061808757622984844",
     "username": "♪ohhhhhん★",
-    "xp": 36,
+    "xp": 46,
     "level": 3
   },
   {
@@ -7616,13 +7616,13 @@
   {
     "userId": "864802145487814656",
     "username": "chisei",
-    "xp": 80,
+    "xp": 90,
     "level": 2
   },
   {
     "userId": "899225748819308585",
     "username": "Social Credit System of The PRC",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -7646,7 +7646,7 @@
   {
     "userId": "969903970275430461",
     "username": "rafilevrai",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
@@ -9326,7 +9326,7 @@
   {
     "userId": "1056618329877520525",
     "username": "Adrenaline",
-    "xp": 80,
+    "xp": 90,
     "level": 1
   },
   {
@@ -9818,6 +9818,12 @@
   {
     "userId": "759730709430009866",
     "username": "Xibbly",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1094389028473815101",
+    "username": "Morth",
     "xp": 10,
     "level": 1
   }
