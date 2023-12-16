@@ -2582,13 +2582,13 @@
   {
     "userId": "801325871339798570",
     "username": "Hyogo",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
     "userId": "894322783172046859",
     "username": "Kyuri",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -2636,7 +2636,7 @@
   {
     "userId": "439205512425504771",
     "username": "NotSoBot",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -3446,7 +3446,7 @@
   {
     "userId": "1001808611577692195",
     "username": "Ocean's Mod",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4928,
+    "xp": 4948,
     "level": 30
   },
   {
@@ -4442,7 +4442,7 @@
   {
     "userId": "624955196040282123",
     "username": "Hanni 🐰",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -4718,7 +4718,7 @@
   {
     "userId": "701185178214596652",
     "username": "Wummyツ",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -4736,7 +4736,7 @@
   {
     "userId": "774732068282171424",
     "username": "002",
-    "xp": 60,
+    "xp": 70,
     "level": 2
   },
   {
@@ -5888,13 +5888,13 @@
   {
     "userId": "564426594144354315",
     "username": "Suggester",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
     "userId": "298827078013288450",
     "username": "Accord",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -5918,25 +5918,25 @@
   {
     "userId": "356268235697553409",
     "username": ".fmbot",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
     "userId": "681137419663441933",
     "username": "Nors",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
     "userId": "847972974786248704",
     "username": "LabyCheck",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
     "userId": "1143861352453124149",
     "username": "StarBot",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -5966,13 +5966,13 @@
   {
     "userId": "1069983815310778421",
     "username": "Noisy",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "948637316145102868",
     "username": "Orator",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -5984,7 +5984,7 @@
   {
     "userId": "804118603397726260",
     "username": "aSoc Chat",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -5996,7 +5996,7 @@
   {
     "userId": "752528726163456060",
     "username": "AI",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -7040,7 +7040,7 @@
   {
     "userId": "1166449901949964439",
     "username": "BibleBot",
-    "xp": 154,
+    "xp": 274,
     "level": 9
   },
   {
@@ -7250,7 +7250,7 @@
   {
     "userId": "571027211407196161",
     "username": "AniGame",
-    "xp": 100,
+    "xp": 110,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 12168,
+    "xp": 12398,
     "level": 36
   },
   {
@@ -7592,13 +7592,13 @@
   {
     "userId": "1061808757622984844",
     "username": "♪ohhhhhん★",
-    "xp": 90,
-    "level": 1
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "652560148983709739",
     "username": "SecRaid [Anti-Raid]",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -7616,13 +7616,13 @@
   {
     "userId": "864802145487814656",
     "username": "chisei",
-    "xp": 40,
+    "xp": 50,
     "level": 2
   },
   {
     "userId": "899225748819308585",
     "username": "Social Credit System of The PRC",
-    "xp": 50,
+    "xp": 90,
     "level": 1
   },
   {
@@ -7712,7 +7712,7 @@
   {
     "userId": "903686039435108382",
     "username": "鄧不利超多西瓜",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -7730,7 +7730,7 @@
   {
     "userId": "1169277711592718379",
     "username": "Bee Guy",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7742,7 +7742,7 @@
   {
     "userId": "1050824366813876427",
     "username": "Grammar Bot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -8246,7 +8246,7 @@
   {
     "userId": "903325928296443934",
     "username": "Twittos",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -8318,13 +8318,13 @@
   {
     "userId": "810540985032900648",
     "username": "Musico",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
     "userId": "1074383229638955108",
     "username": "SuchABot",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -8444,6 +8444,336 @@
   {
     "userId": "1096082598545080320",
     "username": "little_starxz9",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "950434710327275520",
+    "username": "xpremium",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "827556499198574602",
+    "username": "Cat Images",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "506735111543193601",
+    "username": "Fate",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "394325177464258563",
+    "username": "accent-bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1094230281361301584",
+    "username": "Demon™",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "938991432650334258",
+    "username": "CreeperBoi",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "547905866255433758",
+    "username": "Hydra",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "917781271004975165",
+    "username": "Swelly 2",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "934887329963847730",
+    "username": "T._.on",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "865015886708736040",
+    "username": "Bee man",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "809245562615758898",
+    "username": "Moonlight",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "493716749342998541",
+    "username": "Mimu",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1134118684818939996",
+    "username": "GIVEAWAY BOT",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1041746861297520660",
+    "username": "Rimi-Chan",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "801116590317371422",
+    "username": "BotInviter",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "816686478020706334",
+    "username": "Nino Nakano",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "543645076862140419",
+    "username": "PopBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "749986339721707550",
+    "username": "Ilnox",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1000130440599982090",
+    "username": "Egg Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "994734189876363284",
+    "username": "RPS",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1097944748527988949",
+    "username": "Razen",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "825565299834748949",
+    "username": "Deep Fryer",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "592555124572815418",
+    "username": "Sasha",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "906085578909548554",
+    "username": "Krypton",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "968896356083171328",
+    "username": "weapons",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1142587255823806595",
+    "username": "Altürk Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "784326832643768320",
+    "username": "Bump buddy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "963448484541894706",
+    "username": "RALWUS",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "996819210833502338",
+    "username": "Pyece",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1065606241369456680",
+    "username": "Hellow",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "843312372797931530",
+    "username": "Spookbot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "923641882532253747",
+    "username": "PaulCLI",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1078438147047833690",
+    "username": "Noah 🍃",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "982448551382618172",
+    "username": "U've Been Melon'd",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1169668388033925150",
+    "username": "MajorMusic",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "941682116658348082",
+    "username": "Noise 2",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1033989201789718528",
+    "username": "KERiT",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "304178245564104712",
+    "username": "ct's dog",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "997370848103104513",
+    "username": "Mora Music",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1166608975198957608",
+    "username": "leak",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1051952852068749343",
+    "username": "Gif Shot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1182654484502036611",
+    "username": "Bitcoin Price",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "779204105628680213",
+    "username": "Ayame",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "885618526122033233",
+    "username": "RoLookup v2",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "814500214470737921",
+    "username": "Senpai Abi",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "726135956956250222",
+    "username": "Elemental Android Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "919773782451830825",
+    "username": "CocoaBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "821122182246826056",
+    "username": "마피아 게임 for Pickle",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1167210682870136842",
+    "username": "Mote",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "838446728230993930",
+    "username": "Alisa",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "789495939886874636",
+    "username": "๖̶ζ͜͡ND Protect",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "854722092037701643",
+    "username": "Community Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "387322914183184384",
+    "username": "Kernel",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "768569644193415218",
+    "username": "Rover",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "743899499516133487",
+    "username": "Spectral",
     "xp": 10,
     "level": 1
   }
