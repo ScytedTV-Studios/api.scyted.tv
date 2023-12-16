@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 4568,
+    "xp": 4598,
     "level": 30
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 9358,
+    "xp": 9598,
     "level": 36
   },
   {
@@ -8438,6 +8438,12 @@
   {
     "userId": "1019954630551158934",
     "username": "Lunox",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1096082598545080320",
+    "username": "little_starxz9",
     "xp": 10,
     "level": 1
   }
