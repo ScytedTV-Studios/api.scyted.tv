@@ -26,12 +26,12 @@
   },
   "1185767719077957733": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185768059860942870": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185768186788982825": {
@@ -46,27 +46,47 @@
   },
   "1185768222646083594": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185768612976398388": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185768742395842560": {
     "heart": "💛",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185769195049328732": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1185769271326953482": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1185769730993303643": {
+    "heart": "❤️",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1185769812123721738": {
+    "heart": "🧡",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1185770304568573983": {
+    "heart": "❤️",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1185770326961950760": {
+    "heart": "💙",
+    "claimed": true,
     "channelId": "1182210332802961408"
   }
 }
