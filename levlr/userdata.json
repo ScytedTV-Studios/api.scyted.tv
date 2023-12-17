@@ -4070,13 +4070,13 @@
   {
     "userId": "999736048596816014",
     "username": "Ballsdex",
-    "xp": 279,
+    "xp": 289,
     "level": 10
   },
   {
     "userId": "669228505128501258",
     "username": "Pokémon",
-    "xp": 81,
+    "xp": 91,
     "level": 7
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 966,
+    "xp": 976,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 14028,
+    "xp": 14058,
     "level": 30
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 26,
+    "xp": 36,
     "level": 13
   },
   {
@@ -7064,8 +7064,8 @@
   {
     "userId": "417391562767597578",
     "username": "intellectualslime",
-    "xp": 110,
-    "level": 1
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1151564271977758760",
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 9508,
+    "xp": 9748,
     "level": 37
   },
   {
@@ -9992,7 +9992,7 @@
   {
     "userId": "185013955683549184",
     "username": "wittrocks",
-    "xp": 10,
+    "xp": 30,
     "level": 1
   }
 ]
