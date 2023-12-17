@@ -866,7 +866,7 @@
   {
     "userId": "235148962103951360",
     "username": "Carl-bot",
-    "xp": 460,
+    "xp": 470,
     "level": 11
   },
   {
@@ -1172,7 +1172,7 @@
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 959,
+    "xp": 969,
     "level": 23
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 438,
+    "xp": 448,
     "level": 18
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 956,
+    "xp": 966,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 13998,
+    "xp": 14028,
     "level": 30
   },
   {
@@ -4508,7 +4508,7 @@
   {
     "userId": "886479680281149491",
     "username": "doggielicc",
-    "xp": 60,
+    "xp": 70,
     "level": 2
   },
   {
@@ -4664,8 +4664,8 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 887,
-    "level": 12
+    "xp": 26,
+    "level": 13
   },
   {
     "userId": "1077671579187675197",
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 9278,
+    "xp": 9508,
     "level": 37
   },
   {
@@ -9987,6 +9987,12 @@
     "userId": "639498607632056321",
     "username": "Villager Bot",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "185013955683549184",
+    "username": "wittrocks",
+    "xp": 10,
     "level": 1
   }
 ]
