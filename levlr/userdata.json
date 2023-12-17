@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5300,
+    "xp": 5310,
     "level": 27
   },
   {
@@ -1166,19 +1166,19 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 159,
+    "xp": 169,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 729,
+    "xp": 739,
     "level": 23
   },
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 602,
+    "xp": 612,
     "level": 20
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2298,
+    "xp": 2318,
     "level": 18
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 288,
+    "xp": 298,
     "level": 18
   },
   {
@@ -2318,7 +2318,7 @@
   {
     "userId": "970561321076658176",
     "username": "aleimitch",
-    "xp": 70,
+    "xp": 80,
     "level": "2"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 11928,
+    "xp": 11958,
     "level": 30
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 64258,
+    "xp": 64508,
     "level": 36
   },
   {
@@ -9969,6 +9969,12 @@
     "userId": "717357163714183258",
     "username": "shadowgeartv",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "133659993768591360",
+    "username": "sudojunior",
+    "xp": 10,
     "level": 1
   }
 ]
