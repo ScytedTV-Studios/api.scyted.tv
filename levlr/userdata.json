@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 36,
+    "xp": 46,
     "level": 19
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 199,
+    "xp": 209,
     "level": 6
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 1516,
+    "xp": 1526,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 18508,
+    "xp": 18538,
     "level": 30
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 1034,
+    "xp": 1284,
     "level": 15
   },
   {
@@ -10106,6 +10106,12 @@
   {
     "userId": "991338113630752928",
     "username": "FistashkinBot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "455955665085792284",
+    "username": "anhshidou",
     "xp": 10,
     "level": 1
   }
