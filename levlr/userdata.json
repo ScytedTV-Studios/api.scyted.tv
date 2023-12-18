@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 6730,
+    "xp": 6740,
     "level": 27
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 2379,
+    "xp": 2399,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1089,
+    "xp": 1099,
     "level": 23
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 549,
+    "xp": 559,
     "level": 10
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 17938,
+    "xp": 17968,
     "level": 30
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 35778,
+    "xp": 35788,
     "level": 37
   },
   {
@@ -10088,12 +10088,18 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 570,
-    "level": 11
+    "xp": 67,
+    "level": 12
   },
   {
     "userId": "1155083653005717544",
     "username": "にちかbot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "906844539761860608",
+    "username": "nanamkitty",
     "xp": 10,
     "level": 1
   }
