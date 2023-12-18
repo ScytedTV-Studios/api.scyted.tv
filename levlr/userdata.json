@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 2439,
+    "xp": 2449,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1119,
+    "xp": 1129,
     "level": 23
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 578,
+    "xp": 588,
     "level": 18
   },
   {
@@ -2708,7 +2708,7 @@
   {
     "userId": "647203942903840779",
     "username": "EggLord",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 18208,
+    "xp": 18238,
     "level": 30
   },
   {
@@ -7664,7 +7664,7 @@
   {
     "userId": "922776570597376012",
     "username": "x._n_n_.x",
-    "xp": 100,
+    "xp": 110,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 7,
+    "xp": 247,
     "level": 14
   },
   {
@@ -10100,6 +10100,12 @@
   {
     "userId": "906844539761860608",
     "username": "nanamkitty",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "991338113630752928",
+    "username": "FistashkinBot",
     "xp": 10,
     "level": 1
   }
