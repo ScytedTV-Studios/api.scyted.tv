@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 18778,
+    "xp": 18808,
     "level": 30
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 35948,
+    "xp": 35978,
     "level": 37
   },
   {
@@ -7712,7 +7712,7 @@
   {
     "userId": "903686039435108382",
     "username": "鄧不利超多西瓜",
-    "xp": 100,
+    "xp": 110,
     "level": 1
   },
   {
@@ -7730,7 +7730,7 @@
   {
     "userId": "1169277711592718379",
     "username": "Bee Guy",
-    "xp": 80,
+    "xp": 90,
     "level": 1
   },
   {
@@ -7742,13 +7742,13 @@
   {
     "userId": "1050824366813876427",
     "username": "Grammar Bot",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
     "userId": "922829502537695324",
     "username": "Cheems' Utilities",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 1594,
+    "xp": 1834,
     "level": 16
   },
   {
@@ -10112,6 +10112,12 @@
   {
     "userId": "455955665085792284",
     "username": "anhshidou",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "796219147658854411",
+    "username": "Brain Bot",
     "xp": 10,
     "level": 1
   }
