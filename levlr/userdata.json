@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 5890,
+    "xp": 5920,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 1079,
+    "xp": 1109,
     "level": 29
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 772,
+    "xp": 782,
     "level": 20
   },
   {
@@ -1190,13 +1190,13 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2518,
+    "xp": 2528,
     "level": 18
   },
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 812,
+    "xp": 822,
     "level": 20
   },
   {
@@ -1298,13 +1298,13 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 256,
+    "xp": 276,
     "level": 17
   },
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 346,
+    "xp": 356,
     "level": 13
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 429,
+    "xp": 449,
     "level": 10
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 542,
+    "xp": 572,
     "level": 20
   },
   {
@@ -2948,7 +2948,7 @@
   {
     "userId": "591726984879538203",
     "username": "Natsuko",
-    "xp": "20",
+    "xp": 30,
     "level": "1"
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "userId": "962093056910323743",
     "username": "AIAS",
-    "xp": 36,
+    "xp": 46,
     "level": 3
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 15378,
+    "xp": 15408,
     "level": 30
   },
   {
@@ -5156,7 +5156,7 @@
   {
     "userId": "1108679074655764542",
     "username": "Duyre.ryy",
-    "xp": "20",
+    "xp": 40,
     "level": "1"
   },
   {
@@ -5168,7 +5168,7 @@
   {
     "userId": "995152223245975632",
     "username": "веселый прикол",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -5804,13 +5804,13 @@
   {
     "userId": "908418162687619133",
     "username": "Asuka",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
     "userId": "706865701373345813",
     "username": "Noodles",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -6212,7 +6212,7 @@
   {
     "userId": "240254129333731328",
     "username": "Vortex",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -7364,7 +7364,7 @@
   {
     "userId": "796120497468866630",
     "username": "Ghost Ping Detector",
-    "xp": 76,
+    "xp": 86,
     "level": 3
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 19848,
+    "xp": 20078,
     "level": 37
   },
   {
@@ -8006,7 +8006,7 @@
   {
     "userId": "1158449083757895690",
     "username": "FiveM Bot Master",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
@@ -10004,6 +10004,36 @@
   {
     "userId": "652555508246511647",
     "username": "dioverdm",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "980606483974729729",
+    "username": "updaown",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "905051022848819231",
+    "username": "Phishy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "930922882886934588",
+    "username": "Asca",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "601706228078346250",
+    "username": "Naomi",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "224617980837756930",
+    "username": "RLTrader",
     "xp": 10,
     "level": 1
   }
