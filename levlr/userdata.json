@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 1829,
+    "xp": 1849,
     "level": 29
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 872,
+    "xp": 912,
     "level": 20
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 479,
+    "xp": 489,
     "level": 10
   },
   {
@@ -1382,7 +1382,7 @@
   {
     "userId": "239809536012058625",
     "username": "snoot.pink",
-    "xp": 1574,
+    "xp": 1714,
     "level": 16
   },
   {
@@ -1424,7 +1424,7 @@
   {
     "userId": "280158289667555328",
     "username": "auguwu",
-    "xp": 54,
+    "xp": 194,
     "level": 9
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 722,
+    "xp": 762,
     "level": 20
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "userId": "241930933962407936",
     "username": "Discord Bots Verification",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 1286,
+    "xp": 1296,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 16578,
+    "xp": 16608,
     "level": 30
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 29048,
+    "xp": 29278,
     "level": 37
   },
   {
@@ -10064,6 +10064,12 @@
   {
     "userId": "961009872126771381",
     "username": "Madoka",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1170111929419829409",
+    "username": "KCBot",
     "xp": 10,
     "level": 1
   }
