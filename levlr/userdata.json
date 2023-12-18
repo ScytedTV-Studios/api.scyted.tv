@@ -764,37 +764,37 @@
   {
     "userId": "628400349979344919",
     "username": "StickyBot",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
     "userId": "878253816531812412",
     "username": "JamJar",
-    "xp": 30,
+    "xp": 40,
     "level": "2"
   },
   {
     "userId": "438959507389808641",
     "username": "Aiura",
-    "xp": 30,
+    "xp": 40,
     "level": "2"
   },
   {
     "userId": "845746467641753600",
     "username": "S-Bot",
-    "xp": 56,
+    "xp": 66,
     "level": "3"
   },
   {
     "userId": "960101593238347856",
     "username": "DChaoFileVisualizerBot",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
     "userId": "916347998794043454",
     "username": "Xu Music",
-    "xp": 30,
+    "xp": 40,
     "level": "2"
   },
   {
@@ -2252,7 +2252,7 @@
   {
     "userId": "711141521587568661",
     "username": "GrandCoinMaster",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 19348,
+    "xp": 19388,
     "level": 30
   },
   {
@@ -4514,7 +4514,7 @@
   {
     "userId": "80528701850124288",
     "username": "R. Danny",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
@@ -7820,7 +7820,7 @@
   {
     "userId": "1167286626112786563",
     "username": "Shard AI",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -8240,7 +8240,7 @@
   {
     "userId": "995288368206331944",
     "username": "Soya Music",
-    "xp": 30,
+    "xp": 40,
     "level": 1
   },
   {
@@ -9608,7 +9608,7 @@
   {
     "userId": "1163115276620013708",
     "username": "Nexus™",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 1928,
+    "xp": 2168,
     "level": 18
   },
   {
@@ -10124,6 +10124,12 @@
   {
     "userId": "1110615422191022243",
     "username": "Space Bot",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "312635139165388800",
+    "username": "hij4ckedd",
     "xp": 10,
     "level": 1
   }
