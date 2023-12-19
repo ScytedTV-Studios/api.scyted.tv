@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 306,
+    "xp": 316,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1681,
+    "xp": 1711,
     "level": 31
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 8657,
+    "xp": 8887,
     "level": 26
   },
   {
@@ -10184,6 +10184,12 @@
   {
     "userId": "761777382041714690",
     "username": "inbestigator",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "689466766916714532",
+    "username": "geantworld",
     "xp": 10,
     "level": 1
   }
