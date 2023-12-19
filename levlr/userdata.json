@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 8030,
+    "xp": 8040,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 4389,
+    "xp": 4399,
     "level": 29
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 1501,
+    "xp": 1531,
     "level": 31
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 7247,
+    "xp": 7487,
     "level": 26
   },
   {
@@ -10178,6 +10178,12 @@
   {
     "userId": "906656912316198942",
     "username": "chacharski",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "761777382041714690",
+    "username": "inbestigator",
     "xp": 10,
     "level": 1
   }
