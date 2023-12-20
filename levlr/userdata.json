@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 9510,
+    "xp": 9540,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6379,
+    "xp": 6409,
     "level": 29
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 666,
+    "xp": 676,
     "level": 19
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 1114,
+    "xp": 1224,
     "level": 15
   },
   {
@@ -1298,13 +1298,13 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 886,
+    "xp": 926,
     "level": 17
   },
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 616,
+    "xp": 636,
     "level": 13
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 2612,
+    "xp": 2672,
     "level": 20
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 822,
+    "xp": 842,
     "level": 20
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 8251,
+    "xp": 8281,
     "level": 31
   },
   {
@@ -4484,7 +4484,7 @@
   {
     "userId": "280402967411163138",
     "username": "booridjr",
-    "xp": 161,
+    "xp": 181,
     "level": 7
   },
   {
@@ -6998,7 +6998,7 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 159,
+    "xp": 169,
     "level": 6
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 38878,
+    "xp": 38888,
     "level": 37
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 17899,
+    "xp": 18149,
     "level": 29
   },
   {
@@ -10233,12 +10233,18 @@
     "userId": "1097979485762105507",
     "username": "fishydaniel",
     "xp": 110,
-    "level": 1
+    "level": 2
   },
   {
     "userId": "834663220181991474",
     "username": "sharkie",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "1120586873920831508",
+    "username": "Crit Scribbler",
+    "xp": 10,
     "level": 1
   }
 ]
