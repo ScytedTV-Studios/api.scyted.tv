@@ -1166,19 +1166,19 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6539,
+    "xp": 6549,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1729,
+    "xp": 1739,
     "level": 23
   },
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1632,
+    "xp": 1642,
     "level": 20
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 746,
+    "xp": 776,
     "level": 19
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 383,
+    "xp": 393,
     "level": 8
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 269,
+    "xp": 279,
     "level": 6
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 8551,
+    "xp": 8581,
     "level": 31
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 127,
+    "xp": 137,
     "level": 14
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 38928,
+    "xp": 38938,
     "level": 37
   },
   {
@@ -8228,7 +8228,7 @@
   {
     "userId": "841368898146402355",
     "username": "dorikyh",
-    "xp": 0,
+    "xp": 70,
     "level": 2
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 478,
+    "xp": 718,
     "level": 30
   },
   {
@@ -10251,6 +10251,12 @@
     "userId": "969896497292410910",
     "username": "Penalty Bot (beta)",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "889540062956634164",
+    "username": "Kotone",
+    "xp": 30,
     "level": 1
   }
 ]
