@@ -272,7 +272,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 494,
+    "xp": 504,
     "level": 16
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 9580,
+    "xp": 9590,
     "level": 27
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6479,
+    "xp": 6499,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1709,
+    "xp": 1719,
     "level": 23
   },
   {
@@ -1184,13 +1184,13 @@
   {
     "userId": "652594290832441364",
     "username": "chocomint",
-    "xp": 887,
-    "level": "12"
+    "xp": 6,
+    "level": 13
   },
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 716,
+    "xp": 726,
     "level": 19
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 1374,
+    "xp": 1434,
     "level": 15
   },
   {
@@ -1298,13 +1298,13 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 986,
+    "xp": 996,
     "level": 17
   },
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 686,
+    "xp": 706,
     "level": 13
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 50,
+    "xp": 60,
     "level": 11
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 2742,
+    "xp": 2772,
     "level": 20
   },
   {
@@ -4166,7 +4166,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 1066,
+    "xp": 1076,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 8371,
+    "xp": 8401,
     "level": 31
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 107,
+    "xp": 117,
     "level": 14
   },
   {
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 38898,
+    "xp": 38908,
     "level": 37
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 24,
+    "xp": 34,
     "level": 9
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 18849,
+    "xp": 19079,
     "level": 29
   },
   {
@@ -10232,8 +10232,8 @@
   {
     "userId": "1097979485762105507",
     "username": "fishydaniel",
-    "xp": 116,
-    "level": 3
+    "xp": 14,
+    "level": 4
   },
   {
     "userId": "834663220181991474",
@@ -10244,6 +10244,12 @@
   {
     "userId": "1120586873920831508",
     "username": "Crit Scribbler",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "969896497292410910",
+    "username": "Penalty Bot (beta)",
     "xp": 10,
     "level": 1
   }
