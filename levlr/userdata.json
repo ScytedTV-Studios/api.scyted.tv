@@ -896,7 +896,7 @@
   {
     "userId": "1027007568830275585",
     "username": "otismonsta",
-    "xp": 100,
+    "xp": 110,
     "level": 11
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 6049,
+    "xp": 6059,
     "level": 29
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 1582,
+    "xp": 1602,
     "level": 20
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 566,
+    "xp": 576,
     "level": 19
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "userId": "302968847353249813",
     "username": "a5rocks",
-    "xp": 1014,
+    "xp": 1024,
     "level": 15
   },
   {
@@ -3824,13 +3824,13 @@
   {
     "userId": "302050872383242240",
     "username": "DISBOARD",
-    "xp": 434,
+    "xp": 444,
     "level": 9
   },
   {
     "userId": "735147814878969968",
     "username": "Fibo",
-    "xp": 36,
+    "xp": 56,
     "level": 13
   },
   {
@@ -4028,7 +4028,7 @@
   {
     "userId": "797535647572819989",
     "username": "gorge_gemm",
-    "xp": 59,
+    "xp": 99,
     "level": 6
   },
   {
@@ -4040,7 +4040,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 1154,
+    "xp": 1184,
     "level": 15
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 572,
+    "xp": 612,
     "level": 20
   },
   {
@@ -4172,7 +4172,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 226,
+    "xp": 296,
     "level": 19
   },
   {
@@ -4190,13 +4190,13 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 736,
+    "xp": 756,
     "level": 19
   },
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 167,
+    "xp": 187,
     "level": 14
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7571,
+    "xp": 7601,
     "level": 31
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 1056,
+    "xp": 1066,
     "level": 13
   },
   {
@@ -7910,7 +7910,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 283,
+    "xp": 293,
     "level": 8
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 12589,
+    "xp": 12829,
     "level": 29
   },
   {
@@ -10232,7 +10232,7 @@
   {
     "userId": "1097979485762105507",
     "username": "fishydaniel",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   }
 ]
