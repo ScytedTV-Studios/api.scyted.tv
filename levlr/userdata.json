@@ -668,7 +668,7 @@
   {
     "userId": "155867458203287552",
     "username": "kodehawa",
-    "xp": 116,
+    "xp": 166,
     "level": 3
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10980,
+    "xp": 10990,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 8709,
+    "xp": 8739,
     "level": 29
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "userId": "621929840710516736",
     "username": "kotchu",
-    "xp": 159,
+    "xp": 259,
     "level": 21
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 1316,
+    "xp": 1326,
     "level": 17
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "userId": "87175509309419520",
     "username": "benjaminzehowlt",
-    "xp": 280,
+    "xp": 330,
     "level": 11
   },
   {
@@ -1430,8 +1430,8 @@
   {
     "userId": "1083004935551066132",
     "username": "Toilet Bowl",
-    "xp": 423,
-    "level": 8
+    "xp": 4,
+    "level": 9
   },
   {
     "userId": "949692725027037194",
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 3632,
+    "xp": 3672,
     "level": 20
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "userId": "844411348573880330",
     "username": "liefgrief",
-    "xp": 96,
+    "xp": 136,
     "level": 13
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 227,
+    "xp": 247,
     "level": 12
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 1642,
+    "xp": 1652,
     "level": 20
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 18171,
+    "xp": 18201,
     "level": 31
   },
   {
@@ -4544,7 +4544,7 @@
   {
     "userId": "717734323364823042",
     "username": "rippleiscute",
-    "xp": 444,
+    "xp": 454,
     "level": 9
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 23686,
+    "xp": 23926,
     "level": 32
   },
   {
@@ -10346,6 +10346,12 @@
   {
     "userId": "430916318649253898",
     "username": "jourjourbinksie",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "804971214196047902",
+    "username": "kyriaasteria",
     "xp": 10,
     "level": 1
   }
