@@ -8,67 +8,67 @@
   {
     "userId": "641385620530266125",
     "username": "Helper.gg",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
     "userId": "513423712582762502",
     "username": "TTS Bot",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "743737747407372308",
     "username": "Nick Bot",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "286697179949694977",
     "username": "BOT Chicken",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "398344371201769473",
     "username": "TheFakeWorld",
-    "xp": 30,
+    "xp": 40,
     "level": "2"
   },
   {
     "userId": "1066057160125059112",
     "username": "Reedroux",
-    "xp": 40,
+    "xp": 50,
     "level": "2"
   },
   {
     "userId": "675996677366218774",
     "username": "PixxieBot",
-    "xp": 10,
+    "xp": 20,
     "level": 2
   },
   {
     "userId": "837324086719021106",
     "username": "Roger",
-    "xp": 20,
+    "xp": 30,
     "level": "2"
   },
   {
     "userId": "882222486475907113",
     "username": "astro dog",
-    "xp": 100,
+    "xp": 110,
     "level": "1"
   },
   {
     "userId": "972994201195278346",
     "username": "My Cute Robot",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
     "userId": "242730576195354624",
     "username": "Auttaja",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -80,13 +80,13 @@
   {
     "userId": "956551837274751016",
     "username": "Catchy",
-    "xp": 80,
+    "xp": 90,
     "level": "2"
   },
   {
     "userId": "543225764036870167",
     "username": "WidgetBot",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -98,13 +98,13 @@
   {
     "userId": "735457450735697951",
     "username": "Téo",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
     "userId": "457573832350236672",
     "username": "Friendlybot",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10250,
+    "xp": 10260,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 7449,
+    "xp": 7469,
     "level": 29
   },
   {
@@ -1184,13 +1184,13 @@
   {
     "userId": "652594290832441364",
     "username": "chocomint",
-    "xp": 136,
+    "xp": 146,
     "level": 13
   },
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1026,
+    "xp": 1056,
     "level": 19
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 170,
+    "xp": 180,
     "level": 11
   },
   {
@@ -2144,7 +2144,7 @@
   {
     "userId": "854373262460977163",
     "username": "Sharky",
-    "xp": 90,
+    "xp": 100,
     "level": "1"
   },
   {
@@ -2228,7 +2228,7 @@
   {
     "userId": "818731660009930754",
     "username": "NemO",
-    "xp": 60,
+    "xp": 70,
     "level": "2"
   },
   {
@@ -2810,7 +2810,7 @@
   {
     "userId": "771741202001035326",
     "username": "Arco",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 51,
+    "xp": 61,
     "level": 7
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 12901,
+    "xp": 12931,
     "level": 31
   },
   {
@@ -6470,7 +6470,7 @@
   {
     "userId": "936875191580102666",
     "username": "Moosic",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
@@ -7562,13 +7562,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 39888,
+    "xp": 39898,
     "level": 37
   },
   {
     "userId": "1080062112182845461",
     "username": "時の女神",
-    "xp": 154,
+    "xp": 164,
     "level": 9
   },
   {
@@ -7856,13 +7856,13 @@
   {
     "userId": "1125585825560809503",
     "username": "dockbot.io",
-    "xp": 30,
+    "xp": 40,
     "level": 1
   },
   {
     "userId": "1163725744397107200",
     "username": "Aco Music",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 11191,
+    "xp": 11421,
     "level": 31
   },
   {
@@ -10196,13 +10196,13 @@
   {
     "userId": "508700048452878347",
     "username": "lassejlv",
-    "xp": 20,
+    "xp": 60,
     "level": 1
   },
   {
     "userId": "950551124178522113",
     "username": "Danger Bot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -10310,6 +10310,18 @@
   {
     "userId": "1052289131054641253",
     "username": "! [灵文真君] - Ling Wen 📚",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1112932448267935755",
+    "username": "Velvet.e0",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "701019662795800606",
+    "username": "Dino Star",
     "xp": 10,
     "level": 1
   }
