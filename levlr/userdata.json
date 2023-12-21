@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10190,
+    "xp": 10200,
     "level": 27
   },
   {
@@ -1166,13 +1166,13 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 7309,
+    "xp": 7319,
     "level": 29
   },
   {
     "userId": "753757823535677561",
     "username": "HIDEO_KOJIMA",
-    "xp": 1989,
+    "xp": 1999,
     "level": 23
   },
   {
@@ -1184,13 +1184,13 @@
   {
     "userId": "652594290832441364",
     "username": "chocomint",
-    "xp": 106,
+    "xp": 116,
     "level": 13
   },
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 976,
+    "xp": 986,
     "level": 19
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "userId": "844411348573880330",
     "username": "liefgrief",
-    "xp": 447,
+    "xp": 487,
     "level": 12
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 11901,
+    "xp": 11931,
     "level": 31
   },
   {
@@ -5174,7 +5174,7 @@
   {
     "userId": "1047613798464360498",
     "username": "Apptime",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 39478,
+    "xp": 39488,
     "level": 37
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 3161,
+    "xp": 3401,
     "level": 31
   },
   {
@@ -10292,7 +10292,19 @@
   {
     "userId": "1178358110788788356",
     "username": "MoonBot",
-    "xp": 20,
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "172933818049757185",
+    "username": "samuraijb",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1031349215751839765",
+    "username": "johana___",
+    "xp": 10,
     "level": 1
   }
 ]
