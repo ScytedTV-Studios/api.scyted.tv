@@ -846,12 +846,12 @@
   },
   "1187222755494592534": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187222755867897979": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   }
 }
