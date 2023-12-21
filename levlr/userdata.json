@@ -398,7 +398,7 @@
   {
     "userId": "545581357812678656",
     "username": "megumin",
-    "xp": 184,
+    "xp": 194,
     "level": "4"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 10610,
+    "xp": 10620,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 8139,
+    "xp": 8149,
     "level": 29
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "userId": "807182830752628766",
     "username": "HLTV",
-    "xp": 1068,
+    "xp": 1078,
     "level": 18
   },
   {
@@ -1298,13 +1298,13 @@
   {
     "userId": "455428041586376729",
     "username": "auravoid",
-    "xp": 1186,
+    "xp": 1226,
     "level": 17
   },
   {
     "userId": "228574821590499329",
     "username": "erisachu",
-    "xp": 1006,
+    "xp": 1016,
     "level": 13
   },
   {
@@ -1352,7 +1352,7 @@
   {
     "userId": "676126557034643523",
     "username": "cupcake",
-    "xp": 190,
+    "xp": 200,
     "level": 11
   },
   {
@@ -1418,8 +1418,8 @@
   {
     "userId": "190590364871032834",
     "username": "builderb",
-    "xp": 514,
-    "level": 9
+    "xp": 9,
+    "level": 10
   },
   {
     "userId": "280158289667555328",
@@ -2186,7 +2186,7 @@
   {
     "userId": "1078636581763686450",
     "username": "streliacopy",
-    "xp": 680,
+    "xp": 690,
     "level": 11
   },
   {
@@ -2258,7 +2258,7 @@
   {
     "userId": "241930933962407936",
     "username": "Discord Bots Verification",
-    "xp": 60,
+    "xp": 80,
     "level": 2
   },
   {
@@ -4172,7 +4172,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 886,
+    "xp": 916,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 15921,
+    "xp": 15951,
     "level": 31
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 6296,
+    "xp": 6526,
     "level": 32
   },
   {
@@ -10334,7 +10334,7 @@
   {
     "userId": "1179541519615668224",
     "username": "RustBot",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   }
 ]
