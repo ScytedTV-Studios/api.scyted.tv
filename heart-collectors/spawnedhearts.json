@@ -1401,7 +1401,7 @@
   },
   "1187576621553696890": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187576622216380488": {
@@ -1411,52 +1411,72 @@
   },
   "1187579079222886510": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187579079164174387": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187581066719002644": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187581066714828870": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187581607226384476": {
     "heart": "❤️",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187581607394164879": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187582472473563238": {
     "heart": "💛",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187582473274675381": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187583427764047914": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1187583428405764148": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1187584588172767232": {
+    "heart": "💙",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1187584588189540373": {
+    "heart": "💚",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1187585131364491306": {
+    "heart": "❤️",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1187585131712610395": {
+    "heart": "💚",
+    "claimed": true,
     "channelId": "1182210332802961408"
   }
 }
