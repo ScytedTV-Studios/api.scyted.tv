@@ -332,7 +332,7 @@
   {
     "userId": "782053704227487754",
     "username": "Botomir",
-    "xp": 130,
+    "xp": 140,
     "level": "2"
   },
   {
@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 12110,
+    "xp": 12140,
     "level": 27
   },
   {
@@ -932,8 +932,8 @@
   {
     "userId": "1011633031494246480",
     "username": "Majesty Translator",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "786154514407358494",
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 10399,
+    "xp": 10429,
     "level": 29
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 2432,
+    "xp": 2452,
     "level": 20
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "userId": "454564411596865537",
     "username": "Dragon Ball OV",
-    "xp": 50,
+    "xp": 60,
     "level": "2"
   },
   {
@@ -1712,7 +1712,7 @@
   {
     "userId": "564160684540166174",
     "username": "Rocket League Crate Simulator",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
@@ -1724,7 +1724,7 @@
   {
     "userId": "893158413402505299",
     "username": "Akko",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -2372,13 +2372,13 @@
   {
     "userId": "427857409206386688",
     "username": "lulu5239",
-    "xp": 269,
-    "level": 6
+    "xp": 21,
+    "level": 7
   },
   {
     "userId": "760184483659251753",
     "username": "Grand robot",
-    "xp": 139,
+    "xp": 149,
     "level": 6
   },
   {
@@ -2576,7 +2576,7 @@
   {
     "userId": "383854640694820865",
     "username": "Bastion",
-    "xp": 20,
+    "xp": 30,
     "level": "1"
   },
   {
@@ -2600,13 +2600,13 @@
   {
     "userId": "751117767712964679",
     "username": "JoKeR",
-    "xp": 60,
+    "xp": 70,
     "level": "1"
   },
   {
     "userId": "812347275698634762",
     "username": "Bogsy's Dice Bot",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -2648,13 +2648,13 @@
   {
     "userId": "831791433731145759",
     "username": "corion",
-    "xp": 110,
-    "level": "1"
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1030248474937131018",
     "username": "LevelUp",
-    "xp": 6,
+    "xp": 16,
     "level": 3
   },
   {
@@ -2678,7 +2678,7 @@
   {
     "userId": "809561873040146461",
     "username": "Ravi",
-    "xp": 50,
+    "xp": 60,
     "level": "1"
   },
   {
@@ -2708,7 +2708,7 @@
   {
     "userId": "647203942903840779",
     "username": "EggLord",
-    "xp": 80,
+    "xp": 90,
     "level": "1"
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "userId": "962093056910323743",
     "username": "AIAS",
-    "xp": 46,
+    "xp": 56,
     "level": 3
   },
   {
@@ -4034,7 +4034,7 @@
   {
     "userId": "160105994217586689",
     "username": "Miki",
-    "xp": 81,
+    "xp": 91,
     "level": 7
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 25631,
+    "xp": 25661,
     "level": 31
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "userId": "550786131336232961",
     "username": "Persephone",
-    "xp": 56,
+    "xp": 66,
     "level": 3
   },
   {
@@ -5348,7 +5348,7 @@
   {
     "userId": "801027359087001631",
     "username": "Shibe",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -5366,7 +5366,7 @@
   {
     "userId": "683053587215024213",
     "username": "Gradient",
-    "xp": 60,
+    "xp": 70,
     "level": 2
   },
   {
@@ -5918,7 +5918,7 @@
   {
     "userId": "356268235697553409",
     "username": ".fmbot",
-    "xp": 70,
+    "xp": 80,
     "level": "1"
   },
   {
@@ -7262,7 +7262,7 @@
   {
     "userId": "600834965571371037",
     "username": "Sambabe",
-    "xp": 60,
+    "xp": 70,
     "level": 1
   },
   {
@@ -7364,7 +7364,7 @@
   {
     "userId": "796120497468866630",
     "username": "Ghost Ping Detector",
-    "xp": 96,
+    "xp": 106,
     "level": 3
   },
   {
@@ -9878,7 +9878,7 @@
   {
     "userId": "961283473602129981",
     "username": "Messenger",
-    "xp": 50,
+    "xp": 60,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 7346,
+    "xp": 7586,
     "level": 34
   },
   {
@@ -10268,8 +10268,8 @@
   {
     "userId": "1058446185200881755",
     "username": "food_fighters",
-    "xp": 140,
-    "level": 2
+    "xp": 86,
+    "level": 3
   },
   {
     "userId": "752989092345544764",
