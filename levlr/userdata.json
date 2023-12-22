@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 1566,
+    "xp": 1576,
     "level": 19
   },
   {
@@ -3824,13 +3824,13 @@
   {
     "userId": "302050872383242240",
     "username": "DISBOARD",
-    "xp": 39,
+    "xp": 49,
     "level": 10
   },
   {
     "userId": "735147814878969968",
     "username": "Fibo",
-    "xp": 316,
+    "xp": 326,
     "level": 13
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 24601,
+    "xp": 24631,
     "level": 31
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 40394,
+    "xp": 40624,
     "level": 33
   },
   {
@@ -10383,6 +10383,12 @@
     "userId": "1186915771994091625",
     "username": "kotik1825",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "324601734070796298",
+    "username": "maciek99",
+    "xp": 10,
     "level": 1
   }
 ]
