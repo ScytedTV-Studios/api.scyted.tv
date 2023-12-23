@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1319,
+    "xp": 1329,
     "level": 21
   },
   {
@@ -3128,7 +3128,7 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 527,
+    "xp": 537,
     "level": 12
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 2402,
+    "xp": 2422,
     "level": 20
   },
   {
@@ -4322,13 +4322,13 @@
   {
     "userId": "563434444321587202",
     "username": "Maki",
-    "xp": 77,
+    "xp": 87,
     "level": 5
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 6256,
+    "xp": 6286,
     "level": 32
   },
   {
@@ -4364,7 +4364,7 @@
   {
     "userId": "312145496179474434",
     "username": "solelychloe",
-    "xp": 497,
+    "xp": 507,
     "level": 12
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 44658,
+    "xp": 44668,
     "level": 37
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 30384,
+    "xp": 30624,
     "level": 35
   },
   {
@@ -10466,6 +10466,12 @@
   {
     "userId": "994345831253672048",
     "username": "Hive Bot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "723196234868850698",
+    "username": "qpzp",
     "xp": 10,
     "level": 1
   }
