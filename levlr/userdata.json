@@ -506,7 +506,7 @@
   {
     "userId": "303799630532050946",
     "username": "Elite Looter",
-    "xp": 30,
+    "xp": 40,
     "level": "1"
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "userId": "187636089073172481",
     "username": "DuckHunt",
-    "xp": 2952,
+    "xp": 2962,
     "level": 20
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "userId": "99742488666845184",
     "username": "ovyerus",
-    "xp": 1329,
+    "xp": 1339,
     "level": 21
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "userId": "844411348573880330",
     "username": "liefgrief",
-    "xp": 516,
+    "xp": 536,
     "level": 13
   },
   {
@@ -2372,13 +2372,13 @@
   {
     "userId": "427857409206386688",
     "username": "lulu5239",
-    "xp": 351,
-    "level": 7
+    "xp": 13,
+    "level": 8
   },
   {
     "userId": "760184483659251753",
     "username": "Grand robot",
-    "xp": 341,
+    "xp": 351,
     "level": 7
   },
   {
@@ -4034,7 +4034,7 @@
   {
     "userId": "160105994217586689",
     "username": "Miki",
-    "xp": 213,
+    "xp": 223,
     "level": 8
   },
   {
@@ -4142,7 +4142,7 @@
   {
     "userId": "789258242235695145",
     "username": "Carl-bot Logging",
-    "xp": 2422,
+    "xp": 2432,
     "level": 20
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 6316,
+    "xp": 6346,
     "level": 32
   },
   {
@@ -5798,7 +5798,7 @@
   {
     "userId": "716293342740348948",
     "username": "Pokedi",
-    "xp": 30,
+    "xp": 40,
     "level": 2
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 44668,
+    "xp": 44678,
     "level": 37
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 30864,
+    "xp": 31094,
     "level": 35
   },
   {
@@ -10478,6 +10478,12 @@
   {
     "userId": "739735540483752006",
     "username": "Discortics™",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "784159989798404097",
+    "username": "Pine",
     "xp": 10,
     "level": 1
   }
