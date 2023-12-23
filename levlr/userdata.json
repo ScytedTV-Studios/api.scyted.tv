@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 12490,
+    "xp": 12510,
     "level": 27
   },
   {
@@ -1166,7 +1166,7 @@
   {
     "userId": "418412306981191680",
     "username": "BMO",
-    "xp": 10769,
+    "xp": 10779,
     "level": 29
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 27151,
+    "xp": 27181,
     "level": 31
   },
   {
@@ -4424,7 +4424,7 @@
   {
     "userId": "954695799411974165",
     "username": "GiveawayBot™",
-    "xp": 70,
+    "xp": 80,
     "level": 2
   },
   {
@@ -4646,7 +4646,7 @@
   {
     "userId": "550786131336232961",
     "username": "Persephone",
-    "xp": 76,
+    "xp": 86,
     "level": 3
   },
   {
@@ -6080,7 +6080,7 @@
   {
     "userId": "172002275412279296",
     "username": "Tatsu",
-    "xp": 70,
+    "xp": 80,
     "level": 2
   },
   {
@@ -7364,7 +7364,7 @@
   {
     "userId": "796120497468866630",
     "username": "Ghost Ping Detector",
-    "xp": 34,
+    "xp": 44,
     "level": 4
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 43138,
+    "xp": 43148,
     "level": 37
   },
   {
@@ -8006,7 +8006,7 @@
   {
     "userId": "1158449083757895690",
     "username": "FiveM Bot Master",
-    "xp": 40,
+    "xp": 50,
     "level": 2
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 19426,
+    "xp": 19656,
     "level": 34
   },
   {
@@ -10413,6 +10413,12 @@
     "userId": "555955826880413696",
     "username": "EPIC RPG",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "931532265777934337",
+    "username": "udtc",
+    "xp": 10,
     "level": 1
   }
 ]
