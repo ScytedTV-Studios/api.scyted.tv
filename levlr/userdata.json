@@ -836,7 +836,7 @@
   {
     "userId": "785196430796914758",
     "username": "Slate",
-    "xp": 253,
+    "xp": 263,
     "level": 28
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2176,
+    "xp": 2186,
     "level": 19
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 8146,
+    "xp": 8176,
     "level": 32
   },
   {
@@ -7118,8 +7118,8 @@
   {
     "userId": "1181975576785997994",
     "username": "Wave DEV",
-    "xp": 857,
-    "level": 12
+    "xp": 16,
+    "level": 13
   },
   {
     "userId": "814184806333415474",
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 45164,
+    "xp": 45394,
     "level": 35
   },
   {
@@ -10508,7 +10508,7 @@
   {
     "userId": "993781395761676298",
     "username": "robinandrew",
-    "xp": 40,
+    "xp": 100,
     "level": 2
   },
   {
@@ -10520,6 +10520,12 @@
   {
     "userId": "953458502209257532",
     "username": "jungsunoo",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "563197357697662988",
+    "username": "Anti-Bot",
     "xp": 10,
     "level": 1
   }
