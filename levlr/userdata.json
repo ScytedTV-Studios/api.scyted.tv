@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2106,
+    "xp": 2116,
     "level": 19
   },
   {
@@ -3236,7 +3236,7 @@
   {
     "userId": "270904126974590976",
     "username": "Dank Memer",
-    "xp": 744,
+    "xp": 754,
     "level": 15
   },
   {
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 161,
+    "xp": 171,
     "level": 7
   },
   {
@@ -4160,13 +4160,13 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 1154,
+    "xp": 1174,
     "level": 15
   },
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 1976,
+    "xp": 1996,
     "level": 17
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 7696,
+    "xp": 7726,
     "level": 32
   },
   {
@@ -7118,7 +7118,7 @@
   {
     "userId": "1181975576785997994",
     "username": "Wave DEV",
-    "xp": 137,
+    "xp": 157,
     "level": 12
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 45128,
+    "xp": 45138,
     "level": 37
   },
   {
@@ -7658,7 +7658,7 @@
   {
     "userId": "719960886806315030",
     "username": "itzhenry_",
-    "xp": 100,
+    "xp": 110,
     "level": 1
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 41664,
+    "xp": 41894,
     "level": 35
   },
   {
@@ -10510,5 +10510,11 @@
     "username": "robinandrew",
     "xp": 20,
     "level": 2
+  },
+  {
+    "userId": "610819935563677712",
+    "username": "malxnet",
+    "xp": 10,
+    "level": 1
   }
 ]
