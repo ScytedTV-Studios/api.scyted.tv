@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Data</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>User Data</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Username</th>
+                <th>XP</th>
+                <th>Level</th>
+            </tr>
+        </thead>
+        <tbody id="userData">
+        </tbody>
+    </table>
+
+    <script>
+        // Fetch the CSV file using XMLHttpRequest
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'userdata.csv', true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var data = xhr.responseText;
+                var lines = data.split('\n');
+                var table = document.getElementById('userData');
+
+                for (var i = 1; i < lines.length; i++) { // Start from 1 to skip the header row
+                    var row = table.insertRow(-1);
+                    var cells = lines[i].split(',');
+
+                    for (var j = 0; j < cells.length; j++) {
+                        var cell = row.insertCell(j);
+                        cell.innerHTML = cells[j];
+                    }
+                }
+            }
+        };
+        xhr.send();
+    </script>
+</body>
+</html>
