@@ -1,5 +1,5 @@
 {
-    "title": "Blocks",
+    "title": "",
     "description": "# Stone\nStone is a naturally-generating block that makes up a majority of terrain, found primarily underground.\n\nVariants of stone include Cobblestone, Mossy Stone, Mossy Cobblestone, Polished Stone, Stone Bricks, Polished Stone Bricks and Mossy Polished Stone Bricks.\n## Natural genration:\nStone is the most frequently generated solid block in the Overworld, making up a majority of terrain. It is usually found beneath layers of dirt, but can be found uncovered in caves, mountains, oceans etc. Other blocks can take the place of stone, such as basalt and granite. Stone can generate at any given y-level.\n## Breaking:\nWhen mined with any non-golden pickaxe, stone drops a block of cobblestone. When broken with a golden pickaxe or crushed by a piston, it drops itself.",
     "image": "",
     "thumbnail": "https://static.miraheze.org/btawiki/thumb/d/d4/Stone.png/240px-Stone.png"
