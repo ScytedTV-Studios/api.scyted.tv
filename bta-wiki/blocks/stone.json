@@ -5,29 +5,29 @@
     "thumbnail": "https://static.miraheze.org/btawiki/thumb/d/d4/Stone.png/240px-Stone.png",
 
     "fields": {
-        "nameone": "",
-        "valueone": "",
-        "inlineone": "",
+        "nameone": "temp",
+        "valueone": "temp",
+        "inlineone": "true",
 
-        "nametwo": "",
-        "valuetwo": "",
-        "inlinetwo": "",
+        "nametwo": "temp",
+        "valuetwo": "temp",
+        "inlinetwo": "true",
 
-        "namethree": "",
-        "valuethree": "",
-        "inlinethree": "",
+        "namethree": "temp",
+        "valuethree": "temp",
+        "inlinethree": "true",
 
-        "namefour": "",
-        "valuefour": "",
-        "inlinefour": "",
+        "namefour": "temp",
+        "valuefour": "temp",
+        "inlinefour": "true",
 
-        "namefive": "",
-        "valuefive": "",
-        "inlinefive": "",
+        "namefive": "temp",
+        "valuefive": "temp",
+        "inlinefive": "true",
 
-        "namesix": "",
-        "valuesix": "",
-        "inlinesix": ""
+        "namesix": "temp",
+        "valuesix": "temp",
+        "inlinesix": "true"
     }
 }
   
