@@ -1,0 +1,35 @@
+[
+    {
+      "name": "blocks",
+      "description": "Get information about all blocks.",
+      "type": 1,
+      "options": [
+        {
+          "name": "stone",
+          "type": 1,
+          "description": "stone"
+        },
+        {
+          "name": "grass",
+          "type": 1,
+          "description": "grass"
+        },
+        {
+          "name": "dirt",
+          "type": 1,
+          "description": "dirt"
+        },
+        {
+          "name": "mud",
+          "type": 1,
+          "description": "mud"
+        },
+        {
+          "name": "sand",
+          "type": 1,
+          "description": "sand"
+        }
+      ]
+    }
+  ]
+  
