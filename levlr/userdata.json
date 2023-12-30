@@ -1190,7 +1190,7 @@
   {
     "userId": "518070897295228959",
     "username": "Discord Bots",
-    "xp": 2606,
+    "xp": 2616,
     "level": 19
   },
   {
@@ -2378,8 +2378,8 @@
   {
     "userId": "760184483659251753",
     "username": "Grand robot",
-    "xp": 423,
-    "level": 8
+    "xp": 4,
+    "level": 9
   },
   {
     "userId": "1125759589774790766",
@@ -3812,7 +3812,7 @@
   {
     "userId": "746781930078601367",
     "username": "Ruby",
-    "xp": 211,
+    "xp": 221,
     "level": 7
   },
   {
@@ -4034,7 +4034,7 @@
   {
     "userId": "160105994217586689",
     "username": "Miki",
-    "xp": 194,
+    "xp": 204,
     "level": 9
   },
   {
@@ -4046,7 +4046,7 @@
   {
     "userId": "1174137218181369878",
     "username": "Wave 24/7",
-    "xp": 1328,
+    "xp": 1378,
     "level": 18
   },
   {
@@ -4328,7 +4328,7 @@
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 15406,
+    "xp": 15436,
     "level": 32
   },
   {
@@ -4664,7 +4664,7 @@
   {
     "userId": "1175104796567552121",
     "username": "Game Bot",
-    "xp": 16,
+    "xp": 66,
     "level": 17
   },
   {
@@ -6794,7 +6794,7 @@
   {
     "userId": "199417447424458762",
     "username": "bulletmemes",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -7562,7 +7562,7 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 46738,
+    "xp": 46748,
     "level": 37
   },
   {
@@ -8126,7 +8126,7 @@
   {
     "userId": "327410729466724352",
     "username": "lmhtvnchuchu",
-    "xp": 86,
+    "xp": 96,
     "level": 3
   },
   {
@@ -10088,7 +10088,7 @@
   {
     "userId": "952000104473165834",
     "username": "Repo Stats",
-    "xp": 43838,
+    "xp": 44068,
     "level": 36
   },
   {
@@ -10550,6 +10550,18 @@
   {
     "userId": "1160968001701560423",
     "username": "jonzingboy",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "436568397803683851",
+    "username": "raiden_verri",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "854906433156677643",
+    "username": "dakingblob",
     "xp": 10,
     "level": 1
   }
