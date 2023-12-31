@@ -186,17 +186,27 @@
   },
   "1191142464246005893": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1191143103713771521": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1191143671865802794": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1191145499026268191": {
+    "heart": "🧡",
+    "claimed": true,
+    "channelId": "1182210332802961408"
+  },
+  "1191146054079488010": {
+    "heart": "💙",
+    "claimed": true,
     "channelId": "1182210332802961408"
   }
 }
