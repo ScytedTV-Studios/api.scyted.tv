@@ -1,9 +1,9 @@
 {
     "server_port": 8080,
-    "task_list_title": "Wynncraft",
+    "task_list_title": "To-do List",
     "task_list_title_width": "350px",
     "task_list_items": [
-       "Level 50",
+       "Reach Level 50",
        "Buy Elf Set",
        "Complete Trail Locations"
     ]
