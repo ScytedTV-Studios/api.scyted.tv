@@ -4,9 +4,9 @@ var refresh_delay = 1000;
 function load_config() {
   $.get(window.location.href + "config", function(data) {
     // Set the title.
-    $(".title-wrapper .right span").text(data.task_list_title);
+    $(".title-wrapper .left span").text(data.task_list_title);
     // Set the title width.
-    $(".title-wrapper .right").width(data.task_list_title_width);
+    $(".title-wrapper .left").width(data.task_list_title_width);
 
     // Set up the item list.
     var $this = $("ul.task-list").empty();
