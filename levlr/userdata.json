@@ -104,7 +104,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 119,
+    "xp": 149,
     "level": 6
   },
   {
@@ -128,7 +128,7 @@
   {
     "userId": "901153009050984508",
     "username": ".domiknow",
-    "xp": 70,
+    "xp": 90,
     "level": 2
   },
   {
@@ -140,13 +140,19 @@
   {
     "userId": "568225077355610126",
     "username": "aeif",
-    "xp": 80,
+    "xp": 110,
     "level": 1
   },
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "884808453103702087",
+    "username": "matrinalow.",
+    "xp": 10,
     "level": 1
   }
 ]
