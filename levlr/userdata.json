@@ -44,7 +44,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 149,
+    "xp": 179,
     "level": 6
   },
   {
@@ -74,8 +74,8 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 40,
-    "level": 1
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "987203608732905512",
@@ -141,6 +141,12 @@
     "userId": "568225077355610126",
     "username": "aeif",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "630059176407728138",
+    "username": "thebloodcloud",
+    "xp": 20,
     "level": 1
   }
 ]
