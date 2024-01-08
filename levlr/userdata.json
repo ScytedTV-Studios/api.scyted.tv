@@ -56,7 +56,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 19,
+    "xp": 39,
     "level": 10
   },
   {
@@ -68,7 +68,7 @@
   {
     "userId": "901273925361729597",
     "username": "ectoobiologistt",
-    "xp": 30,
+    "xp": 40,
     "level": 1
   },
   {
@@ -320,6 +320,12 @@
   {
     "userId": "991515098608832612",
     "username": "wolfmox",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "885554004891947029",
+    "username": "ahuman7131",
     "xp": 10,
     "level": 1
   }
