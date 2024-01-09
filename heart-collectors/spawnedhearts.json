@@ -406,17 +406,32 @@
   },
   "1194131431933366282": {
     "heart": "❤️",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1194131431845273651": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1194131432013049957": {
     "heart": "💙",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1174219506663575604"
+  },
+  "1194132490575691836": {
+    "heart": "💜",
+    "claimed": true,
+    "channelId": "1174219506663575604"
+  },
+  "1194132490714095727": {
+    "heart": "💚",
+    "claimed": true,
+    "channelId": "1174219506663575604"
+  },
+  "1194132490672152627": {
+    "heart": "🧡",
+    "claimed": true,
     "channelId": "1174219506663575604"
   }
 }
