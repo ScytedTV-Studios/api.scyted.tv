@@ -44,7 +44,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 314,
+    "xp": 334,
     "level": 9
   },
   {
@@ -345,6 +345,12 @@
     "userId": "1159629471737974906",
     "username": "shane_20",
     "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "955371879412142090",
+    "username": "mcmeece",
+    "xp": 10,
     "level": 1
   }
 ]
