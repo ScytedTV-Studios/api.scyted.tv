@@ -38,7 +38,7 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 254,
+    "xp": 264,
     "level": 9
   },
   {
@@ -242,7 +242,7 @@
   {
     "userId": "538316380349661194",
     "username": "jeremy456g",
-    "xp": 30,
+    "xp": 50,
     "level": 2
   },
   {
@@ -392,6 +392,12 @@
   {
     "userId": "937797887121825832",
     "username": "aja.pryor",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "769723482669842433",
+    "username": "marshmallowco",
     "xp": 10,
     "level": 1
   }
