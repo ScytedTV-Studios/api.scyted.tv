@@ -44,7 +44,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 299,
+    "xp": 309,
     "level": 10
   },
   {
@@ -164,7 +164,7 @@
   {
     "userId": "837160070919880714",
     "username": "lokthemagician105",
-    "xp": 4,
+    "xp": 14,
     "level": 4
   },
   {
@@ -404,6 +404,12 @@
   {
     "userId": "1163543276104716379",
     "username": "game_zadrot",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "300812738261942272",
+    "username": "cninja",
     "xp": 10,
     "level": 1
   }
