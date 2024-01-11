@@ -1156,12 +1156,17 @@
   },
   "1194930527845744690": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182880720008515667"
   },
   "1194931056470663258": {
     "heart": "💛",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1182880720008515667"
+  },
+  "1194932244603732019": {
+    "heart": "💙",
+    "claimed": true,
     "channelId": "1182880720008515667"
   }
 }
