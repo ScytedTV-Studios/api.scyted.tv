@@ -92,7 +92,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 527,
+    "xp": 537,
     "level": 14
   },
   {
@@ -116,13 +116,13 @@
   {
     "userId": "280402967411163138",
     "username": "booridjr",
-    "xp": 46,
+    "xp": 56,
     "level": 3
   },
   {
     "userId": "404468475516420096",
     "username": "firefly707",
-    "xp": 110,
+    "xp": 120,
     "level": 2
   },
   {
@@ -380,6 +380,12 @@
   {
     "userId": "1179255049155784739",
     "username": "arpit_birdi",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "417681827667640320",
+    "username": "fadedhipster",
     "xp": 10,
     "level": 1
   }
