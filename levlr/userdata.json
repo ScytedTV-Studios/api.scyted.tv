@@ -50,7 +50,7 @@
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 279,
+    "xp": 289,
     "level": 6
   },
   {
@@ -430,5 +430,11 @@
     "username": "foxyfresh",
     "xp": 30,
     "level": 2
+  },
+  {
+    "userId": "858122186946773072",
+    "username": "DevvidsOfficial",
+    "xp": 10,
+    "level": 1
   }
 ]
