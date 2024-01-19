@@ -14,7 +14,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 854,
+    "xp": 864,
     "level": 15
   },
   {
@@ -26,7 +26,7 @@
   {
     "userId": "941841810790174772",
     "username": "mastertago",
-    "xp": 84,
+    "xp": 114,
     "level": 4
   },
   {
@@ -44,13 +44,13 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 24,
+    "xp": 124,
     "level": 16
   },
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 677,
+    "xp": 697,
     "level": 12
   },
   {
@@ -501,6 +501,12 @@
     "userId": "1181140160021274717",
     "username": "tmobile.tf",
     "xp": 80,
+    "level": 1
+  },
+  {
+    "userId": "1005147334692307034",
+    "username": "mystic4242",
+    "xp": 30,
     "level": 1
   }
 ]
