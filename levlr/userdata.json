@@ -14,13 +14,13 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 167,
+    "xp": 217,
     "level": 14
   },
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 177,
+    "xp": 217,
     "level": 12
   },
   {
@@ -74,7 +74,7 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 410,
+    "xp": 440,
     "level": 11
   },
   {
@@ -104,13 +104,13 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 934,
+    "xp": 944,
     "level": 15
   },
   {
     "userId": "515614459549581342",
     "username": "noaho325",
-    "xp": 203,
+    "xp": 223,
     "level": 8
   },
   {
@@ -128,7 +128,7 @@
   {
     "userId": "901153009050984508",
     "username": ".domiknow",
-    "xp": 36,
+    "xp": 56,
     "level": 3
   },
   {
@@ -140,7 +140,7 @@
   {
     "userId": "568225077355610126",
     "username": "aeif",
-    "xp": 260,
+    "xp": 280,
     "level": 11
   },
   {
@@ -188,7 +188,7 @@
   {
     "userId": "952244656949841971",
     "username": "ta5t1erdr0p",
-    "xp": 126,
+    "xp": 136,
     "level": 3
   },
   {
@@ -200,7 +200,7 @@
   {
     "userId": "1177411777101828167",
     "username": "78leonardo78",
-    "xp": 294,
+    "xp": 314,
     "level": 9
   },
   {
@@ -338,7 +338,7 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 76,
+    "xp": 106,
     "level": 3
   },
   {
@@ -477,6 +477,12 @@
     "userId": "1047628634447425600",
     "username": "purplethemereinmortal",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "858107264707592202",
+    "username": "Unknown_useer",
+    "xp": 60,
     "level": 1
   }
 ]
