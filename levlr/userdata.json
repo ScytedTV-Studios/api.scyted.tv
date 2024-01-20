@@ -8,7 +8,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 310,
+    "xp": 320,
     "level": 11
   },
   {
@@ -200,7 +200,7 @@
   {
     "userId": "1177411777101828167",
     "username": "78leonardo78",
-    "xp": 567,
+    "xp": 627,
     "level": 12
   },
   {
@@ -513,6 +513,12 @@
     "userId": "700397780845330442",
     "username": "theoldchap",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "710297818291634239",
+    "username": "jujubeanyt",
+    "xp": 10,
     "level": 1
   }
 ]
