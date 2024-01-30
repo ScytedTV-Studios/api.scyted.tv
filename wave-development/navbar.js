@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Redirect to login if access token is not found
     if (!storedAccessToken) {
         logout()
-        window.location.href = "https://www.wavedev.app/login";
+        window.location.href = "/login";
     } else {
         // Fetch user data from Discord API
         fetchDiscordUserData(storedAccessToken)
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 console.error("Error fetching user data:", error);
                 // Handle error (e.g., redirect to login page)
                 logout()
-                window.location.href = "https://www.wavedev.app/login";
+                window.location.href = "/login";
             });
     }
 });
@@ -54,45 +54,6 @@ function displayUserInfo(userData) {
     profilePicture.src = `https://cdn.discordapp.com/avatars/${userData.id}/${userData.avatar}.png`;
     username.textContent = userData.username;
     userDropdown.querySelector('.home').href = `https://www.wavedev.app/`;
-}
-
-function displayBotInfo() {
-    const botInfoDiv = document.getElementById("botInfo");
-
-    // Example data (replace with actual data)
-    const botData = [
-        { name: "Wave 24/7", profilePicture: "https://cdn.scyted.tv/discord-wave/wave.jpg", backgroundColor: "#9b72f9", link: "https://www.wavedev.app/dashboard/wave" },
-        { name: "Levlr", profilePicture: "https://cdn.scyted.tv/discord-levlr/levlr.png", backgroundColor: "#9e3595", link: "https://www.wavedev.app/dashboard/levlr" },
-        { name: "Heart Collectors", profilePicture: "https://cdn.scyted.tv/discord-heart-collectors/heart-collectors.png", backgroundColor: "#dc4437", link: "https://www.wavedev.app/dashboard/heart-collectors" },
-    ];
-
-    botData.forEach(bot => {
-        const botContainer = document.createElement("a"); // Use an anchor element for the link
-        botContainer.classList.add("bot-details");
-        botContainer.style.backgroundColor = bot.backgroundColor || "#ddd"; // Set background color
-        botContainer.href = bot.link || "#"; // Set link
-
-        const botProfilePicture = document.createElement("img");
-        botProfilePicture.src = bot.profilePicture;
-        botProfilePicture.alt = "Bot Profile Picture";
-        botProfilePicture.classList.add("bot-profile-picture");
-
-        const botName = document.createElement("div");
-        botName.classList.add("bot-name");
-        botName.textContent = bot.name;
-
-        botContainer.appendChild(botProfilePicture);
-        botContainer.appendChild(botName);
-
-        botContainer.addEventListener("click", function (event) {
-            // Handle click on bot square (add your logic here)
-            console.log(`Clicked on ${bot.name}`);
-            // If you want to navigate to the link, remove the next line
-            // event.preventDefault();
-        });
-
-        botInfoDiv.appendChild(botContainer);
-    });
 }
 
 function logout() {
