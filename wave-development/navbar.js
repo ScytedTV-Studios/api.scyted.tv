@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Include the JavaScript code for the navigation bar
             const navbarScript = document.createElement('script');
-            navbarScript.src = 'path/to/navbar.js';
+            navbarScript.src = 'navbar.js';
             document.body.appendChild(navbarScript);
         })
         .catch(error => console.error("Error loading navbar:", error));
