@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Redirect to login if access token is not found
     if (!storedAccessToken) {
         logout()
-        window.location.href = "/login";
+        window.location.href = "./login";
     } else {
         // Fetch user data from Discord API
         fetchDiscordUserData(storedAccessToken)
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 console.error("Error fetching user data:", error);
                 // Handle error (e.g., redirect to login page)
                 logout()
-                window.location.href = "/login";
+                window.location.href = "./login";
             });
     }
 });
