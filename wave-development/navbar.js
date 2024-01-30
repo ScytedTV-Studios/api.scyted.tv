@@ -113,19 +113,3 @@ function getCookie(name) {
     }
     return null;
 }
-
-document.addEventListener("DOMContentLoaded", function () {
-    // Load the navigation bar template
-    fetch("navbar.html")
-        .then(response => response.text())
-        .then(navbarHtml => {
-            const navbarContainer = document.getElementById('navbar-container');
-            navbarContainer.innerHTML = navbarHtml;
-
-            // Include the JavaScript code for the navigation bar
-            const navbarScript = document.createElement('script');
-            navbarScript.src = 'navbar.js';
-            document.body.appendChild(navbarScript);
-        })
-        .catch(error => console.error("Error loading navbar:", error));
-});
