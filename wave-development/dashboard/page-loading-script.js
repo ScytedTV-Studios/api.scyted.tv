@@ -3,7 +3,7 @@ var style = document.createElement('style');
 style.innerHTML = `
       body {
         overflow-x: hidden;
-        transition: margin 0.2s;
+        transition: margin 0.5s;
       }
 
       #loading-screen {
@@ -17,12 +17,12 @@ style.innerHTML = `
         align-items: center;
         justify-content: center;
         z-index: 9999;
-        transition: margin 0.2s;
+        transition: margin 0.5s;
       }
 
       #content {
         margin-left: 0;
-        transition: margin 0.2s;
+        transition: margin 0.5s;
       }
     `;
 document.head.appendChild(style);
