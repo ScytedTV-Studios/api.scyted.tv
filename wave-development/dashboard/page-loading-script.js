@@ -3,7 +3,7 @@ var style = document.createElement('style');
 style.innerHTML = `
       body {
         overflow-x: hidden;
-        transition: margin 0.5s;
+        transition: margin 0.2s;
       }
 
       #loading-screen {
@@ -17,12 +17,12 @@ style.innerHTML = `
         align-items: center;
         justify-content: center;
         z-index: 9999;
-        transition: margin 0.5s;
+        transition: margin 0.2s;
       }
 
       #content {
         margin-left: 0;
-        transition: margin 0.5s;
+        transition: margin 0.2s;
       }
     `;
 document.head.appendChild(style);
@@ -48,7 +48,7 @@ function handleElementClick(event) {
         setTimeout(function () {
             // Proceed to the link after a delay (simulating loading)
             window.location.href = event.target.href;
-        }, 500); // Change the delay to 0.5 seconds
+        }, 200); // Change the delay to 0.5 seconds
     }
 }
 
@@ -60,4 +60,4 @@ setTimeout(function () {
     loadingScreen.style.marginLeft = '-100%'; // Slide loading screen off to the left
     document.body.style.overflowX = 'visible'; // Show horizontal scrollbar
     contentDiv.style.marginLeft = '0'; // Adjust the desired margin value
-}, 500); // Change the delay to 0.5 seconds
+}, 200); // Change the delay to 0.5 seconds
