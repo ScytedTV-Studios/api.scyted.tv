@@ -48,7 +48,7 @@ function handleElementClick(event) {
         setTimeout(function () {
             // Proceed to the link after a delay (simulating loading)
             window.location.href = event.target.href;
-        }, 200); // Change the delay to 0.5 seconds
+        }, 500); // Change the delay to 0.5 seconds
     }
 }
 
