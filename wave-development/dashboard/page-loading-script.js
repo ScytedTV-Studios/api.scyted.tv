@@ -60,4 +60,4 @@ setTimeout(function () {
     loadingScreen.style.marginLeft = '-100%'; // Slide loading screen off to the left
     document.body.style.overflowX = 'visible'; // Show horizontal scrollbar
     contentDiv.style.marginLeft = '0'; // Adjust the desired margin value
-}, 200); // Change the delay to 0.5 seconds
+}, 300); // Change the delay to 0.5 seconds
