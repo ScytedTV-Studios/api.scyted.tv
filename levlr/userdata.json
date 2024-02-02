@@ -116,7 +116,7 @@
   {
     "userId": "1181237011508641893",
     "username": "silvermaple47",
-    "xp": 50,
+    "xp": 60,
     "level": 2
   },
   {
@@ -178,5 +178,11 @@
     "username": "aeif",
     "xp": 70,
     "level": 2
+  },
+  {
+    "userId": "839079536452829184",
+    "username": "moony6877",
+    "xp": 10,
+    "level": 1
   }
 ]
