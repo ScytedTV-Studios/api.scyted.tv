@@ -8,7 +8,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 134,
+    "xp": 154,
     "level": 4
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "991515098608832612",
     "username": "wolfmox",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
@@ -164,7 +164,7 @@
   {
     "userId": "717734323364823042",
     "username": "rippleiscute",
-    "xp": 57,
+    "xp": 67,
     "level": 5
   },
   {
@@ -260,7 +260,13 @@
   {
     "userId": "470044792361844749",
     "username": "greythornvideo",
-    "xp": 40,
+    "xp": 70,
+    "level": 1
+  },
+  {
+    "userId": "1119429463604731945",
+    "username": "sideshowperson",
+    "xp": 10,
     "level": 1
   }
 ]
