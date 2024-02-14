@@ -92,7 +92,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 259,
+    "xp": 289,
     "level": 10
   },
   {
@@ -116,13 +116,13 @@
   {
     "userId": "1181237011508641893",
     "username": "silvermaple47",
-    "xp": 271,
+    "xp": 281,
     "level": 7
   },
   {
     "userId": "781936353498759168",
     "username": "harmharm.",
-    "xp": 46,
+    "xp": 96,
     "level": 3
   },
   {
@@ -134,7 +134,7 @@
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 207,
+    "xp": 217,
     "level": 5
   },
   {
@@ -332,7 +332,7 @@
   {
     "userId": "345288889633734657",
     "username": "harmfull21",
-    "xp": 60,
+    "xp": 90,
     "level": 1
   },
   {
@@ -417,6 +417,12 @@
     "userId": "858107264707592202",
     "username": "Unknown_useer",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "938931317981204510",
+    "username": "brotato2113",
+    "xp": 10,
     "level": 1
   }
 ]
