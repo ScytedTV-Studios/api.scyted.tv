@@ -1836,32 +1836,37 @@
   },
   "1207356867345391646": {
     "heart": "💛",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1207357440945815572": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1207359935332098119": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1207376588761731082": {
     "heart": "❤️",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1207381655992533065": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1207413126769938562": {
     "heart": "💛",
     "claimed": true,
     "channelId": "1182210332802961408"
+  },
+  "1207421116893761588": {
+    "heart": "💛",
+    "claimed": true,
+    "channelId": "1174219506663575604"
   }
 }
