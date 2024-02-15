@@ -92,7 +92,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 10,
+    "xp": 50,
     "level": 11
   },
   {
@@ -435,6 +435,18 @@
     "userId": "461895682043936778",
     "username": "om3gab34t",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "650759654934052875",
+    "username": "katiesboyfriend",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "655174139165933596",
+    "username": "isaacfellmann",
+    "xp": 20,
     "level": 1
   }
 ]
