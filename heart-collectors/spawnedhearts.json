@@ -2211,12 +2211,12 @@
   },
   "1209309336711462962": {
     "heart": "💚",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   },
   "1209310679421689856": {
     "heart": "💛",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1182210332802961408"
   }
 }
