@@ -80,7 +80,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 1124,
+    "xp": 1134,
     "level": 15
   },
   {
@@ -152,7 +152,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 787,
+    "xp": 797,
     "level": 14
   },
   {
@@ -495,6 +495,12 @@
     "userId": "789903342285225985",
     "username": "toksik_waste",
     "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "986580866073513984",
+    "username": "kt6n",
+    "xp": 10,
     "level": 1
   }
 ]
