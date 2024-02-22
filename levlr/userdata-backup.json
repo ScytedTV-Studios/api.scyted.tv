@@ -56,7 +56,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 577,
+    "xp": 627,
     "level": 14
   },
   {
@@ -512,7 +512,7 @@
   {
     "userId": "1099513243740946482",
     "username": "desusutoraida",
-    "xp": 6,
+    "xp": 56,
     "level": 3
   },
   {
@@ -530,7 +530,13 @@
   {
     "userId": "1100261627107999845",
     "username": "lexiluwho",
-    "xp": 26,
+    "xp": 86,
     "level": 3
+  },
+  {
+    "userId": "1118202205648986164",
+    "username": "_xenodemon",
+    "xp": 40,
+    "level": 1
   }
 ]
