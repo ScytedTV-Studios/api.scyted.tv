@@ -344,7 +344,7 @@
   {
     "userId": "1137267779452534825",
     "username": "maulakier05",
-    "xp": 133,
+    "xp": 163,
     "level": 8
   },
   {
@@ -518,7 +518,7 @@
   {
     "userId": "1132061372851691572",
     "username": "flint170",
-    "xp": 11,
+    "xp": 41,
     "level": 7
   },
   {
@@ -536,7 +536,7 @@
   {
     "userId": "1118202205648986164",
     "username": "_xenodemon",
-    "xp": 73,
+    "xp": 83,
     "level": 8
   },
   {
@@ -579,6 +579,12 @@
     "userId": "492427779954966529",
     "username": "metalhealth",
     "xp": 60,
+    "level": 1
+  },
+  {
+    "userId": "984515101673529394",
+    "username": "illbeyourmommy",
+    "xp": 30,
     "level": 1
   }
 ]
