@@ -26,7 +26,7 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 474,
+    "xp": 494,
     "level": 9
   },
   {
@@ -92,7 +92,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 297,
+    "xp": 307,
     "level": 12
   },
   {
@@ -104,7 +104,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 7,
+    "xp": 17,
     "level": 14
   },
   {
@@ -549,6 +549,12 @@
     "userId": "1093785932672544809",
     "username": "koreena27",
     "xp": 60,
+    "level": 1
+  },
+  {
+    "userId": "804059067487748106",
+    "username": "jxnz3n",
+    "xp": 10,
     "level": 1
   }
 ]
