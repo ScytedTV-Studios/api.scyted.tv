@@ -19,7 +19,7 @@
     <script>
         // Function to load JSON data and display it if credentials are correct
         function displayData(username, password) {
-            fetch('https://api.scyted.tv/levlr/userdata.json')
+            fetch('userdata.json')
                 .then(response => response.json())
                 .then(data => {
                     // Display the JSON data
