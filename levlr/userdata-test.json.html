@@ -1,15 +1,9 @@
-<!DOCTYPE JSON>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Password Protected Page</title>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-        }
-    </style>
 </head>
 <body>
     <div id="content" style="display: none;">
@@ -17,16 +11,11 @@
     </div>
 
     <script>
-        // Function to load JSON data and display it if credentials are correct
-        function displayData(username, password) {
-            fetch('userdata.json')
-                .then(response => response.json())
-                .then(data => {
-                    // Display the JSON data
-                    document.getElementById("content").innerText = JSON.stringify(data, null, 2);
-                    document.getElementById("content").style.display = "block";
-                })
-                .catch(error => console.error('Error fetching JSON:', error));
+        // Function to display JSON data
+        function displayData(data) {
+            // Display the JSON data
+            document.getElementById("content").innerText = JSON.stringify(data, null, 2);
+            document.getElementById("content").style.display = "block";
         }
 
         // Function to check credentials
@@ -37,8 +26,10 @@
                     const users = data.users;
                     const isValidUser = users.some(user => user.username === username && user.password === password);
                     if (isValidUser) {
-                        // If credentials are correct, display the JSON data
-                        displayData(username, password);
+                        // Fetch JSON data using JSONP
+                        const script = document.createElement('script');
+                        script.src = 'https://api.scyted.tv/levlr/userdata.json?callback=displayData';
+                        document.body.appendChild(script);
                     } else {
                         // Redirect to the error page
                         window.location.href = "error.html";
