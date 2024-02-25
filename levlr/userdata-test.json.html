@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Protected Page</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="content" style="display: none;">
+        <!-- JSON data will be displayed here -->
+    </div>
+
+    <script>
+        // Function to load JSON data and display it if credentials are correct
+        function displayData(username, password) {
+            fetch('userdata.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Display the JSON data
+                    document.getElementById("content").innerText = JSON.stringify(data, null, 2);
+                    document.getElementById("content").style.display = "block";
+                })
+                .catch(error => console.error('Error fetching JSON:', error));
+        }
+
+        // Function to check credentials
+        function checkCredentials(username, password) {
+            fetch('credentials.json')
+                .then(response => response.json())
+                .then(data => {
+                    const users = data.users;
+                    const isValidUser = users.some(user => user.username === username && user.password === password);
+                    if (isValidUser) {
+                        // If credentials are correct, display the JSON data
+                        displayData(username, password);
+                    } else {
+                        // Redirect to the error page
+                        window.location.href = "error.html";
+                    }
+                })
+                .catch(error => console.error('Error loading JSON:', error));
+        }
+
+        // Function to extract username and password from the URL parameters
+        function extractCredentialsFromURL() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const username = urlParams.get('username');
+            const password = urlParams.get('password');
+            if (username && password) {
+                checkCredentials(username, password);
+            } else {
+                // Redirect to the error page
+                window.location.href = "error.html";
+            }
+        }
+
+        // Check credentials when the page loads
+        window.onload = function() {
+            extractCredentialsFromURL();
+        };
+    </script>
+</body>
+</html>
