@@ -11,31 +11,31 @@
     </div>
 
     <script>
-        // Function to display JSON data
+        // Function to load JSON data and display it if credentials are correct
         function displayData(data) {
-            // Display the JSON data
+            // Convert JSON object to string and display it
             document.getElementById("content").innerText = JSON.stringify(data, null, 2);
             document.getElementById("content").style.display = "block";
         }
 
         // Function to check credentials
         function checkCredentials(username, password) {
-            fetch('credentials.json')
-                .then(response => response.json())
-                .then(data => {
-                    const users = data.users;
-                    const isValidUser = users.some(user => user.username === username && user.password === password);
-                    if (isValidUser) {
-                        // Fetch JSON data using JSONP
-                        const script = document.createElement('script');
-                        script.src = 'https://api.scyted.tv/levlr/userdata.json?callback=displayData';
-                        document.body.appendChild(script);
-                    } else {
-                        // Redirect to the error page
-                        window.location.href = "error.html";
+            fetch('https://api.scyted.tv/levlr/userdata.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
                     }
+                    return response.json();
                 })
-                .catch(error => console.error('Error loading JSON:', error));
+                .then(data => {
+                    // Display the JSON data
+                    displayData(data);
+                })
+                .catch(error => {
+                    console.error('Error fetching JSON:', error);
+                    // Redirect to the error page
+                    window.location.href = "error.html";
+                });
         }
 
         // Function to extract username and password from the URL parameters
