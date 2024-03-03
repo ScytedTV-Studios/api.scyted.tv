@@ -38,8 +38,8 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 70,
-    "level": 1
+    "xp": 10,
+    "level": 2
   },
   {
     "userId": "400460072649621524",
@@ -104,6 +104,12 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "837160070919880714",
+    "username": "lokthemagician105",
     "xp": 20,
     "level": 1
   }
