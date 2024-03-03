@@ -14,7 +14,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 10,
+    "xp": 40,
     "level": 1
   },
   {
@@ -44,7 +44,13 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 10,
+    "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "1177411777101828167",
+    "username": "78leonardo78",
+    "xp": 50,
     "level": 1
   }
 ]
