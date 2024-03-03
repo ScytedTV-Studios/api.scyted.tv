@@ -104,13 +104,19 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
     "userId": "837160070919880714",
     "username": "lokthemagician105",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1137267779452534825",
+    "username": "maulakier05",
+    "xp": 10,
     "level": 1
   }
 ]
