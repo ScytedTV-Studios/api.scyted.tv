@@ -8,13 +8,13 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 40,
+    "xp": 60,
     "level": 1
   },
   {
@@ -38,19 +38,19 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 20,
+    "xp": 40,
     "level": 1
   },
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 40,
+    "xp": 90,
     "level": 1
   },
   {
     "userId": "1177411777101828167",
     "username": "78leonardo78",
-    "xp": 50,
-    "level": 1
+    "xp": 0,
+    "level": 2
   }
 ]
