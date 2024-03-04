@@ -20,8 +20,8 @@
   {
     "userId": "610302069252947971",
     "username": "requeefious",
-    "xp": 90,
-    "level": 2
+    "xp": 16,
+    "level": 3
   },
   {
     "userId": "1118202205648986164",
@@ -206,13 +206,19 @@
   {
     "userId": "679178482378604575",
     "username": "metalhealth2.0",
-    "xp": 60,
+    "xp": 100,
     "level": 1
   },
   {
     "userId": "515614459549581342",
     "username": "noaho325",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1132061372851691572",
+    "username": "flint170",
+    "xp": 40,
     "level": 1
   }
 ]
