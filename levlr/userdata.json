@@ -20,13 +20,13 @@
   {
     "userId": "610302069252947971",
     "username": "requeefious",
-    "xp": 80,
-    "level": 1
+    "xp": 40,
+    "level": 2
   },
   {
     "userId": "1118202205648986164",
     "username": "_xenodemon",
-    "xp": 50,
+    "xp": 60,
     "level": 1
   },
   {
@@ -80,7 +80,7 @@
   {
     "userId": "492427779954966529",
     "username": "metalhealth",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -206,7 +206,13 @@
   {
     "userId": "679178482378604575",
     "username": "metalhealth2.0",
-    "xp": 20,
+    "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "515614459549581342",
+    "username": "noaho325",
+    "xp": 10,
     "level": 1
   }
 ]
