@@ -20,13 +20,13 @@
   {
     "userId": "610302069252947971",
     "username": "requeefious",
-    "xp": 40,
+    "xp": 80,
     "level": 1
   },
   {
     "userId": "1118202205648986164",
     "username": "_xenodemon",
-    "xp": 30,
+    "xp": 50,
     "level": 1
   },
   {
@@ -200,6 +200,12 @@
   {
     "userId": "839079536452829184",
     "username": "sergeant.g.sanderson",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "679178482378604575",
+    "username": "metalhealth2.0",
     "xp": 20,
     "level": 1
   }
