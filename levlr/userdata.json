@@ -170,7 +170,7 @@
   {
     "userId": "691061795086925854",
     "username": "aidenlook",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -290,6 +290,12 @@
   {
     "userId": "716327868162113697",
     "username": "boothecat333",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "510561406911774720",
+    "username": "quiz2020",
     "xp": 20,
     "level": 1
   }
