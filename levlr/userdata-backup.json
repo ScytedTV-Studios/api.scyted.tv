@@ -14,7 +14,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 126,
+    "xp": 146,
     "level": 3
   },
   {
@@ -38,13 +38,13 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 229,
+    "xp": 239,
     "level": 6
   },
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 106,
+    "xp": 116,
     "level": 3
   },
   {
@@ -255,6 +255,12 @@
     "userId": "756940744308162580",
     "username": "atsilv_uwasv",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "885554004891947029",
+    "username": "ahuman7131",
+    "xp": 30,
     "level": 1
   }
 ]
