@@ -1,3 +1,7 @@
+.mobile-error {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
 
     .resource-container,
@@ -9,8 +13,4 @@
     .mobile-error {
         display: block;
     }
-}
-
-.mobile-error {
-    display: none;
 }
