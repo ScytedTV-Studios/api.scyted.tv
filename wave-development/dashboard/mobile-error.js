@@ -1,21 +1,21 @@
 // Create and append styles to the head
 var style = document.createElement('style');
 style.innerHTML = `
-/* Hide resource-container and banner on mobile devices */
+.mobile-error {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
 
     .resource-container,
     .banner {
         display: none;
     }
-}
 
-/* Show mobile-error on mobile devices */
-@media only screen and (max-width: 768px) {
     .mobile-error {
         display: block;
-        /* or any other desired display property */
     }
+
 }
     `;
 document.head.appendChild(style);
