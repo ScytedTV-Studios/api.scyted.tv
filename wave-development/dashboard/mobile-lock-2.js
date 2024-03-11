@@ -24,5 +24,5 @@ document.head.appendChild(style);
 var mobileError = document.createElement('div');
 mobileError.id = 'mobile-error';
 mobileError.class = 'mobile-error';
-mobileError.innerHTML = `<body><div id="error-message" style="color: red;">ScytedTV Resources isn't currently available to mobile users at this time.</div></body>`;
-document.body.appendChild(mobileError);
+mobileError.innerHTML = `<div id="error-message" style="color: red;">ScytedTV Resources isn't currently available to mobile users at this time.</div>`;
+document.style.appendChild(mobileError);
