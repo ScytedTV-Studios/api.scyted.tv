@@ -21,8 +21,8 @@ style.innerHTML = `
 document.head.appendChild(style);
 
 // Create loading screen div
-var loadingScreen = document.createElement('div');
-loadingScreen.id = 'mobile-error';
-loadingScreen.class = 'mobile-error';
-loadingScreen.innerHTML = `<div id="error-message" style="color: red;">ScytedTV Resources isn't currently available to mobile users at this time.</div>`;
-document.body.appendChild(loadingScreen);
+var mobileError = document.createElement('div');
+mobileError.id = 'mobile-error';
+mobileError.class = 'mobile-error';
+mobileError.innerHTML = `<div id="error-message" style="color: red;">ScytedTV Resources isn't currently available to mobile users at this time.</div>`;
+document.body.appendChild(mobileError);
