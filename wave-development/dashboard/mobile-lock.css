@@ -10,3 +10,7 @@
         display: block;
     }
 }
+
+.mobile-error {
+    display: none;
+}
