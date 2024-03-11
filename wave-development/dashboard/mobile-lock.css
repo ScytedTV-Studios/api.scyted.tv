@@ -1,0 +1,14 @@
+/* Hide resource-container and banner on mobile devices */
+@media only screen and (max-width: 768px) {
+    .resource-container,
+    .banner {
+      display: none;
+    }
+  }
+  
+  /* Show mobile-error on mobile devices */
+  @media only screen and (max-width: 768px) {
+    .mobile-error {
+      display: block; /* or any other desired display property */
+    }
+  }
