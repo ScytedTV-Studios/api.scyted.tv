@@ -110,7 +110,7 @@
   {
     "userId": "837160070919880714",
     "username": "lokthemagician105",
-    "xp": 90,
+    "xp": 100,
     "level": 1
   },
   {
@@ -496,5 +496,11 @@
     "username": "tcprimarina",
     "xp": 40,
     "level": 2
+  },
+  {
+    "userId": "698346087664058371",
+    "username": "flowwithnohoes",
+    "xp": 10,
+    "level": 1
   }
 ]
