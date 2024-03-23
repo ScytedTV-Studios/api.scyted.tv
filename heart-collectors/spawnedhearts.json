@@ -9191,22 +9191,27 @@
   },
   "1221182134363095050": {
     "heart": "🧡",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1221182699339780279": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1221183257299783771": {
     "heart": "❤️",
-    "claimed": false,
+    "claimed": true,
     "channelId": "1174219506663575604"
   },
   "1221188966015832104": {
     "heart": "💜",
-    "claimed": false,
+    "claimed": true,
+    "channelId": "1174219506663575604"
+  },
+  "1221189537565376513": {
+    "heart": "💛",
+    "claimed": true,
     "channelId": "1174219506663575604"
   }
 }
