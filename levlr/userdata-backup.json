@@ -14,7 +14,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 220,
+    "xp": 230,
     "level": 11
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 407,
+    "xp": 437,
     "level": 12
   },
   {
@@ -537,6 +537,12 @@
     "userId": "1050463305107525652",
     "username": "zlooz_",
     "xp": 50,
+    "level": 1
+  },
+  {
+    "userId": "1159629471737974906",
+    "username": "shane_20",
+    "xp": 10,
     "level": 1
   }
 ]
