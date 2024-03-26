@@ -14,7 +14,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 260,
+    "xp": 300,
     "level": 11
   },
   {
@@ -38,7 +38,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 684,
+    "xp": 714,
     "level": 16
   },
   {
@@ -176,13 +176,13 @@
   {
     "userId": "1109274281243840622",
     "username": "yeetdude123",
-    "xp": 107,
+    "xp": 117,
     "level": 5
   },
   {
     "userId": "952244656949841971",
     "username": "ta5t1erdr0p",
-    "xp": 99,
+    "xp": 109,
     "level": 6
   },
   {
@@ -536,7 +536,7 @@
   {
     "userId": "1050463305107525652",
     "username": "zlooz_",
-    "xp": 110,
+    "xp": 120,
     "level": 2
   },
   {
@@ -549,6 +549,18 @@
     "userId": "1101242687010656256",
     "username": "activly",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "955371879412142090",
+    "username": "mcmeece",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "753796184312774677",
+    "username": "btccsimracing",
+    "xp": 20,
     "level": 1
   }
 ]
