@@ -1,12 +1,35 @@
-{
-    "showName": "Clever Remarks",
-    "productionId": "CR",
-    "releaseDate": "",
-    "married": false,
-    "address": {
-        "street": "32, Laham St.",
-        "city": "Innsbruck",
-        "country": "Austria"
+[
+    {
+        "showName": "Clever Remarks",
+        "productionId": "CR",
+        "releaseDate": "",
+        "seasons": {
+            "0": {
+                "title"
+                "e01": "Behind The Scenes of Episode 1",
+                "e02": "Behind The Scenes of Episode 2",
+                "e03": "Behind The Scenes of Episode 3",
+                "e04": "Behind The Scenes of Episode 4",
+                "e05": "Behind The Scenes of Episode 5",
+                "e06": "Behind The Scenes of Episode 6",
+                "e07": "Behind The Scenes of Episode 7",
+                "e08": "Behind The Scenes of Episode 8",
+                "e09": "Behind The Scenes of Episode 9",
+                "e10": "Behind The Scenes of Episode 10"
+            },
+            "1": {
+                "e01": "Episode 1",
+                "e02": "Episode 2",
+                "e03": "Episode 3",
+                "e04": "Episode 4",
+                "e05": "Episode 5",
+                "e06": "Episode 6",
+                "e07": "Episode 7",
+                "e08": "Episode 8",
+                "e09": "Episode 9",
+                "e10": "Episode 10"
+            }
         },
-    "referred-by": "E0012"
-},
+        "referred-by": "E0012"
+    }
+]
