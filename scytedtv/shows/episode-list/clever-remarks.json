@@ -1,0 +1,12 @@
+{
+    "showName": "Clever Remarks",
+    "productionId": "CR",
+    "releaseDate": "",
+    "married": false,
+    "address": {
+        "street": "32, Laham St.",
+        "city": "Innsbruck",
+        "country": "Austria"
+        },
+    "referred-by": "E0012"
+},
