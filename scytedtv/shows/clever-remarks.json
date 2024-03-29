@@ -9,7 +9,7 @@
                 "episodes": {
                     "1": {
                         "title": "Behind The Scenes of Episode 1",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0001",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -20,7 +20,7 @@
                     },
                     "2": {
                         "title": "Behind The Scenes of Episode 2",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0002",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -31,7 +31,7 @@
                     },
                     "3": {
                         "title": "Behind The Scenes of Episode 3",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0003",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -42,7 +42,7 @@
                     },
                     "4": {
                         "title": "Behind The Scenes of Episode 4",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0004",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -53,7 +53,7 @@
                     },
                     "5": {
                         "title": "Behind The Scenes of Episode 5",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0005",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -64,7 +64,7 @@
                     },
                     "6": {
                         "title": "Behind The Scenes of Episode 6",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0006",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -75,7 +75,7 @@
                     },
                     "7": {
                         "title": "Behind The Scenes of Episode 7",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0007",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -86,7 +86,7 @@
                     },
                     "8": {
                         "title": "Behind The Scenes of Episode 8",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0008",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -97,7 +97,7 @@
                     },
                     "9": {
                         "title": "Behind The Scenes of Episode 9",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0009",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -108,7 +108,7 @@
                     },
                     "10": {
                         "title": "Behind The Scenes of Episode 10",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0010",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -124,7 +124,7 @@
                 "episodes": {
                     "1": {
                         "title": "Episode 1",
-                        "description": "Coming Soon!",
+                        "description": "Coming 2024!",
                         "productionId": "CR0101",
                         "thumbnail": "",
                         "releaseDate": "",
@@ -135,102 +135,122 @@
                         ]
                     },
                     "2": {
-                        "title": "Behind The Scenes of Episode 2",
-                        "description": "Coming Soon!",
+                        "title": "Episode 2",
+                        "description": "Coming 2024!",
                         "productionId": "CR0102",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "3": {
-                        "title": "Behind The Scenes of Episode 3",
-                        "description": "Coming Soon!",
+                        "title": "Episode 3",
+                        "description": "Coming 2024!",
                         "productionId": "CR0103",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "4": {
-                        "title": "Behind The Scenes of Episode 4",
-                        "description": "Coming Soon!",
+                        "title": "Episode 4",
+                        "description": "Coming 2024!",
                         "productionId": "CR0104",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "5": {
-                        "title": "Behind The Scenes of Episode 5",
-                        "description": "Coming Soon!",
+                        "title": "Episode 5",
+                        "description": "Coming 2024!",
                         "productionId": "CR0105",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "6": {
-                        "title": "Behind The Scenes of Episode 6",
-                        "description": "Coming Soon!",
+                        "title": "Episode 6",
+                        "description": "Coming 2024!",
                         "productionId": "CR0106",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "7": {
-                        "title": "Behind The Scenes of Episode 7",
-                        "description": "Coming Soon!",
+                        "title": "Episode 7",
+                        "description": "Coming 2024!",
                         "productionId": "CR0107",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "8": {
-                        "title": "Behind The Scenes of Episode 8",
-                        "description": "Coming Soon!",
+                        "title": "Episode 8",
+                        "description": "Coming 2024!",
                         "productionId": "CR0108",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "9": {
-                        "title": "Behind The Scenes of Episode 9",
-                        "description": "Coming Soon!",
+                        "title": "Episode 9",
+                        "description": "Coming 2024!",
                         "productionId": "CR0109",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
                         ]
                     },
                     "10": {
-                        "title": "Behind The Scenes of Episode 10",
-                        "description": "Coming Soon!",
-                        "productionId": "CR0010",
+                        "title": "Episode 10",
+                        "description": "Coming 2024!",
+                        "productionId": "CR0110",
                         "thumbnail": "",
                         "releaseDate": "",
                         "cast": [
-                            "Camille Castermant",
-                            "Loyd Osborne"
+                            "Loyd Osborne",
+                            "",
+                            ""
+                        ]
+                    },
+                    "11": {
+                        "title": "Cut For Time",
+                        "description": "Coming 2024!",
+                        "productionId": "CR0111",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Loyd Osborne",
+                            "Camille Castermant"
                         ]
                     }
                 }
