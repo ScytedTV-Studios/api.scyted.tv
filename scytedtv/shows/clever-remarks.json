@@ -1,0 +1,137 @@
+[
+    {
+        "showName": "Clever Remarks",
+        "productionId": "CR",
+        "releaseDate": "",
+        "seasons": {
+            "0": {
+                "name": "Specials",
+                "episodes": {
+                    "1": {
+                        "title": "Behind The Scenes of Episode 1",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0001",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "2": {
+                        "title": "Behind The Scenes of Episode 2",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0002",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "3": {
+                        "title": "Behind The Scenes of Episode 3",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0003",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "4": {
+                        "title": "Behind The Scenes of Episode 4",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0004",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "5": {
+                        "title": "Behind The Scenes of Episode 5",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0005",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "6": {
+                        "title": "Behind The Scenes of Episode 6",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0006",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "7": {
+                        "title": "Behind The Scenes of Episode 7",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0007",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "8": {
+                        "title": "Behind The Scenes of Episode 8",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0008",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "9": {
+                        "title": "Behind The Scenes of Episode 9",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0009",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    },
+                    "10": {
+                        "title": "Behind The Scenes of Episode 10",
+                        "description": "Coming Soon!",
+                        "productionId": "CR0010",
+                        "thumbnail": "",
+                        "releaseDate": "",
+                        "cast": [
+                            "Camille Castermant",
+                            "Loyd Osborne"
+                        ]
+                    }
+                }
+            },
+            "1": {
+                "title": "Season 1",
+                "e01": "Episode 1",
+                "e02": "Episode 2",
+                "e03": "Episode 3",
+                "e04": "Episode 4",
+                "e05": "Episode 5",
+                "e06": "Episode 6",
+                "e07": "Episode 7",
+                "e08": "Episode 8",
+                "e09": "Episode 9",
+                "e10": "Episode 10"
+            }
+        }
+    }
+]
