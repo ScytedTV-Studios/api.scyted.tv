@@ -1,0 +1,775 @@
+{
+    "achievements": [
+        {
+            "name": "Welcome to Los Santos",
+            "description": "You repo'd a car and raced it through the heart of a sun-soaked metropolis.",
+            "achieved": true,
+            "date": "May 26, 2023",
+            "time": "7:24 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/348a8015272416e2587965c493877b822fb2bcd1.jpg"
+          },
+          {
+            "name": "Off the Plane",
+            "description": "GTA Online: Complete the Introduction.",
+            "achieved": true,
+            "date": "December 28, 2021",
+            "time": "7:25 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/595c85f8093df03700277fc9a4688e7a8cfa581a.jpg"
+          },
+          {
+            "name": "American Dream",
+            "description": "GTA Online: Own an Apartment, Garage and an Insured Vehicle.",
+            "achieved": true,
+            "date": "May 28, 2023",
+            "time": "10:06 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/3cbdd1df8fa8e0d6722dc7d169ab1d5226e1b06a.jpg"
+          },
+          {
+            "name": "Be Prepared",
+            "description": "GTA Online: Complete a Heist Setup mission.",
+            "achieved": true,
+            "date": "July 23, 2023",
+            "time": "1:18 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/3cbdd1df8fa8e0d6722dc7d169ab1d5226e1b06a.jpg"
+          },
+          {
+            "name": "Three-Bit Gangster",
+            "description": "GTA Online: Reach Rank 25.",
+            "achieved": true,
+            "date": "July 24, 2023",
+            "time": "6:33 AM",
+            "type": "Progress",
+            "progress": "25/25",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b95faa54005a9d9d80362d060880fe65fb85d28c.jpg"
+          },
+          {
+            "name": "Pimp My Sidearm",
+            "description": "Fully mod a weapon.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1ae6d3bd27ba653fd047642bcc46815e8acc5434.jpg"
+          },
+          {
+            "name": "Diamond Hard",
+            "description": "You cleaned out Vangelico to pay back Martin Madrazo.",
+            "achieved": true,
+            "date": "May 27, 2023",
+            "time": "5:23 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/8c52075ab6e8b962d7c1f5840cd8ed1cefdd1e6f.jpg"
+          },
+          {
+            "name": "A Friendship Resurrected",
+            "description": "With friends like this who needs enemies?",
+            "achieved": true,
+            "date": "May 28, 2023",
+            "time": "2:37 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/8c52075ab6e8b962d7c1f5840cd8ed1cefdd1e6f.jpg"
+          },
+          {
+            "name": "Making Moves",
+            "description": "GTA Online: Reach Rank 50.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "45/50",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/8c52075ab6e8b962d7c1f5840cd8ed1cefdd1e6f.jpg"
+          },
+          {
+            "name": "Run Like The Wind",
+            "description": "GTA Online: Survive for a day with a Bounty on your head.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/8c52075ab6e8b962d7c1f5840cd8ed1cefdd1e6f.jpg"
+          },
+          {
+            "name": "Subversive",
+            "description": "You stole an experimental super weapon from Merryweather... and gave it back.",
+            "achieved": true,
+            "date": "June 3, 2023",
+            "time": "4:33 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/a9e0377d0560512f8b51bfd496b6b166c7527c4d.jpg"
+          },
+          {
+            "name": "Blitzed",
+            "description": "You performed a classic blitz play.",
+            "achieved": true,
+            "date": "June 3, 2023",
+            "time": "7:31 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/4ba73dc8669d5e7090c3efa5b677f34f262049d9.jpg"
+          },
+          {
+            "name": "A Fair Day's Pay",
+            "description": "It's time for a little getaway.",
+            "achieved": true,
+            "date": "June 4, 2023",
+            "time": "7:59 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/4ba73dc8669d5e7090c3efa5b677f34f262049d9.jpg"
+          },
+          {
+            "name": "Small Town, Big Job",
+            "description": "You made a big impression at the Paleto Bay Chicken Festival.",
+            "achieved": true,
+            "date": "March 25, 2024",
+            "time": "3:21 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7e3f09a716dcd0aa4b6f811a6d748cad37dfd738.jpg"
+          },
+          {
+            "name": "Parole Day",
+            "description": "GTA Online: Complete The Prison Break as Heist Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/08cecf54a1e7b0083f5ac85f3191319de848eb94.jpg"
+          },
+          {
+            "name": "Clean Sweep",
+            "description": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+            "achieved": true,
+            "date": "July 26, 2023",
+            "time": "12:52 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/45de6fb89cc1a8c009bccdec10744c33380b481c.jpg"
+          },
+          {
+            "name": "The Government Gimps",
+            "description": "You recovered sensitive information from a highly defended federal building.",
+            "achieved": true,
+            "date": "March 26, 2024",
+            "time": "12:24 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/45de6fb89cc1a8c009bccdec10744c33380b481c.jpg"
+          },
+          {
+            "name": "Shot Caller",
+            "description": "GTA Online: Invest your hard earned cash to set up a Heist.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/236084e0509e5e4405354f483e1766be81496164.jpg"
+          },
+          {
+            "name": "Crew Cut",
+            "description": "GTA Online: Complete a Job as a member of a Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/85d425dd52b6a7fdd9cbd50dc31ccd081f96e51f.jpg"
+          },
+          {
+            "name": "Los Santos Customs",
+            "description": "Fully mod a vehicle.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b785bc5590edfb7a40292702b1f96e5c4ec8d7fa.jpg"
+          },
+          {
+            "name": "To Live or Die in Los Santos",
+            "description": "Completed the final mission.",
+            "achieved": true,
+            "date": "March 27, 2024",
+            "time": "9:53 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b785bc5590edfb7a40292702b1f96e5c4ec8d7fa.jpg"
+          },
+          {
+            "name": "The Moment of Truth",
+            "description": "You have uncovered the truth about Brad.",
+            "achieved": true,
+            "date": "March 25, 2024",
+            "time": "6:23 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7590f7261b3e7ab12d61f1438a0236606f9735df.jpg"
+          },
+          {
+            "name": "Above the Law",
+            "description": "GTA Online: Reach Rank 100.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "45/100",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7590f7261b3e7ab12d61f1438a0236606f9735df.jpg"
+          },
+          {
+            "name": "The Big One!",
+            "description": "This ain't no dream no more.",
+            "achieved": true,
+            "date": "March 27, 2024",
+            "time": "10:29 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7590f7261b3e7ab12d61f1438a0236606f9735df.jpg"
+          },
+          {
+            "name": "Can't Touch This",
+            "description": "GTA Online: Complete a Heist Finale without taking any damage.",
+            "achieved": true,
+            "date": "July 23, 2023",
+            "time": "2:07 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/86563b454d24b90b8ad90d504600e2b380b41fb3.jpg"
+          },
+          {
+            "name": "Decorated",
+            "description": "GTA Online: Earn 30 Platinum Awards.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "9/30",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/86563b454d24b90b8ad90d504600e2b380b41fb3.jpg"
+          },
+          {
+            "name": "Trading Pure Alpha",
+            "description": "Make a profit over your total investments in the stock market.",
+            "achieved": true,
+            "date": "June 3, 2023",
+            "time": "6:55 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/86563b454d24b90b8ad90d504600e2b380b41fb3.jpg"
+          },
+          {
+            "name": "Dead Presidents",
+            "description": "GTA Online: Complete The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/86563b454d24b90b8ad90d504600e2b380b41fb3.jpg"
+          },
+          {
+            "name": "In the Name of Science",
+            "description": "GTA Online: Complete The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b4f299906c51ac23f4435fd79a0838f5a8da2de9.jpg"
+          },
+          {
+            "name": "The Data Breaches",
+            "description": "GTA Online: Complete Act I of The Doomsday Heist as Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/cf78bbf1b2fe0336f80a1194eca6265fdffc8b3d.jpg"
+          },
+          {
+            "name": "A Lot of Cheddar",
+            "description": "Spend a total of $200 million across all three characters.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/200000000",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6a87dfec720e77e7b67ce8b9c34da38a99080c33.jpg"
+          },
+          {
+            "name": "Dialling Digits",
+            "description": "GTA Online: Call for a Backup Helicopter for the first time.",
+            "achieved": true,
+            "date": "July 29, 2023",
+            "time": "12:26 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/67b9c2b69c84a31c7859f63f713351c32870fc94.jpg"
+          },
+          {
+            "name": "Unnatural Selection",
+            "description": "GTA Online: Complete all 10 waves of a Survival.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/10",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/79da3c99c3c4d7b27d761163e89cf632b93f8574.jpg"
+          },
+          {
+            "name": "Show Off",
+            "description": "Complete all Stunt Jumps.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/50",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/60e66c0469fb410358c88980c5ceabf00c5aa223.jpg"
+          },
+          {
+            "name": "The Bogdan Problem",
+            "description": "GTA Online: Complete Act II of The Doomsday Heist as Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/f9fdfdc7fb3a70085028eb0ba69307f505825997.jpg"
+          },
+          {
+            "name": "Red Mist",
+            "description": "Complete all Rampages.",
+            "achieved": true,
+            "date": "March 27, 2024",
+            "time": "10:52 PM",
+            "type": "Progress",
+            "progress": "5/5",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/81a8d4d47335b034b36878e347483985b183d4a6.jpg"
+          },
+          {
+            "name": "Getting Started",
+            "description": "GTA Online: You set up the Doomsday Heist.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/731452f85ffef7611afc1e4d315a303e972719ed.jpg"
+          },
+          {
+            "name": "First Time Director",
+            "description": "Enter Director Mode for the first time as an unlocked actor.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6b77a60c0ad267e01c50e3dd3cb6a1780b96aab1.jpg"
+          },
+          {
+            "name": "All's Fare in Love and War",
+            "description": "Purchase Downtown Cab Co. and complete a private fare.",
+            "achieved": true,
+            "date": "March 28, 2024",
+            "time": "10:08 AM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b29dcae389bceec382778acd0d9c390ccab958c0.jpg"
+          },
+          {
+            "name": "The Doomsday Scenario",
+            "description": "GTA Online: Complete Act III of The Doomsday Heist as Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b29dcae389bceec382778acd0d9c390ccab958c0.jpg"
+          },
+          {
+            "name": "Stick Up Kid",
+            "description": "GTA Online: Hold up all 20 Stores.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "2/20",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b29dcae389bceec382778acd0d9c390ccab958c0.jpg"
+          },
+          {
+            "name": "Multi-Disciplined",
+            "description": "Attain a gold medal in all applicable hobbies and pastimes.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "2/6",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/01bff94c98380e158d0175075127b03e0c9bf7ac.jpg"
+          },
+          {
+            "name": "Altruist Acolyte",
+            "description": "Deliver an unsuspecting victim to the Altruist Cult.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/2e647e85d798e768635b2b102ababf72fa235b71.jpg"
+          },
+          {
+            "name": "Full Refund",
+            "description": "GTA Online: Kill the thief that mugged you.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/d801e9d82548e8f7688b734be74e4fb312e85d6e.jpg"
+          },
+          {
+            "name": "The Midnight Club",
+            "description": "GTA Online: Use custom vehicles to win 5 Races.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/5",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7c17840a2fa85ad4f08441be23424f0ee923f118.jpg"
+          },
+          {
+            "name": "Live a Little",
+            "description": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/8000000",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1a8291d1d857e0b02156ecad663005bc317c5b74.jpg"
+          },
+          {
+            "name": "Four Way",
+            "description": "GTA Online: As Heist Leader set the Finale cut as 25% across all players.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/7c3cbf94732270cb2416720b431f997d45321f52.jpg"
+          },
+          {
+            "name": "Numero Uno",
+            "description": "GTA Online: Obtain first place in all competitive game types.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/eb7f4ab85952cfce4dfc42b7e487c2c2a5aaf2f0.jpg"
+          },
+          {
+            "name": "Wanted: Alive Or Alive",
+            "description": "Deliver a bail bond target alive.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/a79e74e49be2b8ff5531d75fba31effd952ccac1.jpg"
+          },
+          {
+            "name": "A New Perspective",
+            "description": "Play GTA V for 15 hours in first person mode.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1451e338312b4560ee10299c4c1bee82acedfdae.jpg"
+          },
+          {
+            "name": "A World Worth Saving",
+            "description": "GTA Online: Complete The Doomsday Heist as Leader or Crew.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/11253835d87882171207aac013fcf183e02d3a34.jpg"
+          },
+          {
+            "name": "Mastermind",
+            "description": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/25",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/149b53d6bbae5c052ef39f770269e1b8b6a1b307.jpg"
+          },
+          {
+            "name": "San Andreas Sightseer",
+            "description": "Explore all of Los Santos and Blaine County.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/d1046370faa06ba5267bb9535155a26c4c907119.jpg"
+          },
+          {
+            "name": "Orbital Obliteration",
+            "description": "GTA Online: You killed another player with the Orbital Cannon.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6bffdfe83f02e8862cc116958a943adeeaf247aa.jpg"
+          },
+          {
+            "name": "Out of Your Depth",
+            "description": "You're gonna need a bigger boat...",
+            "achieved": true,
+            "date": "March 29, 2024",
+            "time": "12:36 PM",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/c9e52c1880484795d5fa7516776b62fc2800bf57.jpg"
+          },
+          {
+            "name": "Close Shave",
+            "description": "Complete all Under the Bridge and Knife Flight challenges.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/65",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/586302c5c6efcc72fa661e57790e706b1acd0ac1.jpg"
+          },
+          {
+            "name": "TP Industries Arms Race",
+            "description": "Purchase McKenzie Field Hangar and win the arms race.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/10",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/e7bc238eaa5feeeaf2a608e92bcbe1cc903aae52.jpg"
+          },
+          {
+            "name": "Kifflom!",
+            "description": "You completed the Epsilon program and achieved inner peace.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "15/20",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1c2b806e21c1e1468e50f13dde87aa54fa135cf3.jpg"
+          },
+          {
+            "name": "Method Actor",
+            "description": "Enter Director Mode using any of your own GTA Online characters.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b6cc0d91927c66b9e5cfcd77256762165fdede5d.jpg"
+          },
+          {
+            "name": "From Beyond the Stars",
+            "description": "Collect and return all spaceship parts.",
+            "achieved": true,
+            "date": "March 30, 2024",
+            "time": "3:11 PM",
+            "type": "Progress",
+            "progress": "51/51",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/261162b00823538d895dabf9ae5f90d7129fdb67.jpg"
+          },
+          {
+            "name": "Backseat Driver",
+            "description": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b02d313b56418fe7ce76997feef9aab3a8cd3654.jpg"
+          },
+          {
+            "name": "Waste Management",
+            "description": "Purchase the old dock and collect all nuclear waste.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/31",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/3898b2c3a2d1561fecf3f675179fc0135a45af5e.jpg"
+          },
+          {
+            "name": "A Mystery, Solved",
+            "description": "Solve the mystery of Leonora Johnson.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/51",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/ecab7eb6da462803fd6e85d40b78c6907fc76cda.jpg"
+          },
+          {
+            "name": "Enjoy Your Stay",
+            "description": "GTA Online: Participate in everything Los Santos has to offer.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/5e7ba01afcc348fe212d5dd19cfa98821094741e.jpg"
+          },
+          {
+            "name": "Three Man Army",
+            "description": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6e5a3b8580136eba15f88b462a2d27bccabe15ab.jpg"
+          },
+          {
+            "name": "Solid Gold, Baby!",
+            "description": "Earn 70 Gold Medals on Missions and Strangers and Freaks.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "13/70",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1a0eef51e98dd1709a52d051bb22eadc8e881eb7.jpg"
+          },
+          {
+            "name": "Career Criminal",
+            "description": "Attain 100% Game Completion.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "78/100",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1a0eef51e98dd1709a52d051bb22eadc8e881eb7.jpg"
+          },
+          {
+            "name": "Animal Lover",
+            "description": "Enter Director Mode as an unlocked animal actor for the first time.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/8dd7f3a1eed921a7a6c45aaf976ec1c2b937fc8a.jpg"
+          },
+          {
+            "name": "Ensemble Piece",
+            "description": "Unlock all Story Characters and enter Director Mode as an actor from this category.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/219d31e229a227b50e6988a40e488da5293f4066.jpg"
+          },
+          {
+            "name": "Vinewood Visionary",
+            "description": "Create and upload a video using the Rockstar Editor.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/10ae315b115e68ff2d536cb2e168379d3af62088.jpg"
+          },
+          {
+            "name": "Cryptozoologist",
+            "description": "Unlock all the animals.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/30b05e2201bdb0b071d6aac757931250159be78e.jpg"
+          },
+          {
+            "name": "Location Scout",
+            "description": "Visit all Locations in Director Mode.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/178d5b522a94e4f6d412cb62f061ff9cabcb17e7.jpg"
+          },
+          {
+            "name": "Cult Movie",
+            "description": "Enter Director Mode as Cris Formage.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/e27a0ebc1c9147ad8530c554fb3e83ac41c0bea4.jpg"
+          },
+          {
+            "name": "Humans of Los Santos",
+            "description": "Unlock all Special Characters and entered Director Mode as an actor from this category.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/f2458dc04c2ad09fe3074aa103e7ad522a7d4da0.jpg"
+          },
+          {
+            "name": "Majestic",
+            "description": "Create and export 10 videos using the Rockstar Editor.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Progress",
+            "progress": "0/10",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/61caf984c785f973ce7355150196ddac960eeeec.jpg"
+          },
+          {
+            "name": "Elitist",
+            "description": "GTA Online: You completed all 3 Elite Challenges in The Doomsday Heist.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/383db594e55add24639eceaab4df49e376dc5636.jpg"
+          },
+          {
+            "name": "Masterminds",
+            "description": "GTA Online: You completed all 3 Criminal Mastermind Challenges in The Doomsday Heist.",
+            "achieved": false,
+            "date": "",
+            "time": "",
+            "type": "Static",
+            "progress": "",
+            "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/153df09e41c6c2b9ddf86028f79f7eaee1ea76c2.jpg"
+          }                                                                                                                                                                                                                                                                                                                    
+    ]
+  }
+  
