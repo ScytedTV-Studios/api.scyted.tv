@@ -1,0 +1,544 @@
+{
+  "achievements": [
+    {
+      "name": "Work Experience",
+      "description": "Complete your first contract",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/ed2d08f4f65a4c66d9af48a925c1b2a0be04e3b7.jpg"
+    },
+    {
+      "name": "Chump Change",
+      "description": "Spend $1",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/6e407474aa59188d1176d03a414e9a06f4844927.jpg"
+    },
+    {
+      "name": "I",
+      "description": "Reach Prestige I",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/e287eb3f199bee75d03623a08a7400d071338773.jpg"
+    },
+    {
+      "name": "Rookie",
+      "description": "Complete 10 contracts",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/0d8c5c8ff15a3f1a4b0394413c7a843dc296ae04.jpg"
+    },
+    {
+      "name": "Bare Essentials",
+      "description": "Unlock all tier one equipment",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/1c2dc558c9d2b07651283a5e88f41814c3cf7a79.jpg"
+    },
+    {
+      "name": "Fat Stack",
+      "description": "Spend $10,000",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/d7bf840d381edf858e9259502cda46746d0c7307.jpg"
+    },
+    {
+      "name": "Shade Discovered",
+      "description": "Successfully identify your first Shade and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/1757ad92e164428122ecaa6eeaff11e2d96d40a8.jpg"
+    },
+    {
+      "name": "They're here",
+      "description": "Witness a Poltergeist ability",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/5a2b252e499be555410f5667a079b77919c75fc3.jpg"
+    },
+    {
+      "name": "Professional",
+      "description": "Complete 50 contracts",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/29b991089b39f5bbce4f1bae45bf8dfc09578915.jpg"
+    },
+    {
+      "name": "Revenant Discovered",
+      "description": "Successfully identify your first Revenant and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/ee94ee6a058807c8bb712750f6a8b5ea053f5c01.jpg"
+    },
+    {
+      "name": "Spirit Discovered",
+      "description": "Successfully identify your first Spirit and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/7198cdb15c3e3e4b7963e372635461ae1b8d0fa7.jpg"
+    },
+    {
+      "name": "Wraith Discovered",
+      "description": "Successfully identify your first Wraith and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/f71d6b5fbc77a9cd18eacccf817141821a185e02.jpg"
+    },
+    {
+      "name": "Obake Discovered",
+      "description": "Successfully identify your first Obake and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/61ac93deec410268a0c56d028d2a514ad9df659d.jpg"
+    },
+    {
+      "name": "Banshee Discovered",
+      "description": "Successfully identify your first Banshee and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/b61cf1bf211ae9493e556949d6b4b39f6410a4ec.jpg"
+    },
+    {
+      "name": "Hantu Discovered",
+      "description": "Successfully identify your first Hantu and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/29e713557abd037d1d06559ccbd7c3ce7e32106b.jpg"
+    },
+    {
+      "name": "Poltergeist Discovered",
+      "description": "Successfully identify your first Poltergeist and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/8f0eee4b8ee2dd7f82c521dcaa6cfba7da4b169b.jpg"
+    },
+    {
+      "name": "Oni Discovered",
+      "description": "Successfully identify your first Oni and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/70ae7720e760a0488700103300c49578f35332ba.jpg"
+    },
+    {
+      "name": "Myling Discovered",
+      "description": "Successfully identify your first Myling and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/169d7023c389aa2507e25a932fc9526a9c5e21a4.jpg"
+    },
+    {
+      "name": "Phantom Discovered",
+      "description": "Successfully identify your first Phantom and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/95c491517cb7037d296c5f3bb002f3cd79859dd1.jpg"
+    },
+    {
+      "name": "Thaye Discovered",
+      "description": "Successfully identify your first Thaye and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/74b25aa3b137110bbbb4d9f76a6520a048ef36f2.jpg"
+    },
+    {
+      "name": "Yurei Discovered",
+      "description": "Successfully identify your first Yurei and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/716d3b1b084135c62756dc1a08a4f93bba4ec7d4.jpg"
+    },
+    {
+      "name": "The Twins Discovered",
+      "description": "Successfully identify The Twins for the first time",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/236713a46691022704a749c5587084ed2e476b9f.jpg"
+    },
+    {
+      "name": "Mare Discovered",
+      "description": "Successfully identify your first Mare and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/31d490c691d4bd99a4e78b34163f5f186109185c.jpg"
+    },
+    {
+      "name": "Jinn Discovered",
+      "description": "Successfully identify your first Jinn and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/111b6e04164e79b12ce3c08aed0970eb44f1dbe6.jpg"
+    },
+    {
+      "name": "Raiju Discovered",
+      "description": "Successfully identify your first Raiju and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/fa94d0e7a3ba509826754e962e603d7bd6f90f51.jpg"
+    },
+    {
+      "name": "Yokai Discovered",
+      "description": "Successfully identify your first Yokai and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/c68cb898a26bed8e947984cd48ea1a3dcb7a5939.jpg"
+    },
+    {
+      "name": "Moroi Discovered",
+      "description": "Successfully identify your first Moroi and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/97ba2ccc3cc84404981394ada6d8c1d6f12a8bb5.jpg"
+    },
+    {
+      "name": "Demon Discovered",
+      "description": "Successfully identify your first Demon and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/cabd4cc09cabf3c13b527f686d3d506615e458d2.jpg"
+    },
+    {
+      "name": "Goryo Discovered",
+      "description": "Successfully identify your first Goryo and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/cc56589c066bc7ef7196a5aa1a725f464c3bbaed.jpg"
+    },
+    {
+      "name": "Onryo Discovered",
+      "description": "Successfully identify your first Onryo and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/e769ac90c013236cc9a42318112c3186c597148e.jpg"
+    },
+    {
+      "name": "Extra Mile",
+      "description": "Complete 50 optional objectives",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/080a3fa2509ce041b437c0638b73af787c7fa760.jpg"
+    },
+    {
+      "name": "Director",
+      "description": "Create a custom difficulty",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/fc3d23405ec0446647b8030bd17786be06b109a7.jpg"
+    },
+    {
+      "name": "The Mimic Discovered",
+      "description": "Successfully identify The Mimic for the first time",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/1954408b1556093d54fb752f2bae220b06af9753.jpg"
+    },
+    {
+      "name": "Flawless Execution",
+      "description": "Complete a perfect investigation",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/b8ee65cd65aaa641b46c4088a21eed493af5ca38.jpg"
+    },
+    {
+      "name": "The Bait",
+      "description": "Get killed by a Banshee in multiplayer",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/a80a631f45e77315345d5d5ae97e11460f243ff8.jpg"
+    },
+    {
+      "name": "Deogen Discovered",
+      "description": "Successfully identify your first Deogen and survive",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/7a5213b9988e9630c68f46d0b88c8d6850e400ff.jpg"
+    },
+    {
+      "name": "Cash Cow",
+      "description": "Spend $50,000",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/18723e066c3829fb9d98d5bfbbccd3b081dd14e3.jpg"
+    },
+    {
+      "name": "Boss",
+      "description": "Complete 100 contracts",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/a09916158949971ee43f51786ed1d2b670383616.jpg"
+    },
+    {
+      "name": "Challenger Approaching",
+      "description": "Complete a weekly challenge mode",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/e368adf26cbdfba2193d0981a93b371539733a91.jpg"
+    },
+    {
+      "name": "Dedicated",
+      "description": "Complete 30 daily tasks",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/46ff874110e49cf282cccceaf1d19d009ab4307a.jpg"
+    },
+    {
+      "name": "Tools of the Trade",
+      "description": "Unlock all tier two equipment",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/f01981e1470ad4c017bf63f2b5041bf5c01bc9e5.jpg"
+    },
+    {
+      "name": "Break The Bank",
+      "description": "Spend $100,000",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/31ca8c9de0797442b84c343416f67a10b8391537.jpg"
+    },
+    {
+      "name": "Escape Artist",
+      "description": "Escape a Revenant",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/905525e54d5e41dfcb58458aaa7161fd7efd3ec0.jpg"
+    },
+    {
+      "name": "No More Training Wheels",
+      "description": "Complete Training",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/d2428ab16a81fc728c4b195600ea545b142df736.jpg"
+    },
+    {
+      "name": "Fully Loaded",
+      "description": "Unlock all tier three equipment",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/9282b51b3ffac2fbdcdf9c43e53d22097d380280.jpg"
+    },
+    {
+      "name": "II",
+      "description": "Reach Prestige II",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/ba27e33411be290690a150c13d055f089ac19c1e.jpg"
+    },
+    {
+      "name": "Rise to the Challenge",
+      "description": "Complete the weekly challenge mode 5 times",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/e502eb4618fb68c6e0766279652262dd41c910ca.jpg"
+    },
+    {
+      "name": "Devoted",
+      "description": "Complete 10 weekly tasks",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/7d3bac94dbdaa8e05388b43bb3f58bc0a1e12d90.jpg"
+    },
+    {
+      "name": "III",
+      "description": "Reach Prestige III",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/4d83ccadeea7132b96366dd64dbb386202ab7f3a.jpg"
+    },
+    {
+      "name": "Bronze Hunter",
+      "description": "Obtain the Bronze Apocalypse Trophy",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/53c3f35cededceeddebe49ebfa1d856f3fb0c97d.jpg"
+    },
+    {
+      "name": "Doom Slayed",
+      "description": "Get killed by a Demon ability within the first minute",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/576fbf4e5c6c1f2bc985ea000324cec9447e1b07.jpg"
+    },
+    {
+      "name": "Gold Hunter",
+      "description": "Obtain the Gold Apocalypse Trophy",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/81d9067ea4df89a4da3b10e9a7f07b585b324fda.jpg"
+    },
+    {
+      "name": "Silver Hunter",
+      "description": "Obtain the Silver Apocalypse Trophy",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/ff58ea63417f6d24b75481a665f9554dd6637406.jpg"
+    },
+    {
+      "name": "Taking All Challenges",
+      "description": "Complete the weekly challenge mode 10 times",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/739630/560b78571d50064a8ac92297687942b5290c25ce.jpg"
+    }
+  ]
+}
