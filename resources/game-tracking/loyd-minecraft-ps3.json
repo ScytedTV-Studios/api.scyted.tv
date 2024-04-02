@@ -7,7 +7,7 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "27/94",
+      "progress": "31/94",
       "image": "https://i.psnprofiles.com/games/5c35c0/trophies/1M86fee2.png"
     },
     {
@@ -173,9 +173,9 @@
     {
       "name": "Leader Of The Pack",
       "description": "Befriend five wolves.",
-      "achieved": false,
-      "date": "",
-      "time": "",
+      "achieved": true,
+      "date": "April 2, 2024",
+      "time": "1:47 AM",
       "type": "Static",
       "progress": "",
       "image": "https://i.psnprofiles.com/games/5c35c0/trophies/18M75b67b.png"
@@ -193,9 +193,9 @@
     {
       "name": "Dispense With This",
       "description": "Construct a Dispenser.",
-      "achieved": false,
-      "date": "",
-      "time": "",
+      "achieved": true,
+      "date": "April 2, 2024",
+      "time": "1:54 AM",
       "type": "Static",
       "progress": "",
       "image": "https://i.psnprofiles.com/games/5c35c0/trophies/20M98573b.png"
@@ -203,9 +203,9 @@
     {
       "name": "Into The Nether",
       "description": "Construct a Nether Portal.",
-      "achieved": false,
-      "date": "",
-      "time": "",
+      "achieved": true,
+      "date": "April 2, 2024",
+      "time": "2:25 AM",
       "type": "Static",
       "progress": "",
       "image": "https://i.psnprofiles.com/games/5c35c0/trophies/21M245098.png"
@@ -243,9 +243,9 @@
     {
       "name": "Into Fire",
       "description": "Relieve a Blaze of its rod.",
-      "achieved": false,
-      "date": "",
-      "time": "",
+      "achieved": true,
+      "date": "April 2, 2024",
+      "time": "2:27 AM",
       "type": "Static",
       "progress": "",
       "image": "https://i.psnprofiles.com/games/5c35c0/trophies/25M0cbbcc.png"
