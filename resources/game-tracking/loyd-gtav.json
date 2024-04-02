@@ -417,7 +417,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "2/6",
+            "progress": "3/6",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/01bff94c98380e158d0175075127b03e0c9bf7ac.jpg"
           },
           {
@@ -557,7 +557,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "0/65",
+            "progress": "1/65",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/586302c5c6efcc72fa661e57790e706b1acd0ac1.jpg"
           },
           {
@@ -573,11 +573,11 @@
           {
             "name": "Kifflom!",
             "description": "You completed the Epsilon program and achieved inner peace.",
-            "achieved": false,
-            "date": "",
-            "time": "",
+            "achieved": true,
+            "date": "April 1, 2024",
+            "time": "3:32 PM",
             "type": "Progress",
-            "progress": "17/20",
+            "progress": "20/20",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/1c2b806e21c1e1468e50f13dde87aa54fa135cf3.jpg"
           },
           {
@@ -617,7 +617,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "0/31",
+            "progress": "1/31",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/3898b2c3a2d1561fecf3f675179fc0135a45af5e.jpg"
           },
           {
@@ -627,7 +627,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "0/51",
+            "progress": "1/51",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/ecab7eb6da462803fd6e85d40b78c6907fc76cda.jpg"
           },
           {
