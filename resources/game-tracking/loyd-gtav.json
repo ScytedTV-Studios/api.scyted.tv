@@ -83,11 +83,11 @@
           {
             "name": "Making Moves",
             "description": "GTA Online: Reach Rank 50.",
-            "achieved": false,
-            "date": "",
-            "time": "",
+            "achieved": true,
+            "date": "April 6, 2024",
+            "time": "11:19 AM",
             "type": "Progress",
-            "progress": "45/50",
+            "progress": "50/50",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/3b90539d5efee60897391b7a758b8be8a601c24b.jpg"
           },
           {
@@ -227,7 +227,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "45/100",
+            "progress": "61/100",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/2a147eaabdf907c7382262438d01c1fc28e27ac6.jpg"
           },
           {
@@ -257,7 +257,7 @@
             "date": "",
             "time": "",
             "type": "Progress",
-            "progress": "9/30",
+            "progress": "10/30",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/f0740e0f7bce7c8e69f8e1aadb039cfba33361da.jpg"
           },
           {
