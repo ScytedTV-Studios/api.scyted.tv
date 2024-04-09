@@ -2,13 +2,13 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 316,
+    "xp": 326,
     "level": 13
   },
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 23,
+    "xp": 33,
     "level": 8
   },
   {
@@ -92,7 +92,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 424,
+    "xp": 514,
     "level": 15
   },
   {
@@ -158,7 +158,7 @@
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 269,
+    "xp": 289,
     "level": 10
   },
   {
@@ -590,7 +590,7 @@
   {
     "userId": "785263460706549771",
     "username": "blkshinobi",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -609,6 +609,12 @@
     "userId": "857774968111759370",
     "username": "ovctwtch",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1227262276436885534",
+    "username": "skatervader",
+    "xp": 50,
     "level": 1
   }
 ]
