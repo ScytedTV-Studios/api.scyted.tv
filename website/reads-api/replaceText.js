@@ -51,5 +51,23 @@ function formatText(text) {
     return text;
 }
 
-// Call the function with the path to your text file
-loadTxtFile('story.txt');
+// Function to load and display the text file
+function loadTxtFile() {
+    // Get the file name from the txtFile attribute of the div
+    const fileName = document.getElementById('story-content').getAttribute('txtFile');
+
+    // Check if fileName exists
+    if (!fileName) {
+        console.error('File name not found in div attribute.');
+        return;
+    }
+
+    fetch(fileName)
+        .then(response => response.text())
+        .then(text => {
+            const formattedText = formatText(text);
+            document.getElementById('story-content').innerHTML = formattedText;
+            replaceNameWithCookie();
+        })
+        .catch(error => console.error('Error:', error));
+}
