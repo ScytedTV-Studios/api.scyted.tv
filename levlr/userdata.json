@@ -38,7 +38,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 762,
+    "xp": 772,
     "level": 20
   },
   {
@@ -170,7 +170,7 @@
   {
     "userId": "691061795086925854",
     "username": "aidenlook",
-    "xp": 233,
+    "xp": 243,
     "level": 8
   },
   {
@@ -669,6 +669,12 @@
     "userId": "702728710650069022",
     "username": "underredplayz",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "901153009050984508",
+    "username": ".domiknow",
+    "xp": 10,
     "level": 1
   }
 ]
