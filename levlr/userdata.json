@@ -32,7 +32,7 @@
   {
     "userId": "781936353498759168",
     "username": "harmharm.",
-    "xp": 104,
+    "xp": 114,
     "level": 9
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 1494,
+    "xp": 1514,
     "level": 15
   },
   {
@@ -62,7 +62,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 754,
+    "xp": 774,
     "level": 15
   },
   {
@@ -92,7 +92,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 486,
+    "xp": 516,
     "level": 17
   },
   {
@@ -158,7 +158,7 @@
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 100,
+    "xp": 120,
     "level": 11
   },
   {
@@ -284,7 +284,7 @@
   {
     "userId": "884808453103702087",
     "username": "matrinalow.",
-    "xp": 41,
+    "xp": 71,
     "level": 7
   },
   {
@@ -675,6 +675,12 @@
     "userId": "901153009050984508",
     "username": ".domiknow",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "857765858662678528",
+    "username": "da_paul14",
+    "xp": 20,
     "level": 1
   }
 ]
