@@ -52,5 +52,29 @@
     "username": "unknown_useer",
     "xp": 20,
     "level": 1
+  },
+  {
+    "userId": "991091593316548650",
+    "username": "roseburrito",
+    "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "769723482669842433",
+    "username": "marshmallowco",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "336783346254217216",
+    "username": "quinnlenn",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1014204798561697882",
+    "username": "sushipeoples",
+    "xp": 20,
+    "level": 1
   }
 ]
