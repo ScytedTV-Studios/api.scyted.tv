@@ -32,7 +32,7 @@
   {
     "userId": "1180628309688713307",
     "username": "ali_ngm",
-    "xp": 60,
+    "xp": 90,
     "level": 1
   },
   {
@@ -44,6 +44,12 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "858107264707592202",
+    "username": "unknown_useer",
     "xp": 20,
     "level": 1
   }
