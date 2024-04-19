@@ -104,7 +104,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 86,
+    "xp": 126,
     "level": 3
   },
   {
@@ -128,7 +128,7 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -165,6 +165,12 @@
     "userId": "537451505041539083",
     "username": "kweebie",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "785263460706549771",
+    "username": "blkshinobi",
+    "xp": 10,
     "level": 1
   }
 ]
