@@ -56,7 +56,7 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 40,
+    "xp": 80,
     "level": 1
   },
   {
@@ -74,7 +74,13 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 20,
+    "xp": 100,
+    "level": 1
+  },
+  {
+    "userId": "404468475516420096",
+    "username": "firefly707",
+    "xp": 10,
     "level": 1
   }
 ]
