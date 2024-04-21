@@ -41,7 +41,6 @@ window.addEventListener('load', () => {
 
             <div class="links">
             <a href="${link}" class="link-box" target="_blank">
-              <div class="link-icon"><i class="fa fa-github"></i></div>
               <div id="displaylinkstitle"></div>
               <h2>${name}</h2>
             </a>
