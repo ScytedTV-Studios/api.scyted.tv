@@ -164,13 +164,13 @@
   {
     "userId": "537451505041539083",
     "username": "kweebie",
-    "xp": 120,
+    "xp": 130,
     "level": 2
   },
   {
     "userId": "785263460706549771",
     "username": "blkshinobi",
-    "xp": 30,
+    "xp": 50,
     "level": 1
   },
   {
@@ -249,6 +249,12 @@
     "userId": "922776570597376012",
     "username": "chain_n2718",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "981709371576840242",
+    "username": "andronicus9256",
+    "xp": 10,
     "level": 1
   }
 ]
