@@ -146,7 +146,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 33,
+    "xp": 43,
     "level": 8
   },
   {
@@ -327,6 +327,12 @@
     "userId": "513400202862919711",
     "username": "one_of_a_flock",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "684431033696780330",
+    "username": "fragilesnow",
+    "xp": 10,
     "level": 1
   }
 ]
