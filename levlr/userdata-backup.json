@@ -104,7 +104,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 1217,
+    "xp": 1257,
     "level": 14
   },
   {
@@ -176,7 +176,7 @@
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 100,
+    "xp": 130,
     "level": 2
   },
   {
@@ -362,6 +362,12 @@
   {
     "userId": "735313905638703206",
     "username": "ed20449",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "797535647572819989",
+    "username": "gorge_gemm",
     "xp": 10,
     "level": 1
   }
