@@ -86,7 +86,7 @@
   {
     "userId": "1181237011508641893",
     "username": "steph_ngm",
-    "xp": 127,
+    "xp": 177,
     "level": 5
   },
   {
@@ -122,7 +122,7 @@
   {
     "userId": "989259308791373825",
     "username": "silly9055",
-    "xp": 219,
+    "xp": 259,
     "level": 6
   },
   {
@@ -394,5 +394,11 @@
     "username": "mastertago",
     "xp": 0,
     "level": 2
+  },
+  {
+    "userId": "702562785241858078",
+    "username": "interrospire",
+    "xp": 10,
+    "level": 1
   }
 ]
