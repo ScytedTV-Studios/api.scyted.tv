@@ -176,7 +176,7 @@
   {
     "userId": "1185817061784559702",
     "username": "rooeggs",
-    "xp": 379,
+    "xp": 389,
     "level": 10
   },
   {
@@ -471,6 +471,12 @@
     "userId": "1205681636549726259",
     "username": "boorid2",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "839079536452829184",
+    "username": "sergeant.g.sanderson",
+    "xp": 10,
     "level": 1
   }
 ]
