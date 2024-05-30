@@ -363,9 +363,9 @@
           {
             "name": "Getting Started",
             "description": "GTA Online: You set up the Doomsday Heist.",
-            "achieved": false,
-            "date": "",
-            "time": "",
+            "achieved": true,
+            "date": "May 26, 2024",
+            "time": "12:45 PM",
             "type": "Static",
             "progress": "",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/731452f85ffef7611afc1e4d315a303e972719ed.jpg"
@@ -403,11 +403,11 @@
           {
             "name": "Stick Up Kid",
             "description": "GTA Online: Hold up all 20 Stores.",
-            "achieved": false,
-            "date": "",
-            "time": "",
+            "achieved": true,
+            "date": "May 29, 2024",
+            "time": "8:06 PM",
             "type": "Progress",
-            "progress": "15/20",
+            "progress": "20/20",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/b29dcae389bceec382778acd0d9c390ccab958c0.jpg"
           },
           {
