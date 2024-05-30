@@ -32,8 +32,8 @@
   {
     "userId": "1159629471737974906",
     "username": "shane_20",
-    "xp": 140,
-    "level": 2
+    "xp": 76,
+    "level": 3
   },
   {
     "userId": "720421587966492774",
@@ -128,12 +128,18 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 50,
+    "xp": 60,
     "level": 1
   },
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
+    "xp": 70,
+    "level": 1
+  },
+  {
+    "userId": "165537785799901184",
+    "username": ".friendcomputer",
     "xp": 10,
     "level": 1
   }
