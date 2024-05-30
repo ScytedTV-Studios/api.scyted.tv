@@ -164,7 +164,7 @@
   {
     "userId": "1181237011508641893",
     "username": "steph_ngm",
-    "xp": 60,
+    "xp": 70,
     "level": 2
   },
   {
@@ -188,7 +188,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -200,6 +200,12 @@
   {
     "userId": "772016552450719764",
     "username": "sol_b_",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "939658538022744164",
+    "username": "i_love_pigeon",
     "xp": 10,
     "level": 1
   }
