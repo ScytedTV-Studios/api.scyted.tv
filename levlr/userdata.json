@@ -26,7 +26,7 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -116,7 +116,7 @@
   {
     "userId": "531290648423170048",
     "username": "dazaisan.",
-    "xp": 100,
+    "xp": 110,
     "level": 1
   },
   {
@@ -129,6 +129,12 @@
     "userId": "1014204798561697882",
     "username": "sushipeoples",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "886365932916731944",
+    "username": "armed_goose",
+    "xp": 10,
     "level": 1
   }
 ]
