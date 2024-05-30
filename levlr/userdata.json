@@ -26,13 +26,13 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
     "userId": "1159629471737974906",
     "username": "shane_20",
-    "xp": 44,
+    "xp": 194,
     "level": 4
   },
   {
@@ -128,18 +128,24 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 70,
-    "level": 1
+    "xp": 20,
+    "level": 2
   },
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 110,
-    "level": 2
+    "xp": 116,
+    "level": 3
   },
   {
     "userId": "165537785799901184",
     "username": ".friendcomputer",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1033005294445408336",
+    "username": "declanlikesmusic",
     "xp": 10,
     "level": 1
   }
