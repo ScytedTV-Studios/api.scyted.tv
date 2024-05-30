@@ -643,9 +643,9 @@
           {
             "name": "Three Man Army",
             "description": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
-            "achieved": false,
-            "date": "",
-            "time": "",
+            "achieved": true,
+            "date": "May 29, 2024",
+            "time": "9:45 PM",
             "type": "Static",
             "progress": "",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6e5a3b8580136eba15f88b462a2d27bccabe15ab.jpg"
