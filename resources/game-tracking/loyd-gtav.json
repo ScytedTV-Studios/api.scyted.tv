@@ -303,11 +303,11 @@
           {
             "name": "A Lot of Cheddar",
             "description": "Spend a total of $200 million across all three characters.",
-            "achieved": false,
-            "date": "",
+            "achieved": true,
+            "date": "May 29, 2024",
             "time": "",
             "type": "Progress",
-            "progress": "0/200000000",
+            "progress": "200000000/200000000",
             "image": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/271590/6a87dfec720e77e7b67ce8b9c34da38a99080c33.jpg"
           },
           {
