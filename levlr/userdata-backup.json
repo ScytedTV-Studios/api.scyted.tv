@@ -134,7 +134,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 79,
+    "xp": 119,
     "level": 6
   },
   {
@@ -170,7 +170,7 @@
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
@@ -188,7 +188,7 @@
   {
     "userId": "838451470046724106",
     "username": "adiion",
-    "xp": 80,
+    "xp": 90,
     "level": 1
   },
   {
@@ -309,6 +309,12 @@
     "userId": "952244656949841971",
     "username": "ta5t1erdr0p",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "753796184312774677",
+    "username": "btccsimracing",
+    "xp": 10,
     "level": 1
   }
 ]
