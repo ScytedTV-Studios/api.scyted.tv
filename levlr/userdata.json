@@ -26,7 +26,7 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 24,
+    "xp": 64,
     "level": 4
   },
   {
@@ -182,7 +182,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 116,
+    "xp": 156,
     "level": 3
   },
   {
@@ -314,7 +314,7 @@
   {
     "userId": "753796184312774677",
     "username": "btccsimracing",
-    "xp": 40,
+    "xp": 50,
     "level": 1
   },
   {
@@ -326,13 +326,19 @@
   {
     "userId": "785263460706549771",
     "username": "blkshinobi",
-    "xp": 90,
+    "xp": 110,
     "level": 1
   },
   {
     "userId": "432202658296889364",
     "username": "thatgarbagegamer",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "834775812729077800",
+    "username": "taking_a_nap",
+    "xp": 20,
     "level": 1
   }
 ]
