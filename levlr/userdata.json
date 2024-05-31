@@ -182,7 +182,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 74,
+    "xp": 84,
     "level": 4
   },
   {
@@ -368,6 +368,12 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "516412962127478784",
+    "username": "otherlego",
     "xp": 10,
     "level": 1
   }
