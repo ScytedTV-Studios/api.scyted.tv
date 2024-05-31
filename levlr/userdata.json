@@ -134,8 +134,8 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 269,
-    "level": 6
+    "xp": 1,
+    "level": 7
   },
   {
     "userId": "165537785799901184",
@@ -494,6 +494,12 @@
   {
     "userId": "456597492130119684",
     "username": "dabblerdragon",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "321386523650031617",
+    "username": "panda25",
     "xp": 20,
     "level": 1
   }
