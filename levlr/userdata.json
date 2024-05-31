@@ -164,14 +164,14 @@
   {
     "userId": "1181237011508641893",
     "username": "steph_ngm",
-    "xp": 120,
+    "xp": 130,
     "level": 2
   },
   {
     "userId": "582004605303521286",
     "username": "sweetmemaria",
-    "xp": 110,
-    "level": 1
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "537451505041539083",
@@ -314,13 +314,13 @@
   {
     "userId": "753796184312774677",
     "username": "btccsimracing",
-    "xp": 30,
+    "xp": 40,
     "level": 1
   },
   {
     "userId": "301126506262953985",
     "username": "elenasays",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   }
 ]
