@@ -2,7 +2,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 74,
+    "xp": 94,
     "level": 9
   },
   {
@@ -566,7 +566,7 @@
   {
     "userId": "951976264200241182",
     "username": "everturning",
-    "xp": 154,
+    "xp": 194,
     "level": 4
   },
   {
@@ -590,7 +590,7 @@
   {
     "userId": "295354560640450561",
     "username": "artemisthesinister",
-    "xp": 74,
+    "xp": 164,
     "level": 4
   },
   {
@@ -614,7 +614,13 @@
   {
     "userId": "1207710050790015047",
     "username": "alicewillstaysafe",
-    "xp": 30,
+    "xp": 100,
     "level": 2
+  },
+  {
+    "userId": "813955588135845918",
+    "username": "weissbelladonna",
+    "xp": 10,
+    "level": 1
   }
 ]
