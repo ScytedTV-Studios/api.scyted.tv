@@ -488,7 +488,7 @@
   {
     "userId": "598752998252085262",
     "username": "purple_vorpal",
-    "xp": 20,
+    "xp": 30,
     "level": 1
   },
   {
@@ -620,6 +620,12 @@
   {
     "userId": "813955588135845918",
     "username": "weissbelladonna",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "427484556661358626",
+    "username": "sapphiccatacombs",
     "xp": 10,
     "level": 1
   }
