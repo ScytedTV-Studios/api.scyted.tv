@@ -182,7 +182,7 @@
   {
     "userId": "400460072649621524",
     "username": "jonathonreed",
-    "xp": 139,
+    "xp": 199,
     "level": 6
   },
   {
@@ -374,7 +374,7 @@
   {
     "userId": "516412962127478784",
     "username": "otherlego",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
@@ -716,6 +716,18 @@
   {
     "userId": "220754092593643520",
     "username": "vua",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "732506603764449309",
+    "username": "willtmt681",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "375863661987758080",
+    "username": "lime79",
     "xp": 10,
     "level": 1
   }
