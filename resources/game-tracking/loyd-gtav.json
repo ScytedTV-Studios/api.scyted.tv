@@ -193,8 +193,8 @@
           {
             "name": "Los Santos Customs",
             "description": "Fully mod a vehicle.",
-            "achieved": false,
-            "date": "",
+            "achieved": true,
+            "date": "June 2, 2024",
             "time": "",
             "type": "Static",
             "progress": "",
