@@ -2,7 +2,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 334,
+    "xp": 344,
     "level": 9
   },
   {
@@ -134,8 +134,8 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 331,
-    "level": 7
+    "xp": 13,
+    "level": 8
   },
   {
     "userId": "165537785799901184",
@@ -704,6 +704,12 @@
   {
     "userId": "761504331828428830",
     "username": "oceanexplorer",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "696104852777861133",
+    "username": "aple.jam",
     "xp": 10,
     "level": 1
   }
