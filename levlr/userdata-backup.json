@@ -782,12 +782,18 @@
   {
     "userId": "901521591043760149",
     "username": "sapphickingjas",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
     "userId": "229478412207521793",
     "username": "umbralapocrypha",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "428051016643248128",
+    "username": "omnizoo",
     "xp": 10,
     "level": 1
   }
