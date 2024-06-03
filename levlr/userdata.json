@@ -122,7 +122,7 @@
   {
     "userId": "1194044894424088604",
     "username": "astro_stims",
-    "xp": 50,
+    "xp": 60,
     "level": 2
   },
   {
@@ -344,7 +344,7 @@
   {
     "userId": "778991910903087105",
     "username": "vcrowe",
-    "xp": 70,
+    "xp": 80,
     "level": 1
   },
   {
@@ -819,6 +819,12 @@
     "userId": "183802741074690052",
     "username": "allofthisistemporary",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "193967026178490368",
+    "username": "mariogman25",
+    "xp": 10,
     "level": 1
   }
 ]
