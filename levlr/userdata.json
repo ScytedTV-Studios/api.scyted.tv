@@ -374,7 +374,7 @@
   {
     "userId": "516412962127478784",
     "username": "otherlego",
-    "xp": 40,
+    "xp": 60,
     "level": 1
   },
   {
@@ -801,6 +801,12 @@
     "userId": "846235823283896320",
     "username": "jaysikutp",
     "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "1128917594750074954",
+    "username": "atthepierdeck",
+    "xp": 20,
     "level": 1
   }
 ]
