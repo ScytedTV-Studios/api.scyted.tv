@@ -14,8 +14,8 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
-    "xp": 166,
-    "level": 3
+    "xp": 4,
+    "level": 4
   },
   {
     "userId": "404099837710172180",
@@ -512,7 +512,7 @@
   {
     "userId": "1027007568830275585",
     "username": "otismonsta",
-    "xp": 46,
+    "xp": 56,
     "level": 3
   },
   {
@@ -1112,6 +1112,12 @@
   {
     "userId": "1186401602551169125",
     "username": "complex091",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "447176342145073162",
+    "username": "uneek35",
     "xp": 10,
     "level": 1
   }
