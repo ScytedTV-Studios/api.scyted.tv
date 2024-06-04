@@ -488,7 +488,7 @@
   {
     "userId": "598752998252085262",
     "username": "purple_vorpal",
-    "xp": 80,
+    "xp": 90,
     "level": 2
   },
   {
@@ -662,7 +662,7 @@
   {
     "userId": "260055592264007692",
     "username": "apatitesupernova46",
-    "xp": 20,
+    "xp": 30,
     "level": 2
   },
   {
@@ -1095,6 +1095,12 @@
     "userId": "298122044120498178",
     "username": "redmaverick616",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "174463844784144384",
+    "username": "skoonex",
+    "xp": 10,
     "level": 1
   }
 ]
