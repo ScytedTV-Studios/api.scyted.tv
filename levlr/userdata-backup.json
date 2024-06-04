@@ -866,7 +866,7 @@
   {
     "userId": "238872010795646976",
     "username": "unemployed_bear",
-    "xp": 80,
+    "xp": 90,
     "level": 1
   },
   {
@@ -938,6 +938,12 @@
   {
     "userId": "523358794097491979",
     "username": "tallguyjord",
+    "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "476290484348911626",
+    "username": "internetcowboy",
     "xp": 10,
     "level": 1
   }
