@@ -128,7 +128,7 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 363,
+    "xp": 373,
     "level": 8
   },
   {
@@ -176,8 +176,8 @@
   {
     "userId": "537451505041539083",
     "username": "kweebie",
-    "xp": 351,
-    "level": 7
+    "xp": 13,
+    "level": 8
   },
   {
     "userId": "400460072649621524",
@@ -374,7 +374,7 @@
   {
     "userId": "516412962127478784",
     "username": "otherlego",
-    "xp": 56,
+    "xp": 126,
     "level": 3
   },
   {
@@ -536,7 +536,7 @@
   {
     "userId": "173537990541312002",
     "username": "verislie",
-    "xp": 10,
+    "xp": 30,
     "level": 2
   },
   {
@@ -578,7 +578,7 @@
   {
     "userId": "390251827511296010",
     "username": "silverinkblot",
-    "xp": 50,
+    "xp": 70,
     "level": 2
   },
   {
@@ -921,6 +921,18 @@
     "userId": "166635156222771200",
     "username": "thefroggyninja",
     "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "811315935713165343",
+    "username": "neckdeep_lowlife",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "441307727340503051",
+    "username": "definitelysabsen",
+    "xp": 10,
     "level": 1
   }
 ]
