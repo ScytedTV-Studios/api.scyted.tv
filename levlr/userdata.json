@@ -134,7 +134,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 70,
+    "xp": 90,
     "level": 11
   },
   {
@@ -1226,6 +1226,12 @@
   {
     "userId": "224029647673884672",
     "username": "mahoganywud",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "360661364244480001",
+    "username": "jamesmusik",
     "xp": 10,
     "level": 1
   }
