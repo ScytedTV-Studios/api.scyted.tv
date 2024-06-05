@@ -104,7 +104,7 @@
   {
     "userId": "902960698915688520",
     "username": "_greymagic",
-    "xp": 279,
+    "xp": 289,
     "level": 6
   },
   {
@@ -1149,6 +1149,12 @@
     "userId": "886739730732044379",
     "username": "brennanthepython",
     "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "648183573748121610",
+    "username": "toomanybagels",
+    "xp": 10,
     "level": 1
   }
 ]
