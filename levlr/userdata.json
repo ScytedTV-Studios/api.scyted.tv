@@ -128,7 +128,7 @@
   {
     "userId": "1014204798561697882",
     "username": "sushipeoples",
-    "xp": 244,
+    "xp": 254,
     "level": 9
   },
   {
@@ -656,7 +656,7 @@
   {
     "userId": "143163387499511808",
     "username": "chamomilehaschat",
-    "xp": 0,
+    "xp": 10,
     "level": 2
   },
   {
@@ -1268,6 +1268,12 @@
   {
     "userId": "191740432974086144",
     "username": "sheriff_sasquatch",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "118692897888534528",
+    "username": "amos_baltimore",
     "xp": 10,
     "level": 1
   }
