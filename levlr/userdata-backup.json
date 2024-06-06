@@ -104,7 +104,7 @@
   {
     "userId": "902960698915688520",
     "username": "_greymagic",
-    "xp": 211,
+    "xp": 221,
     "level": 7
   },
   {
@@ -1280,7 +1280,13 @@
   {
     "userId": "1058446185200881755",
     "username": "food_fighters",
-    "xp": 80,
+    "xp": 100,
+    "level": 1
+  },
+  {
+    "userId": "700833279619629057",
+    "username": "meldoug",
+    "xp": 10,
     "level": 1
   }
 ]
