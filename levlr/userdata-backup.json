@@ -104,7 +104,7 @@
   {
     "userId": "902960698915688520",
     "username": "_greymagic",
-    "xp": 301,
+    "xp": 311,
     "level": 7
   },
   {
@@ -368,7 +368,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 127,
+    "xp": 137,
     "level": 5
   },
   {
@@ -512,7 +512,7 @@
   {
     "userId": "1027007568830275585",
     "username": "otismonsta",
-    "xp": 86,
+    "xp": 96,
     "level": 3
   },
   {
@@ -1353,6 +1353,12 @@
     "userId": "198453369260474368",
     "username": "theocrass",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "734890701468205141",
+    "username": "applegoose._.",
+    "xp": 10,
     "level": 1
   }
 ]
