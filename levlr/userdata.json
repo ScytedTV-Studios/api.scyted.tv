@@ -26,7 +26,7 @@
   {
     "userId": "630059176407728138",
     "username": "thebloodcloud",
-    "xp": 221,
+    "xp": 231,
     "level": 7
   },
   {
@@ -134,7 +134,7 @@
   {
     "userId": "886365932916731944",
     "username": "armed_goose",
-    "xp": 146,
+    "xp": 216,
     "level": 13
   },
   {
@@ -368,7 +368,7 @@
   {
     "userId": "739655534583480481",
     "username": "slider_plays",
-    "xp": 91,
+    "xp": 121,
     "level": 7
   },
   {
@@ -488,7 +488,7 @@
   {
     "userId": "598752998252085262",
     "username": "purple_vorpal",
-    "xp": 64,
+    "xp": 74,
     "level": 4
   },
   {
@@ -1395,6 +1395,12 @@
     "userId": "786055185813864518",
     "username": "mutantsneeze",
     "xp": 110,
+    "level": 1
+  },
+  {
+    "userId": "267485445741477888",
+    "username": "sam_ventus",
+    "xp": 10,
     "level": 1
   }
 ]
