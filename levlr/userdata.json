@@ -1436,7 +1436,7 @@
   {
     "userId": "527938934140043324",
     "username": "landler.",
-    "xp": 10,
+    "xp": 30,
     "level": 1
   },
   {
@@ -1479,6 +1479,12 @@
     "userId": "347319167499763712",
     "username": "winterbasilisk",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "570853198877818890",
+    "username": "quixotic.cat",
+    "xp": 30,
     "level": 1
   }
 ]
