@@ -33,10 +33,12 @@
             display: flex;
             gap: 10px;
         }
-        button {
+        a.button {
+            display: inline-block;
             padding: 10px 20px;
-            margin-bottom: 10px;
             font-size: 16px;
+            text-align: center;
+            text-decoration: none;
             cursor: pointer;
             border: none;
             border-radius: 5px;
@@ -44,7 +46,7 @@
             color: black;
             transition: background-color 0.3s;
         }
-        button:hover {
+        a.button:hover {
             background-color: grey;
         }
     </style>
@@ -53,8 +55,8 @@
 
     <div id="gallery"></div>
     <div id="buttons">
-        <button href="#" id="prev">Previous Chapter</button>
-        <button href="#" id="next">Next Chapter</button>
+      <a href="#" class="button">Previous Chapter</a>
+      <a href="#" class="button">Next Chapter</a>
     </div>
 
     <script>
