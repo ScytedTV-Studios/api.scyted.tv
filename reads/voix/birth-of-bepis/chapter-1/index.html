@@ -1,36 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Stack</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-    }
-    .image-container img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 <body>
-  <div id="image-container" class="image-container"></div>
-  <script>
-    // Load the JSON file
-    fetch('images.json')
-      .then(response => response.json())
-      .then(data => {
-        const container = document.getElementById('image-container');
-        data.images.forEach(image => {
-          const img = document.createElement('img');
-          img.src = image;
-          container.appendChild(img);
-        });
-      })
-      .catch(error => console.error('Error loading JSON:', error));
-  </script>
+
+    <div id="gallery"></div>
+
+    <script>
+        // Load the JSON file and display the images
+        fetch('images.json')
+            .then(response => response.json())
+            .then(data => {
+                const gallery = document.getElementById('gallery');
+                data.images.forEach(image => {
+                    const imgElement = document.createElement('img');
+                    imgElement.src = image;
+                    gallery.appendChild(imgElement);
+                });
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+    </script>
+
 </body>
 </html>
