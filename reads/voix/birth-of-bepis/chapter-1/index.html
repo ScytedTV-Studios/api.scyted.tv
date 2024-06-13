@@ -26,16 +26,26 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             fetch('images.json')
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
                 .then(data => {
                     const imageContainer = document.getElementById('imageContainer');
                     data.images.forEach(url => {
                         const img = document.createElement('img');
                         img.src = url;
+                        img.alt = 'Image';
                         imageContainer.appendChild(img);
                     });
                 })
-                .catch(error => console.error('Error loading images:', error));
+                .catch(error => {
+                    console.error('Error loading images:', error);
+                    const imageContainer = document.getElementById('imageContainer');
+                    imageContainer.innerHTML = '<p>Error loading images. Please check the console for more details.</p>';
+                });
         });
     </script>
 </body>
