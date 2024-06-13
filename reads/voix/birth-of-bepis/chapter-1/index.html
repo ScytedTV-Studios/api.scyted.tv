@@ -1,52 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            overflow-x: hidden;
-        }
-        .image-container {
-            width: 100vw;
-            display: flex;
-            flex-direction: column;
-        }
-        .image-container img {
-            width: 100%;
-            display: block;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Stack</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    .image-container img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
 </head>
 <body>
-    <div class="image-container" id="imageContainer"></div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            fetch('images.json')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok');
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    const imageContainer = document.getElementById('imageContainer');
-                    data.images.forEach(url => {
-                        const img = document.createElement('img');
-                        img.src = url;
-                        img.alt = 'Image';
-                        imageContainer.appendChild(img);
-                    });
-                })
-                .catch(error => {
-                    console.error('Error loading images:', error);
-                    const imageContainer = document.getElementById('imageContainer');
-                    imageContainer.innerHTML = '<p>Error loading images. Please check the console for more details.</p>';
-                });
+  <div id="image-container" class="image-container"></div>
+  <script>
+    // Load the JSON file
+    fetch('images.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('image-container');
+        data.images.forEach(image => {
+          const img = document.createElement('img');
+          img.src = image;
+          container.appendChild(img);
         });
-    </script>
+      })
+      .catch(error => console.error('Error loading JSON:', error));
+  </script>
 </body>
 </html>
