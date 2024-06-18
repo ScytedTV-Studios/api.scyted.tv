@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OBS Stream Overlay</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            width: 1920px;
+            height: 1080px;
+            position: relative;
+            background-color: transparent;
+        }
+        #image-container {
+            position: absolute;
+            bottom: 40px; /* Adjusted to keep some margin from the bottom */
+            right: -400px; /* Start off-screen to the right */
+            transition: transform 1s ease-in-out;
+        }
+        .visible {
+            transform: translateX(-450px); /* Move to the left to be fully visible */
+        }
+        .hidden {
+            transform: translateX(450px); /* Move to the right to be off-screen */
+        }
+        #image-container img {
+            width: 600px; /* Adjust the width of the image */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+    <div id="image-container" class="hidden">
+        <img src="https://cdn.scyted.tv/gaming/overlays/long-merch.jpg" alt="Merch Image">
+    </div>
+
+    <script>
+        const imageContainer = document.getElementById('image-container');
+
+        function showImage() {
+            imageContainer.classList.remove('hidden');
+            imageContainer.classList.add('visible');
+            setTimeout(hideImage, 7000); // Show for 7 seconds
+        }
+
+        function hideImage() {
+            imageContainer.classList.remove('visible');
+            imageContainer.classList.add('hidden');
+            setTimeout(showImage, 5000); // Wait for 2 minutes before showing again
+        }
+
+        // Start the cycle
+        setTimeout(showImage, 1000); // Initial delay before first appearance
+    </script>
+</body>
+</html>
