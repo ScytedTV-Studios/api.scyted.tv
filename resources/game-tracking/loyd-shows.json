@@ -87,7 +87,7 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
+      "progress": "0/10",
       "image": "https://pyxis.nymag.com/v1/imgs/e26/689/1269b47abbd16dd863f42fa0cea6292439-07-the-society.rsquare.w1920.jpg"
     },
     {
@@ -97,8 +97,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/20",
+      "image": "https://pyxis.nymag.com/v1/imgs/36e/183/748d19f6d62ba2ddee7f94240b712e6f45-ginny-and-georgia.rsquare.w1920.jpg"
     },
     {
       "name": "What We Do in the Shadows",
@@ -107,8 +107,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/50",
+      "image": "https://pyxis.nymag.com/v1/imgs/bb6/7d0/2f84ea29a9949e9e4889a73a3f90d3331a-wwds-lede-12-19-2023.rsquare.w1920.jpg"
     },
     {
       "name": "Lie To Me",
@@ -117,8 +117,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/48",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OVGxWldmh9BdLAzFee_onKMy2dgQqoQXwg&s"
     },
     {
       "name": "Game Changer",
@@ -127,7 +127,7 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
+      "progress": "0/58",
       "image": ""
     },
     {
