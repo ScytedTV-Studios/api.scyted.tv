@@ -57,18 +57,18 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/16",
+      "image": "https://pyxis.nymag.com/v1/imgs/3b4/768/7d66e6d847c93da6d95436438f28663eb1-Heartstopper-1.rsquare.w1920.jpg"
     },
     {
-      "name": "Squidgame",
+      "name": "Squid Game",
       "description": "",
       "achieved": false,
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/9",
+      "image": "https://pyxis.nymag.com/v1/imgs/7cc/a93/274adfd6db624d6b824cdf0718adc07c69-squid-game.rsquare.w1920.jpg"
     },
     {
       "name": "Grace and Frankie",
@@ -77,8 +77,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/94",
+      "image": "https://pyxis.nymag.com/v1/imgs/d3e/5b9/31dbd9e109a9c031dd7f665955fd46e269-06-grace-frankie-11.rsquare.w1920.jpg"
     },
     {
       "name": "The Society",
@@ -88,7 +88,7 @@
       "time": "",
       "type": "Progress",
       "progress": "0/",
-      "image": ""
+      "image": "https://pyxis.nymag.com/v1/imgs/e26/689/1269b47abbd16dd863f42fa0cea6292439-07-the-society.rsquare.w1920.jpg"
     },
     {
       "name": "Ginny & Georgia",
