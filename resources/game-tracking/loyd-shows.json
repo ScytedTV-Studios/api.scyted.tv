@@ -33,7 +33,7 @@
     {
       "name": "The Rain",
       "description": "",
-      "achieved": false,
+      "achieved": true,
       "date": "",
       "time": "",
       "type": "Progress",
