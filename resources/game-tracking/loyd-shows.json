@@ -19,6 +19,106 @@
       "type": "Progress",
       "progress": "30/137",
       "image": "https://pyxis.nymag.com/v1/imgs/d8e/b65/3cd5bd3021e08c5f8a78f0cfffbfa3de12-riverdale.rsquare.w1920.jpg"
+    },
+    {
+      "name": "A Series of Unfortunate Events",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "The Rain",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "New Amsterdam",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "Heart Stopper",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "Squidgame",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "Grace and Frankie",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "0/",
+      "image": ""
     }
   ]
 }
