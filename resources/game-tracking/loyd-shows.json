@@ -2,7 +2,7 @@
   "achievements": [
     {
       "name": "Superstore",
-      "description": "Superstore is a comedy series about the quirky employees of the Cloud 9 megastore as they navigate the humorous and often chaotic challenges of working in retail.",
+      "description": "",
       "achieved": true,
       "date": "July 6, 2024",
       "time": "",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Riverdale",
-      "description": "Riverdale is a drama series that reimagines the characters from Archie Comics in a darker, mystery-filled setting, focusing on the secrets and scandals of a small town.",
+      "description": "",
       "achieved": false,
       "date": "",
       "time": "",
@@ -27,8 +27,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "2/25",
+      "image": "https://pyxis.nymag.com/v1/imgs/e6e/b36/976b7b2356634371e1537636fb8101fee0-11-lemony-snicket-series-unfortunate-eve.rsquare.w1920.jpg"
     },
     {
       "name": "The Rain",
@@ -131,7 +131,7 @@
       "image": ""
     },
     {
-      "name": "",
+      "name": "Make Some Noise",
       "description": "",
       "achieved": false,
       "date": "",
@@ -141,7 +141,7 @@
       "image": ""
     },
     {
-      "name": "",
+      "name": "Total Forgiveness",
       "description": "",
       "achieved": false,
       "date": "",
@@ -151,7 +151,7 @@
       "image": ""
     },
     {
-      "name": "",
+      "name": "Paranoia",
       "description": "",
       "achieved": false,
       "date": "",
@@ -161,57 +161,7 @@
       "image": ""
     },
     {
-      "name": "",
-      "description": "",
-      "achieved": false,
-      "date": "",
-      "time": "",
-      "type": "Progress",
-      "progress": "0/",
-      "image": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "achieved": false,
-      "date": "",
-      "time": "",
-      "type": "Progress",
-      "progress": "0/",
-      "image": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "achieved": false,
-      "date": "",
-      "time": "",
-      "type": "Progress",
-      "progress": "0/",
-      "image": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "achieved": false,
-      "date": "",
-      "time": "",
-      "type": "Progress",
-      "progress": "0/",
-      "image": ""
-    },
-    {
-      "name": "",
-      "description": "",
-      "achieved": false,
-      "date": "",
-      "time": "",
-      "type": "Progress",
-      "progress": "0/",
-      "image": ""
-    },
-    {
-      "name": "",
+      "name": "See Plum Run",
       "description": "",
       "achieved": false,
       "date": "",
