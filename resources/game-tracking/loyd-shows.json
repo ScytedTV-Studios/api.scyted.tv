@@ -123,11 +123,11 @@
     {
       "name": "Game Changer",
       "description": "",
-      "achieved": false,
-      "date": "",
+      "achieved": true,
+      "date": "June 17, 2024",
       "time": "",
       "type": "Progress",
-      "progress": "0/58",
+      "progress": "58/58",
       "image": "https://vhx.imgix.net/chuncensoredstaging/assets/6c6a5ee3-a87b-4338-9ae7-53265301ce86.jpg?auto=format%2Ccompress&fit=crop&h=1920&q=70&w=1920"
     },
     {
@@ -157,7 +157,7 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
+      "progress": "13/15",
       "image": "https://vhx.imgix.net/chuncensoredstaging/assets/a4518382-1b7a-446b-8009-d93cec8c1d1b.jpg?auto=format%2Ccompress&fit=crop&h=1920&q=70&w=1920"
     },
     {
