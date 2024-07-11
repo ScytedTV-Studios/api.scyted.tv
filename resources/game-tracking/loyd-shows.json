@@ -47,8 +47,8 @@
       "date": "",
       "time": "",
       "type": "Progress",
-      "progress": "0/",
-      "image": ""
+      "progress": "0/89",
+      "image": "https://pyxis.nymag.com/v1/imgs/fd9/16d/8d235768935e321bc9e964103065901ab3-25-new-amsterdam.rsquare.w1920.jpg"
     },
     {
       "name": "Heart Stopper",
@@ -169,6 +169,16 @@
       "type": "Progress",
       "progress": "0/",
       "image": ""
+    },
+    {
+      "name": "13 Reasons Why",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Progress",
+      "progress": "16/49",
+      "image": "https://pyxis.nymag.com/v1/imgs/cfd/986/791790196fca43ed51a795428aedda25ad-thirteen-reasons-why-season-2-ep-3.rsquare.w1920.jpg"
     }
   ]
 }
