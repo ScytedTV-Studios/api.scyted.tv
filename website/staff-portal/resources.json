@@ -1,13 +1,37 @@
 {
-    "resourceId1": {
-      "image": "https://example.com/image1.jpg",
-      "title": "Resource 1",
-      "description": "Description of Resource 1"
+    "1": {
+      "imageURL": "https://example.com/resource1.jpg",
+      "redirectURL": "https://example.com/resource1",
+      "title": "Resource One",
+      "description": "Description for Resource One.",
+      "resourceID": "1"
     },
-    "resourceId2": {
-      "image": "https://example.com/image2.jpg",
-      "title": "Resource 2",
-      "description": "Description of Resource 2"
+    "2": {
+      "imageURL": "https://example.com/resource2.jpg",
+      "redirectURL": "https://example.com/resource2",
+      "title": "Resource Two",
+      "description": "Description for Resource Two.",
+      "resourceID": "2"
+    },
+    "3": {
+      "imageURL": "https://example.com/resource3.jpg",
+      "redirectURL": "https://example.com/resource3",
+      "title": "Resource Three",
+      "description": "Description for Resource Three.",
+      "resourceID": "3"
+    },
+    "4": {
+      "imageURL": "https://example.com/resource4.jpg",
+      "redirectURL": "https://example.com/resource4",
+      "title": "Resource Four",
+      "description": "Description for Resource Four.",
+      "resourceID": "4"
+    },
+    "5": {
+      "imageURL": "https://example.com/resource5.jpg",
+      "redirectURL": "https://example.com/resource5",
+      "title": "Resource Five",
+      "description": "Description for Resource Five.",
+      "resourceID": "5"
     }
-  }
-  
+  }  
