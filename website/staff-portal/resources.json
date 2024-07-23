@@ -1,37 +1,16 @@
 {
-    "1": {
-      "imageURL": "https://example.com/resource1.jpg",
-      "redirectURL": "https://example.com/resource1",
-      "title": "Resource One",
-      "description": "Description for Resource One.",
-      "resourceID": "1"
+    "audacity": {
+      "imageURL": "https://cdn.scyted.tv/website-assets/resource-portal/logos/audacity.jpg",
+      "redirectURL": "https://www.scyted.tv/resources/audacity/",
+      "title": "Clean Audio in Audacity",
+      "description": "These are some good settings to help clean up microphone audio in Audacity.",
+      "resourceID": "audacity"
     },
-    "2": {
-      "imageURL": "https://example.com/resource2.jpg",
-      "redirectURL": "https://example.com/resource2",
-      "title": "Resource Two",
-      "description": "Description for Resource Two.",
-      "resourceID": "2"
-    },
-    "3": {
-      "imageURL": "https://example.com/resource3.jpg",
-      "redirectURL": "https://example.com/resource3",
-      "title": "Resource Three",
-      "description": "Description for Resource Three.",
-      "resourceID": "3"
-    },
-    "4": {
-      "imageURL": "https://example.com/resource4.jpg",
-      "redirectURL": "https://example.com/resource4",
-      "title": "Resource Four",
-      "description": "Description for Resource Four.",
-      "resourceID": "4"
-    },
-    "5": {
-      "imageURL": "https://example.com/resource5.jpg",
-      "redirectURL": "https://example.com/resource5",
-      "title": "Resource Five",
-      "description": "Description for Resource Five.",
-      "resourceID": "5"
+    "pixeldrain": {
+      "imageURL": "https://cdn.scyted.tv/website-assets/resource-portal/logos/pixeldrain.jpg",
+      "redirectURL": "https://www.scyted.tv/resources/pixeldrain/",
+      "title": "Watch & Download PD Videos",
+      "description": "Watch Pixeldrain videos, save your watch position, and bypass download restrictions.",
+      "resourceID": "pixeldrain"
     }
-  }  
+  }
