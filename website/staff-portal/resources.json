@@ -1,0 +1,13 @@
+{
+    "resourceId1": {
+      "image": "https://example.com/image1.jpg",
+      "title": "Resource 1",
+      "description": "Description of Resource 1"
+    },
+    "resourceId2": {
+      "image": "https://example.com/image2.jpg",
+      "title": "Resource 2",
+      "description": "Description of Resource 2"
+    }
+  }
+  

@@ -114,9 +114,9 @@ function logout() {
     window.location.href = `${currentURL}`;
 }
 
-function backButton() {
-    window.location.href = `../`;
-}
+// function backButton() {
+//     window.location.href = `../`;
+// }
 
 function getCookie(name) {
     const cookies = document.cookie.split("; ");
@@ -128,95 +128,6 @@ function getCookie(name) {
     }
     return null;
 }
-
-
-
-
-
-
-
-
-
-fetch('https://api.scyted.tv/resources/game-tracking/loyd-shows.json')
-      .then(response => response.json())
-      .then(data => {
-        const achievementsDiv = document.getElementById('achievements');
-        const completedAchievements = [];
-        const incompleteAchievements = [];
-  
-        // Separate completed and incomplete achievements
-        data.achievements.forEach(achievement => {
-          if (achievement.achieved) {
-            completedAchievements.push(achievement);
-          } else {
-            incompleteAchievements.push(achievement);
-          }
-        });
-  
-        // Sort completed achievements by date and time (newest to oldest)
-        completedAchievements.sort((a, b) => {
-          const dateA = new Date(a.date + ' ' + a.time);
-          const dateB = new Date(b.date + ' ' + b.time);
-          return dateB - dateA;
-        });
-  
-        // Concatenate completed achievements with incomplete ones
-        const sortedAchievements = completedAchievements.concat(incompleteAchievements);
-  
-        // Display achievements
-        sortedAchievements.forEach(achievement => {
-          const achievementDiv = document.createElement('div');
-          achievementDiv.classList.add('achievement');
-          if (achievement.achieved) {
-            achievementDiv.classList.add('achievement-unlocked');
-          } else {
-            achievementDiv.classList.add('achievement-locked');
-            achievementDiv.classList.add('incomplete');
-          }
-          const iconClass = achievement.achieved ? 'fas fa-check-circle' : 'far fa-circle';
-          achievementDiv.innerHTML = `
-            <div>
-              <i class="${iconClass}" style="font-size: 24px; color: ${achievement.achieved ? '#4caf50' : '#f44336'};"></i>
-            </div>
-            <div class="achievement-details">
-              <h3>${achievement.name}</h3>
-              <p>${achievement.description}</p>
-              <p class="achievement-status">${achievement.achieved ? 'Achieved' : 'Not achieved'}</p>
-              ${achievement.achieved ? `
-                <div class="achievement-date-time date-time-box">
-                  <i class="far fa-calendar-alt"></i> ${achievement.date}
-                </div>
-              ` : ''}
-              ${achievement.type === 'Progress' ? `
-                <div class="progress-bar">
-                  <div class="progress" style="width: ${calculateProgress(achievement.progress)};"></div>
-                  <div class="progress-text">${achievement.progress}</div>
-                </div>
-              ` : ''}
-            </div>
-            <img src="${achievement.image}" alt="${achievement.name}" class="achievement-image">
-          `;
-          achievementsDiv.appendChild(achievementDiv);
-        });
-      })
-      .catch(error => console.error('Error fetching data:', error));
-  
-    function calculateProgress(progress) {
-      const progressParts = progress.split('/');
-      const current = parseInt(progressParts[0]);
-      const total = parseInt(progressParts[1]);
-      return `${(current / total) * 100}%`;
-    }
-
-    function displayAccessError() {
-        var fullpageDiv = document.getElementById("insert-content");
-        fullpageDiv.innerHTML = `
-        <div id="error-message" style="color: red;">
-        This resource requires you to login with Discord.
-        </div>
-        `;
-        displayLoginButton();
-    }
     
     function displayErrorInvalidAccess() {
         var fullpageDiv = document.getElementById("insert-content");
@@ -290,7 +201,6 @@ fetch('https://api.scyted.tv/resources/game-tracking/loyd-shows.json')
         color: #ff5252;
     }
     </style>
-    <button class="discord-button" id="discord-button">
     <div class="user-info" onclick="toggleUserDropdown()">
     <img src="https://cdn.scyted.tv/website-assets/wave-development/default-discord.png"
         alt="Profile Picture" class="profile-picture">
@@ -299,7 +209,6 @@ fetch('https://api.scyted.tv/resources/game-tracking/loyd-shows.json')
         <a href="#" class="logout" onclick="logout()">Logout</a>
     </div>
     </div>
-    </button>
         `;
     
         const userDropdown = document.getElementById('userDropdown');
