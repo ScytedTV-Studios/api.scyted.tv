@@ -200,6 +200,36 @@
     "roleColor": "#000000"
   },
   {
+    "roleId": "1266872736844615830",
+    "roleName": "• Profile •‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266872981846491177",
+    "roleName": "Audio",
+    "roleColor": "#1abc9c"
+  },
+  {
+    "roleId": "1266872951530192946",
+    "roleName": "Video",
+    "roleColor": "#1abc9c"
+  },
+  {
+    "roleId": "1266872996266508438",
+    "roleName": "Game-Related Archives",
+    "roleColor": "#1abc9c"
+  },
+  {
+    "roleId": "1266873026083819651",
+    "roleName": "Discord Bot Stats",
+    "roleColor": "#1abc9c"
+  },
+  {
+    "roleId": "1266873063501463572",
+    "roleName": "Loyd's Stats",
+    "roleColor": "#1abc9c"
+  },
+  {
     "roleId": "1244396752950268048",
     "roleName": "Loyd's Helper",
     "roleColor": "#000000"
@@ -242,6 +272,61 @@
   {
     "roleId": "1265459033817485343",
     "roleName": "Cool Role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873672665403545",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873691250102344",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873713635229708",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873732580773959",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873747575410688",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873791821254829",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873813384036425",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873830782009384",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873859366195374",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873882896502854",
+    "roleName": "new role",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1266873902966116422",
+    "roleName": "new role",
     "roleColor": "#000000"
   },
   {
