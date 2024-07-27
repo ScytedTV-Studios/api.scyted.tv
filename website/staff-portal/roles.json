@@ -230,6 +230,71 @@
     "roleColor": "#1abc9c"
   },
   {
+    "roleId": "1266873672665403545",
+    "roleName": "Voice Actor",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873691250102344",
+    "roleName": "Actor",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873713635229708",
+    "roleName": "Singer",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873732580773959",
+    "roleName": "Artist",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873747575410688",
+    "roleName": "Animator",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873791821254829",
+    "roleName": "Video Editor",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873813384036425",
+    "roleName": "Musician",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873830782009384",
+    "roleName": "Audio Engineer",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873859366195374",
+    "roleName": "Writer",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873882896502854",
+    "roleName": "Director",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873902966116422",
+    "roleName": "Agent",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873917562159104",
+    "roleName": "Producer",
+    "roleColor": "#2ecc71"
+  },
+  {
+    "roleId": "1266873931931975782",
+    "roleName": "Graphic Designer",
+    "roleColor": "#2ecc71"
+  },
+  {
     "roleId": "1244396752950268048",
     "roleName": "Loyd's Helper",
     "roleColor": "#000000"
@@ -272,61 +337,6 @@
   {
     "roleId": "1265459033817485343",
     "roleName": "Cool Role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873672665403545",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873691250102344",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873713635229708",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873732580773959",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873747575410688",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873791821254829",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873813384036425",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873830782009384",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873859366195374",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873882896502854",
-    "roleName": "new role",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1266873902966116422",
-    "roleName": "new role",
     "roleColor": "#000000"
   },
   {
