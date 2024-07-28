@@ -25,6 +25,41 @@
     "roleColor": "#000000"
   },
   {
+    "roleId": "1267184089157599353",
+    "roleName": "Red",
+    "roleColor": "#ff0000"
+  },
+  {
+    "roleId": "1267184131381657881",
+    "roleName": "Orange",
+    "roleColor": "#ffa500"
+  },
+  {
+    "roleId": "1267184171814617291",
+    "roleName": "Yellow",
+    "roleColor": "#ffff00"
+  },
+  {
+    "roleId": "1267184199258079292",
+    "roleName": "Green",
+    "roleColor": "#00ff00"
+  },
+  {
+    "roleId": "1267184261706809479",
+    "roleName": "Blue",
+    "roleColor": "#1717ff"
+  },
+  {
+    "roleId": "1267184311820353769",
+    "roleName": "Purple",
+    "roleColor": "#9e009e"
+  },
+  {
+    "roleId": "1267184358767329291",
+    "roleName": "Pink",
+    "roleColor": "#ff5f7a"
+  },
+  {
     "roleId": "1267169506057256982",
     "roleName": "• Permissions •‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎",
     "roleColor": "#000000"
@@ -343,41 +378,6 @@
     "roleId": "1265459033817485343",
     "roleName": "Cool Role",
     "roleColor": "#000000"
-  },
-  {
-    "roleId": "1267184089157599353",
-    "roleName": "Red",
-    "roleColor": "#ff0000"
-  },
-  {
-    "roleId": "1267184131381657881",
-    "roleName": "Orange",
-    "roleColor": "#ffa500"
-  },
-  {
-    "roleId": "1267184171814617291",
-    "roleName": "Yellow",
-    "roleColor": "#ffff00"
-  },
-  {
-    "roleId": "1267184199258079292",
-    "roleName": "Green",
-    "roleColor": "#00ff00"
-  },
-  {
-    "roleId": "1267184261706809479",
-    "roleName": "Blue",
-    "roleColor": "#1717ff"
-  },
-  {
-    "roleId": "1267184311820353769",
-    "roleName": "Purple",
-    "roleColor": "#9e009e"
-  },
-  {
-    "roleId": "1267184358767329291",
-    "roleName": "Pink",
-    "roleColor": "#ff5f7a"
   },
   {
     "roleId": "1244394874497925301",
