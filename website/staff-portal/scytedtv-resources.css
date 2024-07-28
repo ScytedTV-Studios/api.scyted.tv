@@ -259,3 +259,11 @@ a {
     height: 100%;
     border-radius: 15px;
   }
+
+  hr.has-background-black {
+    display: none;
+}
+
+h1.title {
+    display: none;
+}
