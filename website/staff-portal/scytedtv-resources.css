@@ -12,7 +12,8 @@
     width: 25%;
 }
 
-.resource-info-box, .resource-back {
+.resource-info-box,
+.resource-back {
     position: relative;
     text-align: center;
     background-color: #E5E5E5;
@@ -34,15 +35,21 @@
     background-color: #E5E5E5;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    padding: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
     margin-bottom: 20px;
     width: 75%;
     height: auto;
 }
 
 .user-info-box {
-    text-align: center;
-    justify-content: center;
+    flex: 1;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: left;
 }
 
 .insert-content {
