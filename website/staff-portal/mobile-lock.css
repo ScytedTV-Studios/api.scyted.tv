@@ -1,0 +1,16 @@
+.mobile-error {
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .resource-container,
+    .banner,
+    .grid {
+        display: none;
+    }
+
+    .mobile-error {
+        display: block;
+    }
+}
