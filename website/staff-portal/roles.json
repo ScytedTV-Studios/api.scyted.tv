@@ -125,6 +125,26 @@
     "roleColor": "#000000"
   },
   {
+    "roleId": "1255554369953333319",
+    "roleName": "Chief Executive Officer",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1255554399623970912",
+    "roleName": "Chief Creative Officer",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1255554519874666617",
+    "roleName": "Chief Media Officer",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1255554458788827289",
+    "roleName": "Head Video Editor",
+    "roleColor": "#000000"
+  },
+  {
     "roleId": "1244398148965634089",
     "roleName": "• Teams •‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎",
     "roleColor": "#000000"
@@ -347,26 +367,6 @@
   {
     "roleId": "1250942956215730310",
     "roleName": "ChronicleBot",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1255554369953333319",
-    "roleName": "Chief Executive Officer",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1255554399623970912",
-    "roleName": "Chief Creative Officer",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1255554519874666617",
-    "roleName": "Chief Media Officer",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1255554458788827289",
-    "roleName": "Head Video Editor",
     "roleColor": "#000000"
   },
   {
