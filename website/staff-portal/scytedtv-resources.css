@@ -74,18 +74,6 @@ button {
     border: 0.5px solid black;
 }
 
-.login-container {
-    background-color: #FFF;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    padding: 10px;
-    text-align: right;
-    width: 100%;
-    margin: 0 auto;
-}
-
-
-
 .banner {
     position: relative;
     text-align: center;
