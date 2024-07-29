@@ -5,26 +5,6 @@
     "roleColor": "#000000"
   },
   {
-    "roleId": "1255550973565337691",
-    "roleName": "Management",
-    "roleColor": "#5fd8f6"
-  },
-  {
-    "roleId": "1244396294584270898",
-    "roleName": "Team Member",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1254992189050720287",
-    "roleName": "Alt Account",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1246903165920608257",
-    "roleName": "Currently Auditioning",
-    "roleColor": "#000000"
-  },
-  {
     "roleId": "1267184089157599353",
     "roleName": "Red",
     "roleColor": "#ff0000"
@@ -58,6 +38,26 @@
     "roleId": "1267184358767329291",
     "roleName": "Pink",
     "roleColor": "#ff5f7a"
+  },
+  {
+    "roleId": "1255550973565337691",
+    "roleName": "Management",
+    "roleColor": "#5fd8f6"
+  },
+  {
+    "roleId": "1244396294584270898",
+    "roleName": "Team Member",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1254992189050720287",
+    "roleName": "Alt Account",
+    "roleColor": "#000000"
+  },
+  {
+    "roleId": "1246903165920608257",
+    "roleName": "Currently Auditioning",
+    "roleColor": "#000000"
   },
   {
     "roleId": "1267169506057256982",
