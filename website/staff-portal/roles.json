@@ -50,6 +50,11 @@
     "roleColor": "#000000"
   },
   {
+    "roleId": "1255551934966792225",
+    "roleName": "Visitor Pass",
+    "roleColor": "#7c7367"
+  },
+  {
     "roleId": "1254992189050720287",
     "roleName": "Alt Account",
     "roleColor": "#000000"
@@ -123,11 +128,6 @@
     "roleId": "1244395614146400338",
     "roleName": "Clever Remarks",
     "roleColor": "#89abe3"
-  },
-  {
-    "roleId": "1255551934966792225",
-    "roleName": "Visitor Pass",
-    "roleColor": "#7c7367"
   },
   {
     "roleId": "1255554300843790456",
