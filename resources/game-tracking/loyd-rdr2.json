@@ -13,8 +13,8 @@
     {
       "name": "Back in the Mud",
       "description": "",
-      "achieved": false,
-      "date": "",
+      "achieved": true,
+      "date": "August 5, 2024",
       "time": "",
       "type": "Static",
       "progress": "",
@@ -506,7 +506,7 @@
       "achieved": false,
       "date": "",
       "time": "",
-      "type": "Static",
+      "type": "",
       "progress": "",
       "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/aef9a5ba1605f7d31a6a5aaf9aa061a800ca2a65.jpg"
     }
