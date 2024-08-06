@@ -2,7 +2,7 @@
   "achievements": [
     {
       "name": "Just a Scratch",
-      "description": "Complete 'Enter, Pursued by a Memory'.",
+      "description": "",
       "achieved": false,
       "date": "",
       "time": "",
@@ -21,47 +21,47 @@
       "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/3f5b6b4295a58d39b7619e5723f94b8f475dd81e.jpg"
     },
     {
-      "name": "",
+      "name": "Trusty Steed",
       "description": "",
       "achieved": false,
       "date": "",
       "time": "",
       "type": "Static",
       "progress": "",
-      "image": ""
+      "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/e968b36e4c3fba5addab9f4d4a31ddf935cb2804.jpg"
     },
     {
-      "name": "",
+      "name": "Give to the Poor",
       "description": "",
       "achieved": false,
       "date": "",
       "time": "",
       "type": "Static",
       "progress": "",
-      "image": ""
+      "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/db4c73fe207337b21d4112dcdf0e24b36d101792.jpg"
     },
     {
-      "name": "",
+      "name": "To Greener Pastures",
       "description": "",
       "achieved": false,
       "date": "",
       "time": "",
       "type": "Static",
       "progress": "",
-      "image": ""
+      "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/cede247d21de983c4d0d8aed8b75d1324cac9bf3.jpg"
     },
     {
-      "name": "",
+      "name": "Locked and Loaded",
       "description": "",
       "achieved": false,
       "date": "",
       "time": "",
       "type": "Static",
       "progress": "",
-      "image": ""
+      "image": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1174180/9f07d5b06a35ec4b44f7081de6851090d43ecdfb.jpg"
     },
     {
-      "name": "",
+      "name": "Take From the Rich",
       "description": "",
       "achieved": false,
       "date": "",
