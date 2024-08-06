@@ -1,15 +1,24 @@
 {
-    "achievements": [
-        {
-            "name": "",
-            "description": "",
-            "achieved": false,
-            "date": "",
-            "time": "",
-            "type": "Static",
-            "progress": "",
-            "image": ""
-          }                                                                                                                                                                                                                                                                                                                    
-    ]
-  }
-  
+  "achievements": [
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "achieved": false,
+      "date": "",
+      "time": "",
+      "type": "Static",
+      "progress": "",
+      "image": ""
+    }
+  ]
+}
