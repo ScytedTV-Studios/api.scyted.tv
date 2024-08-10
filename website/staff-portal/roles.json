@@ -95,6 +95,11 @@
     "roleColor": "#9b59b6"
   },
   {
+    "roleId": "1271921452135747686",
+    "roleName": "Loyd's Lights",
+    "roleColor": "#9b59b6"
+  },
+  {
     "roleId": "1244398090107093052",
     "roleName": "• Shows •‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎",
     "roleColor": "#000000"
@@ -382,11 +387,6 @@
   {
     "roleId": "1250942956215730310",
     "roleName": "ChronicleBot",
-    "roleColor": "#000000"
-  },
-  {
-    "roleId": "1271921452135747686",
-    "roleName": "new role",
     "roleColor": "#000000"
   },
   {
