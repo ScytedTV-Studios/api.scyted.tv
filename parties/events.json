@@ -1,0 +1,12 @@
+{
+    "events": [
+        {
+            "name": "Event 1",
+            "epoch": 1717168000
+        },
+        {
+            "name": "Event 2",
+            "epoch": 1717756800
+        }
+    ]
+}
