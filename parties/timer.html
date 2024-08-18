@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Timer</title>
+    <style>
+        #timer {
+            font-family: Arial, sans-serif;
+            font-size: 2rem;
+            text-align: center;
+            margin-top: 20px;
+        }
+        #status {
+            font-family: Arial, sans-serif;
+            font-size: 1.5rem;
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="status">Loading...</div>
+    <div id="timer"></div>
+
+    <script>
+        const timerElement = document.getElementById('timer');
+        const statusElement = document.getElementById('status');
+
+        function updateTimer(epochTimestamp) {
+            const eventTime = epochTimestamp * 1000; // Convert to milliseconds
+            const interval = setInterval(() => {
+                const currentTime = Date.now();
+                const timeDifference = eventTime - currentTime;
+
+                if (timeDifference > 0) {
+                    statusElement.textContent = "Starts In:";
+                    const hours = Math.floor(timeDifference / (1000 * 60 * 60));
+                    const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
+                } else {
+                    statusElement.textContent = "Current Time:";
+                    const elapsedTime = Math.abs(timeDifference);
+                    const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+                    const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
+                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
+                }
+            }, 1000);
+        }
+
+        async function fetchEventTime() {
+            try {
+                const response = await fetch('https://api.scyted.tv/parties/events.json');
+                const data = await response.json();
+                const epochTimestamp = data.epoch; // Assuming 'epoch' is the key in your JSON file
+                updateTimer(epochTimestamp);
+            } catch (error) {
+                statusElement.textContent = "Error fetching event time.";
+                console.error("Failed to fetch event time:", error);
+            }
+        }
+
+        fetchEventTime();
+    </script>
+</body>
+</html>
