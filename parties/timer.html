@@ -31,8 +31,10 @@
         }
         #status {
             font-size: 1rem;
-            color: #555;
+            color: #fff;
             margin-bottom: 5px;
+            padding: 5px;
+            border-radius: 5px;
         }
         #timer {
             font-size: 2rem;
@@ -41,12 +43,42 @@
             background: none;
             padding: 5px;
         }
+
+        /* Styles for "Starts In" status */
+        .starts-in {
+            background-color: #28a745; /* Green */
+        }
+
+        /* Styles for "Current Time" status */
+        .current-time {
+            background-color: #dc3545; /* Red */
+            position: relative;
+        }
+
+        .current-time::after {
+            content: 'LIVE';
+            color: #fff;
+            background-color: #000;
+            padding: 2px 5px;
+            border-radius: 5px;
+            position: absolute;
+            right: -60px; /* Adjust to fit the container */
+            top: 50%;
+            transform: translateY(-50%);
+            animation: flash 1s infinite;
+        }
+
+        @keyframes flash {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div id="eventName">Loading...</div>
-        <div id="status">Loading...</div>
+        <div id="status" class="status">Loading...</div>
         <div id="timer"></div>
     </div>
 
@@ -54,11 +86,6 @@
         const eventNameElement = document.getElementById('eventName');
         const timerElement = document.getElementById('timer');
         const statusElement = document.getElementById('status');
-
-        function addCacheBuster(url) {
-            const cacheBuster = new Date().getTime(); // Adds a timestamp to the URL
-            return `${url}?cb=${cacheBuster}`;
-        }
 
         function updateTimer(epochTimestamp) {
             const eventTime = epochTimestamp * 1000; // Convert to milliseconds
@@ -68,12 +95,14 @@
 
                 if (timeDifference > 0) {
                     statusElement.textContent = "Starts In:";
+                    statusElement.className = "status starts-in"; // Apply green background
                     const hours = Math.floor(timeDifference / (1000 * 60 * 60));
                     const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
                     const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
                     timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
                 } else {
                     statusElement.textContent = "Current Time:";
+                    statusElement.className = "status current-time"; // Apply red background and flashing
                     const elapsedTime = Math.abs(timeDifference);
                     const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
                     const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
