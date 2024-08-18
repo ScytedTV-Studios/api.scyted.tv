@@ -8,46 +8,53 @@
         body {
             margin: 0;
             padding: 0;
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             overflow: hidden; /* Prevent scrolling */
             display: flex;
             align-items: center;
             justify-content: center;
             height: 100vh; /* Ensure it fits within the iframe */
-            background: transparent; /* No background to blend with iframe */
+            background: transparent; /* No background color */
         }
         .container {
             text-align: center;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            width: 100%;
-            height: 100%;
+            width: 90%;
+            max-width: 400px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            box-sizing: border-box;
+            opacity: 0; /* Hide initially */
+            transition: opacity 0.3s ease-in-out;
+        }
+        .container.show {
+            opacity: 1; /* Show when the timer is active */
         }
         #eventName {
-            font-size: 1.2rem;
-            font-weight: bold;
+            font-size: 1.5rem;
+            font-weight: 600;
             color: #333;
-            margin-bottom: 10px;
+            margin-bottom: 20px;
         }
         #status {
-            font-size: 1rem;
+            font-size: 1.2rem;
             color: #666;
-            margin-bottom: 8px;
+            margin-bottom: 15px;
         }
         #timer {
-            font-size: 2rem;
-            font-weight: bold;
+            font-size: 3rem;
+            font-weight: 700;
             color: #000;
-            background: none; /* No background to blend with iframe */
-            padding: 10px;
-            border-radius: 5px;
-            border: 2px solid #000; /* Optional: border to make it stand out */
+            background: #f1f1f1;
+            border-radius: 8px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            display: inline-block;
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="timerContainer">
         <div id="eventName">Loading...</div>
         <div id="status">Loading...</div>
         <div id="timer"></div>
@@ -57,10 +64,12 @@
         const eventNameElement = document.getElementById('eventName');
         const timerElement = document.getElementById('timer');
         const statusElement = document.getElementById('status');
+        const timerContainer = document.getElementById('timerContainer');
 
         function updateTimer(epochTimestamp) {
             const eventTime = epochTimestamp * 1000; // Convert to milliseconds
-            const interval = setInterval(() => {
+
+            function updateDisplay() {
                 const currentTime = Date.now();
                 const timeDifference = eventTime - currentTime;
 
@@ -78,7 +87,11 @@
                     const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
                     timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
                 }
-            }, 1000);
+            }
+
+            updateDisplay(); // Initial update
+            const interval = setInterval(updateDisplay, 1000); // Update every second
+            timerContainer.classList.add('show'); // Show container when timer starts
         }
 
         async function fetchEventTime(eventId) {
@@ -108,20 +121,21 @@
             return urlParams.get(name);
         }
 
-        // Implement your cache buster function here if needed
         function addCacheBuster(url) {
             const separator = url.includes('?') ? '&' : '?';
             return `${url}${separator}cb=${new Date().getTime()}`;
         }
 
-        const eventId = getQueryParam('id');
-        if (eventId) {
-            fetchEventTime(eventId);
-        } else {
-            eventNameElement.textContent = "No event ID provided.";
-            statusElement.textContent = "";
-            timerElement.textContent = "";
-        }
+        document.addEventListener('DOMContentLoaded', () => {
+            const eventId = getQueryParam('id');
+            if (eventId) {
+                fetchEventTime(eventId);
+            } else {
+                eventNameElement.textContent = "No event ID provided.";
+                statusElement.textContent = "";
+                timerElement.textContent = "";
+            }
+        });
     </script>
 </body>
 </html>
