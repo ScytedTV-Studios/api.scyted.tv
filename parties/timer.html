@@ -50,19 +50,35 @@
             }, 1000);
         }
 
-        async function fetchEventTime() {
+        async function fetchEventTime(eventId) {
             try {
                 const response = await fetch('https://api.scyted.tv/parties/events.json');
                 const data = await response.json();
-                const epochTimestamp = data.epoch; // Assuming 'epoch' is the key in your JSON file
-                updateTimer(epochTimestamp);
+                const event = data.events.find(e => e.id === eventId);
+
+                if (event) {
+                    updateTimer(event.epoch);
+                    statusElement.textContent = `Event: ${event.name}`;
+                } else {
+                    statusElement.textContent = "Event not found.";
+                }
             } catch (error) {
                 statusElement.textContent = "Error fetching event time.";
                 console.error("Failed to fetch event time:", error);
             }
         }
 
-        fetchEventTime();
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        const eventId = getQueryParam('id');
+        if (eventId) {
+            fetchEventTime(eventId);
+        } else {
+            statusElement.textContent = "No event ID provided.";
+        }
     </script>
 </body>
 </html>
