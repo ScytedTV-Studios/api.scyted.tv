@@ -1,5 +1,10 @@
 {
 	"items": [
+		
+		{
+			"name": "Tindalos: No Mercy",
+			"link": "https://podcasters.spotify.com/pod/show/tindalos-no-mercy"
+		}
 		{
 			"name": "Website",
 			"link": "https://www.scyted.tv/show/tindalos"
@@ -17,32 +22,8 @@
 			"link": "https://www.youtube.com/@TindalosSTV"
 		},
 		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
-		},
-		{
-			"name": "",
-			"link": ""
+			"name": "Patreon",
+			"link": "https://www.patreon.com/ScytedTV"
 		}
 	]
 }
