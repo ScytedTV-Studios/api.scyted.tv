@@ -2,18 +2,283 @@
     "events": [
         {
             "id": "event1",
-            "name": "Dimension 20 [23x05]",
-            "epoch": 1729724580
+            "name": "Make Some Noise [3x10]",
+            "epoch": 1730156400
         },
         {
             "id": "event2",
+            "name": "Make Some Noise [3x11]",
+            "epoch": 1731369600
+        },
+        {
+            "id": "event3",
+            "name": "Make Some Noise [3x12]",
+            "epoch": 1732579200
+        },
+        {
+            "id": "event4",
+            "name": "Make Some Noise [3x13]",
+            "epoch": 1733788800
+        },
+        {
+            "id": "event5",
+            "name": "Make Some Noise [3x14]",
+            "epoch": 1734998400
+        },
+        {
+            "id": "event6",
+            "name": "Make Some Noise [3x15]",
+            "epoch": 1736208000
+        },
+        {
+            "id": "event7",
+            "name": "Make Some Noise [3x16]",
+            "epoch": 1737417600
+        },
+        {
+            "id": "event8",
+            "name": "Make Some Noise [3x17]",
+            "epoch": 1738627200
+        },
+        {
+            "id": "event9",
+            "name": "Make Some Noise [3x18]",
+            "epoch": 1739836800
+        },
+        {
+            "id": "event10",
+            "name": "Make Some Noise [3x19]",
+            "epoch": 1741046400
+        },
+        {
+            "id": "event11",
+            "name": "Make Some Noise [3x20]",
+            "epoch": 1742252400
+        },
+        {
+            "id": "event12",
+            "name": "Very Important People [2x01]",
+            "epoch": 1731024000
+        },
+        {
+            "id": "event13",
+            "name": "Dirty Laundry [4x07]",
+            "epoch": 1730851200
+        },
+        {
+            "id": "event14",
+            "name": "Dirty Laundry [4x08]",
+            "epoch": 1732060800
+        },
+        {
+            "id": "event15",
+            "name": "Dirty Laundry [4x09]",
+            "epoch": 1733270400
+        },
+        {
+            "id": "event16",
+            "name": "Dirty Laundry [4x10]",
+            "epoch": 1734480000
+        },
+        {
+            "id": "event17",
+            "name": "Very Important People [2x02]",
+            "epoch": 1732233600
+        },
+        {
+            "id": "event18",
+            "name": "Very Important People [2x03]",
+            "epoch": 1733443200
+        },
+        {
+            "id": "event19",
+            "name": "Very Important People [2x04]",
+            "epoch": 1734652800
+        },
+        {
+            "id": "event20",
+            "name": "Very Important People [2x05]",
+            "epoch": 1735862400
+        },
+        {
+            "id": "event21",
+            "name": "Very Important People [2x06]",
+            "epoch": 1737072000
+        },
+        {
+            "id": "event22",
+            "name": "Very Important People [2x07]",
+            "epoch": 1738281600
+        },
+        {
+            "id": "event23",
+            "name": "Very Important People [2x08]",
+            "epoch": 1739491200
+        },
+        {
+            "id": "event24",
+            "name": "Very Important People [2x09]",
+            "epoch": 1740700800
+        },
+        {
+            "id": "event25",
+            "name": "Very Important People [2x10]",
+            "epoch": 1741906800
+        },
+        {
+            "id": "event26",
+            "name": "Very Important People [2x11]",
+            "epoch": 1743116400
+        },
+        {
+            "id": "event27",
+            "name": "Very Important People [2x12]",
+            "epoch": 1744326000
+        },
+        {
+            "id": "event28",
+            "name": "Very Important People [2x13]",
+            "epoch": 1745535600
+        },
+        {
+            "id": "event29",
+            "name": "Very Important People [2x14]",
+            "epoch": 1746745200
+        },
+        {
+            "id": "event30",
+            "name": "Very Important People [2x15]",
+            "epoch": 1747954800
+        },
+        {
+            "id": "event31",
+            "name": "Very Important People [2x16]",
+            "epoch": 1749164400
+        },
+        {
+            "id": "event32",
+            "name": "Dirty Laundry: Cocktail Recipes [4x06]",
+            "epoch": 1730223000
+        },
+        {
+            "id": "event33",
+            "name": "Dirty Laundry: Cocktail Recipes [4x07]",
+            "epoch": 1731436200
+        },
+        {
+            "id": "event34",
+            "name": "Dirty Laundry: Cocktail Recipes [4x08]",
+            "epoch": 1732645800
+        },
+        {
+            "id": "event35",
+            "name": "Dirty Laundry: Cocktail Recipes [4x09]",
+            "epoch": 1733855400
+        },
+        {
+            "id": "event36",
+            "name": "Dirty Laundry: Cocktail Recipes [4x10]",
+            "epoch": 1735065000
+        },
+        {
+            "id": "event37",
+            "name": "Gastronauts [1x02]",
+            "epoch": 1729897200
+        },
+        {
+            "id": "event38",
+            "name": "Gastronauts [1x03]",
+            "epoch": 1731110400
+        },
+        {
+            "id": "event39",
+            "name": "Gastronauts [1x04]",
+            "epoch": 1732320000
+        },
+        {
+            "id": "event40",
+            "name": "Gastronauts [1x05]",
+            "epoch": 1733529600
+        },
+        {
+            "id": "event41",
+            "name": "Gastronauts [1x06]",
+            "epoch": 1734739200
+        },
+        {
+            "id": "event42",
+            "name": "Dimension 20 [23x05]",
+            "epoch": 1729724400
+        },
+        {
+            "id": "event43",
+            "name": "Dimension 20 [23x06]",
+            "epoch": 1730329200
+        },
+        {
+            "id": "event44",
+            "name": "Dimension 20 [23x07]",
+            "epoch": 1730937600
+        },
+        {
+            "id": "event45",
+            "name": "Dimension 20 [23x08]",
+            "epoch": 1731542400
+        },
+        {
+            "id": "event46",
+            "name": "Dimension 20 [23x09]",
+            "epoch": 1732147200
+        },
+        {
+            "id": "event47",
+            "name": "Dimension 20 [23x10]",
+            "epoch": 1732752000
+        },
+        {
+            "id": "event48",
+            "name": "Dimension 20 [23x11]",
+            "epoch": 1733356800
+        },
+        {
+            "id": "event49",
             "name": "Adventuring Party [18x05]",
             "epoch": 1729791000
         },
         {
-            "id": "event3",
-            "name": "Gastronauts [1x02]",
-            "epoch": 1729897200
+            "id": "event50",
+            "name": "Adventuring Party [18x06]",
+            "epoch": 1730395800
+        },
+        {
+            "id": "event51",
+            "name": "Adventuring Party [18x07]",
+            "epoch": 1731004200
+        },
+        {
+            "id": "event52",
+            "name": "Adventuring Party [18x08]",
+            "epoch": 1731609000
+        },
+        {
+            "id": "event53",
+            "name": "Adventuring Party [18x09]",
+            "epoch": 1732213800
+        },
+        {
+            "id": "event54",
+            "name": "Adventuring Party [18x10]",
+            "epoch": 1732818600
+        },
+        {
+            "id": "event55",
+            "name": "Adventuring Party [18x11]",
+            "epoch": 1733423400
+        },
+        {
+            "id": "event56",
+            "name": "Breaking News [7x16]",
+            "epoch": 1730242800
         }
     ]
 }
