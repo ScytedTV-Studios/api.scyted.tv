@@ -2,13 +2,18 @@
     "events": [
         {
             "id": "event1",
-            "name": "Dimension 20",
+            "name": "Dimension 20 [23x05]",
             "epoch": 1729724580
         },
         {
             "id": "event2",
-            "name": "Adventuring Party",
+            "name": "Adventuring Party [18x05]",
             "epoch": 1729791000
+        },
+        {
+            "id": "event3",
+            "name": "Gastronauts [1x02]",
+            "epoch": 1729897200
         }
     ]
 }
