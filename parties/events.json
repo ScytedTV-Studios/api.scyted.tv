@@ -244,6 +244,81 @@
             "id": "event49",
             "name": "Very Important People: Last Looks [2x01]",
             "epoch": 1731090600
+        },
+        {
+            "id": "event50",
+            "name": "Very Important People: Last Looks [2x02]",
+            "epoch": 1732300200
+        },
+        {
+            "id": "event51",
+            "name": "Very Important People: Last Looks [2x03]",
+            "epoch": 1733509800
+        },
+        {
+            "id": "event52",
+            "name": "Very Important People: Last Looks [2x04]",
+            "epoch": 1734719400
+        },
+        {
+            "id": "event53",
+            "name": "Very Important People: Last Looks [2x05]",
+            "epoch": 1735929000
+        },
+        {
+            "id": "event54",
+            "name": "Very Important People: Last Looks [2x06]",
+            "epoch": 1737138600
+        },
+        {
+            "id": "event55",
+            "name": "Very Important People: Last Looks [2x07]",
+            "epoch": 1738348200
+        },
+        {
+            "id": "event56",
+            "name": "Very Important People: Last Looks [2x08]",
+            "epoch": 1739557800
+        },
+        {
+            "id": "event57",
+            "name": "Very Important People: Last Looks [2x09]",
+            "epoch": 1740767400
+        },
+        {
+            "id": "event58",
+            "name": "Very Important People: Last Looks [2x10]",
+            "epoch": 1741973400
+        },
+        {
+            "id": "event59",
+            "name": "Very Important People: Last Looks [2x11]",
+            "epoch": 1743183000
+        },
+        {
+            "id": "event60",
+            "name": "Very Important People: Last Looks [2x12]",
+            "epoch": 1744392600
+        },
+        {
+            "id": "event61",
+            "name": "Very Important People: Last Looks [2x13]",
+            "epoch": 1745602200
+        },
+        {
+            "id": "event62",
+            "name": "Very Important People: Last Looks [2x14]",
+            "epoch": 1746811800
+        },
+        {
+            "id": "event63",
+            "name": "Very Important People: Last Looks [2x15]",
+            "epoch": 1748021400
+        },
+        {
+            "id": "event64",
+            "name": "Very Important People: Last Looks [2x16]",
+            "epoch": 1749231000
         }
     ]
 }
