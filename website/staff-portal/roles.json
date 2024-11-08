@@ -305,6 +305,11 @@
     "roleColor": "#2ecc71"
   },
   {
+    "roleId": "1304382219166416909",
+    "roleName": "Streaming Services",
+    "roleColor": "#2ecc71"
+  },
+  {
     "roleId": "1266873672665403545",
     "roleName": "Voice Actor",
     "roleColor": "#3498db"
