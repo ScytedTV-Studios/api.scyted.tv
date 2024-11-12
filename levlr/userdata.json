@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 229,
+    "xp": 259,
     "level": 6
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 169,
+    "xp": 189,
     "level": 6
   },
   {
@@ -32,7 +32,13 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 30,
+    "xp": 40,
+    "level": 1
+  },
+  {
+    "userId": "1080062112182845461",
+    "username": "Time",
+    "xp": 10,
     "level": 1
   }
 ]
