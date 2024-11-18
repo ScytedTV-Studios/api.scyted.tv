@@ -269,6 +269,11 @@
             "id": "event54",
             "name": "Very Important People: Last Looks [2x16]",
             "epoch": 1749231000
+        },
+        {
+            "id": "event55",
+            "name": "Adventuring Academy [5x06]",
+            "epoch": 1731954600
         }
     ]
 }
