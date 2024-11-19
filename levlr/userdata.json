@@ -14,13 +14,13 @@
   {
     "userId": "1153134189688934470",
     "username": "Levlr",
-    "xp": 90,
+    "xp": 100,
     "level": 1
   },
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 40,
+    "xp": 60,
     "level": 1
   },
   {
@@ -40,5 +40,11 @@
     "username": "Time",
     "xp": 10,
     "level": 1
+  },
+  {
+    "userId": "1148906753161957446",
+    "username": "GBC Supporter",
+    "xp": 20,
+    "level": 1
   }
-]]
+]
