@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 214,
+    "xp": 224,
     "level": 9
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 154,
+    "xp": 164,
     "level": 9
   },
   {
@@ -20,7 +20,7 @@
   {
     "userId": "852572302590607361",
     "username": "loydosborne",
-    "xp": 80,
+    "xp": 90,
     "level": 1
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 56,
+    "xp": 116,
     "level": 3
   },
   {
@@ -56,6 +56,12 @@
   {
     "userId": "1269345925843779695",
     "username": "Carl-bot Logging",
+    "xp": 30,
+    "level": 1
+  },
+  {
+    "userId": "1175104796567552121",
+    "username": "Collectr",
     "xp": 20,
     "level": 1
   }
