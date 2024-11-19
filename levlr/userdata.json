@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 599,
-    "level": 10
+    "xp": 0,
+    "level": 11
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 469,
+    "xp": 499,
     "level": 10
   },
   {
@@ -32,8 +32,8 @@
   {
     "userId": "969568141145415791",
     "username": "Repo",
-    "xp": 110,
-    "level": 1
+    "xp": 0,
+    "level": 2
   },
   {
     "userId": "1080062112182845461",
@@ -44,7 +44,7 @@
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 94,
+    "xp": 144,
     "level": 9
   },
   {
@@ -63,6 +63,12 @@
     "userId": "1175104796567552121",
     "username": "Collectr",
     "xp": 20,
+    "level": 1
+  },
+  {
+    "userId": "1149616068055269426",
+    "username": "音猫｡の化身",
+    "xp": 10,
     "level": 1
   }
 ]
