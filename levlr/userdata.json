@@ -2,14 +2,14 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 90,
+    "xp": 110,
     "level": 11
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 609,
-    "level": 10
+    "xp": 0,
+    "level": 11
   },
   {
     "userId": "1153134189688934470",
@@ -44,7 +44,7 @@
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 394,
+    "xp": 414,
     "level": 9
   },
   {
@@ -71,4 +71,4 @@
     "xp": 20,
     "level": 1
   }
-]
+]]
