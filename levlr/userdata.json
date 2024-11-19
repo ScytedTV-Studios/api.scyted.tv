@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 124,
+    "xp": 144,
     "level": 9
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 54,
+    "xp": 74,
     "level": 9
   },
   {
@@ -38,13 +38,19 @@
   {
     "userId": "1080062112182845461",
     "username": "Time",
-    "xp": 10,
+    "xp": 20,
     "level": 1
   },
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 0,
+    "xp": 50,
     "level": 2
+  },
+  {
+    "userId": "931862658590838785",
+    "username": "VOICEROID 読み上げbot 2台目",
+    "xp": 10,
+    "level": 1
   }
 ]
