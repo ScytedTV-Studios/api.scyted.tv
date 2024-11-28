@@ -312,7 +312,8 @@
             "id": "event45",
             "name": "Nobody Asked [1x01]",
             "epoch": 1732924980,
-            "cover": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1732928580
