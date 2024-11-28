@@ -310,6 +310,14 @@
             "epoch": 1733356980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
             "endEpoch": 1733360580
+        },
+        {
+            "id": "event45",
+            "name": "Nobody Asked [1x01]",
+            "epoch": 1732924980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1732928580
         }
     ]
 }
