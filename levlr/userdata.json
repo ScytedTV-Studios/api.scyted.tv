@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 360,
+    "xp": 380,
     "level": 11
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 210,
+    "xp": 240,
     "level": 11
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 399,
+    "xp": 449,
     "level": 10
   },
   {
@@ -104,6 +104,12 @@
   {
     "userId": "720723873997520936",
     "username": "Delta",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "235148962103951360",
+    "username": "Carl-bot",
     "xp": 10,
     "level": 1
   }
