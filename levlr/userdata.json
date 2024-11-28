@@ -2,13 +2,13 @@
   {
     "userId": "1199868591592439858",
     "username": "GitHub",
-    "xp": 270,
+    "xp": 290,
     "level": 11
   },
   {
     "userId": "1087985736533409862",
     "username": "GitHub",
-    "xp": 130,
+    "xp": 150,
     "level": 11
   },
   {
@@ -44,7 +44,7 @@
   {
     "userId": "1148906753161957446",
     "username": "GBC Supporter",
-    "xp": 199,
+    "xp": 249,
     "level": 10
   },
   {
@@ -80,6 +80,18 @@
   {
     "userId": "991091593316548650",
     "username": "roseburrito",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "515614459549581342",
+    "username": "noaho325",
+    "xp": 10,
+    "level": 1
+  },
+  {
+    "userId": "886365932916731944",
+    "username": "armed_goose",
     "xp": 10,
     "level": 1
   }
