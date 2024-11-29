@@ -69,8 +69,9 @@
         const statusElement = document.getElementById('status');
         const timerContainer = document.getElementById('timerContainer');
 
-        function updateTimer(epochTimestamp) {
+        function updateTimer(epochTimestamp, endEpochTimestamp) {
             const eventTime = epochTimestamp * 1000; // Convert to milliseconds
+            let timerRunning = true; // Control whether the timer is counting up after it hits zero
 
             function updateDisplay() {
                 const currentTime = Date.now();
@@ -82,18 +83,27 @@
                     const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
                     const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
                     timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
-                } else {
+                } else if (endEpochTimestamp && currentTime < endEpochTimestamp) {
                     statusElement.textContent = "Current Time:";
                     const elapsedTime = Math.abs(timeDifference);
                     const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
                     const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
                     const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
                     timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
+                } else {
+                    // Stop counting up if there is no "endEpoch"
+                    statusElement.textContent = "Event Ended:";
+                    timerElement.textContent = "00h 00m 00s";
+                    timerRunning = false; // Stop the interval
                 }
             }
 
             updateDisplay(); // Initial update
-            const interval = setInterval(updateDisplay, 1000); // Update every second
+            const interval = setInterval(() => {
+                if (!timerRunning) clearInterval(interval); // Stop the interval when timer ends
+                updateDisplay();
+            }, 1000);
+
             timerContainer.classList.add('show'); // Show container when timer starts
         }
 
@@ -105,7 +115,7 @@
 
                 if (event) {
                     eventNameElement.textContent = event.name;
-                    updateTimer(event.epoch);
+                    updateTimer(event.epoch, event.endEpoch);
                 } else {
                     eventNameElement.textContent = "Event not found.";
                     statusElement.textContent = "";
