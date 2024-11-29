@@ -227,14 +227,6 @@
         },
         {
             "id": "event26",
-            "name": "Very Important People: Last Looks [2x03]",
-            "epoch": 1733509800,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event27",
             "name": "Dirty Laundry: Cocktail Recipes [4x09]",
             "epoch": 1733855400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -242,7 +234,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event28",
+            "id": "event27",
             "name": "Dirty Laundry [4x10]",
             "epoch": 1734480000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -250,7 +242,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event29",
+            "id": "event28",
             "name": "Very Important People: Last Looks [2x04]",
             "epoch": 1734719400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -258,7 +250,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event30",
+            "id": "event29",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -266,7 +258,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event31",
+            "id": "event30",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -274,7 +266,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event32",
+            "id": "event31",
             "name": "Very Important People: Last Looks [2x06]",
             "epoch": 1737138600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -282,7 +274,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event33",
+            "id": "event32",
             "name": "Very Important People: Last Looks [2x07]",
             "epoch": 1738348200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -290,7 +282,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event34",
+            "id": "event33",
             "name": "Very Important People: Last Looks [2x08]",
             "epoch": 1739557800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -298,7 +290,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event35",
+            "id": "event34",
             "name": "Very Important People: Last Looks [2x09]",
             "epoch": 1740767400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -306,7 +298,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Very Important People: Last Looks [2x10]",
             "epoch": 1741973400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -314,7 +306,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Very Important People: Last Looks [2x11]",
             "epoch": 1743183000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -322,7 +314,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Very Important People: Last Looks [2x12]",
             "epoch": 1744392600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -330,7 +322,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Very Important People: Last Looks [2x13]",
             "epoch": 1745602200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -338,7 +330,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Very Important People: Last Looks [2x14]",
             "epoch": 1746811800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -346,7 +338,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event41",
+            "id": "event40",
             "name": "Very Important People: Last Looks [2x15]",
             "epoch": 1748021400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -354,7 +346,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event42",
+            "id": "event41",
             "name": "Very Important People: Last Looks [2x16]",
             "epoch": 1749231000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -362,7 +354,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event43",
+            "id": "event42",
             "name": "Adventuring Party [18x11]",
             "epoch": 1733423400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
@@ -370,7 +362,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event44",
+            "id": "event43",
             "name": "Dirty Laundry [4x09]",
             "epoch": 1733270400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -378,7 +370,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event45",
+            "id": "event44",
             "name": "Clever Remarks [1x03]",
             "epoch": 1737136800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
@@ -387,7 +379,7 @@
             "endEpoch": 1737140400
         },
         {
-            "id": "event46",
+            "id": "event45",
             "name": "Clever Remarks [1x02]",
             "epoch": 1734112800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
@@ -396,13 +388,21 @@
             "endEpoch": 1734116400
         },
         {
-            "id": "event47",
+            "id": "event46",
             "name": "Nobody Asked [1x01]",
             "epoch": 1732924980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1732928580
+        },
+        {
+            "id": "event47",
+            "name": "Very Important People: Last Looks [2x03]",
+            "epoch": 1733509800,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733510100
         }
     ]
 }
