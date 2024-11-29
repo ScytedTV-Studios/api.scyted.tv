@@ -181,12 +181,6 @@
             "epoch": 1732924980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "endEpoch": 1732928580
-        },
-        {
-            "id": "event27",
-            "name": "Adventuring Party [18x11]",
-            "epoch": 1733423400,
-            "endEpoch": 1733423700
         }
     ]
 }
