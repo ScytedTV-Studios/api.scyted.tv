@@ -372,31 +372,13 @@
         {
             "id": "event44",
             "name": "Dirty Laundry [4x09]",
-            "epoch": 1732911247,
+            "epoch": 1733270400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
             "id": "event45",
-            "name": "Nobody Asked [1x01]",
-            "epoch": 1732917420,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1732921040
-        },
-        {
-            "id": "event46",
-            "name": "🔒 Clever Remarks [1x03]",
-            "epoch": 1736557200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1736560800
-        },
-        {
-            "id": "event47",
             "name": "Clever Remarks [1x03]",
             "epoch": 1737136800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
@@ -405,16 +387,7 @@
             "endEpoch": 1737140400
         },
         {
-            "id": "event48",
-            "name": "🔒 Clever Remarks [1x02]",
-            "epoch": 1733533200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1733536800
-        },
-        {
-            "id": "event49",
+            "id": "event46",
             "name": "Clever Remarks [1x02]",
             "epoch": 1734112800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
@@ -423,58 +396,13 @@
             "endEpoch": 1734116400
         },
         {
-            "id": "event50",
-            "name": "🔒 Clever Remarks: Bonus Content #7 [1x01]",
-            "epoch": 1735866000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1735869600
-        },
-        {
-            "id": "event51",
-            "name": "🔒 Clever Remarks: Bonus Content #5 [1x01]",
-            "epoch": 1734656400,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1734660000
-        },
-        {
-            "id": "event52",
-            "name": "🔒 Clever Remarks: Bonus Content #6 [1x01]",
-            "epoch": 1735261200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1735264800
-        },
-        {
-            "id": "event53",
-            "name": "🔒 Clever Remarks: Bonus Content #3 [1x01]",
-            "epoch": 1733446800,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1733450400
-        },
-        {
-            "id": "event54",
-            "name": "🔒 Clever Remarks: Bonus Content #4 [1x01]",
-            "epoch": 1734051600,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1734055200
-        },
-        {
-            "id": "event55",
-            "name": "🔒 Clever Remarks: Bonus Content #2 [1x01]",
-            "epoch": 1732928400,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1732932000
+            "id": "event47",
+            "name": "Nobody Asked [1x01]",
+            "epoch": 1732924980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1732928580
         }
     ]
 }
