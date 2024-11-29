@@ -1,0 +1,318 @@
+{
+    "events": [
+        {
+            "id": "event1",
+            "name": "🔒 Clever Remarks: Bonus Content #3 [1x01]",
+            "epoch": 1733446800,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1733450400
+        },
+        {
+            "id": "event2",
+            "name": "🔒 Clever Remarks [1x02]",
+            "epoch": 1733533200,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1733536800
+        },
+        {
+            "id": "event3",
+            "name": "🔒 Clever Remarks: Bonus Content #4 [1x01]",
+            "epoch": 1734051600,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1734055200
+        },
+        {
+            "id": "event4",
+            "name": "Clever Remarks [1x02]",
+            "epoch": 1734112800,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1734116400
+        },
+        {
+            "id": "event5",
+            "name": "🔒 Clever Remarks: Bonus Content #5 [1x01]",
+            "epoch": 1734656400,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1734660000
+        },
+        {
+            "id": "event6",
+            "name": "🔒 Clever Remarks: Bonus Content #6 [1x01]",
+            "epoch": 1735261200,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1735264800
+        },
+        {
+            "id": "event7",
+            "name": "🔒 Clever Remarks: Bonus Content #7 [1x01]",
+            "epoch": 1735866000,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1735869600
+        },
+        {
+            "id": "event8",
+            "name": "🔒 Clever Remarks [1x03]",
+            "epoch": 1736557200,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1736560800
+        },
+        {
+            "id": "event9",
+            "name": "Clever Remarks [1x03]",
+            "epoch": 1737136800,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1737140400
+        },
+        {
+            "id": "event10",
+            "name": "Dimension 20 [23x11]",
+            "epoch": 1733356980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733360580
+        },
+        {
+            "id": "event11",
+            "name": "Very Important People [2x03]",
+            "epoch": 1733443380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733446980
+        },
+        {
+            "id": "event12",
+            "name": "Gastronauts [1x05]",
+            "epoch": 1733529780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733533380
+        },
+        {
+            "id": "event13",
+            "name": "Make Some Noise [3x13]",
+            "epoch": 1733788980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733792580
+        },
+        {
+            "id": "event14",
+            "name": "Very Important People [2x04]",
+            "epoch": 1734652980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1734656580
+        },
+        {
+            "id": "event15",
+            "name": "Gastronauts [1x06]",
+            "epoch": 1734739380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1734742980
+        },
+        {
+            "id": "event16",
+            "name": "Make Some Noise [3x14]",
+            "epoch": 1734998580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1735002180
+        },
+        {
+            "id": "event17",
+            "name": "Very Important People [2x05]",
+            "epoch": 1735862580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1735866180
+        },
+        {
+            "id": "event18",
+            "name": "Make Some Noise [3x15]",
+            "epoch": 1736208180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1736211780
+        },
+        {
+            "id": "event19",
+            "name": "Very Important People [2x06]",
+            "epoch": 1737072180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1737075780
+        },
+        {
+            "id": "event20",
+            "name": "Make Some Noise [3x16]",
+            "epoch": 1737417780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1737421380
+        },
+        {
+            "id": "event21",
+            "name": "Very Important People [2x07]",
+            "epoch": 1738281780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1738285380
+        },
+        {
+            "id": "event22",
+            "name": "Make Some Noise [3x17]",
+            "epoch": 1738627380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1738630980
+        },
+        {
+            "id": "event23",
+            "name": "Very Important People [2x08]",
+            "epoch": 1739491380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1739494980
+        },
+        {
+            "id": "event24",
+            "name": "Make Some Noise [3x18]",
+            "epoch": 1739836980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1739840580
+        },
+        {
+            "id": "event25",
+            "name": "Very Important People [2x09]",
+            "epoch": 1740700980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1740704580
+        },
+        {
+            "id": "event26",
+            "name": "Make Some Noise [3x19]",
+            "epoch": 1741046580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1741050180
+        },
+        {
+            "id": "event27",
+            "name": "Very Important People [2x10]",
+            "epoch": 1741906980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1741910580
+        },
+        {
+            "id": "event28",
+            "name": "Make Some Noise [3x20]",
+            "epoch": 1742252580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1742256180
+        },
+        {
+            "id": "event29",
+            "name": "Very Important People [2x11]",
+            "epoch": 1743116580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1743120180
+        },
+        {
+            "id": "event30",
+            "name": "Very Important People [2x12]",
+            "epoch": 1744326180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1744329780
+        },
+        {
+            "id": "event31",
+            "name": "Very Important People [2x13]",
+            "epoch": 1745535780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1745539380
+        },
+        {
+            "id": "event32",
+            "name": "Very Important People [2x14]",
+            "epoch": 1746745380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1746748980
+        },
+        {
+            "id": "event33",
+            "name": "Very Important People [2x15]",
+            "epoch": 1747954980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1747958580
+        },
+        {
+            "id": "event34",
+            "name": "Very Important People [2x16]",
+            "epoch": 1749164580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1749168180
+        },
+        {
+            "id": "event35",
+            "name": "Nobody Asked [1x01]",
+            "epoch": 1732924980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1732928580
+        },
+        {
+            "id": "event36",
+            "name": "Adventuring Party [18x11]",
+            "epoch": 1733423400,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733423700
+        }
+    ]
+}
