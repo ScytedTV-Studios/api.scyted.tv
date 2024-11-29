@@ -457,6 +457,14 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
+        },
+        {
+            "id": "event55",
+            "name": "🔒 Clever Remarks: Bonus Content #2 [1x01]",
+            "epoch": 1732928400,
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1732932000
         }
     ]
 }
