@@ -494,6 +494,14 @@
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1732841040
+        },
+        {
+            "id": "event57",
+            "name": "Make Some Noise [1x01]",
+            "epoch": 1732841400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
         }
     ]
 }
