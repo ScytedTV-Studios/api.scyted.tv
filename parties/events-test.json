@@ -451,20 +451,21 @@
         },
         {
             "id": "event54",
-            "name": "🔒 Clever Remarks: Bonus Content #2 [1x01]",
-            "epoch": 1732928400,
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1732932000
-        },
-        {
-            "id": "event55",
             "name": "Nobody Asked [1x01]",
             "epoch": 1733011380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733014980
+        },
+        {
+            "id": "event55",
+            "name": "🔒 Clever Remarks: Bonus Content #2 [1x01]",
+            "epoch": 1732928400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1732932000
         }
     ]
 }
