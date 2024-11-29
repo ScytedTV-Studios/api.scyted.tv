@@ -308,13 +308,6 @@
         },
         {
             "id": "event36",
-            "name": "Dirty Laundry [4x09]",
-            "epoch": 1733270400,
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event37",
             "name": "Very Important People: Last Looks [2x03]",
             "epoch": 1733509800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -322,7 +315,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Dirty Laundry: Cocktail Recipes [4x09]",
             "epoch": 1733855400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -330,7 +323,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Dirty Laundry [4x10]",
             "epoch": 1734480000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -338,7 +331,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Very Important People: Last Looks [2x04]",
             "epoch": 1734719400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -346,7 +339,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event41",
+            "id": "event40",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -354,7 +347,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event42",
+            "id": "event41",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -362,7 +355,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event43",
+            "id": "event42",
             "name": "Very Important People: Last Looks [2x06]",
             "epoch": 1737138600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -370,7 +363,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event44",
+            "id": "event43",
             "name": "Very Important People: Last Looks [2x07]",
             "epoch": 1738348200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -378,7 +371,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event45",
+            "id": "event44",
             "name": "Very Important People: Last Looks [2x08]",
             "epoch": 1739557800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -386,7 +379,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event46",
+            "id": "event45",
             "name": "Very Important People: Last Looks [2x09]",
             "epoch": 1740767400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -394,7 +387,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event47",
+            "id": "event46",
             "name": "Very Important People: Last Looks [2x10]",
             "epoch": 1741973400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -402,7 +395,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event48",
+            "id": "event47",
             "name": "Very Important People: Last Looks [2x11]",
             "epoch": 1743183000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -410,7 +403,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event49",
+            "id": "event48",
             "name": "Very Important People: Last Looks [2x12]",
             "epoch": 1744392600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -418,7 +411,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event50",
+            "id": "event49",
             "name": "Very Important People: Last Looks [2x13]",
             "epoch": 1745602200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -426,7 +419,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event51",
+            "id": "event50",
             "name": "Very Important People: Last Looks [2x14]",
             "epoch": 1746811800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -434,7 +427,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event52",
+            "id": "event51",
             "name": "Very Important People: Last Looks [2x15]",
             "epoch": 1748021400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -442,7 +435,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event53",
+            "id": "event52",
             "name": "Very Important People: Last Looks [2x16]",
             "epoch": 1749231000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -450,10 +443,18 @@
             "studio": "Dropout"
         },
         {
-            "id": "event54",
+            "id": "event53",
             "name": "Adventuring Party [18x11]",
             "epoch": 1733423400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
+        },
+        {
+            "id": "event54",
+            "name": "Dirty Laundry [4x09]",
+            "epoch": 1733270400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
         }
