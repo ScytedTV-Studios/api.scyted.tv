@@ -489,16 +489,16 @@
         {
             "id": "event56",
             "name": "Nobody Asked [1x01]",
-            "epoch": 1732845180,
+            "epoch": 1732845480,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1732845240
+            "endEpoch": 1732845500
         },
         {
             "id": "event57",
             "name": "Make Some Noise [1x01]",
-            "epoch": 1732841520,
+            "epoch": 1732845600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
@@ -506,7 +506,7 @@
         {
             "id": "event58",
             "name": "Game Changer [1x01]",
-            "epoch": 1732842000,
+            "epoch": 1732849200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/game-changer.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
