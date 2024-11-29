@@ -480,11 +480,11 @@
         {
             "id": "event55",
             "name": "Nobody Asked [1x01]",
-            "epoch": 1732842900,
+            "epoch": 1732843320,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1732846500
+            "endEpoch": 1732846920
         },
         {
             "id": "event56",
