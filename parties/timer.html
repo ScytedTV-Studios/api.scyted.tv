@@ -51,13 +51,10 @@
             border: 1px solid #ddd;
             display: inline-block;
         }
-        .timer-container {
-            background: #fff !important;
-        }
     </style>
 </head>
 <body>
-    <div class="container timer-container" id="timerContainer">
+    <div class="container" id="timerContainer">
         <div id="eventName">Loading...</div>
         <div id="status">Loading...</div>
         <div id="timer"></div>
@@ -69,9 +66,8 @@
         const statusElement = document.getElementById('status');
         const timerContainer = document.getElementById('timerContainer');
 
-        function updateTimer(epochTimestamp, endEpochTimestamp) {
+        function updateTimer(epochTimestamp) {
             const eventTime = epochTimestamp * 1000; // Convert to milliseconds
-            let timerRunning = true; // Control whether the timer is counting up after it hits zero
 
             function updateDisplay() {
                 const currentTime = Date.now();
@@ -84,27 +80,12 @@
                     const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
                     timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
                 } else {
-                    if (endEpochTimestamp) {
-                        const elapsedTime = Math.abs(timeDifference);
-                        const endTimeDifference = endEpochTimestamp * 1000 - currentTime;
-                        if (endTimeDifference > 0) {
-                            statusElement.textContent = "Current Time:";
-                            const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
-                            const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
-                            const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
-                            timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
-                        } else {
-                            // Freeze the timer once it reaches endEpoch
-                            statusElement.textContent = "Event Ended:";
-                            timerElement.textContent = "00h 00m 00s";
-                            clearInterval(interval); // Stop the interval when endEpoch is reached
-                        }
-                    } else {
-                        // Stop counting up if there is no "endEpoch"
-                        statusElement.textContent = "Event Ended:";
-                        timerElement.textContent = "00h 00m 00s";
-                        clearInterval(interval); // Stop the interval when no endEpoch
-                    }
+                    statusElement.textContent = "Current Time:";
+                    const elapsedTime = Math.abs(timeDifference);
+                    const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+                    const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
+                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
                 }
             }
 
@@ -121,7 +102,7 @@
 
                 if (event) {
                     eventNameElement.textContent = event.name;
-                    updateTimer(event.epoch, event.endEpoch); // Pass endEpoch as well
+                    updateTimer(event.epoch);
                 } else {
                     eventNameElement.textContent = "Event not found.";
                     statusElement.textContent = "";
