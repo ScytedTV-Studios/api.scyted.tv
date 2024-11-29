@@ -489,16 +489,15 @@
         {
             "id": "event56",
             "name": "Nobody Asked [1x01]",
-            "epoch": 1732845480,
+            "epoch": 1732849200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1732845500
+            "studio": "Dropout"
         },
         {
             "id": "event57",
             "name": "Make Some Noise [1x01]",
-            "epoch": 1732845600,
+            "epoch": 1732849200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
