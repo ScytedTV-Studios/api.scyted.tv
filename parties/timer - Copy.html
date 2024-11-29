@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Timer</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow: hidden; /* Prevent scrolling */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; /* Ensure it fits within the iframe */
+            background: transparent; /* No background color */
+        }
+        .container {
+            text-align: center;
+            width: 90%;
+            max-width: 400px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            box-sizing: border-box;
+            opacity: 0; /* Hide initially */
+            transition: opacity 0.3s ease-in-out;
+        }
+        .container.show {
+            opacity: 1; /* Show when the timer is active */
+        }
+        #eventName {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        #status {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        #timer {
+            font-size: 3rem;
+            font-weight: 700;
+            color: #000;
+            background: #f1f1f1;
+            border-radius: 8px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="timerContainer">
+        <div id="eventName">Loading...</div>
+        <div id="status">Loading...</div>
+        <div id="timer"></div>
+    </div>
+
+    <script>
+        const eventNameElement = document.getElementById('eventName');
+        const timerElement = document.getElementById('timer');
+        const statusElement = document.getElementById('status');
+        const timerContainer = document.getElementById('timerContainer');
+
+        function updateTimer(epochTimestamp) {
+            const eventTime = epochTimestamp * 1000; // Convert to milliseconds
+
+            function updateDisplay() {
+                const currentTime = Date.now();
+                const timeDifference = eventTime - currentTime;
+
+                if (timeDifference > 0) {
+                    statusElement.textContent = "Starts In:";
+                    const hours = Math.floor(timeDifference / (1000 * 60 * 60));
+                    const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
+                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
+                } else {
+                    statusElement.textContent = "Current Time:";
+                    const elapsedTime = Math.abs(timeDifference);
+                    const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+                    const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
+                    const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
+                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
+                }
+            }
+
+            updateDisplay(); // Initial update
+            const interval = setInterval(updateDisplay, 1000); // Update every second
+            timerContainer.classList.add('show'); // Show container when timer starts
+        }
+
+        async function fetchEventTime(eventId) {
+            try {
+                const response = await fetch(addCacheBuster('https://api.scyted.tv/parties/events.json'));
+                const data = await response.json();
+                const event = data.events.find(e => e.id === eventId);
+
+                if (event) {
+                    eventNameElement.textContent = event.name;
+                    updateTimer(event.epoch);
+                } else {
+                    eventNameElement.textContent = "Event not found.";
+                    statusElement.textContent = "";
+                    timerElement.textContent = "";
+                }
+            } catch (error) {
+                eventNameElement.textContent = "Error fetching event.";
+                statusElement.textContent = "";
+                timerElement.textContent = "";
+                console.error("Failed to fetch event time:", error);
+            }
+        }
+
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function addCacheBuster(url) {
+            const separator = url.includes('?') ? '&' : '?';
+            return `${url}${separator}cb=${new Date().getTime()}`;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const eventId = getQueryParam('id');
+            if (eventId) {
+                fetchEventTime(eventId);
+            } else {
+                eventNameElement.textContent = "No event ID provided.";
+                statusElement.textContent = "";
+                timerElement.textContent = "";
+            }
+        });
+    </script>
+</body>
+</html>
