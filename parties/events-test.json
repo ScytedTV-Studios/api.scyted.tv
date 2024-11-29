@@ -372,7 +372,7 @@
         {
             "id": "event44",
             "name": "Dirty Laundry [4x09]",
-            "epoch": 1733270400,
+            "epoch": 1732911247,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
@@ -384,7 +384,7 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1733014980
+            "endEpoch": 1732911247
         },
         {
             "id": "event46",
