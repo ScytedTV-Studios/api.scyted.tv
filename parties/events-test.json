@@ -305,6 +305,14 @@
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1732928580
+        },
+        {
+            "id": "event36",
+            "name": "Adventuring Party [18x11]",
+            "epoch": 1733423400,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733424300
         }
     ]
 }
