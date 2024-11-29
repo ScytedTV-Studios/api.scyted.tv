@@ -453,6 +453,7 @@
             "id": "event54",
             "name": "Adventuring Party [18x11]",
             "epoch": 1733423400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
         }
