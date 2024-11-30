@@ -328,17 +328,16 @@
         },
         {
             "id": "event39",
-            "name": "Clever Remarks [1x03]",
-            "epoch": 1737136800,
+            "name": "Clever Remarks [1x02]",
+            "epoch": 1734112800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1737140400
+            "studio": "ScytedTV Studios"
         },
         {
             "id": "event40",
-            "name": "Clever Remarks [1x02]",
-            "epoch": 1734112800,
+            "name": "Clever Remarks [1x03]",
+            "epoch": 1737136800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
             "studio": "ScytedTV Studios"
