@@ -183,11 +183,11 @@
         {
             "id": "event21",
             "name": "Very Important People [2x12]",
-            "epoch": 1744326180,
+            "epoch": 1732927200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1744329780
+            "endEpoch": 1732927220
         },
         {
             "id": "event22",
