@@ -394,13 +394,6 @@
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733510100
-        },
-        {
-            "id": "event47",
-            "name": "Test",
-            "epoch": 1732986000,
-            "color": "#8F63C9",
-            "studio": "Beacon"
         }
     ]
 }
