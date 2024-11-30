@@ -398,10 +398,9 @@
         {
             "id": "event47",
             "name": "Test",
-            "epoch": 1732863600,
+            "epoch": 1732986000,
             "color": "#8F63C9",
-            "studio": "Beacon",
-            "endEpoch": 1732950000
+            "studio": "Beacon"
         }
     ]
 }
