@@ -130,7 +130,7 @@
 
         async function fetchEventTime(eventId) {
             try {
-                const response = await fetch(addCacheBuster('https://api.scyted.tv/parties/events-test.json'));
+                const response = await fetch(addCacheBuster('https://api.scyted.tv/parties/events.json'));
                 const data = await response.json();
                 const event = data.events.find(e => e.id === eventId);
 
