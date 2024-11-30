@@ -5,16 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Event Timer</title>
     <style>
+        /* Same CSS as before */
         body {
             margin: 0;
             padding: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            overflow: hidden; /* Prevent scrolling */
+            overflow: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh; /* Ensure it fits within the iframe */
-            background: transparent; /* No background color */
+            height: 100vh;
+            background: transparent;
         }
         .container {
             text-align: center;
@@ -24,11 +25,11 @@
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
             padding: 20px;
             box-sizing: border-box;
-            opacity: 0; /* Hide initially */
+            opacity: 0;
             transition: opacity 0.3s ease-in-out;
         }
         .container.show {
-            opacity: 1; /* Show when the timer is active */
+            opacity: 1;
         }
         #eventName {
             font-size: 1.5rem;
@@ -42,7 +43,7 @@
             margin-bottom: 15px;
         }
         #timer {
-            font-size: 3rem;
+            font-size: 2rem;
             font-weight: 700;
             color: #000;
             background: #f1f1f1;
@@ -69,32 +70,62 @@
         const statusElement = document.getElementById('status');
         const timerContainer = document.getElementById('timerContainer');
 
-        function updateTimer(epochTimestamp) {
-            const eventTime = epochTimestamp * 1000; // Convert to milliseconds
+        function updateTimer(event, currentTime) {
+    const eventTime = event.epoch * 1000; // Event start time
+    const endTime = event.endEpoch ? event.endEpoch * 1000 : null; // Event end time
+    const studioName = event.studio;
 
-            function updateDisplay() {
-                const currentTime = Date.now();
-                const timeDifference = eventTime - currentTime;
+    function updateDisplay() {
+        const now = Date.now();
 
-                if (timeDifference > 0) {
-                    statusElement.textContent = "Starts In:";
-                    const hours = Math.floor(timeDifference / (1000 * 60 * 60));
-                    const minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
-                    const seconds = Math.floor((timeDifference % (1000 * 60)) / 1000);
-                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
-                } else {
-                    statusElement.textContent = "Current Time:";
-                    const elapsedTime = Math.abs(timeDifference);
-                    const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
-                    const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
-                    const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
-                    timerElement.textContent = `${hours}h ${minutes}m ${seconds}s`;
-                }
-            }
+        // Check if the event is more than 24 hours into the future
+        if (now < eventTime && eventTime - now >= 24 * 60 * 60 * 1000) {
+            const formattedDate = new Intl.DateTimeFormat('en-US', {
+                month: 'short',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+            }).format(eventTime);
+            statusElement.textContent = "Releases On:";
+            timerElement.textContent = formattedDate;
+        } 
+        // Check if the event is less than 24 hours away
+        else if (now < eventTime) {
+            const timeDifference = eventTime - now;
+            statusElement.textContent = event.endEpoch ? "Starts In:" : "Releases In:";
+            timerElement.textContent = formatCountdown(timeDifference);
+        } 
+        // Check if the event has started and is in the count-up phase
+        else if (endTime && now >= eventTime && now < endTime) {
+            const timeElapsed = now - eventTime;
+            statusElement.textContent = "Current Timestamp:";
+            timerElement.textContent = formatCountdown(timeElapsed); // Count up from the start time
+        } 
+        // Check if the event end time has been reached
+        else if (endTime && now >= endTime) {
+            statusElement.textContent = "Available On:";
+            timerElement.textContent = studioName;
+            clearInterval(interval); // Stop updating
+        } 
+        // Default behavior for when the event is over or end time is undefined
+        else {
+            statusElement.textContent = "Available On:";
+            timerElement.textContent = studioName;
+            clearInterval(interval); // Stop updating
+        }
+    }
 
-            updateDisplay(); // Initial update
-            const interval = setInterval(updateDisplay, 1000); // Update every second
-            timerContainer.classList.add('show'); // Show container when timer starts
+    updateDisplay(); // Initial display update
+    const interval = setInterval(updateDisplay, 1000); // Update every second
+    timerContainer.classList.add('show');
+}
+
+
+        function formatCountdown(milliseconds) {
+            const hours = Math.floor(milliseconds / (1000 * 60 * 60));
+            const minutes = Math.floor((milliseconds % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((milliseconds % (1000 * 60)) / 1000);
+            return `${hours}h ${minutes}m ${seconds}s`;
         }
 
         async function fetchEventTime(eventId) {
@@ -105,7 +136,7 @@
 
                 if (event) {
                     eventNameElement.textContent = event.name;
-                    updateTimer(event.epoch);
+                    updateTimer(event, Date.now());
                 } else {
                     eventNameElement.textContent = "Event not found.";
                     statusElement.textContent = "";
