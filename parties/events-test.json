@@ -328,39 +328,36 @@
         },
         {
             "id": "event39",
+            "name": "Clever Remarks [1x03]",
+            "epoch": 1737136800,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1737140400
+        },
+        {
+            "id": "event40",
             "name": "🔒 Clever Remarks: Bonus Content #3 [1x01]",
             "epoch": 1733446800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1733450400
-        },
-        {
-            "id": "event40",
-            "name": "🔒 Clever Remarks: Bonus Content #5 [1x01]",
-            "epoch": 1734656400,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1734660000
+            "studio": "ScytedTV Studios"
         },
         {
             "id": "event41",
+            "name": "🔒 Clever Remarks [1x02]",
+            "epoch": 1733533200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios"
+        },
+        {
+            "id": "event42",
             "name": "🔒 Clever Remarks: Bonus Content #4 [1x01]",
             "epoch": 1734051600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1734055200
-        },
-        {
-            "id": "event42",
-            "name": "🔒 Clever Remarks: Bonus Content #7 [1x01]",
-            "epoch": 1735866000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1735869600
+            "studio": "ScytedTV Studios"
         },
         {
             "id": "event43",
@@ -369,43 +366,39 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
             "studio": "ScytedTV Studios",
-            "endEpoch": 1734116400
+            "endEpoch": 1734138000
         },
         {
             "id": "event44",
+            "name": "🔒 Clever Remarks: Bonus Content #5 [1x01]",
+            "epoch": 1734656400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios"
+        },
+        {
+            "id": "event45",
             "name": "🔒 Clever Remarks: Bonus Content #6 [1x01]",
             "epoch": 1735261200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1735264800
+            "studio": "ScytedTV Studios"
         },
         {
-            "id": "event45",
+            "id": "event46",
+            "name": "🔒 Clever Remarks: Bonus Content #7 [1x01]",
+            "epoch": 1735866000,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios"
+        },
+        {
+            "id": "event47",
             "name": "🔒 Clever Remarks [1x03]",
             "epoch": 1736557200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1736560800
-        },
-        {
-            "id": "event46",
-            "name": "🔒 Clever Remarks [1x02]",
-            "epoch": 1733533200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1733536800
-        },
-        {
-            "id": "event47",
-            "name": "Clever Remarks [1x03]",
-            "epoch": 1737136800,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
-            "color": "#FFEA00",
-            "studio": "ScytedTV Studios",
-            "endEpoch": 1737140400
+            "studio": "ScytedTV Studios"
         }
     ]
 }
