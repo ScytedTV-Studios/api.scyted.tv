@@ -416,6 +416,24 @@
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1744329780
+        },
+        {
+            "id": "event52",
+            "name": "Clever Remarks [1x02]",
+            "epoch": 1734112800,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1734116400
+        },
+        {
+            "id": "event53",
+            "name": "Clever Remarks [1x03]",
+            "epoch": 1737136800,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
+            "color": "#FFEA00",
+            "studio": "ScytedTV Studios",
+            "endEpoch": 1737140400
         }
     ]
 }
