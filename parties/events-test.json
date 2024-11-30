@@ -348,7 +348,7 @@
         {
             "id": "event41",
             "name": "Very Important People: Last Looks [2x16]",
-            "epoch": 1732928280,
+            "epoch": 1732928400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
@@ -390,11 +390,11 @@
         {
             "id": "event46",
             "name": "Nobody Asked [1x01]",
-            "epoch": 1732928300,
+            "epoch": 1732924980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1732928320
+            "endEpoch": 1732928580
         },
         {
             "id": "event47",
