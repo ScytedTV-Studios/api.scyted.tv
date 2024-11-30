@@ -177,13 +177,6 @@
         },
         {
             "id": "event26",
-            "name": "Nobody Asked [1x01]",
-            "epoch": 1732924980,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
-            "endEpoch": 1732928580
-        },
-        {
-            "id": "event27",
             "name": "Very Important People: Last Looks [2x03]",
             "epoch": 1733509800,
             "endEpoch": 1733510100
