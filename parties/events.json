@@ -1,3 +1,13 @@
 {
-    "events": []
+    "events": [
+        {
+            "id": "event1",
+            "name": "Very Important People [2x04]",
+            "epoch": 1734652980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1734656580
+        }
+    ]
 }
