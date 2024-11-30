@@ -228,7 +228,7 @@
         {
             "id": "event26",
             "name": "Dirty Laundry: Cocktail Recipes [4x09]",
-            "epoch": 1732924320,
+            "epoch": 1733855400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout"
@@ -390,11 +390,11 @@
         {
             "id": "event46",
             "name": "Nobody Asked [1x01]",
-            "epoch": 1733101120,
+            "epoch": 1732924980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
-            "endEpoch": 1733101180
+            "endEpoch": 1732928580
         },
         {
             "id": "event47",
