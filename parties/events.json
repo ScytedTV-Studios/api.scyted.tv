@@ -391,42 +391,27 @@
         },
         {
             "id": "event47",
-            "name": "Critical Role Abridged [3x55]",
-            "epoch": 1733248800,
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event48",
             "name": "UNEND [1x10]",
             "epoch": 1733317200,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event49",
+            "id": "event48",
             "name": "Critical Role: Bells Hells [3x116]",
             "epoch": 1733454000,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event50",
+            "id": "event49",
             "name": "Backstage Pass to our Daggerheart Critmas Show!",
             "epoch": 1733594400,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event51",
-            "name": "Critical Cooldown [3x116]",
-            "epoch": 1733454000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-cooldown.jpg",
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event52",
+            "id": "event50",
             "name": "Critical Cooldown [3x116]",
             "epoch": 1733454000,
             "color": "#FEEA3B",
@@ -434,14 +419,7 @@
             "endEpoch": 1733454300
         },
         {
-            "id": "event53",
-            "name": "Everything Is Content [1x27]",
-            "epoch": 1733281200,
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event54",
+            "id": "event51",
             "name": "Everything Is Content [1x27]",
             "epoch": 1733281200,
             "color": "#FEEA3B",
@@ -449,19 +427,52 @@
             "endEpoch": 1733281500
         },
         {
-            "id": "event55",
-            "name": "Tales From The Stinky Dragon [1x05]",
-            "epoch": 1733169600,
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event56",
+            "id": "event52",
             "name": "Tales From The Stinky Dragon [1x05]",
             "epoch": 1733169600,
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733169900
+        },
+        {
+            "id": "event53",
+            "name": "Critical Cooldown [3x116]",
+            "epoch": 1733454000,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-cooldown.jpg",
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event54",
+            "name": "Tales From The Stinky Dragon [1x05]",
+            "epoch": 1733169600,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/tales-from-the-stinky-dragon.jpg",
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event55",
+            "name": "Critical Role Abridged [3x55]",
+            "epoch": 1733248800,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-role-abridged.jpg",
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event56",
+            "name": "Critical Role Abridged [3x55]",
+            "epoch": 1733248800,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733249100
+        },
+        {
+            "id": "event57",
+            "name": "Everything Is Content [1x27]",
+            "epoch": 1733281200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/everything-is-content.jpg",
+            "color": "#8F63C9",
+            "studio": "Beacon"
         }
     ]
 }
