@@ -369,14 +369,6 @@
         },
         {
             "id": "event44",
-            "name": "Adventuring Party [18x11]",
-            "epoch": 1733423400,
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733423700
-        },
-        {
-            "id": "event45",
             "name": "Very Important People [2x03]",
             "epoch": 1733443380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -385,21 +377,29 @@
             "endEpoch": 1733446980
         },
         {
-            "id": "event46",
-            "name": "Very Important People: Last Looks [2x03]",
-            "epoch": 1733509800,
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733510100
-        },
-        {
-            "id": "event47",
+            "id": "event45",
             "name": "Gastronauts [1x05]",
             "epoch": 1733529780,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733533380
+        },
+        {
+            "id": "event46",
+            "name": "Adventuring Party [18x11]",
+            "epoch": 1733423400,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733423700
+        },
+        {
+            "id": "event47",
+            "name": "Very Important People: Last Looks [2x03]",
+            "epoch": 1733509800,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733510100
         }
     ]
 }
