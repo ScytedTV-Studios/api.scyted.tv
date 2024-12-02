@@ -344,14 +344,6 @@
         },
         {
             "id": "event41",
-            "name": "Dropout Presents BTS [1x07]",
-            "epoch": 1733164200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dropout-presents.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event42",
             "name": "Dirty Laundry [4x09]",
             "epoch": 1733270400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -359,7 +351,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event43",
+            "id": "event42",
             "name": "Dimension 20 [23x11]",
             "epoch": 1733356980,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
@@ -368,7 +360,7 @@
             "endEpoch": 1733360580
         },
         {
-            "id": "event44",
+            "id": "event43",
             "name": "Very Important People [2x03]",
             "epoch": 1733443380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -377,7 +369,7 @@
             "endEpoch": 1733446980
         },
         {
-            "id": "event45",
+            "id": "event44",
             "name": "Gastronauts [1x05]",
             "epoch": 1733529780,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
@@ -386,16 +378,65 @@
             "endEpoch": 1733533380
         },
         {
-            "id": "event46",
+            "id": "event45",
             "name": "Adventuring Party [18x11]",
             "epoch": 1733423400,
             "endEpoch": 1733423700
         },
         {
-            "id": "event47",
+            "id": "event46",
             "name": "Very Important People: Last Looks [2x03]",
             "epoch": 1733509800,
             "endEpoch": 1733510100
+        },
+        {
+            "id": "event47",
+            "name": "Tales From The Stinky Dragon, Second Wind, Campaign 3: Kanon [1x05]",
+            "epoch": 1733169600,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event48",
+            "name": "Critical Role Abridged [3x55]",
+            "epoch": 1733248800,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event49",
+            "name": "Magic: The Gathering Cards – Commander",
+            "epoch": 1733281200,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event50",
+            "name": "UNEND [1x10]",
+            "epoch": 1733317200,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event51",
+            "name": "Critical Role: Bells Hells [3x116]",
+            "epoch": 1733454000,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event52",
+            "name": "Critical Cooldown [3x116]",
+            "epoch": 1733454000,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event53",
+            "name": "Backstage Pass to our Daggerheart Critmas Show!",
+            "epoch": 1733594400,
+            "color": "#8F63C9",
+            "studio": "Beacon"
         }
     ]
 }
