@@ -341,6 +341,71 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
             "studio": "ScytedTV Studios"
+        },
+        {
+            "id": "event41",
+            "name": "Dimension 20 [23x11]",
+            "epoch": 1733356980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733360580
+        },
+        {
+            "id": "event42",
+            "name": "Very Important People [2x03]",
+            "epoch": 1733443380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733446980
+        },
+        {
+            "id": "event43",
+            "name": "Gastronauts [1x05]",
+            "epoch": 1733529780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733533380
+        },
+        {
+            "id": "event44",
+            "name": "Very Important People: Last Looks [2x03]",
+            "epoch": 1733509800,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733510100
+        },
+        {
+            "id": "event45",
+            "name": "Dropout Presents BTS [1x07]",
+            "epoch": 1733164200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dropout-presents.jpg\"",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png\"",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733164500
+        },
+        {
+            "id": "event46",
+            "name": "Dirty Laundry [4x09]",
+            "epoch": 1733270400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg\"",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png\"",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733270700
+        },
+        {
+            "id": "event47",
+            "name": "Adventuring Party [18x11]",
+            "epoch": 1733423400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg\"",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png\"",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733423700
         }
     ]
 }
