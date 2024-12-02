@@ -391,36 +391,37 @@
         },
         {
             "id": "event47",
-            "name": "Tales From The Stinky Dragon, Second Wind, Campaign 3: Kanon [1x05]",
-            "epoch": 1733169600,
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event48",
             "name": "Critical Role Abridged [3x55]",
             "epoch": 1733248800,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event49",
-            "name": "Magic: The Gathering Cards – Commander",
-            "epoch": 1733281200,
-            "color": "#8F63C9",
-            "studio": "Beacon"
-        },
-        {
-            "id": "event50",
+            "id": "event48",
             "name": "UNEND [1x10]",
             "epoch": 1733317200,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event51",
+            "id": "event49",
             "name": "Critical Role: Bells Hells [3x116]",
             "epoch": 1733454000,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event50",
+            "name": "Backstage Pass to our Daggerheart Critmas Show!",
+            "epoch": 1733594400,
+            "color": "#8F63C9",
+            "studio": "Beacon"
+        },
+        {
+            "id": "event51",
+            "name": "Critical Cooldown [3x116]",
+            "epoch": 1733454000,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-cooldown.jpg",
             "color": "#8F63C9",
             "studio": "Beacon"
         },
@@ -428,15 +429,39 @@
             "id": "event52",
             "name": "Critical Cooldown [3x116]",
             "epoch": 1733454000,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733454300
+        },
+        {
+            "id": "event53",
+            "name": "Everything Is Content [1x27]",
+            "epoch": 1733281200,
             "color": "#8F63C9",
             "studio": "Beacon"
         },
         {
-            "id": "event53",
-            "name": "Backstage Pass to our Daggerheart Critmas Show!",
-            "epoch": 1733594400,
+            "id": "event54",
+            "name": "Everything Is Content [1x27]",
+            "epoch": 1733281200,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733281500
+        },
+        {
+            "id": "event55",
+            "name": "Tales From The Stinky Dragon [1x05]",
+            "epoch": 1733169600,
             "color": "#8F63C9",
             "studio": "Beacon"
+        },
+        {
+            "id": "event56",
+            "name": "Tales From The Stinky Dragon [1x05]",
+            "epoch": 1733169600,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733169900
         }
     ]
 }
