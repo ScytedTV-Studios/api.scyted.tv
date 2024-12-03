@@ -439,6 +439,46 @@
             "color": "#8F63C9",
             "studio": "Beacon",
             "endEpoch": 1733457600
+        },
+        {
+            "id": "event52",
+            "name": "Critical Role Abridged [3x55]",
+            "epoch": 1733248800,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733252400
+        },
+        {
+            "id": "event53",
+            "name": "Everything Is Content [1x27]",
+            "epoch": 1733281200,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733284800
+        },
+        {
+            "id": "event54",
+            "name": "UNEND [1x10]",
+            "epoch": 1733317200,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733320800
+        },
+        {
+            "id": "event55",
+            "name": "Critical Role: Bells Hells [3x116]",
+            "epoch": 1733454000,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733457600
+        },
+        {
+            "id": "event56",
+            "name": "Critical Cooldown [3x116]",
+            "epoch": 1733454000,
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1733457600
         }
     ]
 }
