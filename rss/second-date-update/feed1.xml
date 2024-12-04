@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Personal Listen]]></title>
+        <description><![CDATA[A personal podcast feed for Second Date Update episodes.]]></description>
+        <link>https://www.youtube.com/playlist?list=PLKMH9IkVljS73TegxFya_cM4xmjlLOls2</link>
+        <image>
+            <url>https://cdn.scyted.tv/assets/scytedtv/logos/scytedtv.jpg</url>
+            <title>Personal Listen</title>
+            <link>https://www.youtube.com/playlist?list=PLKMH9IkVljS73TegxFya_cM4xmjlLOls2</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 04 Dec 2024 05:48:11 GMT</lastBuildDate>
+        <atom:link href="https://api.scyted.tv/rss/second-date-update/audio/feed.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Personal Listen]]></author>
+        <pubDate>Wed, 04 Dec 2024 05:48:11 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <managingEditor><![CDATA[podcasts@scyted.tv (Personal Listen)]]></managingEditor>
+        <webMaster><![CDATA[podcasts@scyted.tv (Personal Listen)]]></webMaster>
+        <item>
+            <title><![CDATA[Eating Sticks ｜ Week 01 (Screener)]]></title>
+            <description><![CDATA[Eating Sticks ｜ Week 01 (Screener)]]></description>
+            <link>https://api.scyted.tv/rss/second-date-update/audio/Eating%20Sticks%20%EF%BD%9C%20Week%2001%20(Screener).mp3</link>
+            <guid isPermaLink="true">https://api.scyted.tv/rss/second-date-update/audio/Eating%20Sticks%20%EF%BD%9C%20Week%2001%20(Screener).mp3</guid>
+            <dc:creator><![CDATA[Personal Listen]]></dc:creator>
+            <pubDate>Wed, 04 Dec 2024 05:48:11 GMT</pubDate>
+            <enclosure url="https://api.scyted.tv/rss/second-date-update/audio/Eating%20Sticks%20%EF%BD%9C%20Week%2001%20(Screener).mp3" length="0" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[feed]]></title>
+            <description><![CDATA[feed]]></description>
+            <link>https://api.scyted.tv/rss/second-date-update/audio/feed.xml</link>
+            <guid isPermaLink="true">https://api.scyted.tv/rss/second-date-update/audio/feed.xml</guid>
+            <dc:creator><![CDATA[Personal Listen]]></dc:creator>
+            <pubDate>Wed, 04 Dec 2024 05:48:11 GMT</pubDate>
+            <enclosure url="https://api.scyted.tv/rss/second-date-update/audio/feed.xml" length="0" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Braincell Left ｜ Week 02 (Screener)]]></title>
+            <description><![CDATA[One Braincell Left ｜ Week 02 (Screener)]]></description>
+            <link>https://api.scyted.tv/rss/second-date-update/audio/One%20Braincell%20Left%20%EF%BD%9C%20Week%2002%20(Screener).mp3</link>
+            <guid isPermaLink="true">https://api.scyted.tv/rss/second-date-update/audio/One%20Braincell%20Left%20%EF%BD%9C%20Week%2002%20(Screener).mp3</guid>
+            <dc:creator><![CDATA[Personal Listen]]></dc:creator>
+            <pubDate>Wed, 04 Dec 2024 05:48:11 GMT</pubDate>
+            <enclosure url="https://api.scyted.tv/rss/second-date-update/audio/One%20Braincell%20Left%20%EF%BD%9C%20Week%2002%20(Screener).mp3" length="0" type="audio/mpeg"/>
+        </item>
+    </channel>
+</rss>

@@ -26,12 +26,16 @@ try {
 // Generate the RSS feed
 console.log("Generating RSS feed...");
 const feed = new RSS({
-    title: "Second Date Update Podcast",
-    description: "Audio from the Second Date Update podcast on YouTube.",
+    title: "Personal Listen",
+    description: "A personal podcast feed for Second Date Update episodes.",
     feed_url: `${baseUrl}/feed.xml`,
     site_url: playlistUrl,
     language: "en",
     pubDate: new Date(),
+    image_url: "https://cdn.scyted.tv/assets/scytedtv/logos/scytedtv.jpg",
+    author: "Personal Listen",
+    managingEditor: "podcasts@scyted.tv (Personal Listen)",
+    webMaster: "podcasts@scyted.tv (Personal Listen)",
 });
 
 const files = fs.readdirSync(audioDir);
@@ -44,6 +48,8 @@ files.forEach((file) => {
         title: cleanedTitle,
         description: cleanedTitle,
         url: fileUrl,
+        enclosure: { url: fileUrl, type: "audio/mpeg" },
+        author: "Personal Listen",
         date: new Date(), // Replace with video publish date if available
     });
 });
