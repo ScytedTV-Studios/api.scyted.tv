@@ -371,15 +371,6 @@
         },
         {
             "id": "event44",
-            "name": "Everything Is Content [1x27]",
-            "epoch": 1733281200,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/everything-is-content.jpg",
-            "color": "#8F63C9",
-            "studio": "Beacon",
-            "endEpoch": 1733284800
-        },
-        {
-            "id": "event45",
             "name": "UNEND [1x10]",
             "epoch": 1733317200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/unend.jpg",
@@ -388,7 +379,7 @@
             "endEpoch": 1733320800
         },
         {
-            "id": "event46",
+            "id": "event45",
             "name": "Critical Cooldown [3x116]",
             "epoch": 1733454000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-cooldown.jpg",
@@ -397,7 +388,7 @@
             "endEpoch": 1733457600
         },
         {
-            "id": "event47",
+            "id": "event46",
             "name": "Adventuring Party [18x11]",
             "epoch": 1733423400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
@@ -406,7 +397,7 @@
             "endEpoch": 1733427000
         },
         {
-            "id": "event48",
+            "id": "event47",
             "name": "Very Important People: Last Looks [2x03]",
             "epoch": 1733509800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -415,7 +406,7 @@
             "endEpoch": 1733513400
         },
         {
-            "id": "event49",
+            "id": "event48",
             "name": "Critical Role: Bells Hells [3x116]",
             "epoch": 1733454000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-role.jpg",
