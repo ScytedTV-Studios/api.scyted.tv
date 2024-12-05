@@ -395,15 +395,6 @@
             "color": "#8F63C9",
             "studio": "Beacon",
             "endEpoch": 1733457600
-        },
-        {
-            "id": "event47",
-            "name": "Dimension 20 [23x11]",
-            "epoch": 1733356980,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733368680
         }
     ]
 }
