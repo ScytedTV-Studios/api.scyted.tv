@@ -353,30 +353,12 @@
         },
         {
             "id": "event42",
-            "name": "Critical Cooldown [3x116]",
-            "epoch": 1733454000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-cooldown.jpg",
-            "color": "#8F63C9",
-            "studio": "Beacon",
-            "endEpoch": 1733457600
-        },
-        {
-            "id": "event43",
             "name": "Very Important People: Last Looks [2x03]",
             "epoch": 1733509800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733513400
-        },
-        {
-            "id": "event44",
-            "name": "Critical Role: Bells Hells [3x116]",
-            "epoch": 1733454000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/critical-role.jpg",
-            "color": "#8F63C9",
-            "studio": "Beacon",
-            "endEpoch": 1733457600
         }
     ]
 }
