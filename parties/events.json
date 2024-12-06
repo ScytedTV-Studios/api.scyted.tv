@@ -357,8 +357,7 @@
             "epoch": 1733509800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
             "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733513400
+            "studio": "Dropout"
         }
     ]
 }
