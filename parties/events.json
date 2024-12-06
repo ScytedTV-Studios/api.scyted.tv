@@ -350,14 +350,6 @@
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1733533380
-        },
-        {
-            "id": "event42",
-            "name": "Very Important People: Last Looks [2x03]",
-            "epoch": 1733509800,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
         }
     ]
 }
