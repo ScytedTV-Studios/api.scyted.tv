@@ -341,15 +341,6 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/clever-remarks.jpg",
             "color": "#FFEA00",
             "studio": "ScytedTV Studios"
-        },
-        {
-            "id": "event41",
-            "name": "Gastronauts [1x05]",
-            "epoch": 1733529780,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733533380
         }
     ]
 }
