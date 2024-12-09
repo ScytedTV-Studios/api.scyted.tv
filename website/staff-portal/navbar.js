@@ -226,7 +226,13 @@ function getCookie(name) {
         return true;
     }
     
-    function toggleUserDropdown() {
-        const userDropdown = document.getElementById('userDropdown');
-        userDropdown.classList.toggle('show');
+    // function toggleUserDropdown() {
+    //     const userDropdown = document.getElementById('userDropdown');
+    //     userDropdown.classList.toggle('show');
+    // }
+
+    function redirectToUserPage() {
+        const baseURL = window.location.origin; // Extract base URL
+        const AuthUrl = `${baseURL}/oauth/discord/?callbackUrl=${encodeURIComponent(currentURL)}`;
+        window.location.href = AuthUrl;
     }
