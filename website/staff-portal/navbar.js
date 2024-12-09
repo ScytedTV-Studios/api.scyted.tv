@@ -141,7 +141,7 @@ function getCookie(name) {
     function displayLoginButton() {
         var fullpageDiv = document.getElementById("login-container");
         fullpageDiv.innerHTML = `
-        <button onclick="redirectToDiscord()" class="discord-button">Login</button>
+        <button onclick="redirectToDiscord()" class="discord-button navbar-item">Login</button>
         `;
     }
     
