@@ -1,11 +1,84 @@
 <body>
-    {% include navbar.html %}
+    <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation" id="navbar">
+        <div class="container">
+    
+            <div class="navbar-brand">
+                <a class="navbar-item"
+                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
+                    <img src="https://cdn.scyted.tv/assets/scytedtv/logos/scytedtv-logo.png" alt="ScytedTV Studios">
+                </a>
+                <div class="navbar-burger" data-target="navbar-menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+    
+    
+            <div class="navbar-menu has-background-black" id="navbar-menu">
+                <div class="navbar-end">
+                    <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
+                        href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">Home</a>
+                    <!-- <a class="navbar-item {% if page.type == 'resources' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/resources">Resources</a> -->
+                    <!-- <a class="navbar-item {% if page.type == 'discussion' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/discussions">DISCUSSIONS [beta]</a> -->
+                    <a class="navbar-item {% if page.type == 'team' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/team">Team</a>
+                    
+                    <a class="navbar-item {% if page.type == 'schedule' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/schedule">Schedule</a>
+                    <!-- <a class="navbar-item {% if page.type == 'blog' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/news">News</a> -->
+    
+                    {% include channels-dropdown.html %}
+    
+                    <style>
+                        .highlight {
+                            background-color: #837e49;
+                            color: #000
+                        }
+                    </style>
+    
+                    <a class="navbar-item highlight {% if page.show == 'tindalos' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/show/tindalos">Tindalos</a>
+    
+                    <!-- <a class="navbar-item highlight {% if page.type == 'blog' %}is-active{% endif %}"
+                        href="https://news.scyted.tv/" target="_blank">News</a> -->
+    
+                    <!-- <a class="navbar-item highlight {% if page.type == 'auditions' %}is-active{% endif %}"
+                        href="{{site.url}}{{site.baseurl}}/auditions">Auditions</a> -->
+    
+                </div>
+            </div>
+        </div>
+    </nav>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            /* Get all "navbar-burger" elements */
+            var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            /* Check if there are any navbar burgers */
+            if ($navbarBurgers.length > 0) {
+                /* Add a click event on each of them */
+                $navbarBurgers.forEach(function ($el) {
+                    $el.addEventListener('click', function () {
+                        /* Get the target from the "data-target" attribute */
+                        var target = $el.dataset.target;
+                        var $target = document.getElementById(target);
+                        /* Toggle the class on both the "navbar-burger" and the "navbar-menu" */
+                        $el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
     <section class="hero is-fullheight">
         <div class="hero-body">
             <div class="container has-text-centered" id="page-section">
                 <div class="section">
                     <h1 class="title is-1 is-uppercase has-text-weight-bold">
-                        {{page.title}}
+                        User Page
                     </h1>
                     <hr class="has-background-black">
                     <div class="content is-marginless">
