@@ -45,14 +45,14 @@ document.addEventListener('DOMContentLoaded', function() {
         return null;
     }
 
-    // Function to check if the user has any roles
-    async function checkUserRoles(accessToken) {
-        const userId = await getUserID(accessToken);
-        if (!userId) return false;
+    // // Function to check if the user has any roles
+    // async function checkUserRoles(accessToken) {
+    //     const userId = await getUserID(accessToken);
+    //     if (!userId) return false;
 
-        const userInfo = await fetchJSON('https://api.scyted.tv/website/staff-portal/user-info.json');
-        return userInfo && userInfo[userId] && userInfo[userId].length > 0;
-    }
+    //     const userInfo = await fetchJSON('https://api.scyted.tv/website/staff-portal/user-info.json');
+    //     return userInfo && userInfo[userId] && userInfo[userId].length > 0;
+    // }
 
     // Check if the accessToken cookie is present
     const accessToken = getCookie('accessToken');
