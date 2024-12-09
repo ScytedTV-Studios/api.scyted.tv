@@ -233,6 +233,6 @@ function getCookie(name) {
 
     function redirectToUserPage() {
         const baseURL = window.location.origin; // Extract base URL
-        const AuthUrl = `${baseURL}/oauth/discord/?callbackUrl=${encodeURIComponent(currentURL)}`;
-        window.location.href = AuthUrl;
+        const redirectUrl = `${baseURL}/u/`;
+        window.location.href = redirectUrl;
     }
