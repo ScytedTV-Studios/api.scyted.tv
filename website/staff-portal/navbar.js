@@ -233,6 +233,6 @@ function getCookie(name) {
 
     function redirectToUserPage() {
         const baseURL = window.location.origin; // Extract base URL
-        const redirectUrl = `${baseURL}/u/`;
+        const redirectUrl = `${baseURL}/dashboard/`;
         window.location.href = redirectUrl;
     }
