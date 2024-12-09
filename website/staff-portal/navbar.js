@@ -201,7 +201,7 @@ function getCookie(name) {
         color: #ff5252;
     }
     </style>
-    <div class="user-info navbar-item" onclick="toggleUserDropdown()">
+    <div class="user-info navbar-item" onclick="redirectToUserPage()">
     <img src="https://cdn.scyted.tv/website-assets/wave-development/default-discord.png"
         alt="Profile Picture" class="profile-picture">
     <span>Loading...</span>
