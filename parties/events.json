@@ -345,8 +345,7 @@
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733942100
+            "studio": "Dropout"
         }
     ]
 }
