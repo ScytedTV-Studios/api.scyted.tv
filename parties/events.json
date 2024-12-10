@@ -323,27 +323,26 @@
         },
         {
             "id": "event42",
-            "name": "Dirty Laundry: Cocktail Recipes [4x09]",
-            "epoch": 1733855400,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1733855700
-        },
-        {
-            "id": "event43",
             "name": "Dimension 20: Time Quangle [1x03]",
             "epoch": 1734028200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event44",
+            "id": "event43",
             "name": "Dimension 20: Time Quangle [1x04]",
             "epoch": 1734633000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
+        },
+        {
+            "id": "event44",
+            "name": "Dirty Laundry: Cocktail Recipes [4x09]",
+            "epoch": 1733855400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
         }
     ]
 }
