@@ -340,6 +340,28 @@
             "name": "Dimension 20 [23xBTS]",
             "epoch": 1733941800,
             "endEpoch": 1733942100
+        },
+        {
+            "id": "event44",
+            "name": "Dimension 20: Time Quangle [1x03]",
+            "epoch": 1734028200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
+        },
+        {
+            "id": "event45",
+            "name": "Dimension 20: Time Quangle [1x04]",
+            "epoch": 1734633000,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
+        },
+        {
+            "id": "event46",
+            "name": "Dimension 20: Time Quangle [1x03]",
+            "epoch": 1734028200,
+            "endEpoch": 1734028500
         }
     ]
 }
