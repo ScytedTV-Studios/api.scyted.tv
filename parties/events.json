@@ -78,13 +78,6 @@
         },
         {
             "id": "event10",
-            "name": "Very Important People: Last Looks [2x04]",
-            "epoch": 1734719400,
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event11",
             "name": "Very Important People [2x05]",
             "epoch": 1735862580,
             "color": "#FEEA3B",
@@ -92,14 +85,14 @@
             "endEpoch": 1735866180
         },
         {
-            "id": "event12",
+            "id": "event11",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event13",
+            "id": "event12",
             "name": "Very Important People [2x06]",
             "epoch": 1737072180,
             "color": "#FEEA3B",
@@ -107,14 +100,14 @@
             "endEpoch": 1737075780
         },
         {
-            "id": "event14",
+            "id": "event13",
             "name": "Very Important People: Last Looks [2x06]",
             "epoch": 1737138600,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event15",
+            "id": "event14",
             "name": "Very Important People [2x07]",
             "epoch": 1738281780,
             "color": "#FEEA3B",
@@ -122,14 +115,14 @@
             "endEpoch": 1738285380
         },
         {
-            "id": "event16",
+            "id": "event15",
             "name": "Very Important People: Last Looks [2x07]",
             "epoch": 1738348200,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event17",
+            "id": "event16",
             "name": "Very Important People [2x08]",
             "epoch": 1739491380,
             "color": "#FEEA3B",
@@ -137,14 +130,14 @@
             "endEpoch": 1739494980
         },
         {
-            "id": "event18",
+            "id": "event17",
             "name": "Very Important People: Last Looks [2x08]",
             "epoch": 1739557800,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event19",
+            "id": "event18",
             "name": "Very Important People [2x09]",
             "epoch": 1740700980,
             "color": "#FEEA3B",
@@ -152,14 +145,14 @@
             "endEpoch": 1740704580
         },
         {
-            "id": "event20",
+            "id": "event19",
             "name": "Very Important People: Last Looks [2x09]",
             "epoch": 1740767400,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event21",
+            "id": "event20",
             "name": "Very Important People [2x10]",
             "epoch": 1741906980,
             "color": "#FEEA3B",
@@ -167,14 +160,14 @@
             "endEpoch": 1741910580
         },
         {
-            "id": "event22",
+            "id": "event21",
             "name": "Very Important People: Last Looks [2x10]",
             "epoch": 1741973400,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event23",
+            "id": "event22",
             "name": "Very Important People [2x11]",
             "epoch": 1743116580,
             "color": "#FEEA3B",
@@ -182,14 +175,14 @@
             "endEpoch": 1743120180
         },
         {
-            "id": "event24",
+            "id": "event23",
             "name": "Very Important People: Last Looks [2x11]",
             "epoch": 1743183000,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event25",
+            "id": "event24",
             "name": "Very Important People [2x12]",
             "epoch": 1744326180,
             "color": "#FEEA3B",
@@ -197,14 +190,14 @@
             "endEpoch": 1744329780
         },
         {
-            "id": "event26",
+            "id": "event25",
             "name": "Very Important People: Last Looks [2x12]",
             "epoch": 1744392600,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event27",
+            "id": "event26",
             "name": "Very Important People [2x13]",
             "epoch": 1745535780,
             "color": "#FEEA3B",
@@ -212,14 +205,14 @@
             "endEpoch": 1745539380
         },
         {
-            "id": "event28",
+            "id": "event27",
             "name": "Very Important People: Last Looks [2x13]",
             "epoch": 1745602200,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event29",
+            "id": "event28",
             "name": "Very Important People [2x14]",
             "epoch": 1746745380,
             "color": "#FEEA3B",
@@ -227,14 +220,14 @@
             "endEpoch": 1746748980
         },
         {
-            "id": "event30",
+            "id": "event29",
             "name": "Very Important People: Last Looks [2x14]",
             "epoch": 1746811800,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event31",
+            "id": "event30",
             "name": "Very Important People [2x15]",
             "epoch": 1747954980,
             "color": "#FEEA3B",
@@ -242,14 +235,14 @@
             "endEpoch": 1747958580
         },
         {
-            "id": "event32",
+            "id": "event31",
             "name": "Very Important People: Last Looks [2x15]",
             "epoch": 1748021400,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event33",
+            "id": "event32",
             "name": "Very Important People [2x16]",
             "epoch": 1749164580,
             "color": "#FEEA3B",
@@ -257,14 +250,14 @@
             "endEpoch": 1749168180
         },
         {
-            "id": "event34",
+            "id": "event33",
             "name": "Very Important People: Last Looks [2x16]",
             "epoch": 1749231000,
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
-            "id": "event35",
+            "id": "event34",
             "name": "Gastronauts [1x06]",
             "epoch": 1734739380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
@@ -274,7 +267,7 @@
             "endEpoch": 1734742980
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Dirty Laundry: Cocktail Recipes [4x09]",
             "epoch": 1733855400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -284,7 +277,7 @@
             "endEpoch": 1733855700
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Dirty Laundry [4x10]",
             "epoch": 1734480000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -293,7 +286,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -302,7 +295,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Nobody Asked [1x02]",
             "epoch": 1734134580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -310,7 +303,7 @@
             "endEpoch": 1734138180
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Nobody Asked [1x03]",
             "epoch": 1735344180,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -318,7 +311,7 @@
             "endEpoch": 1735347780
         },
         {
-            "id": "event41",
+            "id": "event40",
             "name": "Nobody Asked [1x05]",
             "epoch": 1736553780,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -326,12 +319,21 @@
             "endEpoch": 1736557380
         },
         {
-            "id": "event42",
+            "id": "event41",
             "name": "Nobody Asked [1x06]",
             "epoch": 1737763380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "endEpoch": 1737766980
+        },
+        {
+            "id": "event42",
+            "name": "Very Important People: Last Looks [2x04]",
+            "epoch": 1734719400,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
         }
     ]
 }
