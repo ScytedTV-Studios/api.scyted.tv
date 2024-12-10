@@ -334,6 +334,12 @@
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
+        },
+        {
+            "id": "event43",
+            "name": "Dimension 20 [23xBTS]",
+            "epoch": 1733941800,
+            "endEpoch": 1733942100
         }
     ]
 }
