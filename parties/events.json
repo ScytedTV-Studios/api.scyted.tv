@@ -346,12 +346,6 @@
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
-        },
-        {
-            "id": "event45",
-            "name": "TEST (Please Ignore)",
-            "epoch": 1733794800,
-            "endEpoch": 1733794980
         }
     ]
 }
