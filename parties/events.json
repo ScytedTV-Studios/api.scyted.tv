@@ -321,6 +321,14 @@
             "epoch": 1734633000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
+        },
+        {
+            "id": "event42",
+            "name": "Nobody Asked [1x02]",
+            "epoch": 1734048180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1734051780
         }
     ]
 }
