@@ -258,15 +258,6 @@
         },
         {
             "id": "event34",
-            "name": "Dirty Laundry [4x10]",
-            "epoch": 1734480000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event35",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -275,7 +266,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Nobody Asked [1x03]",
             "epoch": 1735344180,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -283,7 +274,7 @@
             "endEpoch": 1735347780
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Nobody Asked [1x05]",
             "epoch": 1736553780,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -291,7 +282,7 @@
             "endEpoch": 1736557380
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Nobody Asked [1x06]",
             "epoch": 1737763380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -299,7 +290,7 @@
             "endEpoch": 1737766980
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Very Important People: Last Looks [2x04]",
             "epoch": 1734719400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -308,19 +299,24 @@
             "studio": "Dropout"
         },
         {
-            "id": "event40",
-            "name": "Dimension 20: Time Quangle [1x04]",
-            "epoch": 1734633000,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20-time-quangle.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
-        },
-        {
-            "id": "event41",
+            "id": "event39",
             "name": "Nobody Asked [1x02]",
             "epoch": 1734134580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "endEpoch": 1734138180
+        },
+        {
+            "id": "event40",
+            "name": "Dirty Laundry [4x10]",
+            "epoch": 1734480000,
+            "endEpoch": 1734480300
+        },
+        {
+            "id": "event41",
+            "name": "Dimension 20: Time Quangle [1x04]",
+            "epoch": 1734633000,
+            "endEpoch": 1734633300
         }
     ]
 }
