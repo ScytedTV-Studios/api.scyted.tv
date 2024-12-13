@@ -291,15 +291,6 @@
         },
         {
             "id": "event38",
-            "name": "Very Important People: Last Looks [2x04]",
-            "epoch": 1734719400,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event39",
             "name": "Nobody Asked [1x02]",
             "epoch": 1734134580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -307,16 +298,22 @@
             "endEpoch": 1734138180
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Dirty Laundry [4x10]",
             "epoch": 1734480000,
             "endEpoch": 1734480300
         },
         {
-            "id": "event41",
+            "id": "event40",
             "name": "Dimension 20: Time Quangle [1x04]",
             "epoch": 1734633000,
             "endEpoch": 1734633300
+        },
+        {
+            "id": "event41",
+            "name": "Very Important People: Last Looks [2x04]",
+            "epoch": 1734719400,
+            "endEpoch": 1734719700
         }
     ]
 }
