@@ -318,6 +318,13 @@
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
+        },
+        {
+            "id": "event41",
+            "name": "Dirty Laundry: Cocktail Recipes [4x11]",
+            "epoch": 1736274600,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         }
     ]
 }
