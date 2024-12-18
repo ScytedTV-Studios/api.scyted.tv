@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>404 - Not Found</title>
+    <style>
+        body {
+            font-family: monospace;
+            background-color: #eee;
+            color: #333;
+            padding: 2em;
+        }
+        pre {
+            background: #eee;
+            padding: 1em;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>404 - Not Found</h1>
+    <pre id="json-output"></pre>
+    <script>
+        const jsonMessage = {
+            "error": "Page Not Found",
+            "status": 404,
+            "message": "The requested page does not exist."
+        };
+        document.getElementById('json-output').textContent = JSON.stringify(jsonMessage, null, 2);
+    </script>
+</body>
+</html>
 <script src="https://scytedtvstudios.statuspage.io/embed/script.js"></script>
