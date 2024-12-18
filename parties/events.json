@@ -282,25 +282,19 @@
         },
         {
             "id": "event37",
-            "name": "Dirty Laundry [4x10]",
-            "epoch": 1734480000,
-            "endEpoch": 1734480300
-        },
-        {
-            "id": "event38",
             "name": "Dimension 20: Time Quangle [1x04]",
             "epoch": 1734633000,
             "endEpoch": 1734633300
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Very Important People: Last Looks [2x04]",
             "epoch": 1734719400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
             "endEpoch": 1734719700
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "endEpoch": 1735065300
