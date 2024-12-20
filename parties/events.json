@@ -249,16 +249,6 @@
         },
         {
             "id": "event33",
-            "name": "Very Important People [2x04]",
-            "epoch": 1734652980,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1734656580
-        },
-        {
-            "id": "event34",
             "name": "Very Important People: Last Looks [2x04]",
             "epoch": 1734719400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -267,7 +257,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event35",
+            "id": "event34",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -276,7 +266,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Very Important People [2x05]",
             "epoch": 1735862580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -286,7 +276,7 @@
             "endEpoch": 1735866180
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Make Some Noise [3x14]",
             "epoch": 1734998580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -296,7 +286,7 @@
             "endEpoch": 1735002180
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Dirty Laundry [4x11]",
             "epoch": 1735689600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -304,7 +294,7 @@
             "endEpoch": 1735689900
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -313,7 +303,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Dirty Laundry: Cocktail Recipes [4x11]",
             "epoch": 1736274600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
