@@ -215,16 +215,6 @@
         },
         {
             "id": "event29",
-            "name": "Gastronauts [1x06]",
-            "epoch": 1734739380,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/gastronauts.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1734742980
-        },
-        {
-            "id": "event30",
             "name": "Nobody Asked [1x03]",
             "epoch": 1735344180,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -232,7 +222,7 @@
             "endEpoch": 1735347780
         },
         {
-            "id": "event31",
+            "id": "event30",
             "name": "Nobody Asked [1x05]",
             "epoch": 1736553780,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -240,7 +230,7 @@
             "endEpoch": 1736557380
         },
         {
-            "id": "event32",
+            "id": "event31",
             "name": "Nobody Asked [1x06]",
             "epoch": 1737763380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/nobody-asked.jpg",
@@ -248,7 +238,7 @@
             "endEpoch": 1737766980
         },
         {
-            "id": "event33",
+            "id": "event32",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -257,7 +247,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event34",
+            "id": "event33",
             "name": "Very Important People [2x05]",
             "epoch": 1735862580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -267,7 +257,7 @@
             "endEpoch": 1735866180
         },
         {
-            "id": "event35",
+            "id": "event34",
             "name": "Make Some Noise [3x14]",
             "epoch": 1734998580,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -277,7 +267,7 @@
             "endEpoch": 1735002180
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Dirty Laundry [4x11]",
             "epoch": 1735689600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -285,7 +275,7 @@
             "endEpoch": 1735689900
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -294,7 +284,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Dirty Laundry: Cocktail Recipes [4x11]",
             "epoch": 1736274600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
