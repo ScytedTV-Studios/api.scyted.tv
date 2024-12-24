@@ -258,16 +258,6 @@
         },
         {
             "id": "event34",
-            "name": "Make Some Noise [3x14]",
-            "epoch": 1734998580,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1735002180
-        },
-        {
-            "id": "event35",
             "name": "Dirty Laundry [4x11]",
             "epoch": 1735689600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -275,7 +265,7 @@
             "endEpoch": 1735689900
         },
         {
-            "id": "event36",
+            "id": "event35",
             "name": "Dirty Laundry: Cocktail Recipes [4x10]",
             "epoch": 1735065000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -284,7 +274,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event37",
+            "id": "event36",
             "name": "Dirty Laundry: Cocktail Recipes [4x11]",
             "epoch": 1736274600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
