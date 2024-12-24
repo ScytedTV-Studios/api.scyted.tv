@@ -274,6 +274,17 @@
         {
             "id": "event36",
             "name": "Dimension 20: Time Quangle [1x05]",
+            "epoch": 1735237800
+        },
+        {
+            "id": "event37",
+            "name": "Dirty Laundry: Cocktail Recipes [4xUnknown]",
+            "epoch": 1735237800,
+            "endEpoch": 1735238100
+        },
+        {
+            "id": "event38",
+            "name": "Dimension 20: Time Quangle [1x06]",
             "epoch": 1735237800,
             "endEpoch": 1735238100
         }
