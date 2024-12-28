@@ -247,15 +247,19 @@
         },
         {
             "id": "event33",
-            "name": "Very Important People: Last Looks [2x06]",
-            "epoch": 1737138600,
+            "name": "Very Important People: Last Looks [2x05]",
+            "epoch": 1735929000,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
         },
         {
             "id": "event34",
-            "name": "Very Important People: Last Looks [2x05]",
-            "epoch": 1735929000,
+            "name": "Very Important People: Last Looks [2x06]",
+            "epoch": 1737138600,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
         }
