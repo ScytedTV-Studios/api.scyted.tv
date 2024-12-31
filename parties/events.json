@@ -224,13 +224,6 @@
         },
         {
             "id": "event30",
-            "name": "Dirty Laundry: Cocktail Recipes [4x11]",
-            "epoch": 1736274600,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
-        },
-        {
-            "id": "event31",
             "name": "Very Important People [2x05]",
             "epoch": 1735862580,
             "color": "#FEEA3B",
@@ -238,7 +231,7 @@
             "endEpoch": 1735866180
         },
         {
-            "id": "event32",
+            "id": "event31",
             "name": "Very Important People: Last Looks [2x05]",
             "epoch": 1735929000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -247,7 +240,7 @@
             "studio": "Dropout"
         },
         {
-            "id": "event33",
+            "id": "event32",
             "name": "Very Important People: Last Looks [2x06]",
             "epoch": 1737138600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/very-important-people.jpg",
@@ -256,12 +249,18 @@
             "studio": "Dropout"
         },
         {
-            "id": "event34",
+            "id": "event33",
             "name": "Make Some Noise [3x15]",
             "epoch": 1736208180,
             "color": "#FEEA3B",
             "studio": "Dropout",
             "endEpoch": 1736211780
+        },
+        {
+            "id": "event34",
+            "name": "Dirty Laundry: Cocktail Recipes [4x11]",
+            "epoch": 1736274600,
+            "endEpoch": 1736274900
         }
     ]
 }
