@@ -234,17 +234,19 @@
         },
         {
             "id": "event31",
-            "name": "Make Some Noise [3x15]",
-            "epoch": 1736208180,
-            "color": "#FEEA3B",
-            "studio": "Dropout",
-            "endEpoch": 1736211780
-        },
-        {
-            "id": "event32",
             "name": "Dirty Laundry: Cocktail Recipes [4x11]",
             "epoch": 1736274600,
             "endEpoch": 1736274900
+        },
+        {
+            "id": "event32",
+            "name": "Make Some Noise [3x15]",
+            "epoch": 1736208180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/make-some-noise.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout",
+            "endEpoch": 1736211780
         }
     ]
 }
