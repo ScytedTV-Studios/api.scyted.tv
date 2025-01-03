@@ -306,6 +306,46 @@
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
             "color": "#FEEA3B",
             "studio": "Dropout"
+        },
+        {
+            "id": "event34",
+            "name": "Dimension 20 [24x02]",
+            "epoch": 1736985780,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1737000180
+        },
+        {
+            "id": "event35",
+            "name": "Dimension 20 [24x03]",
+            "epoch": 1737590580,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1737604980
+        },
+        {
+            "id": "event36",
+            "name": "Dimension 20 [24x04]",
+            "epoch": 1738195380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1738209780
+        },
+        {
+            "id": "event37",
+            "name": "Dimension 20 [24x05]",
+            "epoch": 1738800180,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1738814580
+        },
+        {
+            "id": "event38",
+            "name": "Dimension 20 [24x06]",
+            "epoch": 1739404980,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dimension-20.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1739419380
         }
     ]
 }
