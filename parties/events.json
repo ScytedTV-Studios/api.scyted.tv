@@ -338,7 +338,26 @@
         {
             "id": "event37",
             "name": "Dirty Laundry: Cocktail Recipes [4x11]",
-            "epoch": 1736274600
+            "epoch": 1736274600,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
+        },
+        {
+            "id": "event38",
+            "name": "Dirty Laundry [4x12]",
+            "epoch": 1736899380,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "endEpoch": 1736902980
+        },
+        {
+            "id": "event39",
+            "name": "Dirty Laundry: Cocktail Recipes [4x12]",
+            "epoch": 1737484200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         }
     ]
 }
