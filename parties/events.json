@@ -408,6 +408,12 @@
             "epoch": 1739471400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
+        },
+        {
+            "id": "event47",
+            "name": "Um, Actually [10xTrailer]",
+            "epoch": 1736274600,
+            "endEpoch": 1736274900
         }
     ]
 }
