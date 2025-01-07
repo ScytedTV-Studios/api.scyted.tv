@@ -327,15 +327,6 @@
         },
         {
             "id": "event36",
-            "name": "Dirty Laundry: Cocktail Recipes [4x11]",
-            "epoch": 1736274600,
-            "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
-            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
-            "color": "#FEEA3B",
-            "studio": "Dropout"
-        },
-        {
-            "id": "event37",
             "name": "Dirty Laundry [4x12]",
             "epoch": 1736899380,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
@@ -343,14 +334,14 @@
             "endEpoch": 1736902980
         },
         {
-            "id": "event38",
+            "id": "event37",
             "name": "Dirty Laundry: Cocktail Recipes [4x12]",
             "epoch": 1737484200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/dirty-laundry.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event39",
+            "id": "event38",
             "name": "Adventuring Party [19x01]",
             "epoch": 1736447400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
@@ -359,48 +350,48 @@
             "studio": "Dropout"
         },
         {
-            "id": "event40",
+            "id": "event39",
             "name": "Adventuring Party [19x02]",
             "epoch": 1737052200,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event41",
+            "id": "event40",
             "name": "Adventuring Party [19x01]",
             "epoch": 1736447400,
             "endEpoch": 1736447700
         },
         {
-            "id": "event42",
+            "id": "event41",
             "name": "Adventuring Party [19x03]",
             "epoch": 1737657000,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event43",
+            "id": "event42",
             "name": "Adventuring Party [19x04]",
             "epoch": 1738261800,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event44",
+            "id": "event43",
             "name": "Adventuring Party [19x05]",
             "epoch": 1738866600,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event45",
+            "id": "event44",
             "name": "Adventuring Party [19x06]",
             "epoch": 1739471400,
             "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
             "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png"
         },
         {
-            "id": "event46",
+            "id": "event45",
             "name": "Um, Actually [10xTrailer]",
             "epoch": 1736274600,
             "endEpoch": 1736274900
