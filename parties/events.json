@@ -361,7 +361,11 @@
         {
             "id": "event41",
             "name": "Adventuring Party [19x02]",
-            "epoch": 1737052200
+            "epoch": 1737052200,
+            "cover": "https://cdn.scyted.tv/dropout/event-banner/adventuring-party.jpg",
+            "logo": "https://cdn.scyted.tv/website-assets/company-logos/dropout.png",
+            "color": "#FEEA3B",
+            "studio": "Dropout"
         }
     ]
 }
